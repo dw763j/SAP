@@ -1,5 +1,5 @@
 import os
-
+from loguru import logger
 from sap.extractor import run_extract
 
 from sap.compliance_evaluator import run_compliance_evaluator
@@ -20,6 +20,7 @@ def get_project_root():
 if __name__ == '__main__':
     project_root = get_project_root()
     print(f"Project root: {project_root}")
+    logger.add(f"{project_root}/test-run.log")
     test_sbom_files = os.path.join(project_root, 'test-sbom-files')
     test_sbom_output = os.path.join(project_root, 'test-sbom-results')
     test_sbom_reponames = os.path.join(project_root, 'test-sbom-reponames.txt')
@@ -51,3 +52,9 @@ if __name__ == '__main__':
     run_accuracy_analyzer(accuracy_dir, test_sbom_final_results)
 
     print(f"\n\n ============================================\n\nSAP analysis for test-sboms done, all the results are located at {test_sbom_final_results}.")
+
+    print(f"Extracted filelist: {extracted_filelist}")
+    print(f"Extracted directory: {extracted_dir}")
+    print(f"Compliance directory: {compliance_dir}")
+    print(f"Consistency directory: {consistency_dir}")
+    print(f"Accuracy directory: {accuracy_dir}")

@@ -619,9 +619,9 @@ def write_row2csv(filename: str, data: list) -> None:
 def run_consistency_evaluator(standard, result_path, filepath, repo_names, version_threshold=0.8, purl_threshold=0.8, match_mode="triple", triple_score_threshold=2.4):
     tools_spdx = ['syft', 'gh-sbom', 'ort', 'sbom-tool']
     tools_cdx = ['syft', 'gh-sbom', 'ort', 'scancode', 'cdxgen']
-    # filepath = '/mnt/sbom-final-codes/results/field_extraction/'
-    # filepath = '/mnt/sbom-final-codes/add_results/field_extraction/'
-    # filepath = '/mnt/three-lans/parse_results/field_extraction-python/'
+    # filepath = '/mnt/sbom-final-codes/results/field_extraction'
+    # filepath = '/mnt/sbom-final-codes/add_results/field_extraction'
+    # filepath = '/mnt/three-lans/parse_results/field_extraction-python'
     special = f'{result_path}/{standard}-special-consistency.csv'
     with open(special, 'w', newline='') as fd:
         writer = csv.writer(fd)
@@ -664,10 +664,10 @@ def run_consistency_evaluator(standard, result_path, filepath, repo_names, versi
             line = line.strip()
             for i in range(len(tools)):
                 tool1 = tools[i]
-                filepath1 = f'{filepath}{standard}#{tool1}#{line}.json'
+                filepath1 = f'{filepath}/{standard}#{tool1}#{line}.json'
                 for j in range(i+1, len(tools)):
                     tool2 = tools[j]
-                    filepath2 = f'{filepath}{standard}#{tool2}#{line}.json'
+                    filepath2 = f'{filepath}/{standard}#{tool2}#{line}.json'
                     results = compare_files(filepath1, filepath2, standard, result_path, version_threshold, purl_threshold, match_mode, triple_score_threshold)
                     if results is not None:
                         if standard == 'cdx':
@@ -700,7 +700,7 @@ if __name__ == '__main__':
         if not os.path.exists(path_result):
             os.makedirs(path_result)
         logger.add(f"/mnt/sbom-measure/reproduce/parse_sboms_logs/package_consistency_version_purl_set_{match_mode}_{triple_score_threshold}_allfix-{lan}.log")
-        filepath = f'/mnt/sbom-measure/reproduce/parse_results/field_extraction-{lan}/'
+        filepath = f'/mnt/sbom-measure/reproduce/parse_results/field_extraction-{lan}'
         repo_names = f'/mnt/sbom-measure/metadata-files/{lan}-names.txt'
         logger.info(f'path_result: {path_result}, filepath: {filepath}, repo_names: {repo_names}')
         run_consistency_evaluator('cdx', path_result, filepath, repo_names, match_mode=match_mode, triple_score_threshold=triple_score_threshold)

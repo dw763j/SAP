@@ -1,4 +1,4 @@
-# SAP: A Large Scale Empirical Analysis on the Adherence Gap between Standards and Tools in SBO
+# SAP: A Large Scale Empirical Analysis on the Adherence Gap between Standards and Tools in SBOM
 
 🌟 News: Our paper has been accepted by the ACM Transactions on Software Engineering and Methodology (TOSEM)!
 

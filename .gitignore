@@ -5,3 +5,4 @@ test-sbom-results/*
 *.pyc
 .venv/
 cloned_repos/*
+*.log

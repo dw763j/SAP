@@ -1,0 +1,548 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "spdxVersion": "SPDX-2.2",
+    "creationInfo": {
+        "created": "2024-10-24T23:44:24Z",
+        "creators": [
+            "Tool: ort-36.0.0-018.sha.e5c6e0c"
+        ],
+        "licenseListVersion": "3.25.0"
+    },
+    "name": "Unnamed document",
+    "dataLicense": "CC0-1.0",
+    "documentNamespace": "spdx://9d36c034-181e-4082-9d07-3b44aae7c69c",
+    "documentDescribes": [
+        "SPDXRef-Project-PIP-shippabledocs-requirements-00911a75ad6635834b6d28eef41f197b2f73c381",
+        "SPDXRef-Project-PIP-system.setup.py",
+        "SPDXRef-Project-Unmanaged-ansible-modules-core-00911a75ad6635834b6d28eef41f197b2f73c381"
+    ],
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Project-PIP-shippabledocs-requirements-00911a75ad6635834b6d28eef41f197b2f73c381",
+            "copyrightText": "NONE",
+            "downloadLocation": "NONE",
+            "filesAnalyzed": false,
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "name": "shippabledocs-requirements",
+            "summary": "NONE",
+            "versionInfo": "00911a75ad6635834b6d28eef41f197b2f73c381"
+        },
+        {
+            "SPDXID": "SPDXRef-Project-PIP-system.setup.py",
+            "copyrightText": "(c) 2012 Brad Olson <brado@movedbylight.com>\n(c) 2012 Dane Summers <dsummers@pinedesk.biz>\n(c) 2012 David\n(c) 2012 Derek Carter <goozbach@friocorte.com>\n(c) 2012 Michael DeHaan <michael.dehaan@gmail.com>\n(c) 2012 Stephen Fromm <sfromm@gmail.com>\n(c) 2013 Hiroaki Nakamura <hnakamur@gmail.com>\n(c) 2013 Mike Grozak <mike.grozak@gmail.com>\n(c) 2013 Patrick Callahan <pmc@patrickcallahan.com>\n(c) 2014 James Tanner <tanner.jc@gmail.com>\n(c) 2015 Evan Kaufman <evan@digitalflophouse.com>\n(c) 2015 Luca Berruti <nadirio@gmail.com>\n(c) 2016 Brian Coca <bcoca@ansible.com>\n(c) 2016 Toshio Kuratomi <tkuratomi@ansible.com>",
+            "downloadLocation": "NONE",
+            "filesAnalyzed": false,
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "name": "system/setup.py",
+            "summary": "NONE"
+        },
+        {
+            "SPDXID": "SPDXRef-Project-Unmanaged-ansible-modules-core-00911a75ad6635834b6d28eef41f197b2f73c381",
+            "copyrightText": "(c) 2012 Brad Olson <brado@movedbylight.com>\n(c) 2012 Dane Summers <dsummers@pinedesk.biz>\n(c) 2012 Daniel Hokka Zakrisson <daniel@hozac.com>\n(c) 2012 David\n(c) 2012 Derek Carter <goozbach@friocorte.com>\n(c) 2012 Flowroute LLC\n(c) 2012 Jan-Piet Mens\n(c) 2012 Jayson Vantuyl <jayson@aggressive.ly>\n(c) 2012 Jeroen Hoekx <jeroen@hoekx.be>\n(c) 2012 Mark Theunissen <mark.theunissen@gmail.com>\n(c) 2012 Matt Wright <matt@nobien.net>\n(c) 2012 Michael DeHaan <michael.dehaan@gmail.com>\n(c) 2012 Michael DeHaan <michael.dehaan@gmail.com> , and others\n(c) 2012 Red Hat, Inc\n(c) 2012 Stephen Fromm <sfromm@gmail.com>\n(c) 2012-2013 Timothy Appnel <tim@appnel.com>\n(c) 2013 Alexander Saltanov <asd@mokote.com>\n(c) 2013 Balazs Pocze <banyek@gawker.com>\n(c) 2013 Benno Joy <benno@ansible.com>\n(c) 2013 Cove Schneider\n(c) 2013 Dylan Martin <dmartin@seattlecentral.edu>\n(c) 2013 Evgenii Terechkov\n(c) 2013 Hector Acosta <hector.acosta@gazzang.com>\n(c) 2013 Hiroaki Nakamura <hnakamur@gmail.com>\n(c) 2013 James Cammarata <jcammarata@ansible.com>\n(c) 2013 Johan Wiren <johan.wiren.se@gmail.com>\n(c) 2013 John Dewey <john@dewey.ws>\n(c) 2013 Mike Grozak <mike.grozak@gmail.com>\n(c) 2013 Nimbis Services\n(c) 2013 Nimbis Services, Inc.\n(c) 2013 Patrick Callahan <pmc@patrickcallahan.com>\n(c) 2013 Paul Durivage <paul.durivage@rackspace.com>\n(c) 2013 Romeo Theriault\n(c) 2013 Scott Anderson <scottanderson42@gmail.com>\n(c) 2013 Yeukhon Wong <yeukhon@acm.org>\n(c) 2013, 2015 Evan Kaufman <evan@digitalflophouse.com>\n(c) 2013-2014 Christian Berendt <berendt@b1-systems.de>\n(c) 2014 Ahti Kitsik <ak@ahtik.com>\n(c) 2014 Chris Hoffman <choffman@chathamfinancial.com>\n(c) 2014 Epic Games, Inc.\n(c) 2014 James Tanner <tanner.jc@gmail.com>\n(c) 2014 Joshua Conner <joshua.conner@gmail.com>\n(c) 2014 Matt Martz <matt@sivel.net> , and others\n(c) 2014 Nate Coraor <nate@bx.psu.edu>\n(c) 2014 Paul Durivage <paul.durivage@rackspace.com> , Trond Hindenes <trond@hindenes.com> and others\n(c) 2014 Paul Durivage <paul.durivage@rackspace.com> , and others\n(c) 2014 Pavel Antonov <antonov@adwz.ru>\n(c) 2014 Ruggero Marchei <ruggero.marchei@daemonzone.net>\n(c) 2014 Rutger Spiertz <rutger@kumina.nl>\n(c) 2014-2015 Hewlett-Packard Development Company, L.P.\n(c) 2015 Ales Nosek\n(c) 2015 Jon Hawkesworth (@jhawkesworth) <figs@unity.demon.co.uk>\n(c) 2015 Luca Berruti <nadirio@gmail.com>\n(c) 2015 Paul Durivage <paul.durivage@rackspace.com> , Tal Auslander <tal@cloudshare.com>\n(c) 2015 Peter Sprygada, <psprygada@ansible.com>\n(c) 2015-2016 Ansible, inc\n(c) 2015-2016 Brian Coca <bcoca@ansible.com>\n(c) 2015-2016 Toshio Kuratomi <tkuratomi@ansible.com>\n(c) 2016 Ansible, a Red Hat company\n(c) 2016 Cumulus Networks <ce-ceng@cumulusnetworks.com>\n(c) 2016 Dag Wieers <dag@wieers.com>\n(c) 2016 Olaf Kilian <olaf.kilian@symanex.com> Chris Houseknecht, <house@redhat.com> James Tanner, <jtanner@redhat.com>\n(c) James Laska\n(c) Vincent Van de Kussen\nCopyright (c) 2013 Benno Joy <benno@ansible.com>\nCopyright (c) 2013 John Dewey <john@dewey.ws>\nCopyright (c) 2014-2015 Hewlett-Packard Development Company, L.P.\nCopyright (c) 2015 Jesse Keating <jlk@derpops.bike>\nCopyright (c) 2016 Dell Inc.\nCopyright (c) 2016 Matt Davis\nCopyright (c) 2016 Matt Davis, <mdavis@ansible.com> Chris Houseknecht, <house@redhat.com>\nCopyright 2012-2013 Dag Wieers <dag@wieers.com>\nCopyright 2013, 2016 Google Inc.\nCopyright 2014 Chris Hoffman <choffman@chathamfinancial.com>\nCopyright 2014 Paul Durivage <paul.durivage@rackspace.com>\nCopyright 2016 Red Hat Ansible",
+            "downloadLocation": "NONE",
+            "filesAnalyzed": false,
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "name": "ansible-modules-core",
+            "summary": "NONE",
+            "versionInfo": "00911a75ad6635834b6d28eef41f197b2f73c381"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-jinja2-3.1.4",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bc5dd2abb727a5319567b7a813e6a2e7318c39f4f487cfe6c89c6f9c7d25197d"
+                }
+            ],
+            "copyrightText": "(c) Copyright 2008 by http://domain.invalid/>\nCopyright 2007 Pallets\ncopyright 2007 Pallets",
+            "downloadLocation": "https://files.pythonhosted.org/packages/31/80/3a54838c3fb461f6fec263ebf3a3a41771bd05190238de3486aae8540c36/jinja2-3.1.4-py3-none-any.whl",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/jinja2@3.1.4"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "name": "jinja2",
+            "summary": "A very fast and expressive template engine.",
+            "versionInfo": "3.1.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-jinja2-3.1.4-vcs",
+            "copyrightText": "(c) Copyright 2008 by http://domain.invalid/>\nCopyright 2007 Pallets\ncopyright 2007 Pallets",
+            "downloadLocation": "git+https://github.com/pallets/jinja.git@dd4a8b5466d8790540c181590b14db4d4d889d57",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/jinja2@3.1.4"
+                }
+            ],
+            "filesAnalyzed": true,
+            "hasFiles": [
+                "SPDXRef-File-1",
+                "SPDXRef-File-2",
+                "SPDXRef-File-3",
+                "SPDXRef-File-4",
+                "SPDXRef-File-5"
+            ],
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "licenseInfoFromFiles": [
+                "BSD-3-Clause",
+                "NOASSERTION"
+            ],
+            "name": "jinja2",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "3152e60ef6944dfd743c655f2c9e5d0c05a819a0"
+            },
+            "summary": "A very fast and expressive template engine.",
+            "versionInfo": "3.1.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-jinja2-3.1.4-source-artifact",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4a3aee7acbbe7303aede8e9648d13b8bf88a429282aa6122a993f0ac800cb369"
+                }
+            ],
+            "copyrightText": "(c) Copyright 2008 by http://domain.invalid/>\nCopyright 2007 Pallets\ncopyright 2007 Pallets",
+            "downloadLocation": "https://files.pythonhosted.org/packages/ed/55/39036716d19cab0747a5020fc7e907f362fbf48c984b14e62127f7e68e5d/jinja2-3.1.4.tar.gz",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/jinja2@3.1.4"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "name": "jinja2",
+            "summary": "A very fast and expressive template engine.",
+            "versionInfo": "3.1.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-markupsafe-3.0.2",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a123e330ef0853c6e822384873bef7507557d8e4a082961e1defa947aa59ba84"
+                }
+            ],
+            "copyrightText": "Copyright 2010 Pallets\ncopyright 2010 Pallets",
+            "downloadLocation": "https://files.pythonhosted.org/packages/f1/a4/aefb044a2cd8d7334c8a47d3fb2c9f328ac48cb349468cc31c20b539305f/MarkupSafe-3.0.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/markupsafe@3.0.2"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "name": "markupsafe",
+            "summary": "Safely add untrusted strings to HTML/XML markup.",
+            "versionInfo": "3.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-markupsafe-3.0.2-vcs",
+            "copyrightText": "Copyright 2010 Pallets\ncopyright 2010 Pallets",
+            "downloadLocation": "git+https://github.com/pallets/markupsafe.git@28ace20b140d15c083e1cbc163ee6b7778ba098c",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/markupsafe@3.0.2"
+                }
+            ],
+            "filesAnalyzed": true,
+            "hasFiles": [
+                "SPDXRef-File-6",
+                "SPDXRef-File-7",
+                "SPDXRef-File-8",
+                "SPDXRef-File-9"
+            ],
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "licenseInfoFromFiles": [
+                "BSD-3-Clause",
+                "NOASSERTION"
+            ],
+            "name": "markupsafe",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "b381fc4d9bc148958c2bb455f7042237babd29c3"
+            },
+            "summary": "Safely add untrusted strings to HTML/XML markup.",
+            "versionInfo": "3.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-markupsafe-3.0.2-source-artifact",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ee55d3edf80167e48ea11a923c7386f4669df67d7994554387f84e7d8b0a2bf0"
+                }
+            ],
+            "copyrightText": "Copyright 2010 Pallets\ncopyright 2010 Pallets",
+            "downloadLocation": "https://files.pythonhosted.org/packages/b2/97/5d42485e71dfc078108a86d6de8fa46db44a1a9295e89c5d6d4a06e23a62/markupsafe-3.0.2.tar.gz",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/markupsafe@3.0.2"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "name": "markupsafe",
+            "summary": "Safely add untrusted strings to HTML/XML markup.",
+            "versionInfo": "3.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-pyyaml-6.0.2",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3ad2a3decf9aaba3d29c8f537ac4b243e36bef957511b4766cb0057d32b0be85"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2006-2016 Kirill Simonov\nCopyright (c) 2006-2016 Kirill Simonov <xi@resolvent.net>\nCopyright (c) 2017-2021 Ingy",
+            "downloadLocation": "https://files.pythonhosted.org/packages/75/e4/2c27590dfc9992f73aabbeb9241ae20220bd9452df27483b6e56d3975cc5/PyYAML-6.0.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/pyyaml@6.0.2"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pyyaml.org/",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "pyyaml",
+            "summary": "YAML parser and emitter for Python",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-pyyaml-6.0.2-vcs",
+            "copyrightText": "Copyright (c) 2006-2016 Kirill Simonov\nCopyright (c) 2006-2016 Kirill Simonov <xi@resolvent.net>\nCopyright (c) 2017-2021 Ingy",
+            "downloadLocation": "git+https://github.com/yaml/pyyaml.git@41309b0bcb4559edb1d691d47199035ef539d785",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/pyyaml@6.0.2"
+                }
+            ],
+            "filesAnalyzed": true,
+            "hasFiles": [
+                "SPDXRef-File-10",
+                "SPDXRef-File-11",
+                "SPDXRef-File-12",
+                "SPDXRef-File-13"
+            ],
+            "homepage": "https://pyyaml.org/",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "MIT",
+            "licenseInfoFromFiles": [
+                "MIT"
+            ],
+            "name": "pyyaml",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "7ba9fdc85eea499f88f97e5cdadbf3a58e18a697"
+            },
+            "summary": "YAML parser and emitter for Python",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-pyyaml-6.0.2-source-artifact",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d584d9ec91ad65861cc08d42e834324ef890a082e591037abe114850ff7bbc3e"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2006-2016 Kirill Simonov\nCopyright (c) 2006-2016 Kirill Simonov <xi@resolvent.net>\nCopyright (c) 2017-2021 Ingy",
+            "downloadLocation": "https://files.pythonhosted.org/packages/54/ed/79a089b6be93607fa5cdaedf301d7dfb23af5f25c398d5ead2525b063e17/pyyaml-6.0.2.tar.gz",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/pyyaml@6.0.2"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pyyaml.org/",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "pyyaml",
+            "summary": "YAML parser and emitter for Python",
+            "versionInfo": "6.0.2"
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-File-1",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c4dbdbc12926d4d52c9156e690640f372615c234"
+                }
+            ],
+            "copyrightText": "Copyright 2007 Pallets",
+            "fileName": "LICENSE.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-2",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "31522aea93446c24f7b2bd0b85393e48094739d2"
+                }
+            ],
+            "copyrightText": "copyright 2007 Pallets",
+            "fileName": "docs/conf.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NONE"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-3",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "82029a4f059e2a2152d407bcd0c210bb9589be01"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "docs/license.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-4",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "59ff4df91e2bd0d3a61e6b22327803b8874d3670"
+                }
+            ],
+            "copyrightText": "(c) Copyright 2008 by http://domain.invalid/>",
+            "fileName": "docs/templates.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NONE"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-5",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d46cb3d7f3d6c490edd87b7448a913456f31bacb"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "pyproject.toml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION",
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-6",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e32a549b135c4b2b268107adc12d13cca2ca1e8c"
+                }
+            ],
+            "copyrightText": "Copyright 2010 Pallets",
+            "fileName": "LICENSE.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-7",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ef222a51b997ff19bc32f8a8aa6114a4b3aa7b9c"
+                }
+            ],
+            "copyrightText": "copyright 2010 Pallets",
+            "fileName": "docs/conf.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NONE"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-8",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da6ba7759d4bc7496295a9df19d5929fe003c925"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "docs/license.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-9",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9bef7d522f98f0ea804530999f300ca77542b685"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "pyproject.toml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION",
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-10",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3b8919c7f020e71fc3e97cfd724f9463bbac1177"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2006-2016 Kirill Simonov\nCopyright (c) 2017-2021 Ingy",
+            "fileName": "LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-11",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6342bc97864231467a3856c10318af66a42bd218"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-12",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1b79aa08de6e5662be009ed2ce4d148ff41732ad"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2006-2016 Kirill Simonov <xi@resolvent.net>\nCopyright (c) 2017-2021 Ingy",
+            "fileName": "announcement.msg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-13",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3e949a6770742aca56d822d04e625eeb3656c7d9"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setup.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-jinja2-3.1.4",
+            "relationshipType": "GENERATED_FROM",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-jinja2-3.1.4-source-artifact"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-jinja2-3.1.4",
+            "relationshipType": "GENERATED_FROM",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-jinja2-3.1.4-vcs"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-jinja2-3.1.4",
+            "relationshipType": "DEPENDS_ON",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-markupsafe-3.0.2"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-markupsafe-3.0.2",
+            "relationshipType": "GENERATED_FROM",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-markupsafe-3.0.2-source-artifact"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-markupsafe-3.0.2",
+            "relationshipType": "GENERATED_FROM",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-markupsafe-3.0.2-vcs"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-pyyaml-6.0.2",
+            "relationshipType": "GENERATED_FROM",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-pyyaml-6.0.2-source-artifact"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-pyyaml-6.0.2",
+            "relationshipType": "GENERATED_FROM",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-pyyaml-6.0.2-vcs"
+        },
+        {
+            "spdxElementId": "SPDXRef-Project-PIP-shippabledocs-requirements-00911a75ad6635834b6d28eef41f197b2f73c381",
+            "relationshipType": "DEPENDS_ON",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-jinja2-3.1.4"
+        },
+        {
+            "spdxElementId": "SPDXRef-Project-PIP-shippabledocs-requirements-00911a75ad6635834b6d28eef41f197b2f73c381",
+            "relationshipType": "DEPENDS_ON",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-pyyaml-6.0.2"
+        }
+    ]
+}

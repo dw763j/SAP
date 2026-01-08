@@ -1,0 +1,29 @@
+{
+    "bom": {
+        "@serialNumber": "urn:uuid:df0c3a79-a1fc-431c-96c3-dc77fc8a7b14",
+        "@version": "1",
+        "@xmlns": "http://cyclonedx.org/schema/bom/1.5",
+        "metadata": {
+            "timestamp": "2024-10-27T00:19:51Z",
+            "tools": {
+                "components": {
+                    "component": {
+                        "@type": "application",
+                        "name": "OSS Review Toolkit",
+                        "version": "36.0.0-018.sha.e5c6e0c"
+                    }
+                }
+            },
+            "licenses": {
+                "expression": "CC0-1.0"
+            }
+        },
+        "externalReferences": {
+            "reference": {
+                "@type": "vcs",
+                "url": "https://github.com/facebookresearch/VMZ.git",
+                "comment": "URL to the Git repository of the projects"
+            }
+        }
+    }
+}

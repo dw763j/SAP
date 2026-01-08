@@ -1,0 +1,1498 @@
+{
+  "files": [
+    {
+      "fileName": "./requirements-dev.txt",
+      "SPDXID": "SPDXRef-File--requirements-dev.txt-ECD43C553E07DC529DEFA2ADD2D8D4C5C6A374AB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b0c4ed8d6e7ceb7f4bca29b631ab9b1a70b4d91a3bcc574de1b8cffa2fa2cc88"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ecd43c553e07dc529defa2add2d8d4c5c6a374ab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Makefile",
+      "SPDXID": "SPDXRef-File--Makefile-710A8919E57C3DE72B885B6ABC5B26A907A34E2C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0eb748a4972a1349a9b39e5636d2e8df685bb63e1ad6cc8ca47a70a260934323"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "710a8919e57c3de72b885b6abc5b26a907a34e2c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./MANIFEST.in",
+      "SPDXID": "SPDXRef-File--MANIFEST.in-921DA71F26511B5205D9DE0F05BD4710E0E459A2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b49c8f50647bd82dcf7970d03f8742af4ffa347da2e812da0c1b53af9e63b983"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "921da71f26511b5205d9de0f05bd4710e0e459a2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AUTHORS.rst",
+      "SPDXID": "SPDXRef-File--AUTHORS.rst-D00F153B45A336AE0BE648058CF842A7A3CF8909",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4b9f10aca1476fe04f4f39173f08ff68ef7531fbb9c88a39f4c2b2f87d8c5caf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d00f153b45a336ae0be648058cf842a7a3cf8909"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-FB7A29AB22742B4F712BEED3EBE641D3DAB03834",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "88dfc752abfecc9cfa1a178f1e0a9c4211973af49d3fa7fd5ba0857e8353e8c3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fb7a29ab22742b4f712beed3ebe641d3dab03834"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/testapp/models.py",
+      "SPDXID": "SPDXRef-File--tests-testapp-models.py-9227619493EEE75C97EB8C7FA09A3EB47D7EB1B0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ca62ac016395a3975376ed0793b688271211ff5f84e57d5375fc33160172639a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9227619493eee75c97eb8c7fa09a3eb47d7eb1b0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-2F567D9C3D3E53CE4126B05105D208B92F97DC6B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3be6708450c02d57072366ac32efc4af1044da4f0713bbda2f2f6677203eb3da"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2f567d9c3d3e53ce4126b05105d208b92f97dc6b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.rst",
+      "SPDXID": "SPDXRef-File--README.rst-BCCFD94763E6FD263D9CB04D1FD4229CDB82019B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2374f8515d259b032c5804fe2855a163b44f47e352f9c729185dda26daedf2cc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bccfd94763e6fd263d9cb04d1fd4229cdb82019b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/testapp/tests/__init__.py",
+      "SPDXID": "SPDXRef-File--tests-testapp-tests---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-352fd28bed499b4c9a6db0280a89bcbc572f4820.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-352fd28bed499b4c9a6db0280a89bcbc572f4820.idx-D2B2F73319DA690AEBBCD290BA084B24295B0BF8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "405b5aab541047fb31f25c4a609fe8db562abb5a18611718805f59ff97e6956e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d2b2f73319da690aebbcd290ba084b24295b0bf8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./redis_cache/serializers.py",
+      "SPDXID": "SPDXRef-File--redis-cache-serializers.py-C2D15A8C6D2538F8E36454245845591FB28DFB3E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5093c8c1d953e2c7639d85c786e54e07e973da98780dbc28bedd246289302542"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c2d15a8c6d2538f8e36454245845591fb28dfb3e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-FB7A29AB22742B4F712BEED3EBE641D3DAB03834",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "88dfc752abfecc9cfa1a178f1e0a9c4211973af49d3fa7fd5ba0857e8353e8c3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fb7a29ab22742b4f712beed3ebe641d3dab03834"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/settings.py",
+      "SPDXID": "SPDXRef-File--tests-settings.py-C1D26842D55A1065F19A7B920A9AC6CE19301CA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3814a4d6b5057ec04b1e4ab7306cc731d6663a775ca33d1d06c1812fccb2839e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c1d26842d55a1065f19a7b920a9ac6ce19301ca4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/views.py",
+      "SPDXID": "SPDXRef-File--tests-views.py-56CFE5F60E7BEE35173C1324EE32945A5C81954A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ef6ce625bc455257b95958b8d136ebea3160d22251abe9064240ee20cb38319d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "56cfe5f60e7bee35173c1324ee32945a5c81954a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/testapp/tests/socket_timeout_tests.py",
+      "SPDXID": "SPDXRef-File--tests-testapp-tests-socket-timeout-tests.py-F5DEBE0BD8AC94D4455E3F89967654B29FD2D564",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8118ff148b21109a040fbe5fd3fb42c4829ffd5a819efac2a1c996da496eff1a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f5debe0bd8ac94d4455e3f89967654b29fd2d564"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/testapp/tests/serializers_tests.py",
+      "SPDXID": "SPDXRef-File--tests-testapp-tests-serializers-tests.py-7CD3C27F23826E3A6D5F7708C415287B7868EE63",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "652e25aafe57f162c4de105f15eaf78cae56ac09dc02beb48252319d3c9e3330"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7cd3c27f23826e3a6d5f7708c415287b7868ee63"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/Makefile",
+      "SPDXID": "SPDXRef-File--docs-Makefile-C82AE75D93D7124C675EDAACFE2BD7D29F7A0388",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9b2ffd16eb2bb0891215b14f0b107dc72174fa7e740902f000bcdd55cffacf87"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c82ae75d93d7124c675edaacfe2bd7d29f7a0388"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./redis_cache/constants.py",
+      "SPDXID": "SPDXRef-File--redis-cache-constants.py-7E413193FCCED8EF68927FD3F3332F3A9D98F9DA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0a75fe032825e1669c4435b280504454339d131d27b81985e2f20fa903eaeafd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7e413193fcced8ef68927fd3f3332f3a9d98f9da"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./redis_cache/backends/multiple.py",
+      "SPDXID": "SPDXRef-File--redis-cache-backends-multiple.py-55298B8F671840085420222A938BD44C7BEC286E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "02542199009d4115a36fb63448950a660c5a1578dba70876ed4867552cc18306"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "55298b8f671840085420222a938bd44c7bec286e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./redis_cache/connection.py",
+      "SPDXID": "SPDXRef-File--redis-cache-connection.py-E4EA61409B26F8D06B15E9992469BD3BC627EC09",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4c57f3de067d02d04c7f8467a93994cbf944b1a8107f94fbf2775d2abe9af444"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e4ea61409b26f8d06b15e9992469bd3bc627ec09"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/index.rst",
+      "SPDXID": "SPDXRef-File--docs-index.rst-7AAFA364D7CE0790EB7B3C98FB721A1A34380447",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e1a2884166884659536622334fe993c0c096571906221a644ed353b873f64a1e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7aafa364d7ce0790eb7b3c98fb721a1a34380447"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./redis_cache/backends/__init__.py",
+      "SPDXID": "SPDXRef-File--redis-cache-backends---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-1F33FD72ABAD574A4D91F4E077F61BB8B3E41250",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "130fe77f82d66f4aac71253974dd1c36e2196d03532d48552d1793a6ccb65792"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1f33fd72abad574a4d91f4e077f61bb8b3e41250"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./install_redis.sh",
+      "SPDXID": "SPDXRef-File--install-redis.sh-BBE103D9E1AA1467BEB066EAD24C00B1CADDB20A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "04ae913a7e4befb1b02be738fcea626929ea06613846c850690b95a2cee7daca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bbe103d9e1aa1467beb066ead24c00b1caddb20a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-FB7A29AB22742B4F712BEED3EBE641D3DAB03834",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "88dfc752abfecc9cfa1a178f1e0a9c4211973af49d3fa7fd5ba0857e8353e8c3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fb7a29ab22742b4f712beed3ebe641d3dab03834"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/testapp/__init__.py",
+      "SPDXID": "SPDXRef-File--tests-testapp---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/testapp/tests/base_tests.py",
+      "SPDXID": "SPDXRef-File--tests-testapp-tests-base-tests.py-1FD0EB3FAA47BC4ED31CECFE1B526FF3A60C5E9F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f5298ceb49d8dcc36c5c6e9f541eb03ca2e5823b5c46f4108817d37d60390f0b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1fd0eb3faa47bc4ed31cecfe1b526ff3a60c5e9f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./redis_cache/__init__.py",
+      "SPDXID": "SPDXRef-File--redis-cache---init--.py-4F9063A706D822F56EFAD49300335E1A96749832",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "07f591a8db8e44f64f35b8f6e9baf4adb40ce34818ef92b4e92f290505ef0af5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4f9063a706d822f56efad49300335e1a96749832"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/conf.py",
+      "SPDXID": "SPDXRef-File--docs-conf.py-985D6F3A78F772E18589DD35A63EB8E0F0873679",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "674420fe7e82e1256f75992c30e6965c58ebddb2f8c2505ba2fe2f12bdb23db6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "985d6f3a78f772e18589dd35a63eb8e0f0873679"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./setup.py",
+      "SPDXID": "SPDXRef-File--setup.py-35B792C3F4245E233AC96E5352D33973731722CB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aebad4a81b9cb7a66a603b321337a9dabd67354d0b75f3adbe43fd9e3532194e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "35b792c3f4245e233ac96e5352d33973731722cb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-7298870340C6F24BD1872DD7239A21CB27E34A87",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b1afec14706a024e1c820f93d2a00ab422343d8462b1e04abcc43b25e657c812"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7298870340c6f24bd1872dd7239a21cb27e34a87"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/testapp/tests/multi_server_tests.py",
+      "SPDXID": "SPDXRef-File--tests-testapp-tests-multi-server-tests.py-854C99F4F0927FF2288EDE2E8C58D4FB7C87D2CE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "93f53007669e6b674ae99779e08980158d41d37a95a8b27aeb79b429ae2c1ff2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "854c99f4f0927ff2288ede2e8c58d4fb7c87d2ce"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./redis_cache/utils.py",
+      "SPDXID": "SPDXRef-File--redis-cache-utils.py-2005D5CB98AE23F028BE15A051EC16D37658B7F5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d250612250a8d895320978e1788a8638068c30572b3db7c0e7e5c0e489d176e8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2005d5cb98ae23f028be15a051ec16d37658b7f5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./redis_cache/backends/base.py",
+      "SPDXID": "SPDXRef-File--redis-cache-backends-base.py-F239D0BF58ABCBC1B05EF66957F81CA5949936E7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4167c1cfc7c12adaa1fb003ae4120448017a29c400a26b1c238f52f315d2c4c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f239d0bf58abcbc1b05ef66957f81ca5949936e7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/intro_quick_start.rst",
+      "SPDXID": "SPDXRef-File--docs-intro-quick-start.rst-B942996DF62369A47C1F2059E59036418A6C3072",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7d3cd3f1e3985992669ffddbec1171e7a0100891b5251acb41e8ac89704361e8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b942996df62369a47c1f2059e59036418a6c3072"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./requirements.txt",
+      "SPDXID": "SPDXRef-File--requirements.txt-BDE85837CC947B0D70F448D99F480375AC81B7FD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "33226dcad43d5f313d03a1de75cc23d566eff8049fe85903e11b23bbe689a38a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bde85837cc947b0d70f448d99f480375ac81b7fd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-7950B5945C805BBF5DF00725397B7D269031B6B0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2142af6dc3c97e9a4abd3d1ebac1a469575b20e242661b5310870326d47170eb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7950b5945c805bbf5df00725397b7d269031b6b0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-352fd28bed499b4c9a6db0280a89bcbc572f4820.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-352fd28bed499b4c9a6db0280a89bcbc572f4820.pack-9687D778252B214DDA7B9A30D0D9BB8458C51360",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "66a7d6ca5b5af8c4009279eee733b4565abfcca46a1377a2dc901ee5fd356805"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9687d778252b214dda7b9a30d0d9bb8458c51360"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/__init__.py",
+      "SPDXID": "SPDXRef-File--tests---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/testapp/tests/tcp_tests.py",
+      "SPDXID": "SPDXRef-File--tests-testapp-tests-tcp-tests.py-FE9A07F9D50600A753867BFD9707D11F6FD3F1EB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "120848da081ddc4110cbba83c42c0310941f115fcb4b7ec37cce20f4e40427a3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fe9a07f9d50600a753867bfd9707d11f6fd3f1eb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./redis_cache/sharder.py",
+      "SPDXID": "SPDXRef-File--redis-cache-sharder.py-8BF3F20F1F9579F78A8A64A0E9A5EAB8A28E9828",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "babff600f24ddf70bb36041536b4d0cdbdcf779f5bfb0fceef84dff35f8739b5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8bf3f20f1f9579f78a8a64a0e9a5eab8a28e9828"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./redis_cache/backends/dummy.py",
+      "SPDXID": "SPDXRef-File--redis-cache-backends-dummy.py-DD5235DAE944CE781CBEA7C375A0FA8792F9DB0C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6debf43f169e35ec8a84e9a9dc13338d0296a31c2629d9f631845334f7759484"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dd5235dae944ce781cbea7c375a0fa8792f9db0c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE",
+      "SPDXID": "SPDXRef-File--LICENSE-762A1B671DE4D0944C5E8145F410D5B82DFDD882",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d063126e74e697ecb3e08597520b6ac58cd0b8c7409fcfb1c08f0b464991973b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "762a1b671de4d0944c5e8145f410d5b82dfdd882"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/testapp/tests/master_slave_tests.py",
+      "SPDXID": "SPDXRef-File--tests-testapp-tests-master-slave-tests.py-E245B5331CE22B127D9BB346F9B10A406D5D6934",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c70b1cff3eb293d5faacf19264309d186d2c152374ae0ed38a19fe2d8feebc42"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e245b5331ce22b127d9bb346f9b10a406d5d6934"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/testapp/tests/compressor_tests.py",
+      "SPDXID": "SPDXRef-File--tests-testapp-tests-compressor-tests.py-34309507A80610A6ECD6CDE8AF22B4192B892FD3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "361ec0c566c3307f1cb8d44b1f7c9ecf88f766015d7ea126f2f24da92460259a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "34309507a80610a6ecd6cde8af22b4192b892fd3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./redis_cache/cache.py",
+      "SPDXID": "SPDXRef-File--redis-cache-cache.py-2EF7E8895B9EC50227ED4CA71C683A6BBCF45C1B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f059d126c6f395984c4e1b8fd817f047fca2f531c575e5afb5e95e814234024c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2ef7e8895b9ec50227ed4ca71c683a6bbcf45c1b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/api.rst",
+      "SPDXID": "SPDXRef-File--docs-api.rst-E9E44852A78C8167E97D348B79B0BA7132A00B50",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fb10458f85765a84351f82a1db6a68808f3c90cd9d0513062f4fd531aa96946f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e9e44852a78c8167e97d348b79b0ba7132a00b50"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.travis.yml",
+      "SPDXID": "SPDXRef-File--.travis.yml-9D31CECF63D59FC80324AD086259F07BE4A1BDB2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "54e963fbac1d7ec1f5fe7836a616b4565fddf19b3077c6933992209e549f6b7f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9d31cecf63d59fc80324ad086259f07be4a1bdb2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-3F13157BC8D8DB3EB906DDD5866F788AC14675B6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81748567d2b8069de76899043a37c8722eab01430d8f820c4aab8fcf0f5b48fc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3f13157bc8d8db3eb906ddd5866f788ac14675b6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/urls.py",
+      "SPDXID": "SPDXRef-File--tests-urls.py-106872C6342C6B20ADD7B42BB752D427B7B7AD25",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2f4e57e33ad0ca5df299a048af64253a5f43bde9d0eeb6de83f97d932608e272"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "106872c6342c6b20add7b42bb752d427b7b7ad25"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/testapp/tests/socket_tests.py",
+      "SPDXID": "SPDXRef-File--tests-testapp-tests-socket-tests.py-EC44D222842DB87E56AE2B93E7689C00162010E5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "822e26c163cb0f81ce20966d2f7c0e8c6ba7ff9eae64c56a286ffa63c482c802"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ec44d222842db87e56ae2b93e7689c00162010e5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./redis_cache/compressors.py",
+      "SPDXID": "SPDXRef-File--redis-cache-compressors.py-F6C00B9916985A464B815FCE2509BE2580AE66DE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "48122d0901c3dc0dedd3a59bf32b6d7aea2ab6c923e4c2f7091062df1341f766"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f6c00b9916985a464b815fce2509be2580ae66de"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./redis_cache/backends/single.py",
+      "SPDXID": "SPDXRef-File--redis-cache-backends-single.py-166327A2BCF1D03D644D95C7537FCF1636106FA0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c1e9a1473e03ca9cf49cbf3f8ab2cb47c4d5851302080782d14616d71d477198"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "166327a2bcf1d03d644d95c7537fcf1636106fa0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/advanced_configuration.rst",
+      "SPDXID": "SPDXRef-File--docs-advanced-configuration.rst-0F1D8988A8294494429727E301ED5A28A0993361",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "edd77284be7c4f561e7a59de082a90bbfbdfb9ec97332591622e86a7886b7f95"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0f1d8988a8294494429727e301ed5a28a0993361"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "redis",
+      "SPDXID": "SPDXRef-Package-8F01DE174C0C1109A78B34043100D033407FE370D15A7F656595954FF52C6743",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.5.3",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/redis@3.5.3"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "django-redis-cache",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "0292113ffc717fc9bce640de2fc92564d4dc4923"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "django-redis-cache-15.4.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:swid/django-redis-cache/spdx.org/django-redis-cache@django-redis-cache-15.4.6?tag_id=aabb9204-7f40-47f3-901a-4709b75f1313"
+        }
+      ],
+      "supplier": "Organization: django-redis-cache",
+      "hasFiles": [
+        "SPDXRef-File--redis-cache-backends---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--redis-cache-connection.py-E4EA61409B26F8D06B15E9992469BD3BC627EC09",
+        "SPDXRef-File--tests-testapp-tests-serializers-tests.py-7CD3C27F23826E3A6D5F7708C415287B7868EE63",
+        "SPDXRef-File--tests-views.py-56CFE5F60E7BEE35173C1324EE32945A5C81954A",
+        "SPDXRef-File--.git-logs-HEAD-FB7A29AB22742B4F712BEED3EBE641D3DAB03834",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--README.rst-BCCFD94763E6FD263D9CB04D1FD4229CDB82019B",
+        "SPDXRef-File--requirements-dev.txt-ECD43C553E07DC529DEFA2ADD2D8D4C5C6A374AB",
+        "SPDXRef-File--docs-index.rst-7AAFA364D7CE0790EB7B3C98FB721A1A34380447",
+        "SPDXRef-File--redis-cache-backends-multiple.py-55298B8F671840085420222A938BD44C7BEC286E",
+        "SPDXRef-File--redis-cache-constants.py-7E413193FCCED8EF68927FD3F3332F3A9D98F9DA",
+        "SPDXRef-File--tests-testapp-tests-socket-timeout-tests.py-F5DEBE0BD8AC94D4455E3F89967654B29FD2D564",
+        "SPDXRef-File--tests-settings.py-C1D26842D55A1065F19A7B920A9AC6CE19301CA4",
+        "SPDXRef-File--.git-objects-pack-pack-352fd28bed499b4c9a6db0280a89bcbc572f4820.idx-D2B2F73319DA690AEBBCD290BA084B24295B0BF8",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--.git-index-2F567D9C3D3E53CE4126B05105D208B92F97DC6B",
+        "SPDXRef-File--MANIFEST.in-921DA71F26511B5205D9DE0F05BD4710E0E459A2",
+        "SPDXRef-File--docs-api.rst-E9E44852A78C8167E97D348B79B0BA7132A00B50",
+        "SPDXRef-File--redis-cache-cache.py-2EF7E8895B9EC50227ED4CA71C683A6BBCF45C1B",
+        "SPDXRef-File--tests-testapp-tests-compressor-tests.py-34309507A80610A6ECD6CDE8AF22B4192B892FD3",
+        "SPDXRef-File--tests-testapp-tests-master-slave-tests.py-E245B5331CE22B127D9BB346F9B10A406D5D6934",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--LICENSE-762A1B671DE4D0944C5E8145F410D5B82DFDD882",
+        "SPDXRef-File--docs-Makefile-C82AE75D93D7124C675EDAACFE2BD7D29F7A0388",
+        "SPDXRef-File--redis-cache-serializers.py-C2D15A8C6D2538F8E36454245845591FB28DFB3E",
+        "SPDXRef-File--tests-testapp-tests---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--tests-testapp-models.py-9227619493EEE75C97EB8C7FA09A3EB47D7EB1B0",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-FB7A29AB22742B4F712BEED3EBE641D3DAB03834",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--AUTHORS.rst-D00F153B45A336AE0BE648058CF842A7A3CF8909",
+        "SPDXRef-File--Makefile-710A8919E57C3DE72B885B6ABC5B26A907A34E2C",
+        "SPDXRef-File--redis-cache-backends-dummy.py-DD5235DAE944CE781CBEA7C375A0FA8792F9DB0C",
+        "SPDXRef-File--redis-cache-sharder.py-8BF3F20F1F9579F78A8A64A0E9A5EAB8A28E9828",
+        "SPDXRef-File--tests-testapp-tests-tcp-tests.py-FE9A07F9D50600A753867BFD9707D11F6FD3F1EB",
+        "SPDXRef-File--tests---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--.git-objects-pack-pack-352fd28bed499b4c9a6db0280a89bcbc572f4820.pack-9687D778252B214DDA7B9A30D0D9BB8458C51360",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-packed-refs-7950B5945C805BBF5DF00725397B7D269031B6B0",
+        "SPDXRef-File--requirements.txt-BDE85837CC947B0D70F448D99F480375AC81B7FD",
+        "SPDXRef-File--docs-conf.py-985D6F3A78F772E18589DD35A63EB8E0F0873679",
+        "SPDXRef-File--redis-cache---init--.py-4F9063A706D822F56EFAD49300335E1A96749832",
+        "SPDXRef-File--tests-testapp-tests-base-tests.py-1FD0EB3FAA47BC4ED31CECFE1B526FF3A60C5E9F",
+        "SPDXRef-File--tests-testapp---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--.git-logs-refs-heads-master-FB7A29AB22742B4F712BEED3EBE641D3DAB03834",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--install-redis.sh-BBE103D9E1AA1467BEB066EAD24C00B1CADDB20A",
+        "SPDXRef-File--.gitignore-1F33FD72ABAD574A4D91F4E077F61BB8B3E41250",
+        "SPDXRef-File--docs-intro-quick-start.rst-B942996DF62369A47C1F2059E59036418A6C3072",
+        "SPDXRef-File--redis-cache-backends-base.py-F239D0BF58ABCBC1B05EF66957F81CA5949936E7",
+        "SPDXRef-File--redis-cache-utils.py-2005D5CB98AE23F028BE15A051EC16D37658B7F5",
+        "SPDXRef-File--tests-testapp-tests-multi-server-tests.py-854C99F4F0927FF2288EDE2E8C58D4FB7C87D2CE",
+        "SPDXRef-File--.git-refs-heads-master-7298870340C6F24BD1872DD7239A21CB27E34A87",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--setup.py-35B792C3F4245E233AC96E5352D33973731722CB",
+        "SPDXRef-File--docs-advanced-configuration.rst-0F1D8988A8294494429727E301ED5A28A0993361",
+        "SPDXRef-File--redis-cache-backends-single.py-166327A2BCF1D03D644D95C7537FCF1636106FA0",
+        "SPDXRef-File--redis-cache-compressors.py-F6C00B9916985A464B815FCE2509BE2580AE66DE",
+        "SPDXRef-File--tests-testapp-tests-socket-tests.py-EC44D222842DB87E56AE2B93E7689C00162010E5",
+        "SPDXRef-File--tests-urls.py-106872C6342C6B20ADD7B42BB752D427B7B7AD25",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-config-3F13157BC8D8DB3EB906DDD5866F788AC14675B6",
+        "SPDXRef-File--.travis.yml-9D31CECF63D59FC80324AD086259F07BE4A1BDB2"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8F01DE174C0C1109A78B34043100D033407FE370D15A7F656595954FF52C6743",
+      "spdxElementId": "SPDXRef-RootPackage"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "django-redis-cache django-redis-cache-15.4.6",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-2.2.1-0623f9f8-bb7f-4a28-9d1a-f5ede5b7b191/django-redis-cache/django-redis-cache-15.4.6/Hu21qvgfvUWVHMuoI3qf-Q",
+  "creationInfo": {
+    "created": "2024-01-06T16:46:08Z",
+    "creators": [
+      "Organization: django-redis-cache",
+      "Tool: Microsoft.SBOMTool-2.2.1"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

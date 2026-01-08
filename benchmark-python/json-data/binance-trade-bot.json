@@ -1,0 +1,146 @@
+{
+    "name": "binance-trade-bot",
+    "home_page": "",
+    "author": "Person:edeng23",
+    "version": "",
+    "license": "GPL-3.0",
+    "copyright": "",
+    "packages": [
+        {
+            "name": "python-binance",
+            "home_page": "https://github.com/sammchardy/python-binance",
+            "author": "Organization:",
+            "version": "1.0.12",
+            "license": "MIT",
+            "copyright": ""
+        },
+        {
+            "name": "sqlalchemy",
+            "home_page": "https://github.com/sqlalchemy/sqlalchemy",
+            "author": "Organization:",
+            "version": "1.4.15",
+            "license": "MIT",
+            "copyright": ""
+        },
+        {
+            "name": "schedule",
+            "home_page": "https://github.com/dbader/schedule",
+            "author": "Organization:",
+            "version": "1.1.0",
+            "license": "MIT",
+            "copyright": ""
+        },
+        {
+            "name": "apprise",
+            "home_page": "https://github.com/caronc/apprise",
+            "author": "Organization:",
+            "version": "0.9.5.1",
+            "license": "BSD-4-Clause",
+            "copyright": ""
+        },
+        {
+            "name": "Flask",
+            "home_page": "https://github.com/pallets/flask",
+            "author": "Organization:",
+            "version": "2.1.1",
+            "license": "BSD-4-Clause",
+            "copyright": ""
+        },
+        {
+            "name": "gunicorn",
+            "home_page": "https://github.com/benoitc/gunicorn",
+            "author": "Organization:",
+            "version": "20.1.0",
+            "license": "MIT",
+            "copyright": ""
+        },
+        {
+            "name": "flask-cors",
+            "home_page": "https://github.com/corydolphin/flask-cors",
+            "author": "Organization:",
+            "version": "3.0.10",
+            "license": "MIT",
+            "copyright": ""
+        },
+        {
+            "name": "flask-socketio",
+            "home_page": "https://github.com/miguelgrinberg/Flask-SocketIO",
+            "author": "Organization:",
+            "version": "5.0.1",
+            "license": "MIT",
+            "copyright": ""
+        },
+        {
+            "name": "eventlet",
+            "home_page": "https://github.com/eventlet/eventlet",
+            "author": "Organization:",
+            "version": "0.30.2",
+            "license": "MIT",
+            "copyright": ""
+        },
+        {
+            "name": "python-socketio[client]",
+            "home_page": "https://github.com/miguelgrinberg/python-socketio",
+            "author": "Organization:",
+            "version": "5.2.1",
+            "license": "MIT",
+            "copyright": ""
+        },
+        {
+            "name": "cachetools",
+            "home_page": "https://github.com/tkem/cachetools",
+            "author": "Organization:",
+            "version": "4.2.2",
+            "license": "MIT",
+            "copyright": ""
+        },
+        {
+            "name": "sqlitedict",
+            "home_page": "https://github.com/piskvorky/sqlitedict",
+            "author": "Organization:",
+            "version": "1.7.0",
+            "license": "Apache-2.0",
+            "copyright": ""
+        },
+        {
+            "name": "unicorn-binance-websocket-api",
+            "home_page": "https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api",
+            "author": "Organization:",
+            "version": "1.34.2",
+            "license": "",
+            "copyright": ""
+        },
+        {
+            "name": "unicorn-fy",
+            "home_page": "https://github.com/LUCIT-Systems-and-Development/unicorn-fy",
+            "author": "Organization:",
+            "version": "0.11.0",
+            "license": "",
+            "copyright": ""
+        },
+        {
+            "name": "itsdangerous",
+            "home_page": "https://github.com/pallets/itsdangerous",
+            "author": "Organization:",
+            "version": "2.0.1",
+            "license": "BSD-3-Clause",
+            "copyright": ""
+        },
+        {
+            "name": "configparser",
+            "home_page": "https://github.com/jaraco/configparser",
+            "author": "Person:jaraco",
+            "version": "",
+            "license": "MIT",
+            "copyright": ""
+        },
+        {
+            "name": "pylint-sqlalchemy",
+            "home_page": "https://github.com/gwax/pylint-sqlalchemy",
+            "author": "Person:gwax",
+            "version": "",
+            "license": "MIT",
+            "copyright": ""
+        }
+    ]
+}

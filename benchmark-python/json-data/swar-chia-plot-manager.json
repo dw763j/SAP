@@ -1,0 +1,73 @@
+{
+    "name": "Swar-Chia-Plot-Manager",
+    "home_page": "https://github.com/swar/Swar-Chia-Plot-Manager",
+    "author": "Organization:Free Software Foundation, Inc. <https://fsf.org/>",
+    "version": "0.1.0",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>",
+    "packages": [
+        {
+            "name": "discord-notify",
+            "license": "MIT",
+            "home_page": "https://github.com/MatthewATaylor/discord_notify",
+            "author": "Matthew Taylor",
+            "version": "1.0.0"
+        },
+        {
+            "name": "playsound",
+            "license": "MIT",
+            "home_page": "https://github.com/TaylorSMarks/playsound",
+            "author": "Taylor Marks",
+            "version": "1.2.2"
+        },
+        {
+            "name": "prometheus-client",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/prometheus/client_python",
+            "author": "Brian Brazil",
+            "version": "0.10.1"
+        },
+        {
+            "name": "python-pushover",
+            "license": "GPL-3.0-only",
+            "home_page": "https://github.com/Thibauth/python-pushover",
+            "author": "Thibaut Horel",
+            "version": "0.4"
+        },
+        {
+            "name": "telegram-notifier",
+            "license": "MIT",
+            "home_page": "http://github.com/airens/telegram_notifier",
+            "author": "Valeriy Chistyakov",
+            "version": "0.2"
+        },
+        {
+            "name": "requests",
+            "license": "Apache-2.0",
+            "home_page": "https://requests.readthedocs.io",
+            "author": "Kenneth Reitz",
+            "version": "2.25.1"
+        },
+        {
+            "name": "dateparser",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/scrapinghub/dateparser",
+            "author": "Scrapinghub",
+            "version": "1.0.0"
+        },
+        {
+            "name": "psutil",
+            "license": "BSD-3-Clause",
+            "home_page": "https://github.com/giampaolo/psutil",
+            "author": "Giampaolo Rodola",
+            "version": "5.8.0"
+        },
+        {
+            "name": "PyYAML",
+            "license": "MIT",
+            "home_page": "https://pyyaml.org/",
+            "author": "Kirill Simonov",
+            "version": "5.4.1"
+        }
+    ]
+}

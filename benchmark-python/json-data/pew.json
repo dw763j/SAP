@@ -1,0 +1,52 @@
+{
+    "name": "pew",
+    "home_page": "https://github.com/pew-org/pew",
+    "author": "Person:",
+    "version": "",
+    "license": "MIT",
+    "copyright": "",
+    "packages": [
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ">=17.1"
+        },
+        {
+            "name": "virtualenv",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/virtualenv",
+            "author": "",
+            "version": ">=1.11"
+        },
+        {
+            "name": "virtualenv-clone",
+            "license": "MIT",
+            "home_page": "https://github.com/edwardgeorge/virtualenv-clone",
+            "author": "Edward George",
+            "version": ">=0.2.5"
+        },
+        {
+            "name": "pytest",
+            "license": "MIT",
+            "home_page": "https://github.com/pytest-dev/pytest",
+            "author": "Holger Krekel, Bruno Oliveira, Ronny Pfannschmidt, Floris Bruynooghe, Brianna Laugher, Florian Bruhin, Others (See AUTHORS)",
+            "version": ""
+        },
+        {
+            "name": "pythonz-bd",
+            "license": "MIT",
+            "home_page": "https://github.com/berdario/pythonz/tree/bd",
+            "author": "saghul",
+            "version": ">=1.10.2"
+        },
+        {
+            "name": "shellingham",
+            "license": "ISC",
+            "home_page": "https://github.com/sarugaku/shellingham",
+            "author": "Tzu-ping Chung",
+            "version": ""
+        }
+    ]
+}

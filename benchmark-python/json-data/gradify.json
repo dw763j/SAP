@@ -1,0 +1,17 @@
+{
+    "name": "gradify",
+    "home_page": "https://github.com/fraser-hemp/gradify",
+    "author": "Person:Fraser Hemphill",
+    "version": "0.1",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2015 Fraser Hemphill",
+    "packages": [
+        {
+            "name": "pillow",
+            "license": "HPND",
+            "home_page": "https://github.com/python-pillow/Pillow",
+            "author": "",
+            "version": ""
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "defx.nvim",
+    "home_page": "https://github.com/Shougo/defx.nvim",
+    "author": "Person:Shougo Matsushita",
+    "version": "",
+    "license": "MIT",
+    "copyright": "Copyright (c) Shougo Matsushita <Shougo.Matsu at gmail.com>",
+    "packages": [
+        {
+            "name": "pynvim",
+            "license": "Apache",
+            "home_page": "http://github.com/neovim/pynvim",
+            "author": "Neovim Authors",
+            "version": ""
+        },
+        {
+            "name": "pytest",
+            "license": "MIT",
+            "home_page": "https://github.com/pytest-dev/pytest",
+            "author": "Holger Krekel, Bruno Oliveira, Ronny Pfannschmidt, Floris Bruynooghe, Brianna Laugher, Florian Bruhin, Others (See AUTHORS)",
+            "version": ""
+        },
+        {
+            "name": "flake8",
+            "license": "MIT",
+            "home_page": "https://github.com/pycqa/flake8",
+            "author": "Tarek Ziade",
+            "version": ""
+        },
+        {
+            "name": "mypy",
+            "license": "MIT",
+            "home_page": "https://www.mypy-lang.org/",
+            "author": "Jukka Lehtosalo",
+            "version": ""
+        },
+        {
+            "name": "vim-vint",
+            "license": "MIT",
+            "home_page": "https://github.com/Kuniwak/vint",
+            "author": "Kuniwak",
+            "version": ""
+        },
+        {
+            "name": "importlib",
+            "license": "",
+            "home_page": "https://github.com/brettcannon/importlib",
+            "author": "Brett Cannon",
+            "version": ""
+        } 
+    ]
+}

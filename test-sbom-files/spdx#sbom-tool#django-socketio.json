@@ -1,0 +1,1435 @@
+{
+  "files": [
+    {
+      "fileName": "./MANIFEST.in",
+      "SPDXID": "SPDXRef-File--MANIFEST.in-D72BBC1AE3E68BADA14B69E328C53C548125DC94",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2d70825f8931f428057badbd3d2be3321e413ed0a372cd442d1641ae4b8e2e55"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d72bbc1ae3e68bada14b69e328c53c548125dc94"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.rst",
+      "SPDXID": "SPDXRef-File--README.rst-CE24B87D51C0653F082930334AB9078E635EA67E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "24e1ce134c2b9b357961cef7f8bc92a5bb6829965834edf14264f68ebb494dcf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ce24b87d51c0653f082930334ab9078e635ea67e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./setup.py",
+      "SPDXID": "SPDXRef-File--setup.py-57D7FA115D438E29B8457AF5F5B2CB65B9DB46F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ad7f404a133539500df4ca52f7a2adb5ca6d8ae14c603e4763472c8667691336"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "57d7fa115d438e29b8457af5f5b2cb65b9db46f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-E30105A157EFC9757477F66B3084F8C71E1A7356",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6facd32ac10d5a89203d5975d563f3ce2f9c73580e1ce3e59dfc7400582ff25b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e30105a157efc9757477f66b3084f8c71e1a7356"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-f98be7ae43a0d73b950b8b0d63876e20faf5297e.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-f98be7ae43a0d73b950b8b0d63876e20faf5297e.idx-8FE46D6A3315DC986D1189F7C1A528879B4ACF1E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e63c09b1403396b1b7ca9ef8b511ce0f308ffff5f0d96e99dec7d7880a01fbed"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8fe46d6a3315dc986d1189f7c1a528879b4acf1e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/clients.py",
+      "SPDXID": "SPDXRef-File--django-socketio-clients.py-7F065AD216C646EBDF0D36A40BE459F580E09955",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "323f0b3be5605056f84e100ada78b1fc95e4941315f347ff726e697d98c630a4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7f065ad216c646ebdf0d36a40be459f580e09955"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/events.py",
+      "SPDXID": "SPDXRef-File--django-socketio-events.py-FCA4742E686E263A489C8E42208B0B1D89853032",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "36cd352a8ef05b6513b1d202964785cbea6fc1ee730a7044b2a36e84b02d345d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fca4742e686e263a489c8e42208b0b1d89853032"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/example_project/manage.py",
+      "SPDXID": "SPDXRef-File--django-socketio-example-project-manage.py-F9E6351555FF02F6B29AB35BFE0BE7AEE69758E5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fc32f58377e671bcd942cba080d9e915dc74df69a51a65752fb49a2362e7d174"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f9e6351555ff02f6b29ab35bfe0be7aee69758e5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AUTHORS",
+      "SPDXID": "SPDXRef-File--AUTHORS-0A9A890FD03658183648989285EC39BCD4CFD3A7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ac9387da7de3f811ec8302eb33bc197ccdc45ba8ee6488eabab2c3226b232385"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0a9a890fd03658183648989285ec39bcd4cfd3a7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/example_project/chat/templates/base.html",
+      "SPDXID": "SPDXRef-File--django-socketio-example-project-chat-templates-base.html-C4B22C9C27B4A2CD8F981CCF5EBFB590ADE27C34",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f699763c1e67312c419d410d496ebde24647c87ae9cd6a34e7440b9e5e119126"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c4b22c9c27b4a2cd8f981ccf5ebfb590ade27c34"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-2FC4F1DDFE19FD6AF3411C530D9E59CFB18D76EF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0d59913a742f4a183e2dedffb1ec880c62752bc032a14608845a5f54931324c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2fc4f1ddfe19fd6af3411c530d9e59cfb18d76ef"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/models.py",
+      "SPDXID": "SPDXRef-File--django-socketio-models.py-06F7644C89D63E202026D12F2D41232383660495",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5d07d1c6f3cf694609ad13fe988da32072862db43e3b5c184cfb555a3a1e21f3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "06f7644c89d63e202026d12f2d41232383660495"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/management/__init__.py",
+      "SPDXID": "SPDXRef-File--django-socketio-management---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/example_project/chat/urls.py",
+      "SPDXID": "SPDXRef-File--django-socketio-example-project-chat-urls.py-CC2C989F43138F5AF3CE53912F0CD0FD58DE0584",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "776acfa88305547441c496b24ec08d52686342286a66105480028b57d3b9b521"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cc2c989f43138f5af3ce53912f0cd0fd58de0584"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/example_project/chat/templates/system_message.html",
+      "SPDXID": "SPDXRef-File--django-socketio-example-project-chat-templates-system-message.html-DBC8A2D06914F3DF8B72087D9E61853A2D8DDF1E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c85a56ea979fc2771d4e99b0401923bf62198bbfe985ec9c73f159c82e0a64c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dbc8a2d06914f3df8b72087d9e61853a2d8ddf1e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.travis.yml",
+      "SPDXID": "SPDXRef-File--.travis.yml-E44A4FE9B5F80743B04BE767D6AF01D59C6E47EC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "348cdd24c6f377aae7fb04d26316c2a33d8c8eb81a02f99e73302b525afc4654"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e44a4fe9b5f80743b04be767d6af01d59c6e47ec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-641051F5CB81A039BF9451CF6FC724D457DAEE63",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3dca844ccfdabf9ea77dd8d6039a554c985ec24c99fbaa6f2dc6ae9f4d93c28d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "641051f5cb81a039bf9451cf6fc724d457daee63"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-328688E3C82582F1149CB94C687217B5306FA7BD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4aca051acab1127a216eb4ad077c779ceecc1dba262b2a6a18f21e12e40f0880"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "328688e3c82582f1149cb94c687217b5306fa7bd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/conf.py",
+      "SPDXID": "SPDXRef-File--docs-conf.py-7E6341A18E3627539EE2D8D77E7C7D7FB76C1CD2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b73bbef219e71817cc6d131b116ff259d6dad331de45f03e9f23ea4f61958e8b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7e6341a18e3627539ee2d8d77e7c7d7fb76c1cd2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/channels.py",
+      "SPDXID": "SPDXRef-File--django-socketio-channels.py-8CCFD8B887E2D4B14CC19B152B6796BA74B3F680",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1c330c8b875fbcae4055613f63bafb47d1bb99f824033662b032a95c6d8fff4b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8ccfd8b887e2d4b14cc19b152b6796ba74b3f680"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/example_project/settings.py",
+      "SPDXID": "SPDXRef-File--django-socketio-example-project-settings.py-9A991909152EECA8DA1F144FDB48F50C93FA83C8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "364b1b657761bab3b43114f2fdacf01d03041fe49a6a2512c4877212245604fd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9a991909152eeca8da1f144fdb48f50c93fa83c8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/example_project/chat/static/js/chat.js",
+      "SPDXID": "SPDXRef-File--django-socketio-example-project-chat-static-js-chat.js-8B18EA0D16AB93EB1914ED65B642F886E71D53E0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9361fe2d5c956b1d9985b148513f20c183443748f544ba4672d0484d61eda9e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8b18ea0d16ab93eb1914ed65b642f886e71d53e0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.hgignore",
+      "SPDXID": "SPDXRef-File--.hgignore-194265B559BE3C23A02D88E3C79875BE00E4D6F0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f01684fd289c5999fd4dd4a1896437d187a29f3bc6aa34e4699b49c04b9c7ad3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "194265b559be3c23a02d88e3c79875be00e4d6f0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/static/js/socket.io.js",
+      "SPDXID": "SPDXRef-File--django-socketio-static-js-socket.io.js-8ACDDC3428F3BA053686E654B937BCF61E7DE698",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2a7f3a0ef9950bd8261adbf27daddee31983405091ad8c8a9bb03752552da4ec"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8acddc3428f3ba053686e654b937bcf61e7de698"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-2FC4F1DDFE19FD6AF3411C530D9E59CFB18D76EF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0d59913a742f4a183e2dedffb1ec880c62752bc032a14608845a5f54931324c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2fc4f1ddfe19fd6af3411c530d9e59cfb18d76ef"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/urls.py",
+      "SPDXID": "SPDXRef-File--django-socketio-urls.py-1270092A07F1AE8F757E89C44B6F32C73C011128",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "46d5c719ce59d085474998530f6a1901b0204be0d8c8f43e49a08e4173d74242"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1270092a07f1ae8f757e89c44b6f32c73c011128"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/management/commands/runserver_socketio.py",
+      "SPDXID": "SPDXRef-File--django-socketio-management-commands-runserver-socketio.py-F8A4AF7B08218B917E2C1B9E3F435D777FF27103",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "efa019b386d3ef8f64a27606607aad2a209690bc34f80748ccd6956ed49b7bef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f8a4af7b08218b917e2c1b9e3f435d777ff27103"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/example_project/chat/__init__.py",
+      "SPDXID": "SPDXRef-File--django-socketio-example-project-chat---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/example_project/chat/templates/rooms.html",
+      "SPDXID": "SPDXRef-File--django-socketio-example-project-chat-templates-rooms.html-FA01B9CF88198F0F892F948BCBCB8C4EEBDD536F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5f23d910efa0ce4e1821d77d1b92e435a29bd51aca9410e3dff744f9a3e23084"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fa01b9cf88198f0f892f948bcbcb8c4eebdd536f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitattributes",
+      "SPDXID": "SPDXRef-File--.gitattributes-AF45FD41C23C4C3B3D423B724AFEBBE9FECE8062",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "29cc19d4deef64903e64ee3a3a36dabdf7c8264a09a7bc1dfe2b45c83416d033"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "af45fd41c23c4c3b3d423b724afebbe9fece8062"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-2FC4F1DDFE19FD6AF3411C530D9E59CFB18D76EF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0d59913a742f4a183e2dedffb1ec880c62752bc032a14608845a5f54931324c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2fc4f1ddfe19fd6af3411c530d9e59cfb18d76ef"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/utils.py",
+      "SPDXID": "SPDXRef-File--django-socketio-utils.py-C3D2B4B72F1E4BABE6D001CAAA83E44DEF3E70D5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1d65e021109a8e1a3a3d786de61ad8416c3a9a5d7a21da51ff33a4567e097948"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c3d2b4b72f1e4babe6d001caaa83e44def3e70d5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/views.py",
+      "SPDXID": "SPDXRef-File--django-socketio-views.py-A21FF3670B368D1FD05B39A6AEA8B0626A03603B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8c57d0bfee358bac2c70f41da96f7b949b8beed1731364c497789b49c8b93c4d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a21ff3670b368d1fd05b39a6aea8b0626a03603b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/example_project/chat/models.py",
+      "SPDXID": "SPDXRef-File--django-socketio-example-project-chat-models.py-C632CB88D865E75CBDDE53BBDDDA51BBA9148F82",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1eedaac72f31a4ff0fb52e5071c85bd047197d59a212ee684fe149d29e8bbeda"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c632cb88d865e75cbdde53bbddda51bba9148f82"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/example_project/chat/templates/room.html",
+      "SPDXID": "SPDXRef-File--django-socketio-example-project-chat-templates-room.html-59A666BADAFBC57C127DFE21BD54CB06C75321BA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4447eb70d87bc36296a46f667a4b7782cc63eb3787975229a661ba3ff94a4914"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "59a666badafbc57c127dfe21bd54cb06c75321ba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE",
+      "SPDXID": "SPDXRef-File--LICENSE-3619F2209742C8A01D6C4C22D7351E6C0FF19C0C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dbd1ab93cf186abe5c15dd29fb6fe7381cfd11296d7d3b4deb5ac00aba313357"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3619f2209742c8a01d6c4c22d7351e6c0ff19c0c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/tests.py",
+      "SPDXID": "SPDXRef-File--django-socketio-tests.py-57A9F6A906E17006A10082E9BEBE125599597140",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "70385c075d7fc15cb02da54dd9e54b8504357f28cd13c35eed3fb121fbac7b41"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "57a9f6a906e17006a10082e9bebe125599597140"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/management/commands/__init__.py",
+      "SPDXID": "SPDXRef-File--django-socketio-management-commands---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/example_project/chat/events.py",
+      "SPDXID": "SPDXRef-File--django-socketio-example-project-chat-events.py-F344FB271F4A0212833C634EE723E4EBBDE4217E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8ba6be411e7227105830796ed473d26a2f78de5f58f43ffc363f8361c4ad23db"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f344fb271f4a0212833c634ee723e4ebbde4217e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/templatetags/socketio_tags.py",
+      "SPDXID": "SPDXRef-File--django-socketio-templatetags-socketio-tags.py-963CCB50212FEC61402BC70E4D452043C4FC4FC2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a0678a5a9c1e0ad5b574c6af03fa3b5754f7cac7b866b7b8db0ce4b30f46f0fe"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "963ccb50212fec61402bc70e4d452043c4fc4fc2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-04CEC054AC326C5DA095B2501DEDD1D0D4805873",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f03b92c2378ed51f840c51e8e828c3901cf39aa336644be1b2e8280299cc4066"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04cec054ac326c5da095b2501dedd1d0d4805873"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-f98be7ae43a0d73b950b8b0d63876e20faf5297e.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-f98be7ae43a0d73b950b8b0d63876e20faf5297e.pack-CF2EC2CBB976BD5EC6F1C27F451F701AE1821778",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c97c9320617d0ce9f328c1a8be842471562cb0874465ff412ecb8cd36b15ae14"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cf2ec2cbb976bd5ec6f1c27f451f701ae1821778"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/index.rst",
+      "SPDXID": "SPDXRef-File--docs-index.rst-D4C8E54317FD5E3AE55748331388852183790426",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2f8db8eda2c4c999f38c3681d7300428fd28b128a7037a9a1cd813253e08b1ae"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d4c8e54317fd5e3ae55748331388852183790426"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/__init__.py",
+      "SPDXID": "SPDXRef-File--django-socketio---init--.py-1F2E17AE50CB2E322CC33B63F9261E09D2FCD43F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d8758ffdd3178ccd7b87bc13f7295c478b7f9da82e3d91461fb268745a337693"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1f2e17ae50cb2e322cc33b63f9261e09d2fcd43f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/example_project/__init__.py",
+      "SPDXID": "SPDXRef-File--django-socketio-example-project---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/example_project/chat/static/css/chat.css",
+      "SPDXID": "SPDXRef-File--django-socketio-example-project-chat-static-css-chat.css-55CF86828D8040D5A0DAB69FB8540EC7DC6E48AB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a9ef8032f5a2c527b0f94e6073157ff687c34a2584a325ca4b876b40e5d92c7c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "55cf86828d8040d5a0dab69fb8540ec7dc6e48ab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/templates/socketio_scripts.html",
+      "SPDXID": "SPDXRef-File--django-socketio-templates-socketio-scripts.html-CF9C46F286EAD21DE68DF24AC8632A6BFB86A57F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ffa5c3b0acb94a3b983a83658388498042a2a7ea510ab481054e4ee17f693748"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cf9c46f286ead21de68df24ac8632a6bfb86a57f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-1B9537A3C4C5B04C613F7065F99F8260026CA878",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5bbc251f78adb3a6b0734db1bbbfc957a9356a6219742e20a489f5d0d1b8f6ce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1b9537a3c4c5b04c613f7065f99f8260026ca878"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/settings.py",
+      "SPDXID": "SPDXRef-File--django-socketio-settings.py-C3DC69EB3CC624DD8D4D7B38E75A889EA7664000",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a67015e79b313b0485c03edfd34a27e7e58a53d9ea901b897c51888800e1aeec"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c3dc69eb3cc624dd8d4d7b38e75a889ea7664000"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/example_project/urls.py",
+      "SPDXID": "SPDXRef-File--django-socketio-example-project-urls.py-694ADEECA48A6C7E28FC9ADE6132673C7CDD2344",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d0661901f9da2332ed8c4deabb6aec95c5b4918a4e21e765f16834274deeee3a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "694adeeca48a6c7e28fc9ade6132673c7cdd2344"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/example_project/chat/views.py",
+      "SPDXID": "SPDXRef-File--django-socketio-example-project-chat-views.py-465CB5A1D8B66059B96A0903237F969A754C34F7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1bcac9610e2ff66339c68bc8fcf74f8f1025844485063486a1fd2dbdbb2fd9b8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "465cb5a1d8b66059b96a0903237f969a754c34f7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./django_socketio/templatetags/__init__.py",
+      "SPDXID": "SPDXRef-File--django-socketio-templatetags---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "django-socketio",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "6549eb0da1d09415acf93dbdf555f35e1ba6de78"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "django-socketio-15.4.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:swid/django-socketio/spdx.org/django-socketio@django-socketio-15.4.6?tag_id=11a008d6-b708-4ad0-9756-11c46d461e96"
+        }
+      ],
+      "supplier": "Organization: django-socketio",
+      "hasFiles": [
+        "SPDXRef-File--django-socketio-static-js-socket.io.js-8ACDDC3428F3BA053686E654B937BCF61E7DE698",
+        "SPDXRef-File--django-socketio-example-project-chat-static-js-chat.js-8B18EA0D16AB93EB1914ED65B642F886E71D53E0",
+        "SPDXRef-File--django-socketio-example-project-settings.py-9A991909152EECA8DA1F144FDB48F50C93FA83C8",
+        "SPDXRef-File--django-socketio-channels.py-8CCFD8B887E2D4B14CC19B152B6796BA74B3F680",
+        "SPDXRef-File--docs-conf.py-7E6341A18E3627539EE2D8D77E7C7D7FB76C1CD2",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-config-328688E3C82582F1149CB94C687217B5306FA7BD",
+        "SPDXRef-File--.travis.yml-E44A4FE9B5F80743B04BE767D6AF01D59C6E47EC",
+        "SPDXRef-File--django-socketio-example-project-chat-templates-room.html-59A666BADAFBC57C127DFE21BD54CB06C75321BA",
+        "SPDXRef-File--django-socketio-example-project-chat-models.py-C632CB88D865E75CBDDE53BBDDDA51BBA9148F82",
+        "SPDXRef-File--django-socketio-views.py-A21FF3670B368D1FD05B39A6AEA8B0626A03603B",
+        "SPDXRef-File--django-socketio-utils.py-C3D2B4B72F1E4BABE6D001CAAA83E44DEF3E70D5",
+        "SPDXRef-File--.git-logs-HEAD-2FC4F1DDFE19FD6AF3411C530D9E59CFB18D76EF",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--.gitattributes-AF45FD41C23C4C3B3D423B724AFEBBE9FECE8062",
+        "SPDXRef-File--django-socketio-templatetags-socketio-tags.py-963CCB50212FEC61402BC70E4D452043C4FC4FC2",
+        "SPDXRef-File--django-socketio-example-project-chat-events.py-F344FB271F4A0212833C634EE723E4EBBDE4217E",
+        "SPDXRef-File--django-socketio-management-commands---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--django-socketio-tests.py-57A9F6A906E17006A10082E9BEBE125599597140",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--LICENSE-3619F2209742C8A01D6C4C22D7351E6C0FF19C0C",
+        "SPDXRef-File--django-socketio-example-project-chat-templates-rooms.html-FA01B9CF88198F0F892F948BCBCB8C4EEBDD536F",
+        "SPDXRef-File--django-socketio-example-project-chat---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--django-socketio-management-commands-runserver-socketio.py-F8A4AF7B08218B917E2C1B9E3F435D777FF27103",
+        "SPDXRef-File--django-socketio-urls.py-1270092A07F1AE8F757E89C44B6F32C73C011128",
+        "SPDXRef-File--.git-logs-refs-heads-master-2FC4F1DDFE19FD6AF3411C530D9E59CFB18D76EF",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--.hgignore-194265B559BE3C23A02D88E3C79875BE00E4D6F0",
+        "SPDXRef-File--.gitignore-641051F5CB81A039BF9451CF6FC724D457DAEE63",
+        "SPDXRef-File--django-socketio-example-project-chat-templates-system-message.html-DBC8A2D06914F3DF8B72087D9E61853A2D8DDF1E",
+        "SPDXRef-File--django-socketio-example-project-chat-urls.py-CC2C989F43138F5AF3CE53912F0CD0FD58DE0584",
+        "SPDXRef-File--django-socketio-management---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--django-socketio-models.py-06F7644C89D63E202026D12F2D41232383660495",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-2FC4F1DDFE19FD6AF3411C530D9E59CFB18D76EF",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--AUTHORS-0A9A890FD03658183648989285EC39BCD4CFD3A7",
+        "SPDXRef-File--django-socketio-templatetags---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--django-socketio-example-project-chat-views.py-465CB5A1D8B66059B96A0903237F969A754C34F7",
+        "SPDXRef-File--django-socketio-example-project-urls.py-694ADEECA48A6C7E28FC9ADE6132673C7CDD2344",
+        "SPDXRef-File--django-socketio-settings.py-C3DC69EB3CC624DD8D4D7B38E75A889EA7664000",
+        "SPDXRef-File--.git-refs-heads-master-1B9537A3C4C5B04C613F7065F99F8260026CA878",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--setup.py-57D7FA115D438E29B8457AF5F5B2CB65B9DB46F4",
+        "SPDXRef-File--django-socketio-templates-socketio-scripts.html-CF9C46F286EAD21DE68DF24AC8632A6BFB86A57F",
+        "SPDXRef-File--django-socketio-example-project-chat-static-css-chat.css-55CF86828D8040D5A0DAB69FB8540EC7DC6E48AB",
+        "SPDXRef-File--django-socketio-example-project---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--django-socketio---init--.py-1F2E17AE50CB2E322CC33B63F9261E09D2FCD43F",
+        "SPDXRef-File--docs-index.rst-D4C8E54317FD5E3AE55748331388852183790426",
+        "SPDXRef-File--.git-objects-pack-pack-f98be7ae43a0d73b950b8b0d63876e20faf5297e.pack-CF2EC2CBB976BD5EC6F1C27F451F701AE1821778",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--.git-index-04CEC054AC326C5DA095B2501DEDD1D0D4805873",
+        "SPDXRef-File--MANIFEST.in-D72BBC1AE3E68BADA14B69E328C53C548125DC94",
+        "SPDXRef-File--django-socketio-example-project-chat-templates-base.html-C4B22C9C27B4A2CD8F981CCF5EBFB590ADE27C34",
+        "SPDXRef-File--django-socketio-example-project-manage.py-F9E6351555FF02F6B29AB35BFE0BE7AEE69758E5",
+        "SPDXRef-File--django-socketio-events.py-FCA4742E686E263A489C8E42208B0B1D89853032",
+        "SPDXRef-File--django-socketio-clients.py-7F065AD216C646EBDF0D36A40BE459F580E09955",
+        "SPDXRef-File--.git-objects-pack-pack-f98be7ae43a0d73b950b8b0d63876e20faf5297e.idx-8FE46D6A3315DC986D1189F7C1A528879B4ACF1E",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-packed-refs-E30105A157EFC9757477F66B3084F8C71E1A7356",
+        "SPDXRef-File--README.rst-CE24B87D51C0653F082930334AB9078E635EA67E"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "django-socketio django-socketio-15.4.6",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-2.2.1-e72db91c-6eb0-4640-8dc9-0f94cd1f5356/django-socketio/django-socketio-15.4.6/jMfk2vz3a0aNosnYs5T9sw",
+  "creationInfo": {
+    "created": "2024-01-06T08:32:19Z",
+    "creators": [
+      "Organization: django-socketio",
+      "Tool: Microsoft.SBOMTool-2.2.1"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

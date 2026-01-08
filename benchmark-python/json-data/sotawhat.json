@@ -1,0 +1,38 @@
+{
+    "name": "sotawhat",
+    "home_page": "https://github.com/chiphuyen/sotawhat",
+    "author": "Person:",
+    "version": "1.0.0",
+    "license": "MIT",
+    "copyright": "",
+    "packages": [
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ""
+        },
+        {
+            "name": "nltk",
+            "license": "Apache-2.0",
+            "home_page": "https://www.nltk.org/",
+            "author": "NLTK Team",
+            "version": ""
+        },
+        {
+            "name": "six",
+            "license": "MIT",
+            "home_page": "https://github.com/benjaminp/six",
+            "author": "Benjamin Peterson",
+            "version": ""
+        },
+        {
+            "name": "pyspellchecker",
+            "license": "MIT",
+            "home_page": "https://github.com/barrust/pyspellchecker",
+            "author": "",
+            "version": ""
+        }
+    ]
+}

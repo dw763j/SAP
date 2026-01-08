@@ -1,0 +1,24 @@
+{
+    "name": "WoeUSB-ng",
+    "home_page": "https://github.com/WoeUSB/WoeUSB-ng",
+    "author": "Organization:Free Software Foundation, Inc. <http://fsf.org/>",
+    "version": "0.2.12",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>",
+    "packages": [
+        {
+            "name": "termcolor",
+            "license": "MIT",
+            "home_page": "https://github.com/termcolor/termcolor",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ""
+        }
+    ]
+}

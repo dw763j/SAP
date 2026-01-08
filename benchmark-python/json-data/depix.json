@@ -1,0 +1,26 @@
+{
+    "name": "depix",
+    "home_page": "https://github.com/beurtschipper/Depix",
+    "author": "Person:spipm",
+    "version": "",
+    "license": "CC-BY-4.0",
+    "copyright": "",
+    "packages": [
+        {
+            "name": "Pillow",
+            "home_page": "https://github.com/python-pillow/Pillow",
+            "author": "Organization:python-pillow",
+            "version": "",
+            "license": "HPND",
+            "copyright": "Copyright © 2010-2024 by Jeffrey A. Clark (Alex) and contributors."
+        },
+        {
+            "name": "types-Pillow",
+            "home_page": "https://github.com/python/typeshed/tree/main/stubs/Pillow",
+            "author": "Organization:python/typeshed",
+            "version": "",
+            "license": "Apache-2.0",
+            "copyright": ""
+        }
+    ]
+}

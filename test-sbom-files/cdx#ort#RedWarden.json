@@ -1,0 +1,29 @@
+{
+    "bom": {
+        "@serialNumber": "urn:uuid:e24ced1a-054c-42a5-a5ce-7a87f8afd83a",
+        "@version": "1",
+        "@xmlns": "http://cyclonedx.org/schema/bom/1.5",
+        "metadata": {
+            "timestamp": "2024-10-25T18:28:18Z",
+            "tools": {
+                "components": {
+                    "component": {
+                        "@type": "application",
+                        "name": "OSS Review Toolkit",
+                        "version": "36.0.0-018.sha.e5c6e0c"
+                    }
+                }
+            },
+            "licenses": {
+                "expression": "CC0-1.0"
+            }
+        },
+        "externalReferences": {
+            "reference": {
+                "@type": "vcs",
+                "url": "https://github.com/mgeeky/RedWarden.git",
+                "comment": "URL to the Git repository of the projects"
+            }
+        }
+    }
+}

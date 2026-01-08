@@ -1,0 +1,5 @@
+tool,Name,spdxVersion,dataLicense,SPDXID,documentNamespace,creators,created,name,spdxid,downloadLocation,versionInfo,packageVerificationCode,originator,supplier,licenseConcluded,licenseDeclared,copyrightText,externalRefs,cpe,purl,file_name,file_spdxid,checksum
+syft,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0159,0.9324,0.0,0.0913,0.0176,0.008,0.0308,0.0,89.4731,0.9324,0.9324,0.9352,0.9352,0.9352
+gh-sbom,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.6502,1.0,0.0,0.0,0.0,0.2986,0.6485,0.2832,0.0,0.0,1.0,0.0,0.0,0.0
+ort,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.1473,0.2957,0.1603,0.0,0.0,0.0,0.1502,0.7729,10.5138,0.0,0.1603,0.1603,0.1603,0.1603
+sbom-tool,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0117,1.0,1.0,0.0,0.9327,0.0543,0.0,0.0,0.7769,0.0,1.0,1.0,1.0,1.0

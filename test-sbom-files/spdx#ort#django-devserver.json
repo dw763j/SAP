@@ -1,0 +1,30 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "spdxVersion": "SPDX-2.2",
+    "creationInfo": {
+        "created": "2024-10-24T23:25:47Z",
+        "creators": [
+            "Tool: ort-36.0.0-018.sha.e5c6e0c"
+        ],
+        "licenseListVersion": "3.25.0"
+    },
+    "name": "Unnamed document",
+    "dataLicense": "CC0-1.0",
+    "documentNamespace": "spdx://6cc9e9e5-fccd-49d0-9a9d-b11617ff24b4",
+    "documentDescribes": [
+        "SPDXRef-Project-PIP-requirements.txt"
+    ],
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Project-PIP-requirements.txt",
+            "copyrightText": "Copyright (c) 2010 David Cramer and individual contributors\ncopyright 2010 by David Cramer",
+            "downloadLocation": "NONE",
+            "filesAnalyzed": false,
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "name": "requirements.txt",
+            "summary": "NONE"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "data_hacks",
+    "home_page": "https://github.com/bitly/data_hacks",
+    "author": "Person:",
+    "version": "0.3.1",
+    "license": "",
+    "copyright": "",
+    "packages": [
+        {
+            "name": "Distutils",
+            "license": "",
+            "home_page": "http://www.python.org/sigs/distutils-sig/",
+            "author": "Greg Ward",
+            "version": ""
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "name": "weibo_terminater",
+    "home_page": "https://github.com/lucasjinreal/weibo_terminater",
+    "author": "Organization:Jin Fagang & Tianmu Inc. & weibo_terminator authors",
+    "version": "",
+    "license": "Apache-2.0",
+    "copyright": "Copyright (C) Jin Fagang & Tianmu Inc. & weibo_terminator authors",
+    "packages": [
+        {
+            "name": "BeautifulSoup",
+            "license": "MIT",
+            "home_page": "http://www.crummy.com/software/BeautifulSoup/",
+            "author": "Leonard Richardson",
+            "version": ""
+        },
+        {
+            "name": "beautifulsoup4",
+            "license": "MIT",
+            "home_page": "https://github.com/collegue1337/BeautifulSoup4",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "bson",
+            "license": "BSD-4-Clause",
+            "home_page": "http://github.com/py-bson/bson",
+            "author": "Ayun Park",
+            "version": ""
+        },
+        {
+            "name": "chardet",
+            "license": "LGPL-2.0",
+            "home_page": "https://github.com/chardet/chardet",
+            "author": "Mark Pilgrim",
+            "version": ""
+        },
+        {
+            "name": "gyp",
+            "license": "",
+            "home_page": "http://code.google.com/p/gyp",
+            "author": "Chromium Authors",
+            "version": "0.1"
+        },
+        {
+            "name": "html5lib",
+            "license": "MIT",
+            "home_page": "https://github.com/html5lib/html5lib-python",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "lxml",
+            "license": "BSD-3-Clause",
+            "home_page": "https://lxml.de/",
+            "author": "lxml dev team",
+            "version": ""
+        },
+        {
+            "name": "pycrypto",
+            "license": "",
+            "home_page": "http://www.pycrypto.org/",
+            "author": "Dwayne C. Litzenberger",
+            "version": ""
+        },
+        {
+            "name": "pymongo",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/mongodb/mongo-python-driver",
+            "author": "The MongoDB Python Team",
+            "version": ""
+        },
+        {
+            "name": "pytz",
+            "license": "MIT",
+            "home_page": "http://pythonhosted.org/pytz",
+            "author": "Stuart Bishop",
+            "version": ""
+        },
+        {
+            "name": "selenium",
+            "license": "Apache-2.0",
+            "home_page": "https://www.selenium.dev",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "tqdm",
+            "license": ["MPL-2.0 ","MIT"],
+            "home_page": "https://github.com/tqdm/tqdm",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "alfred-py",
+            "license": "GPL-3.0-only",
+            "home_page": "https://github.com/jinfagang/alfred",
+            "author": "Lucas Jin",
+            "version": ""
+        },
+        {
+            "name": "alfred",
+            "license": "MIT",
+            "home_page": "http://github.com/deactivated/python-alfred",
+            "author": "Mike Spindel",
+            "version": ""
+        },
+        {
+            "name": "requests",
+            "license": "Apache-2.0",
+            "home_page": "https://requests.readthedocs.io",
+            "author": "Kenneth Reitz",
+            "version": ""
+        }
+    ]
+}

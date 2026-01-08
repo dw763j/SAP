@@ -1,0 +1,29 @@
+{
+    "bom": {
+        "@serialNumber": "urn:uuid:99eee7ae-85a1-4aac-8d26-223f374b718a",
+        "@version": "1",
+        "@xmlns": "http://cyclonedx.org/schema/bom/1.5",
+        "metadata": {
+            "timestamp": "2024-10-23T18:27:54Z",
+            "tools": {
+                "components": {
+                    "component": {
+                        "@type": "application",
+                        "name": "OSS Review Toolkit",
+                        "version": "36.0.0-018.sha.e5c6e0c"
+                    }
+                }
+            },
+            "licenses": {
+                "expression": "CC0-1.0"
+            }
+        },
+        "externalReferences": {
+            "reference": {
+                "@type": "vcs",
+                "url": "https://github.com/liangliangyy/DjangoBlog.git",
+                "comment": "URL to the Git repository of the projects"
+            }
+        }
+    }
+}

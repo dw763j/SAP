@@ -1,0 +1,38 @@
+{
+    "name": "huepy",
+    "home_page": "https://github.com/s0md3v/huepy",
+    "author": "Organization:Free Software Foundation, Inc. <https://fsf.org/>",
+    "version": "1.0-beta",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>",
+    "packages": [
+        {
+            "name": "colorama",
+            "license": "BSD-3-Clause",
+            "home_page": "https://github.com/tartley/colorama",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "termcolor",
+            "license": "MIT",
+            "home_page": "https://github.com/v2e4lisp/termcolor2",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "hue",
+            "license": "MIT",
+            "home_page": "https://github.com/issackelly/python-hue",
+            "author": "Issac Kelly",
+            "version": ""
+        },
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ""
+        }
+    ]
+}

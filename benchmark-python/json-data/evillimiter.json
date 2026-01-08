@@ -1,0 +1,59 @@
+{
+    "name": "evillimiter",
+    "home_page": "https://github.com/bitbrute/evillimiter",
+    "author": "Person:bitbrute",
+    "version": "1.5.0",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2019 bitbrute",
+    "packages": [
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ""
+        },
+        {
+            "name": "netifaces",
+            "license": "MIT",
+            "home_page": "https://github.com/al45tair/netifaces",
+            "author": "Alastair Houghton",
+            "version": ""
+        },
+        {
+            "name": "scapy",
+            "license": "GPL-2.0-only",
+            "home_page": "https://scapy.net",
+            "author": "Philippe BIONDI",
+            "version": ""
+        },
+        {
+            "name": "tqdm",
+            "license": ["MPL-2.0","MIT"],
+            "home_page": "https://github.com/tqdm/tqdm",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "netaddr",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/netaddr/netaddr",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "terminaltables",
+            "license": "MIT",
+            "home_page": "https://github.com/matthewdeanmartin/terminaltables",
+            "author": "Robpol86",
+            "version": ""
+        },
+        {
+            "name": "colorama",
+            "license": "BSD-3-Clause",
+            "home_page": "https://github.com/tartley/colorama",
+            "author": "",
+            "version": ""
+        }
+    ]
+}

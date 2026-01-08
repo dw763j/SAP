@@ -1,0 +1,213 @@
+{
+    "name": "uiautomator2",
+    "home_page": "https://github.com/openatx/uiautomator2",
+    "author": "Person:codeskyblue",
+    "version": "0.2.3",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2017 openatx",
+    "packages": [
+        {
+            "name": "Flask",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/pallets/flask",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "requests",
+            "license": "Apache-2.0",
+            "home_page": "https://requests.readthedocs.io",
+            "author": "Kenneth Reitz",
+            "version": ""
+        },
+        {
+            "name": "bunch",
+            "license": "MIT",
+            "home_page": "https://github.com/dsc/bunch",
+            "author": "David Schoonover",
+            "version": ""
+        },
+        {
+            "name": "pytest",
+            "license": "MIT",
+            "home_page": "https://docs.pytest.org/en/latest",
+            "version": "",
+            "author": "Holger Krekel, Bruno Oliveira, Ronny Pfannschmidt, Floris Bruynooghe, Brianna Laugher, Florian Bruhin and others"
+        },
+        {
+            "name": "imageio",
+            "license": "BSD-2-Clause",
+            "home_page": "https://github.com/imageio/imageio",
+            "author": "imageio contributors",
+            "version": ""
+        },
+        {
+            "name": "opencv-python",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/opencv/opencv-python",
+            "author": "OpenCV Team",
+            "version": ""
+        },
+        {
+            "name": "ipython",
+            "license": "BSD-3-Clause",
+            "home_page": "https://ipython.org",
+            "author": "The IPython Development Team",
+            "version": ""
+        },
+        {
+            "name": "pychrome",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/fate0/pychrome",
+            "author": "fate0",
+            "version": ""
+        },
+        {
+            "name": "selenium",
+            "license": "Apache-2.0",
+            "home_page": "https://www.selenium.dev",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "numpy",
+            "license": "self-defined",
+            "home_page": "https://numpy.org",
+            "author": "Travis E. Oliphant et al.",
+            "version": ""
+        },
+        {
+            "name": "scikit-image",
+            "license": "Files: * Copyright: 2009-2022 the scikit-image team License: BSD-3-Clause  Files: doc/source/themes/scikit-image/layout.html Copyright: 2007-2010 the Sphinx team License: BSD-3-Clause  Files: skimage/feature/_canny.py skimage/filters/edges.py skimage/filters/_rank_order.py skimage/morphology/_skeletonize.py skimage/morphology/tests/test_watershed.py skimage/morphology/watershed.py skimage/segmentation/heap_general.pxi skimage/segmentation/heap_watershed.pxi skimage/segmentation/_watershed.py skimage/segmentation/_watershed_cy.pyx Copyright: 2003-2009 Massachusetts Institute of Technology 2009-2011 Broad Institute 2003 Lee Kamentsky 2003-2005 Peter J. Verveer License: BSD-3-Clause  Files: skimage/filters/thresholding.py skimage/graph/_mcp.pyx skimage/graph/heap.pyx Copyright: 2009-2015 Board of Regents of the University of Wisconsin-Madison, Broad Institute of MIT and Harvard, and Max Planck Institute of Molecular Cell Biology and Genetics 2009 Zachary Pincus 2009 Almar Klein License: BSD-2-Clause  File: skimage/morphology/grayreconstruct.py skimage/morphology/tests/test_reconstruction.py Copyright: 2003-2009 Massachusetts Institute of Technology 2009-2011 Broad Institute 2003 Lee Kamentsky License: BSD-3-Clause  File: skimage/morphology/_grayreconstruct.pyx Copyright: 2003-2009 Massachusetts Institute of Technology 2009-2011 Broad Institute 2003 Lee Kamentsky 2022 Gregory Lee (added a 64-bit integer variant for large images) License: BSD-3-Clause  File: skimage/segmentation/_expand_labels.py Copyright: 2020 Broad Institute 2020 CellProfiler team License: BSD-3-Clause  File: skimage/exposure/_adapthist.py Copyright: 1994 Karel Zuiderveld License: BSD-3-Clause  Function: skimage/morphology/_skeletonize_cy.pyx:_skeletonize_loop Copyright: 2003-2009 Massachusetts Institute of Technology 2009-2011 Broad Institute 2003 Lee Kamentsky License: BSD-3-Clause  Function: skimage/_shared/version_requirements.py:_check_version Copyright: 2013 The IPython Development Team License: BSD-3-Clause  Function: skimage/_shared/version_requirements.py:is_installed Copyright: 2009-2011 Pierre Raybaut License: MIT  File: skimage/feature/_fisher_vector.py Copyright: 2014 2014 Dan Oneata License: MIT   License: BSD-2-Clause  Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. . THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS ``AS IS\"\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE HOLDERS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  License: BSD-3-Clause  Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 3. Neither the name of the University nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission. . THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS ``AS IS\"\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE HOLDERS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  License: MIT  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+            "home_page": "https://scikit-image.org",
+            "author": "scikit-image developers",
+            "version": ""
+        },
+        {
+            "name": "imutils",
+            "license": "MIT",
+            "home_page": "https://github.com/jrosebr1/imutils",
+            "author": "Adrian Rosebrock",
+            "version": ""
+        },
+        {
+            "name": "findit",
+            "license": "MIT",
+            "home_page": "https://github.com/williamfzc/findit",
+            "author": "williamfzc",
+            "version": ""
+        },
+        {
+            "name": "whichcraft",
+            "license": "BSD-3-Clause",
+            "home_page": "https://github.com/pydanny/whichcraft",
+            "author": "pydanny",
+            "version": ""
+        },
+        {
+            "name": "logzero",
+            "license": "MIT",
+            "home_page": "https://github.com/metachris/logzero",
+            "author": "Chris Hager",
+            "version": ""
+        },
+        {
+            "name": "six",
+            "license": "MIT",
+            "home_page": "https://github.com/benjaminp/six",
+            "author": "Benjamin Peterson",
+            "version": ""
+        },
+        {
+            "name": "pillow",
+            "license": "HPND",
+            "home_page": "https://github.com/python-pillow/Pillow",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "packaging",
+            "license": "Apache Software License, BSD License",
+            "home_page": "https://github.com/pypa/packaging",
+            "author": "Donald Stufft",
+            "version": ""
+        },
+        {
+            "name": "imageio",
+            "license": "BSD-2-Clause",
+            "home_page": "https://github.com/imageio/imageio",
+            "author": "imageio contributors",
+            "version": ">=2.8.0,<3.0"
+        },
+        {
+            "name": "imageio-ffmpeg",
+            "license": "BSD-2-Clause",
+            "home_page": "https://github.com/imageio/imageio-ffmpeg",
+            "author": "imageio contributors",
+            "version": ">=0.4.2,<1.0"
+        },
+        {
+            "name": "websocket-client",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/websocket-client/websocket-client.git",
+            "author": "liris",
+            "version": ">=0.57.0,<1.0"
+        },
+        {
+            "name": "requests",
+            "license": "Apache-2.0",
+            "home_page": "https://requests.readthedocs.io",
+            "author": "Kenneth Reitz",
+            "version": ">=2"
+        },
+        {
+            "name": "progress",
+            "license": "ISC",
+            "home_page": "http://github.com/verigak/progress/",
+            "author": "Georgios Verigakis",
+            "version": "~=1.3"
+        },
+        {
+            "name": "retry",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/invl/retry",
+            "author": "invl",
+            "version": "~=0.9"
+        },
+        {
+            "name": "adbutils",
+            "license": "MIT",
+            "home_page": "https://github.com/openatx/adbutils",
+            "author": "codeskyblue",
+            "version": ">=1.2.3"
+        },
+        {
+            "name": "Deprecated",
+            "license": "MIT",
+            "home_page": "https://github.com/tantale/deprecated",
+            "author": "Laurent LAPORTE",
+            "version": "~=1.2.6"
+        },
+        {
+            "name": "lxml",
+            "license": "BSD-3-Clause",
+            "home_page": "https://lxml.de/",
+            "author": "lxml dev team",
+            "version": ">=4.3"
+        },
+        {
+            "name": "cached-property",
+            "license": "BSD",
+            "home_page": "https://github.com/pydanny/cached-property",
+            "author": "Daniel Greenfeld",
+            "version": ">=1.5.1,<2.0"
+        },
+        {
+            "name": "filelock",
+            "license": "Unlicense",
+            "home_page": "https://github.com/tox-dev/py-filelock",
+            "author": "Bernát Gábor",
+            "version": ">=3.0.12,<4.0"
+        }
+    ]
+}

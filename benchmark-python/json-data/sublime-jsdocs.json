@@ -1,0 +1,17 @@
+{
+    "name": "sublime-jsdocs",
+    "home_page": "https://github.com/spadgos/sublime-jsdocs",
+    "author": "Person:Nick Fisher",
+    "version": "2.14.1",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2011-2013 Nick Fisher",
+    "packages": [
+        {
+            "name": "sublime",
+            "license": "CC0-1.0",
+            "home_page": "http://github.com/wasade/sublime",
+            "author": "Daniel McDonald",
+            "version": ""
+        }
+    ]
+}

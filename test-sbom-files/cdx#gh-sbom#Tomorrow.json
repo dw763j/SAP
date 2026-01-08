@@ -1,0 +1,1 @@
+{ "bomFormat": "CycloneDX", "specVersion": "1.4", "version": 1, "metadata": { "timestamp": "2024-01-05T23:07:47Z", "tools": [ { "vendor": "advanced-security", "name": "gh-sbom", "version": "0.0.9" } ], "licenses": [ { "expression": "CC0-1.0" } ] }, "components": [ { "type": "library", "name": "futures", "version": " 2.2.0", "purl": "pkg:pypi/futures@+2.2.0" } ] }

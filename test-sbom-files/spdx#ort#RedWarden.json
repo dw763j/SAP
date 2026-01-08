@@ -1,0 +1,30 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "spdxVersion": "SPDX-2.2",
+    "creationInfo": {
+        "created": "2024-10-25T18:28:18Z",
+        "creators": [
+            "Tool: ort-36.0.0-018.sha.e5c6e0c"
+        ],
+        "licenseListVersion": "3.25.0"
+    },
+    "name": "Unnamed document",
+    "dataLicense": "CC0-1.0",
+    "documentNamespace": "spdx://cb6c4d17-0680-4d46-9033-b6e9a9f3d9f6",
+    "documentDescribes": [
+        "SPDXRef-Project-PIP-requirements.txt"
+    ],
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Project-PIP-requirements.txt",
+            "copyrightText": "Copyright (c) 2007 Free Software Foundation, Inc. <https://fsf.org/>",
+            "downloadLocation": "NONE",
+            "filesAnalyzed": false,
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "name": "requirements.txt",
+            "summary": "NONE"
+        }
+    ]
+}

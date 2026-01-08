@@ -1,0 +1,34 @@
+{
+    "name": "pipreqs",
+    "home_page": "https://github.com/bndr/pipreqs",
+    "author": "Person:Vadim Kravcenko",
+    "version": "0.4.13",
+    "license": "Apache-2.0",
+    "copyright": "2015, Vadim Kravcenko",
+    "packages": [
+        {
+            "name": "wheel",
+            "home_page": "https://github.com/pypa/wheel",
+            "author": "Person:Daniel Holth",
+            "version": "0.38.1",
+            "license": "MIT",
+            "copyright": ""
+        },
+        {
+            "name": "yarg",
+            "home_page": "https://yarg.readthedocs.org/",
+            "author": "Person:Kura",
+            "version": "0.1.9",
+            "license": "MIT",
+            "copyright": ""
+        },
+        {
+            "name": "docopt",
+            "home_page": "http://docopt.org/",
+            "author": "Person:Vladimir Keleshev",
+            "version": "0.6.2",
+            "license": "MIT",
+            "copyright": ""
+        }
+    ]
+}

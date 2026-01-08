@@ -1,0 +1,31 @@
+{
+    "name": "rockstar",
+    "home_page": "https://github.com/avinassh/rockstar",
+    "author": "Person:Avinash Sajjanshetty <hi@avi.im>",
+    "version": "",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2015 Avinash Sajjanshetty <hi@avi.im>",
+    "packages": [
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ""
+        },
+        {
+            "name": "click",
+            "license": "BSD-3-Clause",
+            "home_page": "https://palletsprojects.com/p/click/",
+            "author": "",
+            "version": ">= 7.1.2"
+        },
+        {
+            "name": "GitPython",
+            "license": "BSD-3-Clause",
+            "home_page": "https://github.com/gitpython-developers/GitPython",
+            "author": "Sebastian Thiel, Michael Trier",
+            "version": ">= 3.1.14"
+        }
+    ]
+}

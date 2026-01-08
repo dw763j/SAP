@@ -1,0 +1,38 @@
+{
+    "name": "fuck12306",
+    "home_page": "https://github.com/andelf/fuck12306",
+    "author": "Person:ShuYu Wang",
+    "version": "",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2015 ShuYu Wang",
+    "packages": [
+        {
+            "name": "pillow",
+            "license": "HPND",
+            "home_page": "https://github.com/python-pillow/Pillow",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "tesseract-ocr",
+            "license": "MIT",
+            "home_page": "https://github.com/ratazzi/tesseract-ocr",
+            "author": "ratazzi",
+            "version": ""
+        },
+        {
+            "name": "pytesseract",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/madmaze/pytesseract",
+            "author": "Samuel Hoffstaetter",
+            "version": ""
+        },
+        {
+            "name": "requests",
+            "license": "Apache-2.0",
+            "home_page": "https://requests.readthedocs.io",
+            "author": "Kenneth Reitz",
+            "version": ""
+        }
+    ]
+}

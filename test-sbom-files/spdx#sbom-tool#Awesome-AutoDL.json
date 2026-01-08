@@ -1,0 +1,1175 @@
+{
+  "files": [
+    {
+      "fileName": "./LICENSE",
+      "SPDXID": "SPDXRef-File--LICENSE-3874A6C8F7679E219FB253D17C1A2A0DBA711B0B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ffd5a4625ad302afae3f60b8201e4e7741315d6eadc699429ad626d76df7b2de"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3874a6c8f7679e219fb253d17c1a2a0dba711b0b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-C4DB4D33C1E7D21999F2C37CE8C4B65BD917F9D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8ebac5a0bd5db399e14faf2e8db664bc6dff745ed78ea117ce25689ac17f0135"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c4db4d33c1e7d21999f2c37ce8c4b65bd917f9d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-6975E22C8F3F98132FA0148FB9A21117718DB4FB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "df8c4b7bbf451dcc41c2338d8703014ff77c926490fca89747f1bc4b30b93fea"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6975e22c8f3f98132fa0148fb9a21117718db4fb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/data_cls/__init__.py",
+      "SPDXID": "SPDXRef-File--awesome-autodl-data-cls---init--.py-CBE1E63203717BEC61F9D0EEE8BAF65EB1D80190",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "61c813db6f3adc897eae9068401c949ce9269db879b8003b537f92ab9d3a0866"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cbe1e63203717bec61f9d0eee8baf65eb1d80190"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/raw_data/__init__.py",
+      "SPDXID": "SPDXRef-File--awesome-autodl-raw-data---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-6975E22C8F3F98132FA0148FB9A21117718DB4FB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "df8c4b7bbf451dcc41c2338d8703014ff77c926490fca89747f1bc4b30b93fea"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6975e22c8f3f98132fa0148fb9a21117718db4fb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/bins/list_email.py",
+      "SPDXID": "SPDXRef-File--awesome-autodl-bins-list-email.py-48C25CAAA131A39B98AD90704492B511AFE22E2B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0740d191284af44d8ee1129118e05314b2cd4a69a2391bb78d3adfda9f12148d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "48c25caaa131a39b98ad90704492b511afe22e2b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/raw_data/papers/Neural_Architecture_Search.yaml",
+      "SPDXID": "SPDXRef-File--awesome-autodl-raw-data-papers-Neural-Architecture-Search.yaml-BFD9E5993D32321A5141AFD943F9F7F7B44F9231",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "35b8d2c478c7d398bd3d64c734ec1b0f95d0a441bb508aa919d9e49c5ede1c80"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bfd9e5993d32321a5141afd943f9f7f7b44f9231"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/utils/fix_invalid_email.py",
+      "SPDXID": "SPDXRef-File--awesome-autodl-utils-fix-invalid-email.py-4353619FFEE66B671F79B169336871DC963D49AF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b6f308ce52c621cceb28ccd22a28a825e349e4411b1d42b177ce58d3513cd5ca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4353619ffee66b671f79b169336871dc963d49af"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/utils/check.py",
+      "SPDXID": "SPDXRef-File--awesome-autodl-utils-check.py-86E78EC6520AD97A64FE3D532AE32EEFB6DE56B8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f5a5400c833c5b6ae56b9d5594d2bbe54d09dac82098eb5d43e841e098ce9bed"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "86e78ec6520ad97a64fe3d532ae32eefb6de56b8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-27831E259373601E4198006254B245EA74E8A9AB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c4c46e0c47c8eb3bc559f2cc5112596454f9a4675bd24e95c1ea2c83fa8be176"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "27831e259373601e4198006254b245ea74e8a9ab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-5AE7C22895C35AF5F56BA1891A4DD62B4DC1F955",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2bb6a24aa0fc6c484100f5d51a29bbad841cd2c755f5d93faa204e5dbb4eb2b4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5ae7c22895c35af5f56ba1891a4dd62b4dc1f955"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/bins/statistics.py",
+      "SPDXID": "SPDXRef-File--awesome-autodl-bins-statistics.py-F0FBADF0FA3A266AE3BD335D89A236C42508EE9A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dd0c3373ffb3457dbbb9c05224caa4eec3739eb1dd9b3629f04b06128df2fb66"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f0fbadf0fa3a266ae3bd335d89a236c42508ee9a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/raw_data/papers/Automated_Problem_Formulation.yaml",
+      "SPDXID": "SPDXRef-File--awesome-autodl-raw-data-papers-Automated-Problem-Formulation.yaml-CD0D4CC32346750408F7D4F5E78EC9A6E5B79A0D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cd0d4cc32346750408f7d4f5e78ec9a6e5b79a0d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/__init__.py",
+      "SPDXID": "SPDXRef-File--awesome-autodl---init--.py-696BF8C91ED2EF8012F4F623B4A5EB57BDD4297E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "51e33da577b4152a4c51966d390e21ae89e5a2efb6dc2d6d1f5cbaeb1735f465"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "696bf8c91ed2ef8012f4f623b4a5eb57bdd4297e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/bins/show_infos.py",
+      "SPDXID": "SPDXRef-File--awesome-autodl-bins-show-infos.py-AB01771FBA26F8D4A94A538624C8E855337BCE74",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "99888491bfa0dad189cf643507c5b4c2e1379d2bfb8d90ce68f3f258f5e3a886"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ab01771fba26f8d4a94a538624c8e855337bce74"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/raw_data/papers/Automated_Maintenance.yaml",
+      "SPDXID": "SPDXRef-File--awesome-autodl-raw-data-papers-Automated-Maintenance.yaml-6658AE8145690F301DB435C087859BAB29F2298D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "62b6a9d01734eacaa900b611fc96b7e68118e880dd3e871163f2a0ce9cbd554b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6658ae8145690f301db435c087859bab29f2298d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/utils/__init__.py",
+      "SPDXID": "SPDXRef-File--awesome-autodl-utils---init--.py-2212E739E0D4E384BD3864E08B1243C80053F989",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a491131ac19f968151877a867bf21365ff4ee0a2a0905958470edca2bf1bbdb5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2212e739e0d4e384bd3864e08b1243c80053f989"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_format.py",
+      "SPDXID": "SPDXRef-File--tests-test-format.py-491249B0DDA0534A14E65CED09502C8073D314BE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a339b6844aa1d75ce25f16180f1ab0ff133f9fbffd22c871ebff8bd2cd0fc48b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "491249b0dda0534a14e65ced09502c8073d314be"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./setup.py",
+      "SPDXID": "SPDXRef-File--setup.py-43D1AF96438BF15BAF723B96536A6B3E40CBE493",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1a9ab71bb2ee18ae66584b132c665ebed15d2a9f74601b301d982f06d2c50ed9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "43d1af96438bf15baf723b96536a6b3e40cbe493"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-9F1DF7EEA4156BE8A871C292B549B3325E425AA2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9f1df7eea4156be8a871c292b549b3325e425aa2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/main",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-main-6975E22C8F3F98132FA0148FB9A21117718DB4FB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "df8c4b7bbf451dcc41c2338d8703014ff77c926490fca89747f1bc4b30b93fea"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6975e22c8f3f98132fa0148fb9a21117718db4fb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/bins/list_email_FIE_202203.py",
+      "SPDXID": "SPDXRef-File--awesome-autodl-bins-list-email-FIE-202203.py-020527FAA17B0815D2AF27EC5F81BF75B289281A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "29b06c15266eff430c2b6e55248427e427443eecf3eb4f498c7da4701e5f250c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "020527faa17b0815d2af27ec5f81bf75b289281a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/raw_data/papers/Automated_Data_Engineering.yaml",
+      "SPDXID": "SPDXRef-File--awesome-autodl-raw-data-papers-Automated-Data-Engineering.yaml-4C5F30FC1508E233A7E9CD3C39A1C35AD0D5939A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "67f4d4a2ce3904d9b1252cf127aa7f057d16f687fbf8b9a7421673798912e105"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4c5f30fc1508e233a7e9cd3c39a1c35ad0d5939a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/utils/yaml.py",
+      "SPDXID": "SPDXRef-File--awesome-autodl-utils-yaml.py-DEF5CF2D5E3C8508AD4EAC00F190248868C310A6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "595a951c31abce427ea3009faa75d4228a661fce3ca9710cd87823623e3fef1a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "def5cf2d5e3c8508ad4eac00f190248868c310a6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/main",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-main-15D13BFEABF664CBB9B68359B8A609E024030E39",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "75d25dc8c5788c5a56ae1d8526278df8228faab22f8bbb0eacb91725323b5338"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "15d13bfeabf664cbb9b68359b8a609e024030e39"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/bins/__init__.py",
+      "SPDXID": "SPDXRef-File--awesome-autodl-bins---init--.py-8A4ABC15E464A9C118013AAD0631DB4733B89084",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2809e59564792260ce837b4941472df961c05c5abfafedd0b5f95f12c25c21d7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8a4abc15e464a9c118013aad0631db4733b89084"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/raw_data/papers/Automated_Deployment.yaml",
+      "SPDXID": "SPDXRef-File--awesome-autodl-raw-data-papers-Automated-Deployment.yaml-D3878003977F68336C067CABA02019F0E3AA6A2B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f96c8b43391d737616385ce27061d0e0b02245a93861957cc7306b6ae77c13e4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d3878003977f68336c067caba02019f0e3aa6a2b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_abbrv.py",
+      "SPDXID": "SPDXRef-File--tests-test-abbrv.py-2D6DBC1BFE98EB5386396AC3361C2DC5A1BE675D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a61905cb3d96b2ca9141c920271b91d8bcf62d0ab327e9ee5afc1d54fee8546f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2d6dbc1bfe98eb5386396ac3361c2dc5a1be675d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-1D285198203B1E3C2A9EC2AC0B654A62B50D4CD2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "61e592672c37282da71189f9442e6491e9174eba71eb35851d0df78c7af74649"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1d285198203b1e3c2a9ec2ac0b654a62b50d4cd2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-d7821531e7859b2991e40d6f8e229b70a44b08a2.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-d7821531e7859b2991e40d6f8e229b70a44b08a2.pack-3E0D05CC06D1CA6A2A5D4FDC3AD416B3FB97997A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "70da292dc3874ad389b35627d80ec72c859676ca07acf2e2a1ea987a14b867d7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3e0d05cc06d1ca6a2a5d4fdc3ad416b3fb97997a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/data_cls/paper.py",
+      "SPDXID": "SPDXRef-File--awesome-autodl-data-cls-paper.py-9918EFA4C4CB5C4CE3682F9192E74F6870D23FE0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a95957c639399066e79494ecd370d944ea15ade8e31398977c58cc3dcf7906f3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9918efa4c4cb5c4ce3682f9192e74f6870d23fe0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/raw_data/abbrv.yaml",
+      "SPDXID": "SPDXRef-File--awesome-autodl-raw-data-abbrv.yaml-BFCA2B4F28992C3F8DD7E6CF0692215DACF46C3D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "07c955756e8257566ea70ae5869e148200de82bb6987b3beebfa992d25dd4c7b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bfca2b4f28992c3f8dd7e6cf0692215dacf46c3d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/raw_data/papers/Hyperparameter_Optimization.yaml",
+      "SPDXID": "SPDXRef-File--awesome-autodl-raw-data-papers-Hyperparameter-Optimization.yaml-F3C6649846E529D420CFBB488EA8430519D0486D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0ff532ae45e157a12b7f7ea0ca49f136c7e552ac03478ef7b88b7f925124cc2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f3c6649846e529d420cfbb488ea8430519d0486d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/test-basic.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-test-basic.yml-0C70BFFB6852A78C977EDBB89082EF92C2D210F0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d2db2f6c26263eeeeee8888deac005e1ec5eed406d4db41b1c475a470898f9c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0c70bffb6852a78c977edbb89082ef92c2d210f0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-19E70C40D7FFD7B7F7EEA265A35F7B5AE0F1BF85",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bddd74695c40d085607e88501b5ebc785d10d75244ee585b6920111ef74d9945"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "19e70c40d7ffd7b7f7eea265a35f7b5ae0f1bf85"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-C9335C1C9F14131DB016DE119C4E35710F964C45",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5e6ae5ca52f5c63a51e56f2b716dd88677d965fe55637cc72b510b0ea7847ee2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c9335c1c9f14131db016de119c4e35710f964c45"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-d7821531e7859b2991e40d6f8e229b70a44b08a2.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-d7821531e7859b2991e40d6f8e229b70a44b08a2.idx-8053D3A0423144A2661681560AC3C34DEB1188B2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "75d4e2d7974b925c584fcb840a6eecfb3969da73a8d9b6fdbefd3d96f732c99d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8053d3a0423144a2661681560ac3c34deb1188b2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/data_cls/abbrv.py",
+      "SPDXID": "SPDXRef-File--awesome-autodl-data-cls-abbrv.py-6B570562EEA72BB4FE0D0785A44428F5CF3D10A7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "382d151350478ff9dd8ea42faf0174573b8efb9e76ce1334dd08aa443f30dd33"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6b570562eea72bb4fe0d0785a44428f5cf3d10a7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/raw_data/abbrv.bib",
+      "SPDXID": "SPDXRef-File--awesome-autodl-raw-data-abbrv.bib-1F5C285EFD5432F81F4B06A4EC08EC8F93DB7F0B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa353b8d252627dbba24c855f4cb36cc0b6632f551f726fb9a21f229044d77e5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1f5c285efd5432f81f4b06a4ec08ec8f93db7f0b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./awesome_autodl/utils/filter.py",
+      "SPDXID": "SPDXRef-File--awesome-autodl-utils-filter.py-8BB134327E95948E1FB302D857EA39A519585B27",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a0e0e1af1b24924186b2613723c83c7dcd13ef0bd0a755491b967614b139df13"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8bb134327e95948e1fb302d857ea39a519585b27"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "Awesome-AutoDL",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "4524c6e897788ec2d2ca7ebba53d1909e69306fd"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "Awesome-AutoDL-15.4.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:swid/Awesome-AutoDL/spdx.org/Awesome-AutoDL@Awesome-AutoDL-15.4.6?tag_id=f317ecf2-27b5-4eba-abf4-2a0c8aa041f2"
+        }
+      ],
+      "supplier": "Organization: Awesome-AutoDL",
+      "hasFiles": [
+        "SPDXRef-File--.github-workflows-test-basic.yml-0C70BFFB6852A78C977EDBB89082EF92C2D210F0",
+        "SPDXRef-File--awesome-autodl-raw-data-papers-Hyperparameter-Optimization.yaml-F3C6649846E529D420CFBB488EA8430519D0486D",
+        "SPDXRef-File--awesome-autodl-raw-data-abbrv.yaml-BFCA2B4F28992C3F8DD7E6CF0692215DACF46C3D",
+        "SPDXRef-File--awesome-autodl-data-cls-paper.py-9918EFA4C4CB5C4CE3682F9192E74F6870D23FE0",
+        "SPDXRef-File--.git-objects-pack-pack-d7821531e7859b2991e40d6f8e229b70a44b08a2.pack-3E0D05CC06D1CA6A2A5D4FDC3AD416B3FB97997A",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--.git-index-1D285198203B1E3C2A9EC2AC0B654A62B50D4CD2",
+        "SPDXRef-File--awesome-autodl-utils---init--.py-2212E739E0D4E384BD3864E08B1243C80053F989",
+        "SPDXRef-File--awesome-autodl-raw-data-papers-Automated-Problem-Formulation.yaml-CD0D4CC32346750408F7D4F5E78EC9A6E5B79A0D",
+        "SPDXRef-File--awesome-autodl-bins-statistics.py-F0FBADF0FA3A266AE3BD335D89A236C42508EE9A",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-5AE7C22895C35AF5F56BA1891A4DD62B4DC1F955",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--awesome-autodl-utils-fix-invalid-email.py-4353619FFEE66B671F79B169336871DC963D49AF",
+        "SPDXRef-File--awesome-autodl-raw-data---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--awesome-autodl-data-cls---init--.py-CBE1E63203717BEC61F9D0EEE8BAF65EB1D80190",
+        "SPDXRef-File--.git-logs-HEAD-6975E22C8F3F98132FA0148FB9A21117718DB4FB",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--README.md-C4DB4D33C1E7D21999F2C37CE8C4B65BD917F9D1",
+        "SPDXRef-File--tests-test-abbrv.py-2D6DBC1BFE98EB5386396AC3361C2DC5A1BE675D",
+        "SPDXRef-File--awesome-autodl-raw-data-papers-Automated-Deployment.yaml-D3878003977F68336C067CABA02019F0E3AA6A2B",
+        "SPDXRef-File--awesome-autodl-bins---init--.py-8A4ABC15E464A9C118013AAD0631DB4733B89084",
+        "SPDXRef-File--.git-refs-heads-main-15D13BFEABF664CBB9B68359B8A609E024030E39",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-HEAD-9F1DF7EEA4156BE8A871C292B549B3325E425AA2",
+        "SPDXRef-File--tests-test-format.py-491249B0DDA0534A14E65CED09502C8073D314BE",
+        "SPDXRef-File--awesome-autodl-raw-data-papers-Automated-Maintenance.yaml-6658AE8145690F301DB435C087859BAB29F2298D",
+        "SPDXRef-File--awesome-autodl-bins-show-infos.py-AB01771FBA26F8D4A94A538624C8E855337BCE74",
+        "SPDXRef-File--awesome-autodl---init--.py-696BF8C91ED2EF8012F4F623B4A5EB57BDD4297E",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-config-27831E259373601E4198006254B245EA74E8A9AB",
+        "SPDXRef-File--awesome-autodl-utils-check.py-86E78EC6520AD97A64FE3D532AE32EEFB6DE56B8",
+        "SPDXRef-File--awesome-autodl-raw-data-papers-Neural-Architecture-Search.yaml-BFD9E5993D32321A5141AFD943F9F7F7B44F9231",
+        "SPDXRef-File--awesome-autodl-bins-list-email.py-48C25CAAA131A39B98AD90704492B511AFE22E2B",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-6975E22C8F3F98132FA0148FB9A21117718DB4FB",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--LICENSE-3874A6C8F7679E219FB253D17C1A2A0DBA711B0B",
+        "SPDXRef-File--awesome-autodl-utils-yaml.py-DEF5CF2D5E3C8508AD4EAC00F190248868C310A6",
+        "SPDXRef-File--awesome-autodl-raw-data-papers-Automated-Data-Engineering.yaml-4C5F30FC1508E233A7E9CD3C39A1C35AD0D5939A",
+        "SPDXRef-File--awesome-autodl-bins-list-email-FIE-202203.py-020527FAA17B0815D2AF27EC5F81BF75B289281A",
+        "SPDXRef-File--.git-logs-refs-heads-main-6975E22C8F3F98132FA0148FB9A21117718DB4FB",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--setup.py-43D1AF96438BF15BAF723B96536A6B3E40CBE493",
+        "SPDXRef-File--awesome-autodl-utils-filter.py-8BB134327E95948E1FB302D857EA39A519585B27",
+        "SPDXRef-File--awesome-autodl-raw-data-abbrv.bib-1F5C285EFD5432F81F4B06A4EC08EC8F93DB7F0B",
+        "SPDXRef-File--awesome-autodl-data-cls-abbrv.py-6B570562EEA72BB4FE0D0785A44428F5CF3D10A7",
+        "SPDXRef-File--.git-objects-pack-pack-d7821531e7859b2991e40d6f8e229b70a44b08a2.idx-8053D3A0423144A2661681560AC3C34DEB1188B2",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-packed-refs-C9335C1C9F14131DB016DE119C4E35710F964C45",
+        "SPDXRef-File--.gitignore-19E70C40D7FFD7B7F7EEA265A35F7B5AE0F1BF85"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "Awesome-AutoDL Awesome-AutoDL-15.4.6",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-2.2.1-fdd10fa0-9d23-4dd4-ae30-3c9b61ef8214/Awesome-AutoDL/Awesome-AutoDL-15.4.6/rdil4nF0PE6pe6FcxBSlaQ",
+  "creationInfo": {
+    "created": "2024-01-06T03:01:34Z",
+    "creators": [
+      "Organization: Awesome-AutoDL",
+      "Tool: Microsoft.SBOMTool-2.2.1"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

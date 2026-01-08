@@ -1,0 +1,43 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "spdxVersion": "SPDX-2.2",
+    "creationInfo": {
+        "created": "2024-10-27T00:19:51Z",
+        "creators": [
+            "Tool: ort-36.0.0-018.sha.e5c6e0c"
+        ],
+        "licenseListVersion": "3.25.0"
+    },
+    "name": "Unnamed document",
+    "dataLicense": "CC0-1.0",
+    "documentNamespace": "spdx://98d12001-57c7-4048-9647-ca212a346c68",
+    "documentDescribes": [
+        "SPDXRef-Project-PIP-pt.setup.py",
+        "SPDXRef-Project-Unmanaged-VMZ-4cc542d58c1c560571e1e962426e858e00de28d2"
+    ],
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Project-PIP-pt.setup.py",
+            "copyrightText": "Copyright (c) Facebook, Inc. and its affiliates",
+            "downloadLocation": "NONE",
+            "filesAnalyzed": false,
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "name": "pt/setup.py",
+            "summary": "NONE"
+        },
+        {
+            "SPDXID": "SPDXRef-Project-Unmanaged-VMZ-4cc542d58c1c560571e1e962426e858e00de28d2",
+            "copyrightText": "Copyright (c) 2000-2018 the FFmpeg developers\nCopyright (c) 2005-2016 NVIDIA Corporation Built\nCopyright (c) 2020 present, Facebook, Inc.\nCopyright (c) Facebook, Inc. and its affiliates\nCopyright 2018, 2020 present, Facebook, Inc.",
+            "downloadLocation": "NONE",
+            "filesAnalyzed": false,
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "name": "VMZ",
+            "summary": "NONE",
+            "versionInfo": "4cc542d58c1c560571e1e962426e858e00de28d2"
+        }
+    ]
+}

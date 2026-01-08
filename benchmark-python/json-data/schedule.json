@@ -1,0 +1,11 @@
+{
+    "name": "schedule",
+    "home_page": "https://github.com/dbader/schedule",
+    "author": "Person:Daniel Bader",
+    "version": "1.2.1",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2013 Daniel Bader (http://dbader.org)",
+    "packages": [
+        {}
+    ]
+}

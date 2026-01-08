@@ -1,0 +1,30 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "spdxVersion": "SPDX-2.2",
+    "creationInfo": {
+        "created": "2024-10-26T03:39:08Z",
+        "creators": [
+            "Tool: ort-36.0.0-018.sha.e5c6e0c"
+        ],
+        "licenseListVersion": "3.25.0"
+    },
+    "name": "Unnamed document",
+    "dataLicense": "CC0-1.0",
+    "documentNamespace": "spdx://cb87df5e-8e3f-4ac4-9fcc-a4d372942de8",
+    "documentDescribes": [
+        "SPDXRef-Project-PIP-setup.py"
+    ],
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Project-PIP-setup.py",
+            "copyrightText": "Copyright (c) 2011-2023 Elasticsearch <http://www.elastic.co>\nCopyright 2011-2023 Elasticsearch <http://elastic.co> and contributors",
+            "downloadLocation": "NONE",
+            "filesAnalyzed": false,
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "name": "setup.py",
+            "summary": "NONE"
+        }
+    ]
+}

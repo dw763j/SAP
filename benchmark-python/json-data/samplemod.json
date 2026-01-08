@@ -1,0 +1,31 @@
+{
+    "name": "samplemod",
+    "home_page": "https://github.com/navdeep-G/samplemod",
+    "author": "Person:Kenneth Reitz",
+    "version": "",
+    "license": "BSD-2-Clause",
+    "copyright": "Copyright (c) 2017, Kenneth Reitz",
+    "packages": [
+        {
+            "name": "nose",
+            "license": "LGPL-2.0",
+            "home_page": "http://readthedocs.org/docs/nose/",
+            "author": "Jason Pellerin",
+            "version": ""
+        },
+        {
+            "name": "Sphinx",
+            "license": "",
+            "home_page": "",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ""
+        }
+    ]
+}

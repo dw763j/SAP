@@ -1,0 +1,24 @@
+{
+    "name": "BDFProxy",
+    "home_page": "https://github.com/secretsquirrel/BDFProxy",
+    "author": "Person:",
+    "version": "0.3.9",
+    "license": "",
+    "copyright": "",
+    "packages": [
+        {
+            "name": "pefile",
+            "license": "MIT",
+            "home_page": "https://github.com/erocarrera/pefile",
+            "author": "Ero Carrera",
+            "version": ""
+        },
+        {
+            "name": "configobj",
+            "license": "BSD-2-clause",
+            "home_page": "https://github.com/DiffSK/configobj",
+            "author": "Rob Dennis, Eli Courtwright (Michael Foord & Nicola Larosa original maintainers)",
+            "version": ""
+        }
+    ]
+}

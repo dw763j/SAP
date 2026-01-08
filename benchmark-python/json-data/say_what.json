@@ -1,0 +1,38 @@
+{
+    "name": "say_what",
+    "home_page": "https://github.com/joshnewlan/say_what",
+    "author": "Person:",
+    "version": "",
+    "license": "",
+    "copyright": "",
+    "packages": [
+        {
+            "name": "PyAudio",
+            "license": "MIT",
+            "home_page": "https://people.csail.mit.edu/hubert/pyaudio/",
+            "author": "Hubert Pham",
+            "version": ""
+        },
+        {
+            "name": "SpeechRecognition",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/Uberi/speech_recognition#readme",
+            "author": "Anthony Zhang (Uberi)",
+            "version": ""
+        },
+        {
+            "name": "requests",
+            "license": "Apache-2.0",
+            "home_page": "https://requests.readthedocs.io",
+            "author": "Kenneth Reitz",
+            "version": ""
+        },
+        {
+            "name": "thread",
+            "license": "BSD-3-Clause",
+            "home_page": "",
+            "author": "Alex",
+            "version": ""
+        }
+    ]
+}

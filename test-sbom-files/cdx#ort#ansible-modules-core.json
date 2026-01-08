@@ -1,0 +1,172 @@
+{
+    "bom": {
+        "@serialNumber": "urn:uuid:9f004bd4-edf0-4d00-8018-f697cd4e75dd",
+        "@version": "1",
+        "@xmlns": "http://cyclonedx.org/schema/bom/1.5",
+        "metadata": {
+            "timestamp": "2024-10-24T23:44:23Z",
+            "tools": {
+                "components": {
+                    "component": {
+                        "@type": "application",
+                        "name": "OSS Review Toolkit",
+                        "version": "36.0.0-018.sha.e5c6e0c"
+                    }
+                }
+            },
+            "licenses": {
+                "expression": "CC0-1.0"
+            }
+        },
+        "components": {
+            "component": [
+                {
+                    "@type": "library",
+                    "@bom-ref": "PyPI::jinja2:3.1.4",
+                    "name": "jinja2",
+                    "version": "3.1.4",
+                    "description": "A very fast and expressive template engine.",
+                    "scope": "required",
+                    "hashes": {
+                        "hash": {
+                            "@alg": "SHA-256",
+                            "#text": "bc5dd2abb727a5319567b7a813e6a2e7318c39f4f487cfe6c89c6f9c7d25197d"
+                        }
+                    },
+                    "licenses": {
+                        "license": [
+                            {
+                                "id": "BSD-3-Clause",
+                                "text": {
+                                    "@content-type": "plain/text",
+                                    "#text": "Redistribution and use in source and binary forms, with or without modification,\nare permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list\nof conditions and the following disclaimer.\n\nRedistributions in binary form must reproduce the above copyright notice, this\nlist of conditions and the following disclaimer in the documentation and/or\nother materials provided with the distribution.\n\nNeither the name of the ORGANIZATION nor the names of its contributors may be\nused to endorse or promote products derived from this software without specific\nprior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS\n\"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,\nTHE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE\nARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS\nBE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR\nCONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE\nGOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)\nHOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT\nLIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF\nTHE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+                                },
+                                "ort:origin": {
+                                    "@xmlns:ort": "http://www.w3.org/1999/xhtml",
+                                    "#text": "detected license"
+                                }
+                            },
+                            {
+                                "name": "NOASSERTION",
+                                "ort:origin": {
+                                    "@xmlns:ort": "http://www.w3.org/1999/xhtml",
+                                    "#text": "detected license"
+                                }
+                            }
+                        ]
+                    },
+                    "copyright": "Copyright 2007 Pallets, copyright 2007 Pallets, (c) Copyright 2008 by http://domain.invalid/>",
+                    "purl": "pkg:pypi/jinja2@3.1.4",
+                    "modified": "false",
+                    "ort:dependencyType": {
+                        "@xmlns:ort": "http://www.w3.org/1999/xhtml",
+                        "#text": "direct"
+                    }
+                },
+                {
+                    "@type": "library",
+                    "@bom-ref": "PyPI::markupsafe:3.0.2",
+                    "name": "markupsafe",
+                    "version": "3.0.2",
+                    "description": "Safely add untrusted strings to HTML/XML markup.",
+                    "scope": "required",
+                    "hashes": {
+                        "hash": {
+                            "@alg": "SHA-256",
+                            "#text": "a123e330ef0853c6e822384873bef7507557d8e4a082961e1defa947aa59ba84"
+                        }
+                    },
+                    "licenses": {
+                        "license": [
+                            {
+                                "id": "BSD-3-Clause",
+                                "text": {
+                                    "@content-type": "plain/text",
+                                    "#text": "Redistribution and use in source and binary forms, with or without modification,\nare permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list\nof conditions and the following disclaimer.\n\nRedistributions in binary form must reproduce the above copyright notice, this\nlist of conditions and the following disclaimer in the documentation and/or\nother materials provided with the distribution.\n\nNeither the name of the ORGANIZATION nor the names of its contributors may be\nused to endorse or promote products derived from this software without specific\nprior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS\n\"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,\nTHE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE\nARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS\nBE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR\nCONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE\nGOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)\nHOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT\nLIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF\nTHE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+                                },
+                                "ort:origin": {
+                                    "@xmlns:ort": "http://www.w3.org/1999/xhtml",
+                                    "#text": "detected license"
+                                }
+                            },
+                            {
+                                "name": "NOASSERTION",
+                                "ort:origin": {
+                                    "@xmlns:ort": "http://www.w3.org/1999/xhtml",
+                                    "#text": "detected license"
+                                }
+                            }
+                        ]
+                    },
+                    "copyright": "Copyright 2010 Pallets, copyright 2010 Pallets",
+                    "purl": "pkg:pypi/markupsafe@3.0.2",
+                    "modified": "false",
+                    "ort:dependencyType": {
+                        "@xmlns:ort": "http://www.w3.org/1999/xhtml",
+                        "#text": "transitive"
+                    }
+                },
+                {
+                    "@type": "library",
+                    "@bom-ref": "PyPI::pyyaml:6.0.2",
+                    "name": "pyyaml",
+                    "version": "6.0.2",
+                    "description": "YAML parser and emitter for Python",
+                    "scope": "required",
+                    "hashes": {
+                        "hash": {
+                            "@alg": "SHA-256",
+                            "#text": "3ad2a3decf9aaba3d29c8f537ac4b243e36bef957511b4766cb0057d32b0be85"
+                        }
+                    },
+                    "licenses": {
+                        "license": [
+                            {
+                                "id": "MIT",
+                                "text": {
+                                    "@content-type": "plain/text",
+                                    "#text": "Permission is hereby granted, free of charge, to any person obtaining\na copy of this software and associated documentation files (the\n\"Software\"), to deal in the Software without restriction, including\nwithout limitation the rights to use, copy, modify, merge, publish,\ndistribute, sublicense, and/or sell copies of the Software, and to\npermit persons to whom the Software is furnished to do so, subject to\nthe following conditions:\n\nThe above copyright notice and this permission notice shall be\nincluded in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\nIN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY\nCLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,\nTORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE\nSOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+                                },
+                                "ort:origin": {
+                                    "@xmlns:ort": "http://www.w3.org/1999/xhtml",
+                                    "#text": "declared license"
+                                }
+                            },
+                            {
+                                "id": "MIT",
+                                "text": {
+                                    "@content-type": "plain/text",
+                                    "#text": "Permission is hereby granted, free of charge, to any person obtaining\na copy of this software and associated documentation files (the\n\"Software\"), to deal in the Software without restriction, including\nwithout limitation the rights to use, copy, modify, merge, publish,\ndistribute, sublicense, and/or sell copies of the Software, and to\npermit persons to whom the Software is furnished to do so, subject to\nthe following conditions:\n\nThe above copyright notice and this permission notice shall be\nincluded in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\nIN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY\nCLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,\nTORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE\nSOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+                                },
+                                "ort:origin": {
+                                    "@xmlns:ort": "http://www.w3.org/1999/xhtml",
+                                    "#text": "detected license"
+                                }
+                            }
+                        ]
+                    },
+                    "copyright": "Copyright (c) 2017-2021 Ingy, Copyright (c) 2006-2016 Kirill Simonov, Copyright (c) 2006-2016 Kirill Simonov <xi@resolvent.net>",
+                    "purl": "pkg:pypi/pyyaml@6.0.2",
+                    "modified": "false",
+                    "externalReferences": {
+                        "reference": {
+                            "@type": "website",
+                            "url": "https://pyyaml.org/"
+                        }
+                    },
+                    "ort:dependencyType": {
+                        "@xmlns:ort": "http://www.w3.org/1999/xhtml",
+                        "#text": "direct"
+                    }
+                }
+            ]
+        },
+        "externalReferences": {
+            "reference": {
+                "@type": "vcs",
+                "url": "https://github.com/ansible/ansible-modules-core.git",
+                "comment": "URL to the Git repository of the projects"
+            }
+        }
+    }
+}

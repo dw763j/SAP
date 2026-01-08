@@ -1,0 +1,5373 @@
+{
+  "files": [
+    {
+      "fileName": "./setup.py",
+      "SPDXID": "SPDXRef-File--setup.py-4308244188E4F2D46A3C268410DD0283C78C49E1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a27b46f586058a4de88e66ba331f255f29cb2906ce587c0ed8df1147a3133951"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4308244188e4f2d46a3c268410dd0283c78c49e1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-A05A3314396F74877E77BF0F57E91B768932CAD7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7014f6754386f9fc0cb87cc6d66238b2ffb1facd8b94ca503012ad126605c513"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a05a3314396f74877e77bf0f57e91b768932cad7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./run_tests",
+      "SPDXID": "SPDXRef-File--run-tests-16189BB8C00849608DAF08632A309B3DB04BBE4F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a2ae2dd487c98e45e1b7a95f4685f9b890abe4dde65ccb9f37c3e90bc83ed7cb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "16189bb8c00849608daf08632a309b3db04bbe4f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-14FE9BADC5B58ED5266C7AA00214C85B4E924060",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b0384b9c207af889263afc8844c118b01fe1981f2f87213b877b4e2d387a951a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "14fe9badc5b58ed5266c7aa00214c85b4e924060"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-8e773aeff4d531a646644efb5325bb5ba7fe347e.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-8e773aeff4d531a646644efb5325bb5ba7fe347e.idx-6FDCE521274095B97AB27189174C69CD47A43FF1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e50eea704253d2e7575460c79a118db87d5df6d2413c4deed692553381377cf3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6fdce521274095b97ab27189174c69cd47a43ff1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/README.md",
+      "SPDXID": "SPDXRef-File--demo-README.md-6BF98C8173C3C4B9117039A290925BCF0CCE6E27",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4704aa97363d9a4e92b4dda7ec8291c9447af14e990e9298dcce65fe64f6b219"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6bf98c8173c3c4b9117039a290925bcf0cce6e27"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/settings_dotcloud.py",
+      "SPDXID": "SPDXRef-File--demo-demo-settings-dotcloud.py-D21979B2EB0E0565E51955EECCD6C75EBE6629E1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d62bee39d76040c64bd8c77c09f34c8870b335e4bf1213338ab1b474c6e8c636"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d21979b2eb0e0565e51955eeccd6c75ebe6629e1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/static/img/crew.png",
+      "SPDXID": "SPDXRef-File--demo-demo-static-img-crew.png-EFA1DE49538B4E1D0BF5A2C355909175A3D288CC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "22b3141cc3c85d53043842903fa41e12a679365747181f22a737cb4b28adeb4b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "efa1de49538b4e1d0bf5a2c355909175a3d288cc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/static/img/grid.png",
+      "SPDXID": "SPDXRef-File--demo-demo-static-img-grid.png-CD21DE63CD7AF5D8EFF786F998543AE735885AEC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4ce9c072b190bb03eb8608d5db472be20f4d2ca08e61bcaac0e23beb026697d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cd21de63cd7af5d8eff786f998543ae735885aec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/templates/500.html",
+      "SPDXID": "SPDXRef-File--demo-demo-templates-500.html-E2601930D0020459682BF5F9C2B61D038867B1F5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d4ce9314b4a41a68478215d374692fd0645c6c6db4aaee1f3e70c8c14bb028b5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e2601930d0020459682bf5f9c2b61d038867b1f5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/templates/userena/profile_list.html",
+      "SPDXID": "SPDXRef-File--demo-demo-templates-userena-profile-list.html-DC161D51D09E16B1206FD82E2C185E7C2F3CE4B6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1db898089be1e25d7673ac4a03f47ab347cf48063bd6cc3fb9dce573834be004"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dc161d51d09e16b1206fd82e2c185e7c2f3ce4b6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tox.ini",
+      "SPDXID": "SPDXRef-File--tox.ini-10417256252BF8A452A2711DBABB87369D330366",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b8e719dbcef9253530333401baccb3f8d206e46a5f82b5adf8d3c8c86c61fefc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "10417256252bf8a452a2711dbabb87369d330366"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./setup.cfg",
+      "SPDXID": "SPDXRef-File--setup.cfg-83785CD7E34A22CF5EDA1F9A5F8EA329C3CA493C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4615abb13529d63b87aeb5ef9378a6f885a4cd51fa945b8ac026052548d19b01"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "83785cd7e34a22cf5eda1f9a5f8ea329c3ca493c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-FB50F3B8BFFC7AD4771F77C5AB741EE9DFDD1243",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9fd2f40343716fd811acb3aa3baea8075aeab5d50aa746dffd219870f839adc7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fb50f3b8bffc7ad4771f77c5ab741ee9dfdd1243"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./UPDATES.md",
+      "SPDXID": "SPDXRef-File--UPDATES.md-6D4EE109311A3343D3B5CD4902CE918090C3A963",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5bb05c949f9c50f37526bcdfacc5a017d3d52d35ff9de8eb423ddaec3df2f942"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6d4ee109311a3343d3b5cd4902ce918090c3a963"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/requirements.txt",
+      "SPDXID": "SPDXRef-File--demo-requirements.txt-3E70C97A68B5A1657AFE227D9BA40708B92EFBDB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5ba32eabf912a4070177290e51dccc56b6b137c0f43f18a5efb70e7d5d9ebc6b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3e70c97a68b5a1657afe227d9ba40708b92efbdb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/__init__.py",
+      "SPDXID": "SPDXRef-File--demo-demo---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-853C78BC1262C92D60FCF5B35FB1DB9524305DC1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4a9313ef66ea2e4c2a6d33736cd1adeea1d51537580d84bf419c3867b4e59b31"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "853c78bc1262c92d60fcf5b35fb1db9524305dc1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/static/img/bread-and-pepper-logo.png",
+      "SPDXID": "SPDXRef-File--demo-demo-static-img-bread-and-pepper-logo.png-A1EB50295F4CD183E209AB6154AA674F538F9FB8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bf019526c3d7f837c0f9ebd84da26c8dec1a7ee083fe682d74acdf14d526f4dc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a1eb50295f4cd183e209ab6154aa674f538f9fb8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.travis.yml",
+      "SPDXID": "SPDXRef-File--.travis.yml-EA464680C1B3A449ED329AE53B2D2DFA03C66F67",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "88800b9eb5be817c252c581b821ac3a8e09c21e0411acb920df1d84e18a0f44b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ea464680c1b3a449ed329ae53b2d2dfa03c66f67"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/static/img/userina.png",
+      "SPDXID": "SPDXRef-File--demo-demo-static-img-userina.png-1C99A9E36099475D6CF4E8A3CB1979CDEAB8F437",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c8fa0dcaabc2b6e90db9a6156a776fce8de621661c0f2ae97fed4ba70e9cb512"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1c99a9e36099475d6cf4e8a3cb1979cdeab8f437"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/templates/static/promo.html",
+      "SPDXID": "SPDXRef-File--demo-demo-templates-static-promo.html-3661ABB380CC15B082E149F0B9F2D6E73DF10588",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cd00ac175aa383884efcea179cfe0e44fa41f3a932afdea26ae3efd3140b12cb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3661abb380cc15b082e149f0b9f2d6e73df10588"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-8e773aeff4d531a646644efb5325bb5ba7fe347e.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-8e773aeff4d531a646644efb5325bb5ba7fe347e.pack-D217C20A9F2312B056FBA4353A1979ADA51D0411",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cbec83a33b5257d5880750529af6eeb5dc1596f296d39daa5b7fecac7d53deef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d217c20a9f2312b056fba4353a1979ada51d0411"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/profiles/forms.py",
+      "SPDXID": "SPDXRef-File--demo-profiles-forms.py-7CAFE053791942C3E20DFB7A48AF8B7922EA5FFD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ea90bf1962860ced6682abafe2dcf22c341d22529d38e498a0578f0975ab663f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7cafe053791942c3e20dfb7a48af8b7922ea5ffd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/private/.gitignore",
+      "SPDXID": "SPDXRef-File--demo-private-.gitignore-886E6D00AC28A586434AE1B6320C0BB185E3DDFC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "240a3e0d37d2e86b614063f5347eb02d4f99ca6c254de6b82871ff8d95532a7d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "886e6d00ac28a586434ae1b6320c0bb185e3ddfc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.venv",
+      "SPDXID": "SPDXRef-File--.venv-51B881112B8442480B2A36C76181218F5E6EA735",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5727b0b16e9849aca7c5355e4f8cb497badead37db9d47de2854896ceedcd12f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "51b881112b8442480b2a36c76181218f5e6ea735"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/signals.rst",
+      "SPDXID": "SPDXRef-File--docs-signals.rst-0337514D2D0FFB6F6F594A1C9922FFB8EFC5FA7B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "12865239e0f64ec2d6f87b8f62a0de3bf98df0894357e449b1f2b5f3fb220152"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0337514d2d0ffb6f6f594a1c9922ffb8efc5fa7b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-7A98D22434D7CFB349677C5E2EC780AD0A2F361F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "09f9bc01c135b9f90d5c332b0eb2ee18545c8c769956baa9e79f28aa54542c0c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7a98d22434d7cfb349677c5e2ec780ad0a2f361f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/postinstall",
+      "SPDXID": "SPDXRef-File--demo-postinstall-685570D67EEF43B16172AC8E4C4D2B7D79D5AB8D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "11740a6e7e5b8aff10f6802242f4bf909bc32fdfaca7811495e2e54cc8b90b6b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "685570d67eef43b16172ac8e4c4d2b7d79d5ab8d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/static/img/trans.png",
+      "SPDXID": "SPDXRef-File--demo-demo-static-img-trans.png-D56EEC0E103160BC56E75BCCC89F692584C7440D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b8659e1e241fb57b69774d3eb48a1aade2675d857aeb278b3e327a96787ea474"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d56eec0e103160bc56e75bccc89f692584c7440d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/static/img/icon-browse.png",
+      "SPDXID": "SPDXRef-File--demo-demo-static-img-icon-browse.png-858D2697376EC2E5873AA5BC495FC528F7BD5747",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9cf41be164cf8a5388ecd8b4ea4f96868d4cf06ea6bd1d0908e204a8a57b6377"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "858d2697376ec2e5873aa5bc495fc528f7bd5747"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/static/css/reset.css",
+      "SPDXID": "SPDXRef-File--demo-demo-static-css-reset.css-F8704F254EA3D04C73D113632389CA18D84F383D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cb85a534755189d81fd514b6cdff4536700952e7e1ec9b0c7f2021c8d2057d1e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f8704f254ea3d04c73d113632389ca18d84f383d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/templates/userena/password_form.html",
+      "SPDXID": "SPDXRef-File--demo-demo-templates-userena-password-form.html-305CEE8746EA638B251DD6E1F6B690957F652149",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e947a26f94755e87e2c307d5467380c5dd8e724136dd66d5d9cd5ce726f74afb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "305cee8746ea638b251dd6e1f6b690957f652149"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/profiles/__init__.py",
+      "SPDXID": "SPDXRef-File--demo-profiles---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/conf.py",
+      "SPDXID": "SPDXRef-File--docs-conf.py-411B9E58059A6EF90C45FB282E2B4DE663BC8F78",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f22f4fe761187391f173348c5c747ab3941c03c5e8d2fea546b14cdcf5abdc3c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "411b9e58059a6ef90c45fb282e2b4de663bc8f78"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/contrib/umessages/api/managers.rst",
+      "SPDXID": "SPDXRef-File--docs-contrib-umessages-api-managers.rst-798BB5687444E54DF9424729DF8AE1AB153F2B9B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5103d1217a01fa22ecc23212bbf18b7157099d456a640046608539fb63285180"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "798bb5687444e54df9424729df8ae1ab153f2b9b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/api/forms.rst",
+      "SPDXID": "SPDXRef-File--docs-api-forms.rst-E6FE042DC9C834DAC023B508D48E9FA7E163E553",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8490788fb83c4832079f3128fe4b9b363ead6e01d8865fe95af16ec0832539bb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e6fe042dc9c834dac023b508d48e9fa7e163e553"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/urls.py",
+      "SPDXID": "SPDXRef-File--userena-urls.py-68294F5F1310D7A57A09D0AF01D0AF6B405A570A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0d38097c1594b62da02f2eb78a2b9d8c8614e3e7cff610f4d80edb3bbb7b5cdc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "68294f5f1310d7a57a09d0af01d0af6b405a570a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/middleware.py",
+      "SPDXID": "SPDXRef-File--userena-middleware.py-A71914A52F02075401782ADEF365208A8FF86BBF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "158f76b089b17a91f61d70f56a3ad9c1f9b88faeb079e332c678d6375759be8f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a71914a52f02075401782adef365208a8ff86bbf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/south_migrations/0001_initial.py",
+      "SPDXID": "SPDXRef-File--userena-south-migrations-0001-initial.py-66837DF2354398C74398AE6033253F681B15F7DA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ea4dac13b212a606fb4119a2d0200212110b525aa5c5f117d38b84de96e3a560"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "66837df2354398c74398ae6033253f681b15f7da"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/signals.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-signals.py-68A20D830A4F0A7DD1213F253A322C378C5433B9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "233f98ca978d2363744bcdae33d87f8868ad32b6aaf0ec037f4ee734cc1df25c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "68a20d830a4f0a7dd1213f253a322c378c5433b9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/tests/test_fields.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-tests-test-fields.py-4D6E55697292446B1BABA9F25CC0FDEBF86B653C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b2affc3c0846f0e07aa92978266089c282f5328489584ce7ebe934bc5a3e7469"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4d6e55697292446b1baba9f25cc0fdebf86b653c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/migrations/__init__.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-migrations---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/tests/tests_forms.py",
+      "SPDXID": "SPDXRef-File--userena-tests-tests-forms.py-0D50D3E79A3945B0D0A223D2A3181BF2C823BC62",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6f080f1b19ad3dfd37b64920e7242436b3372ab781707cf54137d2fbd8597087"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0d50d3e79a3945b0d0a223d2a3181bf2c823bc62"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/tests/tests_middleware.py",
+      "SPDXID": "SPDXRef-File--userena-tests-tests-middleware.py-3DDD3E0829EDDD78D96403E2DAF33CA6643DD76D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ae7faedce9446acf3ba1bab87640c0f825c6508d424996a1c224607dbca20c14"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3ddd3e0829eddd78d96403e2daf33ca6643dd76d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/nl/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--userena-locale-nl-LC-MESSAGES-django.po-C8982CB70361FDFA0C68E8B4F31D4586D92BA7C0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "00c6a1a87a689fdafd6271b8dcc5028aedbbcfdbba777b7b2108798164d8e274"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c8982cb70361fdfa0c68e8b4f31d4586d92ba7c0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/api/middleware.rst",
+      "SPDXID": "SPDXRef-File--docs-api-middleware.rst-2D5716233CC71FAF37E6490297372B0EE97FDF0C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "486ba0605e4e9b2cb8baa8d3e375210b5626acf75203fad1f6b5b65dd3cbba05"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2d5716233cc71faf37e6490297372b0ee97fdf0c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/forms.py",
+      "SPDXID": "SPDXRef-File--userena-forms.py-5569CA78237669D7E5A155A084F0D0A4E91DD0B0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "678dd37d18dc4c1a3f3c94b624d43053ea86453a7190bd9a1a97d5d7f6768294"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5569ca78237669d7e5a155a084f0d0a4e91dd0b0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/admin.py",
+      "SPDXID": "SPDXRef-File--userena-admin.py-002E80B15B87EBB76C039BCD65D4FACB217504F0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "af8571b6d8c0e7ea3dabc2fe254f804b055c758825bdf8de6722994e079789a0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "002e80b15b87ebb76c039bcd65d4facb217504f0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/management/commands/check_permissions.py",
+      "SPDXID": "SPDXRef-File--userena-management-commands-check-permissions.py-418D4C3944617FA1B3E81DD70B473D95ECF822CA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "51f90faf6b8e47dd5c36dc642569302668f7efcf7e781f416196fb8b36cc53f2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "418d4c3944617fa1b3e81dd70b473d95ecf822ca"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/managers.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-managers.py-3CBF7F0EA834CADDEFE51D9368D4113C849E0E82",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2800a2dd4a1b12e0f9a4027325d5bd15ca8a1bfea86a577eef8fcff5f515e485"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3cbf7f0ea834caddefe51d9368d4113c849e0e82"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/fixtures/messages.json",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-fixtures-messages.json-DCA5598C7C1193E7FB2F1A9F4C9831DB34C324D4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "855b9a4bb217c6569d22226aaaf36c54fe189c55e8bca1f53266c4848f927e9c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dca5598c7c1193e7fb2f1a9f4c9831db34c324d4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/templatetags/umessages_tags.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-templatetags-umessages-tags.py-367F3A5115FD1D0602DF0171626DB1707FF4ED04",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c9d268e0b16e1b585352c7a4a957b345899bfd1407c37229a7df290c22758c33"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "367f3a5115fd1d0602df0171626db1707ff4ed04"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/fixtures/profiles.json",
+      "SPDXID": "SPDXRef-File--userena-fixtures-profiles.json-D3193C4CACD7805E9D27C7FC475C6B43D7E1E644",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "52f99777c6532130803393fb79baf03963b6e5ec39a313743a15887b1fab6f06"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d3193c4cacd7805e9d27c7fc475c6b43d7e1e644"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/tests/tests_decorators.py",
+      "SPDXID": "SPDXRef-File--userena-tests-tests-decorators.py-E3A4471060FED5CA8CBC3D1C48A562CE6C064B26",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7c841ca6a339ca378aa7cebc4a1e0d4d8ed7bc6ca6e1e16a303c485a10a05562"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e3a4471060fed5ca8cbc3d1c48a562ce6c064b26"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/fr/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--userena-locale-fr-LC-MESSAGES-django.po-33F1432D8865AF9073268AC5A3A599E0B85115F3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d0bb0b7d73292ae10f29f3f671417b5fb3a8995a322f6a5676d21da41716d749"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "33f1432d8865af9073268ac5a3a599e0b85115f3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/dotcloud.yml",
+      "SPDXID": "SPDXRef-File--demo-dotcloud.yml-F76869E50A7DC897CD2F32D46C638A3A890C0F83",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1c3eb8cf864e3ae195bdd51b6c6d8d48e270b9f5240b6e6361ed8d722d6372c6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f76869e50a7dc897cd2f32d46c638a3a890c0f83"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/static/img/icon-download.png",
+      "SPDXID": "SPDXRef-File--demo-demo-static-img-icon-download.png-BB9357F9EA8EF0AE0238B454039FCFB62D5ACED1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c0c514f70a034e914ac2f711c34a336ee9063598f0d27729be0cfbc225104abc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bb9357f9ea8ef0ae0238b454039fcfb62d5aced1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/static/img/icon-demo.png",
+      "SPDXID": "SPDXRef-File--demo-demo-static-img-icon-demo.png-0439BC76B1D429694E572BDCFD82B6B1D4D977A3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9d7cb6133b8af6c2d03e9696c31cff2c2a0d4ee7c6fe50e8b3ccb5ddc92a9b5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0439bc76b1d429694e572bdcfd82b6b1d4d977a3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/static/css/master.css",
+      "SPDXID": "SPDXRef-File--demo-demo-static-css-master.css-B9A61265306AAC0A9CBDB0EF490264A21E132555",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a830394c5306a4f7ee7568e6a6bf54d70a0f445adc8b97cfa9445e8207ce4f94"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b9a61265306aac0a9cbdb0ef490264a21e132555"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/templates/userena/email_form.html",
+      "SPDXID": "SPDXRef-File--demo-demo-templates-userena-email-form.html-CFD1A131FB58B1F3E601F84DA76D46CFDA503D95",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "36fe2430c76c8990cb99f5ec352dcf3dd1fc5ebff46e2235b23339c00c02b34a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cfd1a131fb58b1f3e601f84da76d46cfda503d95"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/profiles/models.py",
+      "SPDXID": "SPDXRef-File--demo-profiles-models.py-9FEF989A3CEFFC10A9DD748D93C1B63843D1198E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d12147c18920b15951be64f4036fcead71143a480ad0790b143ad90d8f9829a2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9fef989a3ceffc10a9dd748d93c1b63843d1198e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/Makefile",
+      "SPDXID": "SPDXRef-File--docs-Makefile-E5FD4262A0094DDDF56D4E6C2599A03E52BADF0A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f8783e7c9ee9e649c14ff6c3137714e39cb2f969b5356bfb48daaaf6c602944f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e5fd4262a0094dddf56d4e6c2599a03e52badf0a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/contrib/umessages/index.rst",
+      "SPDXID": "SPDXRef-File--docs-contrib-umessages-index.rst-138198443113B07076CD5EEE8CE8242DB1E0CEA9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ac7d46305d00499a267864de65e1f2985ccb86d4439716f175757c03056a612a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "138198443113b07076cd5eee8ce8242db1e0cea9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/api/models.rst",
+      "SPDXID": "SPDXRef-File--docs-api-models.rst-603321226BD49B7F428F8A695572FB14AD58EAB1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5bcba3a9de9f76cf98ef558c8f99ea1d244e4d12f91f412ec86ac79ee7ec8349"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "603321226bd49b7f428f8a695572fb14ad58eab1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/models.py",
+      "SPDXID": "SPDXRef-File--userena-models.py-8CE38103803E2ED276E741353D4B5D3D9089856B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6920adfbf6f6bb7b2581156752d42737b45aa91715a1b71f1a943b575aa0d3e9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8ce38103803e2ed276e741353d4b5d3d9089856b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/signals.py",
+      "SPDXID": "SPDXRef-File--userena-signals.py-C7A93F6296AD4E1F1EA288AFF96E6587770BF355",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "62777f7870c4f9f38646937d406743c96ec5500d70dfd35c00989a7269e4ac34"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c7a93f6296ad4e1f1ea288aff96e6587770bf355"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/management/commands/__init__.py",
+      "SPDXID": "SPDXRef-File--userena-management-commands---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/admin.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-admin.py-8271728E22B4545FD95166E239557F8E3195E6C1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4d00aada1e7d58ca8080ef7b065cfc05c199a9f976e514a9fe75bd5c8a7f4e08"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8271728e22b4545fd95166e239557f8e3195e6c1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/tests/test_views.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-tests-test-views.py-43DC174326E766B7C1BC8A0B8093A62178FA0F57",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bab3e2e5b1f42f727217268574b8592c277d165b59a0ebe6d0bcbaa5c3ff93dc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "43dc174326e766b7c1bc8a0b8093a62178fa0f57"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/migrations/0001_initial.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-migrations-0001-initial.py-F2F581655ADC148B9BC3D32DF5EC42E3666E83BA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f964f280408d421ded4dacd29f67468a9dd4c774eba256914a3afc6619d51a23"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f2f581655adc148b9bc3d32df5ec42e3666e83ba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/fixtures/users.json",
+      "SPDXID": "SPDXRef-File--userena-fixtures-users.json-D2F6F41764C526B605ABE2E818D7EEEAFDFC635B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4fd724e238e8ed6613adb38c0a63044c2dec1a363d603d97f4413c8163a32b8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d2f6f41764c526b605abe2e818d7eeeafdfc635b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/tests/tests_managers.py",
+      "SPDXID": "SPDXRef-File--userena-tests-tests-managers.py-5D2BB628C28D5255230F8AFE215D99991313DD46",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2277323c310d9ab14b198e9e2112f34fe779a6d581d1a65ff2333106af43faf6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5d2bb628c28d5255230f8afe215d99991313dd46"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/fr/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--userena-locale-fr-LC-MESSAGES-django.mo-5C0556F8B4349596969F3F698740ED50541CCEBA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "402e17ff83763a618dbbf37295169cc471ba3e60f444af11f942ffdb2b08a29a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5c0556f8b4349596969f3f698740ed50541cceba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.coveragerc",
+      "SPDXID": "SPDXRef-File--.coveragerc-718D1245B9FE0FFA59A2384919CACC7EF8412D0D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3cf7758df4945205e89044ff7fd32c322e2a80bddb91de62d67bee1743075ab5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "718d1245b9fe0ffa59a2384919cacc7ef8412d0d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/gl/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--userena-locale-gl-LC-MESSAGES-django.po-C55533B44306BFC65B0FBA0E1F0A256B96C4AB12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e738e535bb1e21243e0496f6707fbf1be493a40c1f3fd57abb9156a82a4bdfeb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c55533b44306bfc65b0fba0e1f0a256b96c4ab12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/bg/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--userena-locale-bg-LC-MESSAGES-django.mo-C0476BACBE3E2A6088EEA368F66D120871E4C570",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fc59cd34381fc3b74701d6e97db2d4751cb06a65c46d1366e4770a20280a795c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c0476bacbe3e2a6088eea368f66d120871e4c570"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CREDITS",
+      "SPDXID": "SPDXRef-File--CREDITS-5B04EE6C4166FBC6FF5AC3E34B8A8AC31BF91F7D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "02f4b995cd16eeac7c54e723853ef783e5a9126e75acdcd1e9e62ea0cbe91a3c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5b04ee6c4166fbc6ff5ac3e34b8a8ac31bf91f7d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-FB50F3B8BFFC7AD4771F77C5AB741EE9DFDD1243",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9fd2f40343716fd811acb3aa3baea8075aeab5d50aa746dffd219870f839adc7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fb50f3b8bffc7ad4771f77c5ab741ee9dfdd1243"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/wsgi.py",
+      "SPDXID": "SPDXRef-File--demo-wsgi.py-24EF3B4FA556BE94F699BA656F2B9E69C1509E75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e8cfc791a6857a28940eac667d6f5053f1fbd230b371f7c31c894e8acb843859"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "24ef3b4fa556be94f699ba656f2b9e69c1509e75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/settings.py",
+      "SPDXID": "SPDXRef-File--demo-demo-settings.py-5EC5C38E46E7613E0F0872929BE0A10BF321B8B1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "384d479b951eca22aa51f611f2ce901be748c05ce71e8117c8913a02f02215ce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5ec5c38e46e7613e0f0872929be0a10bf321b8b1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/static/img/stripe.png",
+      "SPDXID": "SPDXRef-File--demo-demo-static-img-stripe.png-5E7C805AE2236E3E0377EEA26BB9F155CD63C468",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "53987ac79278f43f266950572e1bc187a7ddc0eb8d62a46fb72f72128f3a0275"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5e7c805ae2236e3e0377eea26bb9f155cd63c468"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/bg/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--userena-locale-bg-LC-MESSAGES-django.po-D44A188E30DF9A765F97FAB041B5A16B1A3AB2ED",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b8227524ec7c4927bc90a7e69fc68808ae82f4a6ff8771221991661952c59109"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d44a188e30df9a765f97fab041b5a16b1a3ab2ed"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/static/img/bg-container.png",
+      "SPDXID": "SPDXRef-File--demo-demo-static-img-bg-container.png-EC132F2D15E9ED91AAF6A16783B9D0D9976E1C13",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3bacd0a3847e2cff3467e9d1e3603f778fdde5d6bb9dadd4625cd935ca4b1349"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ec132f2d15e9ed91aaf6a16783b9d0d9976e1c13"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/templates/umessages/message_list.html",
+      "SPDXID": "SPDXRef-File--demo-demo-templates-umessages-message-list.html-0300C75970764F9213DEB61FE1A9DBCD232ABDF8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d30a39fc64ab97680acc47ff96d51ad881f0f9fe93cd5fed62e81dcfc34fa039"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0300c75970764f9213deb61fe1a9dbcd232abdf8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/templates/userena/emails/activation_email_message.html",
+      "SPDXID": "SPDXRef-File--demo-demo-templates-userena-emails-activation-email-message.html-7C1F8F9EE296D18B1923146E20A00F5E5ED0EE5D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9ff4b20e177d565a6cedc6573fc9d07cd827a755772a371326f0c7c2bdddc316"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7c1f8f9ee296d18b1923146e20a00f5e5ed0ee5d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/public/media/.gitignore",
+      "SPDXID": "SPDXRef-File--demo-public-media-.gitignore-886E6D00AC28A586434AE1B6320C0BB185E3DDFC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "240a3e0d37d2e86b614063f5347eb02d4f99ca6c254de6b82871ff8d95532a7d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "886e6d00ac28a586434ae1b6320c0bb185e3ddfc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/index.rst",
+      "SPDXID": "SPDXRef-File--docs-index.rst-A98029B475A4B31F5FFBDD0626470475C1E09DE7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d9084b2dca96d1360ecf097f2082871d9db20b5c450553a961cfd59fb64153f5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a98029b475a4b31f5ffbdd0626470475c1e09de7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/api/views.rst",
+      "SPDXID": "SPDXRef-File--docs-api-views.rst-13055BF7CEB5286E11F2B3E3F294ED20243B4821",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "008d797bd72e49c3049196956328429f082b02335d4cbc6e827cebcd2208f601"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "13055bf7ceb5286e11f2b3e3f294ed20243b4821"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/utils.py",
+      "SPDXID": "SPDXRef-File--userena-utils.py-56B90CB863567A533A363864A74F27B6005F6AC9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c02be2e443a7b6ad878acf8a3d39b5dee28cd11b695f49e22df8c75dbc692db2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "56b90cb863567a533a363864a74f27b6005f6ac9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/settings.py",
+      "SPDXID": "SPDXRef-File--userena-settings.py-E39D3AD637B3D7727E7156A14F095DE177368FC6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5b1223bdecfec22e2452aa5f8dcb2210d0464dbc5c8a576b1431fcc99fa21599"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e39d3ad637b3d7727e7156a14f095de177368fc6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/management/commands/clean_expired.py",
+      "SPDXID": "SPDXRef-File--userena-management-commands-clean-expired.py-69F09684BE1CEBD96707DE52AECE18244DB773A4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ad8d6825bbaa9f44bccd26bc62ec14e1bf5d586d73797defa414740d523ca8ce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "69f09684be1cebd96707de52aece18244db773a4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/urls.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-urls.py-9739F78426CE744B00289AC7D77EA77E2795A160",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c2c36a44cfaef4708e6e7f9091b37296f06f73a247d724ad1cdd1cbef598f79e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9739f78426ce744b00289ac7d77ea77e2795a160"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/south_migrations/__init__.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-south-migrations---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/templatetags/__init__.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-templatetags---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/templates/umessages/message_list.html",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-templates-umessages-message-list.html-B9E11EF82372A454E5F1BE21B6839DB0B36876C7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fabba4a19e0dac5eaf792aaad74f4b960564297ffb239e96746cf236b0980dc0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b9e11ef82372a454e5f1be21b6839db0b36876c7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/tests/tests_views.py",
+      "SPDXID": "SPDXRef-File--userena-tests-tests-views.py-7C1B8414D0A73D4FABEB38F215140D1B6AABFF7D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7aa0e64dd5f2907ce60d125f28633c8c9aa9db551fded558f350b0d72fbad3e6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7c1b8414d0a73d4fabeb38f215140d1b6aabff7d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/tests/profiles/__init__.py",
+      "SPDXID": "SPDXRef-File--userena-tests-profiles---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/zh_TW/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--userena-locale-zh-TW-LC-MESSAGES-django.mo-10BE04FB2C8E8612493390948AA19F0581CBE4EC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "87b6b635b27aac1974a5865050aff3feb88ae732d666ea90fffc43c7c0092c3e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "10be04fb2c8e8612493390948aa19f0581cbe4ec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/de_du/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--userena-locale-de-du-LC-MESSAGES-django.po-DD883BFF465F278CAA744BAAF898B1168607CB9A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e467712edebff930fd0841b4b42965ce5c4502f3f7d9c7445ae425b8cce43ad1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dd883bff465f278caa744baaf898b1168607cb9a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/pt_BR/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--userena-locale-pt-BR-LC-MESSAGES-django.po-E9BF2EF08E1FEFAE0B02523BBB48CD039A22B308",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f631cc8056e448b9c86352fc6939b73c7649f85652999acd805a1b1379ca75e1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e9bf2ef08e1fefae0b02523bbb48cd039a22b308"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/de/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--userena-locale-de-LC-MESSAGES-django.po-77FB23A2A21A9588D281903027CE8C9279A0D560",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6659131efce347e09d2462e27f447c985e01fcd7dbcecba3ca412c61a72d7089"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "77fb23a2a21a9588d281903027ce8c9279a0d560"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/activate_retry.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-activate-retry.html-045A582C8AAF08A6215C37ED1890357C3C928FA6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9700ced954b3cde93af67b54bbf5cfaf5aac0914bbd1044c69fda66f1aec8de9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "045a582c8aaf08a6215c37ed1890357c3c928fa6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/email_confirm_fail.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-email-confirm-fail.html-E430D824D68612030CCF87D0F39E7EE8E35887C5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "624a2c565d909109024fbe9405b68fe878dcbcf8826e7d8ded88cec9ae19d6e5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e430d824d68612030ccf87d0f39e7ee8e35887c5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/password_reset_form.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-password-reset-form.html-9E209930CCE158B859FA0A259A5AABD9F914CC8B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e58266ed242d1539a07fcf10f3eab4fa1e19122e981ab2cf787e331f67151fd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9e209930cce158b859fa0a259a5aabd9f914cc8b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/emails/confirmation_email_message_new.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-emails-confirmation-email-message-new.html-8A983E32E03AF247383E1F5D4B49CA3B4EDFCD77",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5b6092ca0016400900d2efe7ba73edca450fe824e1ca116a9865242b597aab8c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8a983e32e03af247383e1f5d4b49ca3b4edfcd77"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE",
+      "SPDXID": "SPDXRef-File--LICENSE-E1F57E0218A0A5E47BF6B7054F5299AB5971F4D8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eb53b9ee1ac2074ec2d3d5ac407aae9e7f1e0690c667a7853d461f396369ec06"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e1f57e0218a0a5e47bf6b7054f5299ab5971f4d8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AUTHORS",
+      "SPDXID": "SPDXRef-File--AUTHORS-59115B045EC8A6544463FE90E62B9C6601F08E69",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0cf6d7f50590be8d0b1a4628830af0ef0ea56e93c304eb82bcc894f148c1a3b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "59115b045ec8a6544463fe90e62b9c6601f08e69"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-FB50F3B8BFFC7AD4771F77C5AB741EE9DFDD1243",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9fd2f40343716fd811acb3aa3baea8075aeab5d50aa746dffd219870f839adc7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fb50f3b8bffc7ad4771f77c5ab741ee9dfdd1243"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/superuser.py",
+      "SPDXID": "SPDXRef-File--demo-superuser.py-1A75E4387DBEDF712B639886ADDDE1CC6C198EC8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d7230db683587b160c48851c1ceed5684501f332c87111e201372ad163b6cd34"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1a75e4387dbedf712b639886addde1cc6c198ec8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/wsgi.py",
+      "SPDXID": "SPDXRef-File--demo-demo-wsgi.py-EBD794F83E24C35D3EC68622386662564F59296A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d2187d1082b6eef27289b31984de4750efdb99a8c5c837a537f6bc0699ef168b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ebd794f83e24c35d3ec68622386662564f59296a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/static/img/lissy.png",
+      "SPDXID": "SPDXRef-File--demo-demo-static-img-lissy.png-BDB104DC3195A677B84C16F7441DF37B5F720500",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "200909f8207de3db03c2fd366bd6f3a87c3d3f8d3ff15ca755ac2021c1bf0163"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bdb104dc3195a677b84c16f7441df37b5f720500"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/static/img/forkme.png",
+      "SPDXID": "SPDXRef-File--demo-demo-static-img-forkme.png-FDF015EB631A0A0141780C1E29E35747FD49BAA1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7c01fd3b465de29ad0bada8c4f76f328a8e600ec4df060652e71cff822ebf5c7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fdf015eb631a0a0141780c1e29e35747fd49baa1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/templates/umessages/message_detail.html",
+      "SPDXID": "SPDXRef-File--demo-demo-templates-umessages-message-detail.html-22A8428D6E1937E4BEF067C315752C105DF9FD3A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "386e5c8798aee953bb001c4dfc50b96851000e01006e1e30d748737ac4fb4371"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "22a8428d6e1937e4bef067c315752c105df9fd3a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/templates/userena/profile_form.html",
+      "SPDXID": "SPDXRef-File--demo-demo-templates-userena-profile-form.html-A9152182BC69EE9FF0A9BDD1F09B32277ECBF1B6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "79a63d34109e2ec86c8dfeef60f4fdb985266cb397c750ac4448bcc1773c502d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a9152182bc69ee9ff0a9bdd1f09b32277ecbf1b6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/public/static/.gitignore",
+      "SPDXID": "SPDXRef-File--demo-public-static-.gitignore-886E6D00AC28A586434AE1B6320C0BB185E3DDFC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "240a3e0d37d2e86b614063f5347eb02d4f99ca6c254de6b82871ff8d95532a7d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "886e6d00ac28a586434ae1b6320c0bb185e3ddfc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/faq.rst",
+      "SPDXID": "SPDXRef-File--docs-faq.rst-35B2F434F10B4741B434AE9EBD91CECE434AB10D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e1c3128644d516c69233f828f88bfb4a16ca18cea273f6770007c63bc0820492"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "35b2f434f10b4741b434ae9ebd91cece434ab10d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/api/backends.rst",
+      "SPDXID": "SPDXRef-File--docs-api-backends.rst-70EDF748B6F2823AB52F08EEADFC245A5282AE4F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f69ee1c6403f74335f6d93e86a6d3613b909fe4a9f30f1eec19f3f4d68953101"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "70edf748b6f2823ab52f08eeadfc245a5282ae4f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/apps.py",
+      "SPDXID": "SPDXRef-File--userena-apps.py-5E68D7D31BB0193DFC7B0F80677E0F5814E25706",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8484f77745a7e2629efa27e6cb6c7dddebac12c0150bf1eaa2fa3e86b342e868"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5e68d7d31bb0193dfc7b0f80677e0f5814e25706"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/backends.py",
+      "SPDXID": "SPDXRef-File--userena-backends.py-66F8EA1D73087DF23C0AF0CAA700CB2E2C08815E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5343c5e11deae563379ec12979bbb0d52ca8f31d188fbedca444ae50aa00a397"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "66f8ea1d73087df23c0af0caa700cb2e2c08815e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/management/__init__.py",
+      "SPDXID": "SPDXRef-File--userena-management---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/models.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-models.py-DB198697D496D49050F0BFB32FEB5BF1573F60AB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "be62126414461b0b323f6da6e60e283563417fba2af5671dc28c497153f2d87e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "db198697d496d49050f0bfb32feb5bf1573f60ab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/south_migrations/0001_initial.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-south-migrations-0001-initial.py-8D97E15CD8C1F6A5FC7069189C813A779D7AFBFF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9f091def8d23611f7dc508be161deb18b8a81dcab2664ad79d9a34575986c703"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8d97e15cd8c1f6a5fc7069189c813a779d7afbff"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/tests/__init__.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-tests---init--.py-602726549BAA10D7FEB7C2AF95C3DB803F0117C9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8b291038f9913129357a820c481d76365a7bf8961158bee71a0f5252e8304f9b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "602726549baa10d7feb7c2af95c3db803f0117c9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/templates/umessages/base_message.html",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-templates-umessages-base-message.html-311961C57F9952A642DB95A1F44155F42F58CA10",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fd79a1343e8ee1d5a33961df121ee69a510272aa524ced4414e4ee1a4cd3a7f0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "311961c57f9952a642db95a1f44155f42f58ca10"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/tests/test_commands.py",
+      "SPDXID": "SPDXRef-File--userena-tests-test-commands.py-526335DB479563F1A7C0227090D66C3E65E53E13",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "af8d728cfecbd915ec41ff1876a2f63b5fb8a7cd92b644a605127898f60ad638"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "526335db479563f1a7c0227090d66c3e65e53e13"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/tests/profiles/models.py",
+      "SPDXID": "SPDXRef-File--userena-tests-profiles-models.py-AA3148565CCD61FBC8FA077ECB2A008330E1EFAD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2f3237586caa21b11447a911fac8a18e5f49750d696dfe13123872e43271bd0c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "aa3148565ccd61fbc8fa077ecb2a008330e1efad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/zh_TW/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--userena-locale-zh-TW-LC-MESSAGES-django.po-47EDBBBE6F9918B986BE5F2F89859D8177551F3A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "88d72f29995fbce854be6bd01b5504f50ecf76fd1cc3a57886a3271ee94bbe3b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "47edbbbe6f9918b986be5f2f89859d8177551f3a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/ro/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--userena-locale-ro-LC-MESSAGES-django.mo-3337E0E6FC18243E2557CC3F9AAFE157569BA4A2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e8025c1fbddf7a312cccf0048288d02dd5e496ebf664ba4b072e4f56e3df3137"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3337e0e6fc18243e2557cc3f9aafe157569ba4a2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/tr/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--userena-locale-tr-LC-MESSAGES-django.mo-DCBB0B9D5F06BD62FD8D51CCD6FFB5AD240F4DA9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "95c280d3563ccaa65c9e9da5939194253355edd731cf597cef54b083497e01a2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dcbb0b9d5f06bd62fd8d51ccd6ffb5ad240f4da9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/pt/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--userena-locale-pt-LC-MESSAGES-django.mo-E52CDBF1AA957D39B82DBADC3954BA3C8CEC9086",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9db4d8408ee98740317e837e835a96b4fcbc2bfd25b274216f340a07978763f4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e52cdbf1aa957d39b82dbadc3954ba3c8cec9086"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/email_confirm_complete.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-email-confirm-complete.html-38C12C6390CAC96F5EFC695F0C1437A4AE86EE41",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "199fe6fbb807b1a245de30184b9c7f72e88134742a8c5f7e9a914e7af3731c56"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "38c12c6390cac96f5efc695f0c1437a4ae86ee41"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/disabled.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-disabled.html-0A80D5A9304AF55B6C4B26795074B920BCB847F5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e4bc4c9d355c93d2431b18968a19978314449be3f608a290130bbc2b7100564b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0a80d5a9304af55b6c4b26795074b920bcb847f5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/signup_complete.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-signup-complete.html-9821A3F140CD18C16C3AECC10DFAC5C1017C82A0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "79349a5e2780f478767560459fab63e6f7d02bfbc3693057c9d0acf600dc9ab0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9821a3f140cd18c16c3aecc10dfac5c1017c82a0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/emails/password_reset_message.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-emails-password-reset-message.html-FD4159D18A20B9D5BF1981FD29B14AB04509FD15",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "739f3ff80a9a69fa816686abac373910326b3f007de9cc76b52a96a7ae08c101"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fd4159d18a20b9d5bf1981fd29b14ab04509fd15"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/emails/activation_email_message.txt",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-emails-activation-email-message.txt-2A0587A09A22C993683A8C161A12735F144651FA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1c293ccb6e0adbcc982e54b04ae7cceae3d82bd4c499d6f408ef9b5fc055b8bd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2a0587a09a22c993683a8c161a12735f144651fa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-6F911CDE15E77DB15B785CCE462C8462CED1841A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f33f4916df4e030812676b60912987c6c0733bd9446276b3ba0772ed62e5bcf0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6f911cde15e77db15b785cce462c8462ced1841a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/de_du/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--userena-locale-de-du-LC-MESSAGES-django.mo-B5EA4FD34B572AE25F9910D69CF0EE8B57E6A50E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0735368a129e9ea8d4749156ab15b30a5c28f8e539513f4393bef41c4179f3a4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b5ea4fd34b572ae25f9910d69cf0ee8b57e6a50e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./MANIFEST.in",
+      "SPDXID": "SPDXRef-File--MANIFEST.in-0114D81112ECE79652632762BA6E57B5E299DC97",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b53d500174c14ac069e5ec9cb039a6e6e591315cd7f765b1bbadb82924445fa1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0114d81112ece79652632762ba6e57b5e299dc97"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-29DCE68E8BBA429F0C8B07F1FD9A5F85A556CFE6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0452e346afb40b50d40e41902f7de5f6c984b5d58298aeb60528a8ca6ab95d3d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "29dce68e8bba429f0c8b07f1fd9a5f85a556cfe6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/nginx.conf",
+      "SPDXID": "SPDXRef-File--demo-nginx.conf-420182A55D8E789D46EDC4A8EDBB8522F075B18E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5167a0a7d672dfd6dd7dbb4e478a5dd02040134db2949fda3cda424bd01fc6ab"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "420182a55d8e789d46edc4a8edbb8522f075b18e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/manage.py",
+      "SPDXID": "SPDXRef-File--demo-manage.py-10A57B65AF2BC07951C428D418919695928548E7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e543f8a8da87e96281f3023bec2783aca78915a320dbbedeba6101de64fa69f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "10a57b65af2bc07951c428d418919695928548e7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/static/img/userena.png",
+      "SPDXID": "SPDXRef-File--demo-demo-static-img-userena.png-EFF56386FC752215D58C7F0C305B634E30F0172C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "97ccf16e86372773ccb653defb6bf72d0e023df458bf4e454e14d5dab421cc1a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eff56386fc752215d58c7f0c305b634e30f0172c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/static/img/arrow-down.png",
+      "SPDXID": "SPDXRef-File--demo-demo-static-img-arrow-down.png-EA3B3767477EF029F8136C82F8B43B295D939857",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e99fde850040e5f7e6db3c50d673bf23abde25c48eaa411c49e3003cc1979827"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ea3b3767477ef029f8136c82f8b43b295d939857"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/templates/base.html",
+      "SPDXID": "SPDXRef-File--demo-demo-templates-base.html-B33F1EF67EE1FE2AEAEC77C03DE571021E6480EE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9cc9115f87a7b88e8c6ef6258fe9b2e232e5489952df671a0b2f90d0d5b8c139"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b33f1ef67ee1fe2aeaec77c03de571021e6480ee"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/templates/userena/profile_detail.html",
+      "SPDXID": "SPDXRef-File--demo-demo-templates-userena-profile-detail.html-8C263A5A6CD140E36E6C784D0DE4B366561946FA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e6adf52c828f94a499ecf54e65f5e4a17f28852c42f0b116a1173a6998d77d1f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8c263a5a6cd140e36e6c784d0de4b366561946fa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/profiles/views.py",
+      "SPDXID": "SPDXRef-File--demo-profiles-views.py-1C05FAE5EC2C962217FCAAA1FEF6CAF3A0405E3B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "24dcfd0fe6d15e6346f67748a8413b6b3a7cf7ba84bda9204c993b56d0022da5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1c05fae5ec2c962217fcaaa1fef6caf3a0405e3b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/settings.rst",
+      "SPDXID": "SPDXRef-File--docs-settings.rst-6D7BC77C1AF73EC7C5678ECE06C8CB2D19130FD9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7b49c4bbf9416481245810549da6828fdaf1a34a49bb6ebced92b4d9f3b73405"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6d7bc77c1af73ec7c5678ece06c8cb2d19130fd9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/contrib/umessages/api/views.rst",
+      "SPDXID": "SPDXRef-File--docs-contrib-umessages-api-views.rst-AD8E1941CA60A55CA18386043577D9B440C8DC11",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "76d9468d77f67be396f0fde086bb7148f0ebdcd3e15d1f0ae442383c16eafb0e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ad8e1941ca60a55ca18386043577d9b440c8dc11"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/api/decorators.rst",
+      "SPDXID": "SPDXRef-File--docs-api-decorators.rst-1BF75C3F875B7E204927ADB1D184175D2A957528",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d4af539c01831d12848df8cff4b163b95712ae33c43aadbe83dafc75cb72656d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1bf75c3f875b7e204927adb1d184175d2a957528"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/compat.py",
+      "SPDXID": "SPDXRef-File--userena-compat.py-18C9E3EA33B7B8974D09F8CE6E8CF01733AB469D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5da523f8364bef007e92eee87ccb0c2231bd7915c4f2a1989083f3ec2105006e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "18c9e3ea33b7b8974d09f8ce6e8cf01733ab469d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/decorators.py",
+      "SPDXID": "SPDXRef-File--userena-decorators.py-E3ACA1545DF1A5CC33B841AB492BC3B2F5909BAA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b129e81a3b73e52fb6f252f30d7eea3b4b4698af10b2f8fe12b29ad733729642"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e3aca1545df1a5cc33b841ab492bc3b2f5909baa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/south_migrations/__init__.py",
+      "SPDXID": "SPDXRef-File--userena-south-migrations---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/__init__.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/tests/test_models.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-tests-test-models.py-A5FB8C83D4BBA2C0278220457C07F510E2C21A45",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3c54e228e909b24d746f850df0dbf83068ab02d9fab75b5fa614e6e4599d2ae"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a5fb8c83d4bba2c0278220457c07f510e2c21a45"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/templates/base.html",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-templates-base.html-5CE183233676E389F88D04FF497059BCB8ED6A20",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e81c482694a4bad380f1787e81e1fe8c7429d7908913ef9e5ad104f4cbe4de62"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5ce183233676e389f88d04ff497059bcb8ed6a20"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/tests/tests_utils.py",
+      "SPDXID": "SPDXRef-File--userena-tests-tests-utils.py-76F2EDFEFBE40978EDB69FEE60A2A675E60B9E91",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "47d3b8f2a494646d51df5d7a633d79762808643db51d4cf3a9f3307cd86d9825"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "76f2edfefbe40978edb69fee60a2a675e60b9e91"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/tests/tests_urls.py",
+      "SPDXID": "SPDXRef-File--userena-tests-tests-urls.py-692CFAB14BEA83A3D6F4D3B00E12F26101458A16",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "24b5b2524680cc0f264c8644a03d1f7a9436d6070e8af6fed7d20f0cbf1e5c3b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "692cfab14bea83a3d6f4d3b00e12f26101458a16"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/nl/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--userena-locale-nl-LC-MESSAGES-django.mo-9CDFECCD6E1FD87CAC25F089D72B5CD48DE7116F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7f9f67ed7cb0bbf3a81ba190f92de9e395f79ef23b7f3414d26ce20bcc785e07"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9cdfeccd6e1fd87cac25f089d72b5cd48de7116f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/pl/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--userena-locale-pl-LC-MESSAGES-django.po-3C8840458B61A5A46DA0C0E3421CA8D734FF22C5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cbad7ec13ae293c81b236c7b71b80cc7c99e96f08cc5d08c705be1f9b5aef178"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3c8840458b61a5a46da0c0e3421ca8d734ff22c5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/zh_CN/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--userena-locale-zh-CN-LC-MESSAGES-django.po-B2063A562C4FB68C112C6FB9DB49B10B8FACF12B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "df4dc23e6744bd1231295b4513929be1c331256c73faf265f0d006dd8bfdda54"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b2063a562c4fb68c112c6fb9db49b10b8facf12b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/it/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--userena-locale-it-LC-MESSAGES-django.po-A9AC05A21BC3FE2E123A4700B0519FE9FA9C01CE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8ed7f78c688aa93778f29f20649013dd12996427da4e4b3b937ceae08500575f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a9ac05a21bc3fe2e123a4700b0519fe9fa9c01ce"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/migrations/0001_initial.py",
+      "SPDXID": "SPDXRef-File--userena-migrations-0001-initial.py-DC0EE0D8941F90B690EF631F8BD922228733C81A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "09859356a84bc82863aeb33430338985210dc626a52eda5724fd5761d5c1d94b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dc0ee0d8941f90b690ef631f8bd922228733c81a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/password_form.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-password-form.html-D7591BAAEEAA370E9DB44B73B4E1B63F6522C354",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "07877988fc73bc4b54692fb07a49ee18c435b629e034117372c3b57082600376"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d7591baaeeaa370e9db44b73b4e1b63f6522c354"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/profile_list.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-profile-list.html-EFBC252D5759AF3A173B3D5F283786B558B8D098",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e11309cc35d0b80c883d8d341439057936983cf4d39f428af753816ad9ce077d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "efbc252d5759af3a173b3d5f283786b558b8d098"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/profile_form.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-profile-form.html-3F61CBA3CDC05DEFFC4D4EB8CC19414FE9426112",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bc4ed4bbcb9229e3bc7625768ddc13e1e372ed2fc49f067a01201d0637918e1d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3f61cba3cdc05deffc4d4eb8cc19414fe9426112"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/createdb.py",
+      "SPDXID": "SPDXRef-File--demo-createdb.py-8E1D3B034F2C4FF69D0D84E3961C169EF6CC8743",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b00df516410ca92aed71c00d4d108244827db86fef73801531262f47a4d34dda"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8e1d3b034f2c4ff69d0d84e3961c169ef6cc8743"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/ru/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--userena-locale-ru-LC-MESSAGES-django.po-0BD40A09F58B977599C0BC50BB0CE3BF875CBB4F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "db3f5bda841a69ae3e4f2c6bd8e0ca8a8f7f0d7c3f6ae71af69f5ad688a510b6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0bd40a09f58b977599c0bc50bb0ce3bf875cbb4f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/urls.py",
+      "SPDXID": "SPDXRef-File--demo-demo-urls.py-3303D14BB3D71EEF110B47D853FD736656195318",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f61edf70168f1930dc42fdeebec89c0a34509be6cc733bb8504e7e3507196eae"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3303d14bb3d71eef110b47d853fd736656195318"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/static/img/try.png",
+      "SPDXID": "SPDXRef-File--demo-demo-static-img-try.png-29B5B7781680A462076ACE768E632BE145CE19D2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cb5571da91d2393c49303ebf9164cc72148e620bbb9c4bbfc036be738bc82580"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "29b5b7781680a462076ace768e632be145ce19d2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/static/img/icon-docs.png",
+      "SPDXID": "SPDXRef-File--demo-demo-static-img-icon-docs.png-5711CC4C3E801265DD612D86F18754FE3D4CAB00",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "10ec147e8cbcc0986d5a034ccad209984f426b87cc3d983c43a1cac3cbe3cc43"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5711cc4c3e801265dd612d86f18754fe3d4cab00"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/templates/404.html",
+      "SPDXID": "SPDXRef-File--demo-demo-templates-404.html-448F5EE2DB41F4446442DA7FC073D632D8E4D173",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b6d964b21447944ab2ea2b0ce2f1bd0b33ecab0c08d736b6bbb9a9f2204a7ecd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "448f5ee2db41f4446442da7fc073d632d8e4d173"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/demo/templates/userena/base_userena.html",
+      "SPDXID": "SPDXRef-File--demo-demo-templates-userena-base-userena.html-28E15F25E7FE5528AC7AB0189979FEBFC0BBED6E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "80c01379150f69381e06f65d9e108d28f888d899521627963b030dd0512fa270"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "28e15f25e7fe5528ac7ab0189979febfc0bbed6e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/locale/nl/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--demo-locale-nl-LC-MESSAGES-django.mo-E6AF80E95812BC656E2BD01DBDD837BEE0216479",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a231a7f09e71a0ab7aae5d3870429398fad9d0a188cd9cbe2c1059db1db9a227"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e6af80e95812bc656e2bd01dbdd837bee0216479"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/installation.rst",
+      "SPDXID": "SPDXRef-File--docs-installation.rst-CEBA25725700536FD74C5483DF842AD53487FDF2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1af5957c9b78655e9299fcf3f443c56f27c3a7cf391e598673cfbdee01c3629b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ceba25725700536fd74c5483df842ad53487fdf2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/api/managers.rst",
+      "SPDXID": "SPDXRef-File--docs-api-managers.rst-DD0E966B7CA39D61D25FBE0C7166AC432E2A9058",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e707abf4068ad6c168ffa0719bc5443a5bae4c2438b14feff91da6580ed1375f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dd0e966b7ca39d61d25fbe0c7166ac432e2a9058"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/api/index.rst",
+      "SPDXID": "SPDXRef-File--docs-api-index.rst-F218092735D5C7B8956CA787815B07F120F7CF02",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "73bd69a71a1c12a1b54d1a4ba9b78fd6c3c2fa28a4224c14fa4e30f3029911ab"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f218092735d5c7b8956ca787815b07f120f7cf02"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/mail.py",
+      "SPDXID": "SPDXRef-File--userena-mail.py-97F18F71D160F8FE34F2E0D97D81DCBC16CD9575",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9feeb8825a27912675bb6392dff73579480d3067c668ed2adcabf2b536d651e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "97f18f71d160f8fe34f2e0d97d81dcbc16cd9575"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/views.py",
+      "SPDXID": "SPDXRef-File--userena-views.py-16BAA9EB8DBAF7DC72EAE1D86D75694CFABDD86E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85332ab781842e33bcfe1252c8c5d265ad89df2785c2e4a873fcb1b0d8bb5b95"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "16baa9eb8dbaf7dc72eae1d86d75694cfabdd86e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/forms.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-forms.py-DFE488B0095BF23397D2EEFBA1F0BB2DE3433602",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "69a9c768c67f2a888b92a94a1cdb37b1f9be202a0960d11afd4c7e45f8723312"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dfe488b0095bf23397d2eefba1f0bb2de3433602"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/views.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-views.py-84B124C3BE3930170A8645802A629078AC2149E0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "208d7ef705e732705d68a7f120dc8645ac6dc932cb2fd98e11485d5dbd638025"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "84b124c3be3930170a8645802a629078ac2149e0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/tests/test_managers.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-tests-test-managers.py-1CB3AC8A1F04FAB2C67CFD65F9198F8F0A633E1E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fe4b69d5bd6ee854e31abd28cb6dd052842e861bfc61b701745c72a01b2f0ce1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1cb3ac8a1f04fab2c67cfd65f9198f8f0a633e1e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/templates/umessages/message_form.html",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-templates-umessages-message-form.html-A673098E92F06D4225E8513E17CC9CA16E29060C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "93f32fa95d32006d43e30d975d63c4eff310caa39c7b173f9aad3dd931aa0c11"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a673098e92f06d4225e8513e17cc9ca16e29060c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/tests/test_privacy.py",
+      "SPDXID": "SPDXRef-File--userena-tests-test-privacy.py-542116C021EA82EFEEA7A066469F9AE2D8936A4F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fff409e2765fbf6941eb6e87a0d1fb167aac39379e292a8b9aea0f8bfcfdb4ba"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "542116c021ea82efeea7a066469f9ae2d8936a4f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/tests/__init__.py",
+      "SPDXID": "SPDXRef-File--userena-tests---init--.py-4A4BA3C4E2785F0BF47CF6382901E21BF0D91E13",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ba5d489f92d16c2999b6d981faa77bbfbf219afe816b5784d4ee037c6626164c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4a4ba3c4e2785f0bf47cf6382901e21bf0d91e13"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/emails/activation_email_message.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-emails-activation-email-message.html-486360AFA33CD098F07677E9BEB6D7DCAA6A5B86",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "389c33d4003bf6086aa8d6b1a6b5c418f2c33cfaeea3913093e63ab6c71ace0e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "486360afa33cd098f07677e9beb6d7dcaa6a5b86"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/emails/password_reset_message.txt",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-emails-password-reset-message.txt-5CFB2AE129E48D1478FE782A707B59D4B9C71BBA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0e119be2a7c90cbd2d6f862d30cbcd8b577211a4bb2f873e6cfeb580d4969da6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5cfb2ae129e48d1478fe782a707b59d4b9c71bba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demo/locale/nl/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--demo-locale-nl-LC-MESSAGES-django.po-4A033C0FBB70856179761E06417F969CE3B2FA48",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dc9352d2c8bec79d459373512787bdaecff6bf244de188369d2226e2a3dc2293"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4a033c0fbb70856179761e06417f969ce3b2fa48"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/commands.rst",
+      "SPDXID": "SPDXRef-File--docs-commands.rst-28E46E1B67AE7A3DBFF8CF35C80A5C6423915B07",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d08a3c32fdcc866698f6b5b914d1f346721640bd6d0eb1dda0bbb98cbfef013d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "28e46e1b67ae7a3dbff8cf35c80a5c6423915b07"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/contrib/umessages/api/index.rst",
+      "SPDXID": "SPDXRef-File--docs-contrib-umessages-api-index.rst-B33549070FBB46A62E97E3B073CAE1D5DC14DAB1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b61e92029f1fed77585af8b3c4905439a71207e7f335d549ae351be36d6f6644"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b33549070fbb46a62e97e3b073cae1d5dc14dab1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/api/utils.rst",
+      "SPDXID": "SPDXRef-File--docs-api-utils.rst-DF17C2291A403521B42BE95497D057D05C00B821",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4f260040b195f7c3fc32b88badd94b5743822f2810105b4592090eefb0ae580e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "df17c2291a403521b42be95497d057d05c00b821"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/managers.py",
+      "SPDXID": "SPDXRef-File--userena-managers.py-8F0F7724C847D7A9932644878BF2C30EBF04DA58",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "975c44b02ca4dcddfe4a35947c3fdfb5eab54e65ab0bc752635aec67c24c4ef5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8f0f7724c847d7a9932644878bf2c30ebf04da58"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/__init__.py",
+      "SPDXID": "SPDXRef-File--userena---init--.py-BA2E8418E1BDB6D3AC249698802E726F25C9A462",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "979b796328aec9632a4ba7d27c8eda12f9ff79308ad1d5427f2966d739f2a305"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ba2e8418e1bdb6d3ac249698802e726f25c9a462"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/__init__.py",
+      "SPDXID": "SPDXRef-File--userena-contrib---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/fields.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-fields.py-C1BA3699037D534E74CDE5C749AF6ACD809F3EA7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "48306c7aad6e3cc4b57b1ad20ac225955f751478540a3b2dcce59597e674d467"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c1ba3699037d534e74cde5c749af6acd809f3ea7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/tests/test_forms.py",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-tests-test-forms.py-D96D860E27D631B0901443B27A3CC34DC8C836B4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "18f234857aebb02a37425d68759a241643ef919cb1f7c759e3e63633fa0d86fa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d96d860e27d631b0901443b27a3cc34dc8c836b4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/contrib/umessages/templates/umessages/message_detail.html",
+      "SPDXID": "SPDXRef-File--userena-contrib-umessages-templates-umessages-message-detail.html-05375C55CB43F1257D4B22E2F12DFE024E3449DC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "94028f978aff96a48c9bf01660e8d2eafaed026642b372ee3a9b411a810cb788"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "05375c55cb43f1257d4b22e2f12dfe024e3449dc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/nb/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--userena-locale-nb-LC-MESSAGES-django.po-3B2A7A13C567494B972991BC4EAF4B68D48343EA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1b3f2d6bd830739f3103a98dd97e8b016195de7d0c54a8d64d341cdf9acd4e34"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3b2a7a13c567494b972991bc4eaf4b68d48343ea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/ru/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--userena-locale-ru-LC-MESSAGES-django.mo-3323DC783CDE1A069BC378A06E85849C27C7B502",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bb28010a390eb0e9d31539a08527543480156493f34b9df8028aeaf8ae82d684"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3323dc783cde1a069bc378a06e85849c27c7b502"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/pt_BR/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--userena-locale-pt-BR-LC-MESSAGES-django.mo-94BA25F392C111B8D126BD890213706882C787CE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cb5aeb201d0b2c85d27530b51109742aeae0d814d67095c0c83e72e651b293fd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "94ba25f392c111b8d126bd890213706882c787ce"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/runtests/__init__.py",
+      "SPDXID": "SPDXRef-File--userena-runtests---init--.py-B9D733FAE875807A0C2E7D7A2ABF9E8A2440A6B3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8b084a9f378124b2b1a51563bf3c22444eb7ff33692017da28b2136ae56987ed"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b9d733fae875807a0c2e7d7a2abf9e8a2440a6b3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/tests/test_backends.py",
+      "SPDXID": "SPDXRef-File--userena-tests-test-backends.py-E095C189176F5588EF6081B40BA83AA116D704A6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "736dcd553d5cee3fcf15c4f87743ed19e7ce971bc1f25184914453e3ead7c411"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e095c189176f5588ef6081b40ba83aa116d704a6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/el/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--userena-locale-el-LC-MESSAGES-django.po-56F3E3A6B279A361894874D95F3C4982B4EF3A95",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d029ca657c7f2a0264fd2383db38b6157bccb88a8227b633f1052c9f56e91dea"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "56f3e3a6b279a361894874d95f3c4982b4ef3a95"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/nb/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--userena-locale-nb-LC-MESSAGES-django.mo-704875D499E5375146AD4176C6E7AD7FF001E986",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6bbb564d8230aa2dc003e8910fd884679fb9ee2f066ec5340213979150593607"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "704875d499e5375146ad4176c6e7ad7ff001e986"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/de/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--userena-locale-de-LC-MESSAGES-django.mo-87B7765E423D553DEF258FA62136E73082BED56B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "77f5fa880399070fa5d58ebee25f01103ebed9f6e6ab3a87a1075b4fa8908caa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "87b7765e423d553def258fa62136e73082bed56b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/password_complete.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-password-complete.html-D4BD28A1CE6E6FB399C4F72CC72A585665F8A35C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8b6d3eff772834ccb8ad7feecb9f016b4ba5920aa53fd528b07fe99f97b9b152"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d4bd28a1ce6e6fb399c4f72cc72a585665f8a35c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/tests/tests_models.py",
+      "SPDXID": "SPDXRef-File--userena-tests-tests-models.py-CC38AF80878D485ED721B40C0A79E4280962EC0D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b5fb86e45fe49e6c31f2b0b7c31b2346a337c70fbbcb81ab50fe9aa74cd8237c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cc38af80878d485ed721b40c0a79e4280962ec0d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/email_change_complete.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-email-change-complete.html-B9A4D9C8CD1380EAB2D3474707EB297BEF84DF91",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c2db413668d51ebb724c3b950dbfe304626a936307b2d0e74990ca7fbf762e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b9a4d9c8cd1380eab2d3474707eb297bef84df91"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/profile_detail.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-profile-detail.html-029169761DC16A43118977600FEDA867E5835177",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "70b474b031155e3252be0ecbd3cd7cf5fafb190a23db783c0de54b5305a57d0f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "029169761dc16a43118977600feda867e5835177"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/el/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--userena-locale-el-LC-MESSAGES-django.mo-96E70E4915B4FA6170EC1C070A256C9DA36FE0E0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dbe2c019fe92961d1dd24a843e74df2da6199186a275281cb569235f8a118e26"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "96e70e4915b4fa6170ec1c070a256c9da36fe0e0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/es/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--userena-locale-es-LC-MESSAGES-django.po-3BA0C9797015F0A43B315668B69487B0284AEABC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "abeaeea5448d9bcb42a9eb5bf16016e98df846f678c8ab9f850c0267b00921cb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3ba0c9797015f0a43b315668b69487b0284aeabc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/es/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--userena-locale-es-LC-MESSAGES-django.mo-5D01DE8841BCDA61E955061A267C50458114D82C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1e335bc185765f40105d8bbfc948fdb65136d217c27daf82ea96a7263d5d0737"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5d01de8841bcda61e955061a267c50458114d82c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/ro/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--userena-locale-ro-LC-MESSAGES-django.po-F752879A4AB48786B7B1249AE601215DBDF298DF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ca36a98fa15c94fd7a74811339bd50d07fb37a02c52f48d80b169bbbfb1f662c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f752879a4ab48786b7b1249ae601215dbdf298df"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/tr/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--userena-locale-tr-LC-MESSAGES-django.po-4DEA249AA192ECE23AF4500BCF5E027035F58AB6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "511f8d0fec7c34a9d4622cbea68b54e49bf0993ef870685a5157c6aaf97c93c3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4dea249aa192ece23af4500bcf5e027035f58ab6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/pt/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--userena-locale-pt-LC-MESSAGES-django.po-626F24878CD8DD45A276801949BD5BC9D273AD81",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6b5355fd4af2ef560d2b9f7b449b5316a4f92a2ba9d09aae977c6592e5c5d104"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "626f24878cd8dd45a276801949bd5bc9d273ad81"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/signout.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-signout.html-398CA7667348BF2FDB3787B7E28593E66A11967D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bb921b0dd189410f7f4ba158eb4c7cbca5c2e82b407692d7832679bd209df379"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "398ca7667348bf2fdb3787b7e28593e66a11967d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/password_reset_done.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-password-reset-done.html-C8FD35BAE9EC1F7277A9F245DE316034F08DC1CF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3656e78d88f8c26317d3097db3e18b70f11f050ac9c7a6b8eae5f690ffa45667"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c8fd35bae9ec1f7277a9f245de316034f08dc1cf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/email_form.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-email-form.html-B962F80EF01FDE597D77132B10A70018A92E6E32",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6fe68aaa9c99a079b4a104234e47c2f0b7a2bc294dc1a585c35d149d842deac3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b962f80ef01fde597d77132b10a70018a92e6e32"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/base.html",
+      "SPDXID": "SPDXRef-File--userena-templates-base.html-5CE183233676E389F88D04FF497059BCB8ED6A20",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e81c482694a4bad380f1787e81e1fe8c7429d7908913ef9e5ad104f4cbe4de62"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5ce183233676e389f88d04ff497059bcb8ed6a20"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/emails/confirmation_email_subject_old.txt",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-emails-confirmation-email-subject-old.txt-735D859E97366C80A8488058240D4DEDEF8BD3F8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d142741424de1776e293d242fa5069d0789104005d08901a1612ee82c938ec68"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "735d859e97366c80a8488058240d4dedef8bd3f8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/pl/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--userena-locale-pl-LC-MESSAGES-django.mo-3A6ABA140862572379B4618EB5A828952FFB96BD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0b7fec0ccf6f8298b0695a2da983351e9ed7c4c6349ee2cfabcd1bcafdf3720a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3a6aba140862572379b4618eb5a828952ffb96bd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/password_reset_complete.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-password-reset-complete.html-83FFB94B3A21DF7F1940C3924599BB49E5FC7911",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "baa086168efe6223dd46744fa551e8de9278ac5a03e2a38359566ab3a4b85200"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "83ffb94b3a21df7f1940c3924599bb49e5fc7911"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/password_reset_confirm_form.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-password-reset-confirm-form.html-C3AB7922982571D0474B3EA05C4E147D6B51777B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d72e11cffbeb03ff08815f01848d666e8b38018b34b804886b8a0c59a879b840"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c3ab7922982571d0474b3ea05c4e147d6b51777b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/runtests/urls.py",
+      "SPDXID": "SPDXRef-File--userena-runtests-urls.py-1EC0D95505504280A8E3311E990E7E0743B792E9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7e605086ede6a10eb36cec39ed9bf410302054ba8052794a693c17c2d34023a1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1ec0d95505504280a8e3311e990e7e0743b792e9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/activate_fail.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-activate-fail.html-E2DA9C8E62686578C03B2AC998B24C4B07BF40E6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7c0c77f91664962f87e1a8cfaeac0b0c09b84d8ca6884d106c4e332198a47a73"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e2da9c8e62686578c03b2ac998b24c4b07bf40e6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/zh_CN/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--userena-locale-zh-CN-LC-MESSAGES-django.mo-7D397821C8EEDFA8AB91E7FD7EBC5AB3EF0C7F39",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f7b1484a2b8bc1f1c888c12a353466e557fc843949667705380ce1fcc468f9ed"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7d397821c8eedfa8ab91e7fd7ebc5ab3ef0c7f39"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/signin_form.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-signin-form.html-749632E20851007553BE14EDF8D712E8BBC37CFF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3a91caeb6329eeaa83aa10c48fdbf4360fa8560b262b3f5d508d2d4f6a6e6082"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "749632e20851007553be14edf8d712e8bbc37cff"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/emails/confirmation_email_subject_new.txt",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-emails-confirmation-email-subject-new.txt-588D90A0E9038F2C67F94F349D7F3CA60599FD55",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6420caaac6b3b4e192f73c3d2000336fdacc293a1731d0aaf8aa1ccb4c5ff444"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "588d90a0e9038f2c67f94f349d7f3ca60599fd55"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/base_userena.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-base-userena.html-311961C57F9952A642DB95A1F44155F42F58CA10",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fd79a1343e8ee1d5a33961df121ee69a510272aa524ced4414e4ee1a4cd3a7f0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "311961c57f9952a642db95a1f44155f42f58ca10"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/locale/it/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--userena-locale-it-LC-MESSAGES-django.mo-3D63A5CFBEFBF1A2A3237BF5C6CF3FB464837AE0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9ca98ecf189f6de5045be565dd616133d7c38a9ce04c08e747ffb3f4152fc96"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3d63a5cfbefbf1a2a3237bf5c6cf3fb464837ae0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/emails/activation_email_subject.txt",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-emails-activation-email-subject.txt-DBD88D46C7B2CABA3B79EB95656BF3AE1446C937",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5130a922038c83827af94cebfdff14c02b70ba8d83a62e5b67213d7bb182533f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dbd88d46c7b2caba3b79eb95656bf3ae1446c937"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/runtests/runtests.py",
+      "SPDXID": "SPDXRef-File--userena-runtests-runtests.py-FF3073147BD78E3361354A6EB04D8AB90AE24AF8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4d1e6cbd005abcc4b62303be27d83a13420bb1c41dea625ea9e0e8817c5afb7b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ff3073147bd78e3361354a6eb04d8ab90ae24af8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/emails/confirmation_email_message_old.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-emails-confirmation-email-message-old.html-09F6A5098E85B94C61EB99630287D962F172ABFF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6ea3d106be759e8fdb375d5df3e101fd0d1f6f67ebeddec8ebecfb585210d89d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "09f6a5098e85b94c61eb99630287d962f172abff"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/emails/confirmation_email_message_old.txt",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-emails-confirmation-email-message-old.txt-A7A5BE6981F88B2BBF8CAAB3B5B2A47A5DA1D058",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "82947bdd70cdf0c301bdf7345f623599cd3b0a5f9f058131d876f1daaa913680"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a7a5be6981f88b2bbf8caab3b5b2a47a5da1d058"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/migrations/__init__.py",
+      "SPDXID": "SPDXRef-File--userena-migrations---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/runtests/settings.py",
+      "SPDXID": "SPDXRef-File--userena-runtests-settings.py-CC35B0E7DEBA8EED14AC94899659F864D135E02D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "531320bd0deb397630c273639c7087abe88cd1fa5d999f27968b7e9260b0979d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cc35b0e7deba8eed14ac94899659f864d135e02d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/runtests/private/development.db",
+      "SPDXID": "SPDXRef-File--userena-runtests-private-development.db-C720E3880513397D1F94182BAEF3D593A7FB0A4B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f89a1545308d84d4c9c98dc6098656255ffb1f617715d2cff5530dc870e21e62"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c720e3880513397d1f94182baef3d593a7fb0a4b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/signup_form.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-signup-form.html-1B8C57412E2027DCCE35F25A48668BA67A4297F8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5b68c3bffeb2622250954ab085c205b344eb9653df44ca55142c67ae92a06076"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1b8c57412e2027dcce35f25a48668ba67a4297f8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/activate_retry_success.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-activate-retry-success.html-F528253264BD2536E02659AFD980C2131C78E0F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5338c443e25c99834f9531eec14441c5e7a1d53bfe73038bd318035d4266fdb1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f528253264bd2536e02659afd980c2131c78e0f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/emails/confirmation_email_subject_new.html",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-emails-confirmation-email-subject-new.html-CB6AD4E18CEFC53136B3B0EF16A3FF71B295B87C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "db8420fe62f20e9f087db32265d8ce8771dd45488f45cdfde5f7585e01317b66"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cb6ad4e18cefc53136b3b0ef16a3ff71b295b87c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/templates/userena/emails/confirmation_email_message_new.txt",
+      "SPDXID": "SPDXRef-File--userena-templates-userena-emails-confirmation-email-message-new.txt-E91ADB3D35C10FEF77C9822F913FC5C1DEB5ABF5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "64b5a5fcff1446ac2bab3b02e4e549462f8c1e7615a07774bd7eda856d8d540a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e91adb3d35c10fef77c9822f913fc5c1deb5abf5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./userena/runtests/templates/404.html",
+      "SPDXID": "SPDXRef-File--userena-runtests-templates-404.html-3475C1F81388C85B9B32EE1871E1ED242B68942E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d2cad2010fc0564e533671c5b8842f5e560cbdd2e57aa24156085eb7cb9dd00c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3475c1f81388c85b9b32ee1871e1ed242b68942e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "easy-thumbnails",
+      "SPDXID": "SPDXRef-Package-2F9FA6DD4E197181120D7C47DDDA95FEABF77BCCF38A0E444F9769E0A20F3D8E",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.8.5",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/easy-thumbnails@2.8.5"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "South",
+      "SPDXID": "SPDXRef-Package-BE4A303D4F3965D7DE26D77F9D0ABA77321894313EDBF7586B6A1DF1058106EE",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.0.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/south@1.0.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "django-guardian",
+      "SPDXID": "SPDXRef-Package-71E68AC6978888A4AE668508A67A1B79F57BDE3E4AE2B9F5651DB41F0118C52B",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.4.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/django-guardian@2.4.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Django",
+      "SPDXID": "SPDXRef-Package-271EC4BED278103F9CCC241B37FA6E38C6AFD26A542FF1BBF23D80D0C611B942",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.4",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/django@1.4"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "pillow",
+      "SPDXID": "SPDXRef-Package-5855B2D97427905963799DAA83EFD81E11B5DC556EF20AD287B64FB6C50A814A",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "10.2.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pillow@10.2.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "django_coverage",
+      "SPDXID": "SPDXRef-Package-0FE9E6204C327C075E5C632E1B108F0FC8A7228894C9314DE95333BA461A9FFF",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.2.4",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/django-coverage@1.2.4"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "django-userena",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "5bde9938f258ecec42b8f4cbcf8cda70a900c208"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "django-userena-15.4.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:swid/django-userena/spdx.org/django-userena@django-userena-15.4.6?tag_id=397daa3f-4b91-4f63-a695-c7caa3b1647e"
+        }
+      ],
+      "supplier": "Organization: django-userena",
+      "hasFiles": [
+        "SPDXRef-File--userena-runtests-templates-404.html-3475C1F81388C85B9B32EE1871E1ED242B68942E",
+        "SPDXRef-File--userena-templates-userena-emails-confirmation-email-message-new.txt-E91ADB3D35C10FEF77C9822F913FC5C1DEB5ABF5",
+        "SPDXRef-File--userena-templates-userena-emails-confirmation-email-subject-new.html-CB6AD4E18CEFC53136B3B0EF16A3FF71B295B87C",
+        "SPDXRef-File--userena-templates-userena-activate-retry-success.html-F528253264BD2536E02659AFD980C2131C78E0F4",
+        "SPDXRef-File--userena-templates-userena-signup-form.html-1B8C57412E2027DCCE35F25A48668BA67A4297F8",
+        "SPDXRef-File--userena-migrations---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--userena-locale-it-LC-MESSAGES-django.mo-3D63A5CFBEFBF1A2A3237BF5C6CF3FB464837AE0",
+        "SPDXRef-File--userena-locale-zh-CN-LC-MESSAGES-django.mo-7D397821C8EEDFA8AB91E7FD7EBC5AB3EF0C7F39",
+        "SPDXRef-File--userena-locale-pl-LC-MESSAGES-django.mo-3A6ABA140862572379B4618EB5A828952FFB96BD",
+        "SPDXRef-File--userena-locale-es-LC-MESSAGES-django.po-3BA0C9797015F0A43B315668B69487B0284AEABC",
+        "SPDXRef-File--userena-tests-tests-models.py-CC38AF80878D485ED721B40C0A79E4280962EC0D",
+        "SPDXRef-File--userena-tests-test-backends.py-E095C189176F5588EF6081B40BA83AA116D704A6",
+        "SPDXRef-File--userena-contrib-umessages-templates-umessages-message-detail.html-05375C55CB43F1257D4B22E2F12DFE024E3449DC",
+        "SPDXRef-File--userena-contrib-umessages-tests-test-forms.py-D96D860E27D631B0901443B27A3CC34DC8C836B4",
+        "SPDXRef-File--userena-contrib-umessages-fields.py-C1BA3699037D534E74CDE5C749AF6ACD809F3EA7",
+        "SPDXRef-File--userena-contrib---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--userena---init--.py-BA2E8418E1BDB6D3AC249698802E726F25C9A462",
+        "SPDXRef-File--userena-managers.py-8F0F7724C847D7A9932644878BF2C30EBF04DA58",
+        "SPDXRef-File--docs-api-utils.rst-DF17C2291A403521B42BE95497D057D05C00B821",
+        "SPDXRef-File--docs-contrib-umessages-api-index.rst-B33549070FBB46A62E97E3B073CAE1D5DC14DAB1",
+        "SPDXRef-File--docs-commands.rst-28E46E1B67AE7A3DBFF8CF35C80A5C6423915B07",
+        "SPDXRef-File--demo-locale-nl-LC-MESSAGES-django.po-4A033C0FBB70856179761E06417F969CE3B2FA48",
+        "SPDXRef-File--demo-demo-templates-userena-profile-list.html-DC161D51D09E16B1206FD82E2C185E7C2F3CE4B6",
+        "SPDXRef-File--demo-demo-templates-500.html-E2601930D0020459682BF5F9C2B61D038867B1F5",
+        "SPDXRef-File--demo-demo-static-img-grid.png-CD21DE63CD7AF5D8EFF786F998543AE735885AEC",
+        "SPDXRef-File--demo-demo-static-img-crew.png-EFA1DE49538B4E1D0BF5A2C355909175A3D288CC",
+        "SPDXRef-File--demo-demo-settings-dotcloud.py-D21979B2EB0E0565E51955EECCD6C75EBE6629E1",
+        "SPDXRef-File--demo-README.md-6BF98C8173C3C4B9117039A290925BCF0CCE6E27",
+        "SPDXRef-File--.git-objects-pack-pack-8e773aeff4d531a646644efb5325bb5ba7fe347e.idx-6FDCE521274095B97AB27189174C69CD47A43FF1",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--.git-index-14FE9BADC5B58ED5266C7AA00214C85B4E924060",
+        "SPDXRef-File--run-tests-16189BB8C00849608DAF08632A309B3DB04BBE4F",
+        "SPDXRef-File--README.md-A05A3314396F74877E77BF0F57E91B768932CAD7",
+        "SPDXRef-File--userena-runtests-private-development.db-C720E3880513397D1F94182BAEF3D593A7FB0A4B",
+        "SPDXRef-File--userena-templates-userena-emails-confirmation-email-message-old.txt-A7A5BE6981F88B2BBF8CAAB3B5B2A47A5DA1D058",
+        "SPDXRef-File--userena-templates-userena-emails-activation-email-subject.txt-DBD88D46C7B2CABA3B79EB95656BF3AE1446C937",
+        "SPDXRef-File--userena-templates-userena-signin-form.html-749632E20851007553BE14EDF8D712E8BBC37CFF",
+        "SPDXRef-File--userena-templates-userena-password-reset-confirm-form.html-C3AB7922982571D0474B3EA05C4E147D6B51777B",
+        "SPDXRef-File--userena-templates-base.html-5CE183233676E389F88D04FF497059BCB8ED6A20",
+        "SPDXRef-File--userena-locale-pt-LC-MESSAGES-django.po-626F24878CD8DD45A276801949BD5BC9D273AD81",
+        "SPDXRef-File--userena-locale-tr-LC-MESSAGES-django.po-4DEA249AA192ECE23AF4500BCF5E027035F58AB6",
+        "SPDXRef-File--userena-locale-ro-LC-MESSAGES-django.po-F752879A4AB48786B7B1249AE601215DBDF298DF",
+        "SPDXRef-File--userena-locale-es-LC-MESSAGES-django.mo-5D01DE8841BCDA61E955061A267C50458114D82C",
+        "SPDXRef-File--userena-tests---init--.py-4A4BA3C4E2785F0BF47CF6382901E21BF0D91E13",
+        "SPDXRef-File--userena-tests-test-privacy.py-542116C021EA82EFEEA7A066469F9AE2D8936A4F",
+        "SPDXRef-File--userena-contrib-umessages-templates-umessages-message-form.html-A673098E92F06D4225E8513E17CC9CA16E29060C",
+        "SPDXRef-File--userena-contrib-umessages-tests-test-managers.py-1CB3AC8A1F04FAB2C67CFD65F9198F8F0A633E1E",
+        "SPDXRef-File--userena-contrib-umessages-views.py-84B124C3BE3930170A8645802A629078AC2149E0",
+        "SPDXRef-File--userena-contrib-umessages-forms.py-DFE488B0095BF23397D2EEFBA1F0BB2DE3433602",
+        "SPDXRef-File--userena-views.py-16BAA9EB8DBAF7DC72EAE1D86D75694CFABDD86E",
+        "SPDXRef-File--userena-mail.py-97F18F71D160F8FE34F2E0D97D81DCBC16CD9575",
+        "SPDXRef-File--docs-api-index.rst-F218092735D5C7B8956CA787815B07F120F7CF02",
+        "SPDXRef-File--docs-api-managers.rst-DD0E966B7CA39D61D25FBE0C7166AC432E2A9058",
+        "SPDXRef-File--docs-installation.rst-CEBA25725700536FD74C5483DF842AD53487FDF2",
+        "SPDXRef-File--demo-locale-nl-LC-MESSAGES-django.mo-E6AF80E95812BC656E2BD01DBDD837BEE0216479",
+        "SPDXRef-File--demo-demo-templates-userena-base-userena.html-28E15F25E7FE5528AC7AB0189979FEBFC0BBED6E",
+        "SPDXRef-File--demo-demo-templates-404.html-448F5EE2DB41F4446442DA7FC073D632D8E4D173",
+        "SPDXRef-File--demo-demo-static-img-icon-docs.png-5711CC4C3E801265DD612D86F18754FE3D4CAB00",
+        "SPDXRef-File--demo-demo-static-img-try.png-29B5B7781680A462076ACE768E632BE145CE19D2",
+        "SPDXRef-File--demo-demo-urls.py-3303D14BB3D71EEF110B47D853FD736656195318",
+        "SPDXRef-File--demo-createdb.py-8E1D3B034F2C4FF69D0D84E3961C169EF6CC8743",
+        "SPDXRef-File--.git-objects-pack-pack-8e773aeff4d531a646644efb5325bb5ba7fe347e.pack-D217C20A9F2312B056FBA4353A1979ADA51D0411",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-packed-refs-853C78BC1262C92D60FCF5B35FB1DB9524305DC1",
+        "SPDXRef-File--UPDATES.md-6D4EE109311A3343D3B5CD4902CE918090C3A963",
+        "SPDXRef-File--tox.ini-10417256252BF8A452A2711DBABB87369D330366",
+        "SPDXRef-File--userena-runtests-urls.py-1EC0D95505504280A8E3311E990E7E0743B792E9",
+        "SPDXRef-File--userena-templates-userena-emails-confirmation-email-subject-old.txt-735D859E97366C80A8488058240D4DEDEF8BD3F8",
+        "SPDXRef-File--userena-templates-userena-signout.html-398CA7667348BF2FDB3787B7E28593E66A11967D",
+        "SPDXRef-File--userena-templates-userena-profile-detail.html-029169761DC16A43118977600FEDA867E5835177",
+        "SPDXRef-File--userena-templates-userena-password-complete.html-D4BD28A1CE6E6FB399C4F72CC72A585665F8A35C",
+        "SPDXRef-File--userena-locale-el-LC-MESSAGES-django.po-56F3E3A6B279A361894874D95F3C4982B4EF3A95",
+        "SPDXRef-File--userena-locale-nb-LC-MESSAGES-django.po-3B2A7A13C567494B972991BC4EAF4B68D48343EA",
+        "SPDXRef-File--userena-locale-ru-LC-MESSAGES-django.po-0BD40A09F58B977599C0BC50BB0CE3BF875CBB4F",
+        "SPDXRef-File--userena-locale-bg-LC-MESSAGES-django.po-D44A188E30DF9A765F97FAB041B5A16B1A3AB2ED",
+        "SPDXRef-File--userena-locale-fr-LC-MESSAGES-django.mo-5C0556F8B4349596969F3F698740ED50541CCEBA",
+        "SPDXRef-File--userena-tests-tests-managers.py-5D2BB628C28D5255230F8AFE215D99991313DD46",
+        "SPDXRef-File--userena-fixtures-users.json-D2F6F41764C526B605ABE2E818D7EEEAFDFC635B",
+        "SPDXRef-File--userena-contrib-umessages-migrations-0001-initial.py-F2F581655ADC148B9BC3D32DF5EC42E3666E83BA",
+        "SPDXRef-File--userena-contrib-umessages-tests-test-views.py-43DC174326E766B7C1BC8A0B8093A62178FA0F57",
+        "SPDXRef-File--userena-contrib-umessages-admin.py-8271728E22B4545FD95166E239557F8E3195E6C1",
+        "SPDXRef-File--userena-management-commands---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--userena-signals.py-C7A93F6296AD4E1F1EA288AFF96E6587770BF355",
+        "SPDXRef-File--userena-models.py-8CE38103803E2ED276E741353D4B5D3D9089856B",
+        "SPDXRef-File--docs-api-models.rst-603321226BD49B7F428F8A695572FB14AD58EAB1",
+        "SPDXRef-File--docs-contrib-umessages-index.rst-138198443113B07076CD5EEE8CE8242DB1E0CEA9",
+        "SPDXRef-File--docs-Makefile-E5FD4262A0094DDDF56D4E6C2599A03E52BADF0A",
+        "SPDXRef-File--demo-profiles-models.py-9FEF989A3CEFFC10A9DD748D93C1B63843D1198E",
+        "SPDXRef-File--demo-demo-templates-userena-email-form.html-CFD1A131FB58B1F3E601F84DA76D46CFDA503D95",
+        "SPDXRef-File--demo-demo-static-css-master.css-B9A61265306AAC0A9CBDB0EF490264A21E132555",
+        "SPDXRef-File--demo-demo-static-img-icon-demo.png-0439BC76B1D429694E572BDCFD82B6B1D4D977A3",
+        "SPDXRef-File--demo-demo-static-img-icon-download.png-BB9357F9EA8EF0AE0238B454039FCFB62D5ACED1",
+        "SPDXRef-File--demo-dotcloud.yml-F76869E50A7DC897CD2F32D46C638A3A890C0F83",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--.venv-51B881112B8442480B2A36C76181218F5E6EA735",
+        "SPDXRef-File--userena-runtests-settings.py-CC35B0E7DEBA8EED14AC94899659F864D135E02D",
+        "SPDXRef-File--userena-templates-userena-emails-confirmation-email-message-old.html-09F6A5098E85B94C61EB99630287D962F172ABFF",
+        "SPDXRef-File--userena-templates-userena-base-userena.html-311961C57F9952A642DB95A1F44155F42F58CA10",
+        "SPDXRef-File--userena-templates-userena-activate-fail.html-E2DA9C8E62686578C03B2AC998B24C4B07BF40E6",
+        "SPDXRef-File--userena-templates-userena-email-form.html-B962F80EF01FDE597D77132B10A70018A92E6E32",
+        "SPDXRef-File--userena-locale-el-LC-MESSAGES-django.mo-96E70E4915B4FA6170EC1C070A256C9DA36FE0E0",
+        "SPDXRef-File--userena-locale-nb-LC-MESSAGES-django.mo-704875D499E5375146AD4176C6E7AD7FF001E986",
+        "SPDXRef-File--userena-locale-ru-LC-MESSAGES-django.mo-3323DC783CDE1A069BC378A06E85849C27C7B502",
+        "SPDXRef-File--userena-locale-bg-LC-MESSAGES-django.mo-C0476BACBE3E2A6088EEA368F66D120871E4C570",
+        "SPDXRef-File--userena-locale-nl-LC-MESSAGES-django.po-C8982CB70361FDFA0C68E8B4F31D4586D92BA7C0",
+        "SPDXRef-File--userena-tests-tests-middleware.py-3DDD3E0829EDDD78D96403E2DAF33CA6643DD76D",
+        "SPDXRef-File--userena-tests-tests-forms.py-0D50D3E79A3945B0D0A223D2A3181BF2C823BC62",
+        "SPDXRef-File--userena-contrib-umessages-migrations---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--userena-contrib-umessages-tests-test-fields.py-4D6E55697292446B1BABA9F25CC0FDEBF86B653C",
+        "SPDXRef-File--userena-contrib-umessages-signals.py-68A20D830A4F0A7DD1213F253A322C378C5433B9",
+        "SPDXRef-File--userena-south-migrations-0001-initial.py-66837DF2354398C74398AE6033253F681B15F7DA",
+        "SPDXRef-File--userena-middleware.py-A71914A52F02075401782ADEF365208A8FF86BBF",
+        "SPDXRef-File--userena-urls.py-68294F5F1310D7A57A09D0AF01D0AF6B405A570A",
+        "SPDXRef-File--docs-api-forms.rst-E6FE042DC9C834DAC023B508D48E9FA7E163E553",
+        "SPDXRef-File--docs-contrib-umessages-api-managers.rst-798BB5687444E54DF9424729DF8AE1AB153F2B9B",
+        "SPDXRef-File--docs-conf.py-411B9E58059A6EF90C45FB282E2B4DE663BC8F78",
+        "SPDXRef-File--demo-profiles---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--demo-demo-templates-userena-password-form.html-305CEE8746EA638B251DD6E1F6B690957F652149",
+        "SPDXRef-File--demo-demo-static-css-reset.css-F8704F254EA3D04C73D113632389CA18D84F383D",
+        "SPDXRef-File--demo-demo-static-img-icon-browse.png-858D2697376EC2E5873AA5BC495FC528F7BD5747",
+        "SPDXRef-File--demo-demo-static-img-trans.png-D56EEC0E103160BC56E75BCCC89F692584C7440D",
+        "SPDXRef-File--demo-postinstall-685570D67EEF43B16172AC8E4C4D2B7D79D5AB8D",
+        "SPDXRef-File--.git-refs-heads-master-7A98D22434D7CFB349677C5E2EC780AD0A2F361F",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--.travis.yml-EA464680C1B3A449ED329AE53B2D2DFA03C66F67",
+        "SPDXRef-File--userena-templates-userena-emails-activation-email-message.html-486360AFA33CD098F07677E9BEB6D7DCAA6A5B86",
+        "SPDXRef-File--userena-templates-userena-emails-confirmation-email-message-new.html-8A983E32E03AF247383E1F5D4B49CA3B4EDFCD77",
+        "SPDXRef-File--userena-templates-userena-password-reset-form.html-9E209930CCE158B859FA0A259A5AABD9F914CC8B",
+        "SPDXRef-File--userena-templates-userena-email-confirm-fail.html-E430D824D68612030CCF87D0F39E7EE8E35887C5",
+        "SPDXRef-File--userena-templates-userena-activate-retry.html-045A582C8AAF08A6215C37ED1890357C3C928FA6",
+        "SPDXRef-File--userena-locale-de-LC-MESSAGES-django.po-77FB23A2A21A9588D281903027CE8C9279A0D560",
+        "SPDXRef-File--userena-locale-pt-BR-LC-MESSAGES-django.po-E9BF2EF08E1FEFAE0B02523BBB48CD039A22B308",
+        "SPDXRef-File--userena-locale-de-du-LC-MESSAGES-django.po-DD883BFF465F278CAA744BAAF898B1168607CB9A",
+        "SPDXRef-File--userena-locale-zh-TW-LC-MESSAGES-django.mo-10BE04FB2C8E8612493390948AA19F0581CBE4EC",
+        "SPDXRef-File--userena-tests-profiles---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--userena-tests-tests-views.py-7C1B8414D0A73D4FABEB38F215140D1B6AABFF7D",
+        "SPDXRef-File--userena-contrib-umessages-templates-umessages-message-list.html-B9E11EF82372A454E5F1BE21B6839DB0B36876C7",
+        "SPDXRef-File--userena-contrib-umessages-templatetags---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--userena-contrib-umessages-south-migrations---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--userena-contrib-umessages-urls.py-9739F78426CE744B00289AC7D77EA77E2795A160",
+        "SPDXRef-File--userena-management-commands-clean-expired.py-69F09684BE1CEBD96707DE52AECE18244DB773A4",
+        "SPDXRef-File--userena-settings.py-E39D3AD637B3D7727E7156A14F095DE177368FC6",
+        "SPDXRef-File--userena-utils.py-56B90CB863567A533A363864A74F27B6005F6AC9",
+        "SPDXRef-File--docs-api-views.rst-13055BF7CEB5286E11F2B3E3F294ED20243B4821",
+        "SPDXRef-File--docs-index.rst-A98029B475A4B31F5FFBDD0626470475C1E09DE7",
+        "SPDXRef-File--demo-public-media-.gitignore-886E6D00AC28A586434AE1B6320C0BB185E3DDFC",
+        "SPDXRef-File--demo-demo-templates-userena-emails-activation-email-message.html-7C1F8F9EE296D18B1923146E20A00F5E5ED0EE5D",
+        "SPDXRef-File--demo-demo-templates-umessages-message-list.html-0300C75970764F9213DEB61FE1A9DBCD232ABDF8",
+        "SPDXRef-File--demo-demo-static-img-bg-container.png-EC132F2D15E9ED91AAF6A16783B9D0D9976E1C13",
+        "SPDXRef-File--demo-demo-static-img-stripe.png-5E7C805AE2236E3E0377EEA26BB9F155CD63C468",
+        "SPDXRef-File--demo-demo-settings.py-5EC5C38E46E7613E0F0872929BE0A10BF321B8B1",
+        "SPDXRef-File--demo-wsgi.py-24EF3B4FA556BE94F699BA656F2B9E69C1509E75",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-FB50F3B8BFFC7AD4771F77C5AB741EE9DFDD1243",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--CREDITS-5B04EE6C4166FBC6FF5AC3E34B8A8AC31BF91F7D",
+        "SPDXRef-File--.coveragerc-718D1245B9FE0FFA59A2384919CACC7EF8412D0D",
+        "SPDXRef-File--userena-runtests-runtests.py-FF3073147BD78E3361354A6EB04D8AB90AE24AF8",
+        "SPDXRef-File--userena-templates-userena-emails-confirmation-email-subject-new.txt-588D90A0E9038F2C67F94F349D7F3CA60599FD55",
+        "SPDXRef-File--userena-templates-userena-password-reset-complete.html-83FFB94B3A21DF7F1940C3924599BB49E5FC7911",
+        "SPDXRef-File--userena-templates-userena-password-reset-done.html-C8FD35BAE9EC1F7277A9F245DE316034F08DC1CF",
+        "SPDXRef-File--userena-templates-userena-email-change-complete.html-B9A4D9C8CD1380EAB2D3474707EB297BEF84DF91",
+        "SPDXRef-File--userena-locale-de-LC-MESSAGES-django.mo-87B7765E423D553DEF258FA62136E73082BED56B",
+        "SPDXRef-File--userena-locale-pt-BR-LC-MESSAGES-django.mo-94BA25F392C111B8D126BD890213706882C787CE",
+        "SPDXRef-File--userena-locale-de-du-LC-MESSAGES-django.mo-B5EA4FD34B572AE25F9910D69CF0EE8B57E6A50E",
+        "SPDXRef-File--userena-locale-gl-LC-MESSAGES-django.po-C55533B44306BFC65B0FBA0E1F0A256B96C4AB12",
+        "SPDXRef-File--userena-locale-fr-LC-MESSAGES-django.po-33F1432D8865AF9073268AC5A3A599E0B85115F3",
+        "SPDXRef-File--userena-tests-tests-decorators.py-E3A4471060FED5CA8CBC3D1C48A562CE6C064B26",
+        "SPDXRef-File--userena-fixtures-profiles.json-D3193C4CACD7805E9D27C7FC475C6B43D7E1E644",
+        "SPDXRef-File--userena-contrib-umessages-templatetags-umessages-tags.py-367F3A5115FD1D0602DF0171626DB1707FF4ED04",
+        "SPDXRef-File--userena-contrib-umessages-fixtures-messages.json-DCA5598C7C1193E7FB2F1A9F4C9831DB34C324D4",
+        "SPDXRef-File--userena-contrib-umessages-managers.py-3CBF7F0EA834CADDEFE51D9368D4113C849E0E82",
+        "SPDXRef-File--userena-management-commands-check-permissions.py-418D4C3944617FA1B3E81DD70B473D95ECF822CA",
+        "SPDXRef-File--userena-admin.py-002E80B15B87EBB76C039BCD65D4FACB217504F0",
+        "SPDXRef-File--userena-forms.py-5569CA78237669D7E5A155A084F0D0A4E91DD0B0",
+        "SPDXRef-File--docs-api-middleware.rst-2D5716233CC71FAF37E6490297372B0EE97FDF0C",
+        "SPDXRef-File--docs-signals.rst-0337514D2D0FFB6F6F594A1C9922FFB8EFC5FA7B",
+        "SPDXRef-File--demo-private-.gitignore-886E6D00AC28A586434AE1B6320C0BB185E3DDFC",
+        "SPDXRef-File--demo-profiles-forms.py-7CAFE053791942C3E20DFB7A48AF8B7922EA5FFD",
+        "SPDXRef-File--demo-demo-templates-static-promo.html-3661ABB380CC15B082E149F0B9F2D6E73DF10588",
+        "SPDXRef-File--demo-demo-static-img-userina.png-1C99A9E36099475D6CF4E8A3CB1979CDEAB8F437",
+        "SPDXRef-File--demo-demo-static-img-bread-and-pepper-logo.png-A1EB50295F4CD183E209AB6154AA674F538F9FB8",
+        "SPDXRef-File--demo-demo---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--demo-requirements.txt-3E70C97A68B5A1657AFE227D9BA40708B92EFBDB",
+        "SPDXRef-File--.git-logs-refs-heads-master-FB50F3B8BFFC7AD4771F77C5AB741EE9DFDD1243",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--setup.cfg-83785CD7E34A22CF5EDA1F9A5F8EA329C3CA493C",
+        "SPDXRef-File--setup.py-4308244188E4F2D46A3C268410DD0283C78C49E1",
+        "SPDXRef-File--userena-runtests---init--.py-B9D733FAE875807A0C2E7D7A2ABF9E8A2440A6B3",
+        "SPDXRef-File--userena-templates-userena-emails-password-reset-message.txt-5CFB2AE129E48D1478FE782A707B59D4B9C71BBA",
+        "SPDXRef-File--userena-templates-userena-profile-form.html-3F61CBA3CDC05DEFFC4D4EB8CC19414FE9426112",
+        "SPDXRef-File--userena-templates-userena-profile-list.html-EFBC252D5759AF3A173B3D5F283786B558B8D098",
+        "SPDXRef-File--userena-templates-userena-password-form.html-D7591BAAEEAA370E9DB44B73B4E1B63F6522C354",
+        "SPDXRef-File--userena-migrations-0001-initial.py-DC0EE0D8941F90B690EF631F8BD922228733C81A",
+        "SPDXRef-File--userena-locale-it-LC-MESSAGES-django.po-A9AC05A21BC3FE2E123A4700B0519FE9FA9C01CE",
+        "SPDXRef-File--userena-locale-zh-CN-LC-MESSAGES-django.po-B2063A562C4FB68C112C6FB9DB49B10B8FACF12B",
+        "SPDXRef-File--userena-locale-pl-LC-MESSAGES-django.po-3C8840458B61A5A46DA0C0E3421CA8D734FF22C5",
+        "SPDXRef-File--userena-locale-nl-LC-MESSAGES-django.mo-9CDFECCD6E1FD87CAC25F089D72B5CD48DE7116F",
+        "SPDXRef-File--userena-tests-tests-urls.py-692CFAB14BEA83A3D6F4D3B00E12F26101458A16",
+        "SPDXRef-File--userena-tests-tests-utils.py-76F2EDFEFBE40978EDB69FEE60A2A675E60B9E91",
+        "SPDXRef-File--userena-contrib-umessages-templates-base.html-5CE183233676E389F88D04FF497059BCB8ED6A20",
+        "SPDXRef-File--userena-contrib-umessages-tests-test-models.py-A5FB8C83D4BBA2C0278220457C07F510E2C21A45",
+        "SPDXRef-File--userena-contrib-umessages---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--userena-south-migrations---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--userena-decorators.py-E3ACA1545DF1A5CC33B841AB492BC3B2F5909BAA",
+        "SPDXRef-File--userena-compat.py-18C9E3EA33B7B8974D09F8CE6E8CF01733AB469D",
+        "SPDXRef-File--docs-api-decorators.rst-1BF75C3F875B7E204927ADB1D184175D2A957528",
+        "SPDXRef-File--docs-contrib-umessages-api-views.rst-AD8E1941CA60A55CA18386043577D9B440C8DC11",
+        "SPDXRef-File--docs-settings.rst-6D7BC77C1AF73EC7C5678ECE06C8CB2D19130FD9",
+        "SPDXRef-File--demo-profiles-views.py-1C05FAE5EC2C962217FCAAA1FEF6CAF3A0405E3B",
+        "SPDXRef-File--demo-demo-templates-userena-profile-detail.html-8C263A5A6CD140E36E6C784D0DE4B366561946FA",
+        "SPDXRef-File--demo-demo-templates-base.html-B33F1EF67EE1FE2AEAEC77C03DE571021E6480EE",
+        "SPDXRef-File--demo-demo-static-img-arrow-down.png-EA3B3767477EF029F8136C82F8B43B295D939857",
+        "SPDXRef-File--demo-demo-static-img-userena.png-EFF56386FC752215D58C7F0C305B634E30F0172C",
+        "SPDXRef-File--demo-manage.py-10A57B65AF2BC07951C428D418919695928548E7",
+        "SPDXRef-File--demo-nginx.conf-420182A55D8E789D46EDC4A8EDBB8522F075B18E",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-config-29DCE68E8BBA429F0C8B07F1FD9A5F85A556CFE6",
+        "SPDXRef-File--MANIFEST.in-0114D81112ECE79652632762BA6E57B5E299DC97",
+        "SPDXRef-File--.gitignore-6F911CDE15E77DB15B785CCE462C8462CED1841A",
+        "SPDXRef-File--userena-templates-userena-emails-activation-email-message.txt-2A0587A09A22C993683A8C161A12735F144651FA",
+        "SPDXRef-File--userena-templates-userena-emails-password-reset-message.html-FD4159D18A20B9D5BF1981FD29B14AB04509FD15",
+        "SPDXRef-File--userena-templates-userena-signup-complete.html-9821A3F140CD18C16C3AECC10DFAC5C1017C82A0",
+        "SPDXRef-File--userena-templates-userena-disabled.html-0A80D5A9304AF55B6C4B26795074B920BCB847F5",
+        "SPDXRef-File--userena-templates-userena-email-confirm-complete.html-38C12C6390CAC96F5EFC695F0C1437A4AE86EE41",
+        "SPDXRef-File--userena-locale-pt-LC-MESSAGES-django.mo-E52CDBF1AA957D39B82DBADC3954BA3C8CEC9086",
+        "SPDXRef-File--userena-locale-tr-LC-MESSAGES-django.mo-DCBB0B9D5F06BD62FD8D51CCD6FFB5AD240F4DA9",
+        "SPDXRef-File--userena-locale-ro-LC-MESSAGES-django.mo-3337E0E6FC18243E2557CC3F9AAFE157569BA4A2",
+        "SPDXRef-File--userena-locale-zh-TW-LC-MESSAGES-django.po-47EDBBBE6F9918B986BE5F2F89859D8177551F3A",
+        "SPDXRef-File--userena-tests-profiles-models.py-AA3148565CCD61FBC8FA077ECB2A008330E1EFAD",
+        "SPDXRef-File--userena-tests-test-commands.py-526335DB479563F1A7C0227090D66C3E65E53E13",
+        "SPDXRef-File--userena-contrib-umessages-templates-umessages-base-message.html-311961C57F9952A642DB95A1F44155F42F58CA10",
+        "SPDXRef-File--userena-contrib-umessages-tests---init--.py-602726549BAA10D7FEB7C2AF95C3DB803F0117C9",
+        "SPDXRef-File--userena-contrib-umessages-south-migrations-0001-initial.py-8D97E15CD8C1F6A5FC7069189C813A779D7AFBFF",
+        "SPDXRef-File--userena-contrib-umessages-models.py-DB198697D496D49050F0BFB32FEB5BF1573F60AB",
+        "SPDXRef-File--userena-management---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--userena-backends.py-66F8EA1D73087DF23C0AF0CAA700CB2E2C08815E",
+        "SPDXRef-File--userena-apps.py-5E68D7D31BB0193DFC7B0F80677E0F5814E25706",
+        "SPDXRef-File--docs-api-backends.rst-70EDF748B6F2823AB52F08EEADFC245A5282AE4F",
+        "SPDXRef-File--docs-faq.rst-35B2F434F10B4741B434AE9EBD91CECE434AB10D",
+        "SPDXRef-File--demo-public-static-.gitignore-886E6D00AC28A586434AE1B6320C0BB185E3DDFC",
+        "SPDXRef-File--demo-demo-templates-userena-profile-form.html-A9152182BC69EE9FF0A9BDD1F09B32277ECBF1B6",
+        "SPDXRef-File--demo-demo-templates-umessages-message-detail.html-22A8428D6E1937E4BEF067C315752C105DF9FD3A",
+        "SPDXRef-File--demo-demo-static-img-forkme.png-FDF015EB631A0A0141780C1E29E35747FD49BAA1",
+        "SPDXRef-File--demo-demo-static-img-lissy.png-BDB104DC3195A677B84C16F7441DF37B5F720500",
+        "SPDXRef-File--demo-demo-wsgi.py-EBD794F83E24C35D3EC68622386662564F59296A",
+        "SPDXRef-File--demo-superuser.py-1A75E4387DBEDF712B639886ADDDE1CC6C198EC8",
+        "SPDXRef-File--.git-logs-HEAD-FB50F3B8BFFC7AD4771F77C5AB741EE9DFDD1243",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--AUTHORS-59115B045EC8A6544463FE90E62B9C6601F08E69",
+        "SPDXRef-File--LICENSE-E1F57E0218A0A5E47BF6B7054F5299AB5971F4D8"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-71E68AC6978888A4AE668508A67A1B79F57BDE3E4AE2B9F5651DB41F0118C52B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5855B2D97427905963799DAA83EFD81E11B5DC556EF20AD287B64FB6C50A814A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-271EC4BED278103F9CCC241B37FA6E38C6AFD26A542FF1BBF23D80D0C611B942",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BE4A303D4F3965D7DE26D77F9D0ABA77321894313EDBF7586B6A1DF1058106EE",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0FE9E6204C327C075E5C632E1B108F0FC8A7228894C9314DE95333BA461A9FFF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2F9FA6DD4E197181120D7C47DDDA95FEABF77BCCF38A0E444F9769E0A20F3D8E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "django-userena django-userena-15.4.6",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-2.2.1-4c2e7878-568a-4b6f-be35-1857fe6e6b9b/django-userena/django-userena-15.4.6/fWI2Fdvr1ECpB_DB7AIE_w",
+  "creationInfo": {
+    "created": "2024-01-06T15:36:24Z",
+    "creators": [
+      "Organization: django-userena",
+      "Tool: Microsoft.SBOMTool-2.2.1"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

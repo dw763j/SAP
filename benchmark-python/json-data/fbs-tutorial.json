@@ -1,0 +1,31 @@
+{
+    "name": "fbs-tutorial",
+    "home_page": "https://github.com/mherrmann/fbs-tutorial",
+    "author": "Organization: Free Software Foundation, Inc. <http://fsf.org/>",
+    "version": "",
+    "license": "GPL-3.0-only",
+    "copyright": " Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>",
+    "packages": [
+        {
+            "name": "PyQt5",
+            "license": "GPL-3.0-only",
+            "home_page": "https://www.riverbankcomputing.com/software/pyqt/",
+            "author": "Riverbank Computing Limited",
+            "version": ""
+        },
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ""
+        },
+        {
+            "name": "requests",
+            "license": "Apache-2.0",
+            "home_page": "https://requests.readthedocs.io",
+            "author": "Kenneth Reitz",
+            "version": ""
+        }
+    ]
+}

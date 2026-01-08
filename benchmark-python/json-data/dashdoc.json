@@ -1,0 +1,17 @@
+{
+    "name": "DashDoc",
+    "home_page": "https://github.com/farcaller/DashDoc",
+    "author": "Person:",
+    "version": "",
+    "license": "Apache-2.0",
+    "copyright": "",
+    "packages": [
+        {
+            "name": "sublime",
+            "license": "CC0-1.0",
+            "home_page": "http://github.com/wasade/sublime",
+            "author": "Daniel McDonald",
+            "version": ""
+        }
+    ]
+}

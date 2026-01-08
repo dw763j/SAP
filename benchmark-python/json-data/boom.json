@@ -1,0 +1,80 @@
+{
+    "name": "boom",
+    "home_page": "https://github.com/tarekziade/boom",
+    "author": "Person:Tarek Ziadé <tarek@ziade.org>",
+    "version": "1.0",
+    "license": "Apache-2.0",
+    "copyright": "Copyright 2012 - Tarek Ziadé <tarek@ziade.org>",
+    "packages": [
+        {
+            "name": "coveralls",
+            "license": "MIT",
+            "home_page": "http://github.com/TheKevJames/coveralls-python",
+            "author": "TheKevJames",
+            "version": ""
+        },
+        {
+            "name": "flake8",
+            "license": "MIT",
+            "home_page": "https://github.com/pycqa/flake8",
+            "author": "Tarek Ziade",
+            "version": "3.0.4"
+        },
+        {
+            "name": "tox",
+            "license": "MIT",
+            "home_page": "https://github.com/tox-dev/tox",
+            "author": "",
+            "version": "2.3.1"
+        },
+        {
+            "name": "aiohttp",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/aio-libs/aiohttp",
+            "author": "",
+            "version": "3.7.2"
+        },
+        {
+            "name": "requests",
+            "license": "Apache-2.0",
+            "home_page": "https://requests.readthedocs.io",
+            "author": "Kenneth Reitz",
+            "version": ">=2.3.0"
+        },
+        {
+            "name": "nose",
+            "license": "LGPL-2.0-only",
+            "home_page": "http://readthedocs.org/docs/nose/",
+            "author": "Jason Pellerin",
+            "version": ""
+        },
+        {
+            "name": "unittest2",
+            "license": "",
+            "home_page": "http://pypi.python.org/pypi/unittest2",
+            "author": "Robert Collins",
+            "version": ""
+        },
+        {
+            "name": "coverage",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/nedbat/coveragepy",
+            "author": "Ned Batchelder and 224 others",
+            "version": ""
+        },
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ""
+        },
+        {
+            "name": "gevent",
+            "license": "MIT",
+            "home_page": "http://www.gevent.org/",
+            "author": "Denis Bilenko",
+            "version": ""
+        }
+    ]
+}

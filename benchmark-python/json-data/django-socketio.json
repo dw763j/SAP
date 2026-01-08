@@ -1,0 +1,45 @@
+{
+    "name": "django-socketio",
+    "home_page": "https://github.com/stephenmcd/django-socketio",
+    "author": "Person:Stephen McDonald and individual contributors",
+    "version": "",
+    "license": "BSD-2-Clause",
+    "copyright": "Copyright (c) Stephen McDonald and individual contributors",
+    "packages": [
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ""
+        },
+        {
+            "name": "sphinx-me",
+            "license": "BSD-4-Clause",
+            "home_page": "http://github.com/stephenmcd/sphinx-me/",
+            "author": "Stephen McDonald",
+            "version": ""
+        },
+        {
+            "name": "Django",
+            "license": "BSD-3-Clause",
+            "home_page": "https://www.djangoproject.com/",
+            "author": "Django Software Foundation",
+            "version": ""
+        },
+        {
+            "name": "thread",
+            "license": "BSD-3-Clause",
+            "home_page": "",
+            "author": "Alex",
+            "version": ""
+        },
+        {
+            "name": "chat",
+            "license": "MIT",
+            "home_page": "http://pypi.python.org/pypi/chat",
+            "author": "Decalogue",
+            "version": ""
+        }
+    ]
+}

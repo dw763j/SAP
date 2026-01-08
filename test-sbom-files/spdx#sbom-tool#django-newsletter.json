@@ -1,0 +1,4618 @@
+{
+  "files": [
+    {
+      "fileName": "./.coveragerc",
+      "SPDXID": "SPDXRef-File--.coveragerc-D92400C8032FC5020BAE11C1F7DDD84D025A77DA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7b044d1d747c8f56aa3edfcc1974a4ab38d495bcdf5c9f794c6b27f16a1acaf5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d92400c8032fc5020bae11c1f7ddd84d025a77da"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AUTHORS.rst",
+      "SPDXID": "SPDXRef-File--AUTHORS.rst-D9050528C72057F2D742A7D27B19B4C87AD9D484",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6cb1bcdf55275e3b3014e0e769be7151ca791a1096aae373d81ac137fcee25d9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9050528c72057f2d742a7d27b19b4c87ad9d484"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-9BA4224C9D265494410538D7A02BF9E19DA36104",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6381463eb273eeb2ef6d02926c137dd607ce93e29028474443e07424db0bfd94"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9ba4224c9d265494410538d7a02bf9e19da36104"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test_project/test_project/fixtures/test_newsletters.json",
+      "SPDXID": "SPDXRef-File--test-project-test-project-fixtures-test-newsletters.json-48A3B99C0BC1009C185E34C5C542CFC1000E9E1A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "650bd520c101515c1523b340adfd592e495bfa2023115743344e28a8e975f415"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "48a3b99c0bc1009c185e34c5c542cfc1000e9e1a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test_project/test_project/templates/newsletter/message/test-newsletter-with-overrides/unsubscribe.txt",
+      "SPDXID": "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-unsubscribe.txt-5E2FD54532840E484F7268F39AA67392DBC2EF63",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ed9d76e527fadf6855e9c923f369692c0a196729a292784b7811914097cdfdc5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5e2fd54532840e484f7268f39aa67392dbc2ef63"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contrib/export_subscribers.sql",
+      "SPDXID": "SPDXRef-File--contrib-export-subscribers.sql-43AE8FB3EC730A84B40671B6660FFEE5DD55F034",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c6cac4f23480842fccd68738d540591fc0c54ae452c45aa34ebb46047e4839bd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "43ae8fb3ec730a84b40671b6660ffee5dd55f034"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_settings.py",
+      "SPDXID": "SPDXRef-File--tests-test-settings.py-4B9B5385EA7797AEFA94D91F901EE3E89E447A78",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "184a56d15b21faf66da27fe65b59db6dcba60b456c274951caa703244c68312d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4b9b5385ea7797aefa94d91f901ee3e89e447a78"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/test.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-test.yml-7D5963AC5FA21A6C5DCE2F0F2F192C3F941ACE76",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a5a74731c236f4037a8e6e7dd66c23a6e9f0ed1d0981dd17d9b8bd6f08979b27"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7d5963ac5fa21a6c5dce2f0f2f192c3f941ace76"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/installation.rst",
+      "SPDXID": "SPDXRef-File--docs-installation.rst-191A989C14A0B97D13D38B63EC56F456FED3A55A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3ad8590ee7442326c2ba9f00390ace95782613aecca60ebb22169265db82494c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "191a989c14a0b97d13d38b63ec56f456fed3a55a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/forms.py",
+      "SPDXID": "SPDXRef-File--newsletter-forms.py-F44F4C0C0868D4E621B0931501EECC234D48398A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dc643e1d037a00fd69b156c8878883c6b28fb9e569ce1f6dd78bc20660a2b819"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f44f4c0c0868d4e621b0931501eecc234d48398a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/__init__.py",
+      "SPDXID": "SPDXRef-File--newsletter---init--.py-C3EDA087016786A46650737FDEC94AD4756218FD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2810bd02c3d8749e7f22609ec5785550133fdac15d7874a2b99d81a692d6813e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c3eda087016786a46650737fdec94ad4756218fd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/jobs/daily/__init__.py",
+      "SPDXID": "SPDXRef-File--newsletter-jobs-daily---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/fr/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-fr-LC-MESSAGES-django.mo-A1D38514EF7D884B5BC702FEDBE356EF04C92C5C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a98849439c8caa8f7611e4bff329c5fe355c94bab2f93e7bf6ca2b9e39f7d56c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a1d38514ef7d884b5bc702fedbe356ef04c92c5c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/es/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-es-LC-MESSAGES-django.mo-D9D5C4559AF76D4191F62B297F1BB109D0FE64C6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e1c0adfc5084d5ad22bb3bdc28d31f8c4e9fc6c60f5d235048cdc601364e8255"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9d5c4559af76d4191f62b297f1bb109d0fe64c6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/pl/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-pl-LC-MESSAGES-django.mo-21CE6D25EDD1A64FCB6B975391AF0BC3573273EE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bfeb637dae59fdc63ead8abc1ec9742c9a5e7ae45a63983cf6ccf2f50e0f88a9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "21ce6d25edd1a64fcb6b975391af0bc3573273ee"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/fa/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-fa-LC-MESSAGES-django.mo-AA3DDC48F5960B8EEF12B752E9B48B293AFC2AD6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3789babbf09a4af07b139b686d8d8ef405bfcbe3d54b6940680773e4edb6c695"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "aa3ddc48f5960b8eef12b752e9b48b293afc2ad6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/ru/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-ru-LC-MESSAGES-django.mo-8AB777C31724B2D72B2B5F96D932893108CD769E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "57c9dd380ce363416f2558632fc5a3007257a19bfba006e4688b1a7aab757000"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8ab777c31724b2d72b2b5f96d932893108cd769e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./COPYRIGHT",
+      "SPDXID": "SPDXRef-File--COPYRIGHT-EADB2993A1635E83DB0B419352A78EE8A9A99A8C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "54f3254d9323dece1094715d2a2f4a97cc4276dc2e034ea616b837145bb89b09"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eadb2993a1635e83db0b419352a78ee8a9a99a8c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./MANIFEST.in",
+      "SPDXID": "SPDXRef-File--MANIFEST.in-5C6A79E60005B89F450707AE32AFF18D772C6888",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c01ec7780157bd4e6aaa2c4f49f8a88098c2f17096c90911139d92580e18749f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5c6a79e60005b89f450707ae32aff18d772c6888"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-440EF4BD862FFC3532ABF085E208AA30C806B3F5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d1e7a6473b567569e11d4d6efa45e6f89b5abe5afde733fcd88e73a2205aced1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "440ef4bd862ffc3532abf085e208aa30c806b3f5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-92145452e5d822ffbe01957936e8f789800f3e73.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-92145452e5d822ffbe01957936e8f789800f3e73.pack-B462D3AC0C9B92031B23D4B4FC54BDE0CCBDB0CF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "41d3e6d42716e23b2ceea3142136412594ab597c42d3f8da8c89ddfc9355273d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b462d3ac0c9b92031b23d4b4fc54bde0ccbdb0cf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/it/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-it-LC-MESSAGES-django.po-E903D87C8FA8BB97617CB25824966EE99DB460DB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b3599b733015968fde6ddbe77eac99b134c0d42c0bffc81acf414d928d3cac7f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e903d87c8fa8bb97617cb25824966ee99db460db"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test_project/test_project/urls.py",
+      "SPDXID": "SPDXRef-File--test-project-test-project-urls.py-55138EC4AD6A92785018F816642535D9C6DD2615",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6c96553917fec90b6b01fd8cd4935f7d0bf8c8f0df18e51320cb32126176bde7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "55138ec4ad6a92785018f816642535d9c6dd2615"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test_project/test_project/templates/newsletter/message/test-newsletter-with-overrides/subscribe_subject.txt",
+      "SPDXID": "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-subscribe-subject.txt-8C8941D0E057BBD85AC530DD096BA28A29B75E92",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5c8abf21b173f883f784aa8e22a0e2adaa63992d301c1db92bd0c543a510cc01"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8c8941d0e057bbd85ac530dd096ba28a29b75e92"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test_project/test_project/templates/newsletter/message/test-newsletter-with-overrides/subscribe.txt",
+      "SPDXID": "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-subscribe.txt-5EB474E60F82F66CC77EF84481372323E1261DF0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a6e248c07cdcd29252833d6dc0ec149242331de2e8c9475911549aa4912522f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5eb474e60f82f66cc77ef84481372323e1261df0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_fields.py",
+      "SPDXID": "SPDXRef-File--tests-test-fields.py-B23BF534E47B42F66560F7288E215B42ABCEBCD1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1b0b701dbe9d34c9c51bb0d669d7a52dcb90b9652463b9eefb53462609e13e68"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b23bf534e47b42f66560f7288e215b42abcebcd1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/files/sample.pdf",
+      "SPDXID": "SPDXRef-File--tests-files-sample.pdf-5D5A5E1980545B3768B456C3DC14C83CA3E4AA89",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7007d5225cfdc9a8688b437e5985cc3ff1826ba2afa0d1ed723f15661813ebbd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5d5a5e1980545b3768b456c3dc14c83ca3e4aa89"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/upgrading.rst",
+      "SPDXID": "SPDXRef-File--docs-upgrading.rst-EC0655247C166A2129FCE6BE0BC1F56A124311DC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a71ae5da7158d59890c1f01baf706b9b37829f0449198dd026ca3f80ab9c2db7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ec0655247c166a2129fce6be0bc1f56a124311dc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/index.rst",
+      "SPDXID": "SPDXRef-File--docs-index.rst-DFC14F8F135AFBB32CB440B36093A6A062E5AC39",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2f3ac206a91fd4900ba93c0485495fc49d1e1b052422c16ec1d1d7098316d432"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dfc14f8f135afbb32cb440b36093a6a062e5ac39"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/settings.py",
+      "SPDXID": "SPDXRef-File--newsletter-settings.py-67D3087D2E09B1BB479BB92B3D5A738B9F710E96",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cceb42f0eeb8df72a76e2259d21e6cda78d13dc235a8439f3c319f0e1bb45819"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "67d3087d2e09b1bb479bb92b3d5a738b9f710e96"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/management/commands/__init__.py",
+      "SPDXID": "SPDXRef-File--newsletter-management-commands---init--.py-9B50726D12911C30E05C232D7091A18156ADB807",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "938c089db0894b9edc2fd3cd81abff4d425be2a03eda8444651225f84bcbd547"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9b50726d12911c30e05c232d7091a18156adb807"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/fr/LC_MESSAGES/djangojs.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-fr-LC-MESSAGES-djangojs.mo-BB70D5D727C2DBA5CBDEEAC805346ED382D10960",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cc9159154c08322cb026c1f02cd18911410302fdc1f3d62f92974ff715cbba5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bb70d5d727c2dba5cbdeeac805346ed382d10960"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/es/LC_MESSAGES/djangojs.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-es-LC-MESSAGES-djangojs.mo-D20A66EC30342BAE86A1B21B449C5B583F88C025",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8b13657b8d4a8c1f06cf43e3959a8741ed5e4d9f51b704b013b678ed47486791"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d20a66ec30342bae86a1b21b449c5b583f88c025"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/pl/LC_MESSAGES/djangojs.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-pl-LC-MESSAGES-djangojs.mo-CD0DFC2367691A891E05DAC6C5E5558977B392A1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fe8cfcba51eaf38b802b5d066748efa800fc0f96be50e604a8f46e949ad8c8e6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cd0dfc2367691a891e05dac6c5e5558977b392a1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/fa/LC_MESSAGES/djangojs.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-fa-LC-MESSAGES-djangojs.mo-4B60A53747CFDB02C401F8FDD0872E799A9C5E8E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "79af5d57741c4c849fa917215cc28cd26a1e814cb66ef8ebce3b36d82a1569a0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4b60a53747cfdb02c401f8fdd0872e799a9c5e8e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/ru/LC_MESSAGES/djangojs.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-ru-LC-MESSAGES-djangojs.mo-04C4F6A3BBC36B8E6690D38349EFA9BDB142DF90",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b1e38da63b31898b618ab4634005741faab3febd6ddf453e0a676fc9812adf94"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c4f6a3bbc36b8e6690d38349efa9bdb142df90"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/pt_BR/LC_MESSAGES/djangojs.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-pt-BR-LC-MESSAGES-djangojs.po-353B2B3D4B2E638D5CC17566278A64168B7B84E9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "18730df6189bd6cbadc6ec9238c0a10b9ce5cc6d10b7a1749552d93b855e7f18"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "353b2b3d4b2e638d5cc17566278a64168b7b84e9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/de/LC_MESSAGES/djangojs.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-de-LC-MESSAGES-djangojs.mo-09684DE64693213E02E6CB7DDDE058594A416050",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "006e5c623adb4bcad3f0369bd3fb5254bc737efa659c3c82546138f5f1ace4e3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "09684de64693213e02e6cb7ddde058594a416050"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/el_GR/LC_MESSAGES/djangojs.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-el-GR-LC-MESSAGES-djangojs.mo-44C94730ACF7B058C86988A2A8D554926BE91BE8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "70fb22e1247caa064857e1e2b49ca05ba481119a5f2cf6eaf22ee870d4d5d21b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "44c94730acf7b058c86988a2a8d554926be91be8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/static/newsletter/admin/img/waiting.gif",
+      "SPDXID": "SPDXRef-File--newsletter-static-newsletter-admin-img-waiting.gif-05C5FE5531E1D29E3EFC6E2CBE5A0B51855860B6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7514c2b3cd3ff2656d0220555b278ee473e441f9ee2d36427c6f96b918d2c78f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "05c5fe5531e1d29e3efc6e2cbe5a0b51855860b6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/migrations/0007_switch_from_sorl_imagefield.py",
+      "SPDXID": "SPDXRef-File--newsletter-migrations-0007-switch-from-sorl-imagefield.py-3C4E9048834260B0B879D6451FC17C0DBC03FEEE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6020918ff7d9970afe6086aa2a245961baafae78e163036b13030da46fb9f847"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3c4e9048834260b0b879d6451fc17c0dbc03feee"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/admin/newsletter/subscription/importform.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-admin-newsletter-subscription-importform.html-BC824A5D83D685D14DDEA1F7F71F24EA4DCB3142",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7815b1ceb08c3ac92b4871dfca0b9555264158cb4e5ead98d250e0096776ce6a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bc824a5d83d685d14ddea1f7f71f24ea4dcb3142"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/subscription_subscribe_email_sent.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-subscription-subscribe-email-sent.html-42AD17D2FEBCC1DE9F09F30D90F39949A6A9FDC5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "59f595494455442f3ba18c1c911544d7edc28cbb81f988d03cf6da8083eaaaf7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "42ad17d2febcc1de9f09f30d90f39949a6a9fdc5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/subscription_subscribe_activated.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-subscription-subscribe-activated.html-0B21C7C1241882B05AD232A39A3C0470C9B21EE3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "94e24202faa1c33c6e02dc91dcec03252a204f0130adc0009febd3dbc9833ca6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0b21c7c1241882b05ad232a39a3c0470c9b21ee3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/message/unsubscribe.txt",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-message-unsubscribe.txt-05D0CE21463F63B9039D4405DD39462CF6A7F835",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "68c9798d7dd0d9ad8221d86066a26e2307fe1d53c78bcb1adde7a79888f9a0be"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "05d0ce21463f63b9039d4405dd39462cf6a7f835"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/addressimport/parsers.py",
+      "SPDXID": "SPDXRef-File--newsletter-addressimport-parsers.py-2C1AF4196F603A35CCB27FADE29FB28A6628233B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8dc9c829be07e82a8c25236d0edc85e4acccc9a1d6179d2678000c6d9af55951"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2c1af4196f603a35ccb27fade29fb28a6628233b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CONTRIBUTING.rst",
+      "SPDXID": "SPDXRef-File--CONTRIBUTING.rst-FAED0E7179CF38238A8B0C5A16C90E005B79FCDD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ed5672bff5b4af6bb5cc6a1f48ced9c28f2c8a6f9d14dca347b3c6ea33adbe98"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "faed0e7179cf38238a8b0c5a16c90e005b79fcdd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-D07E408D76BB961C011BF7381EF1F25397B24DAE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "926b05bc512ecf689c4e8f5f8e0bd775908b630a023fc7b56d5a73ce2275cc9b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d07e408d76bb961c011bf7381ef1f25397b24dae"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test_project/test_project/templates/newsletter/message/test-newsletter-with-overrides/subscribe.html",
+      "SPDXID": "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-subscribe.html-D6C1F38157111C8CB87B39C160D002F5DEC7987F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "96543b53a4339194daf7b26bcb4ca7e6769c0bdd1a49d1efa268813e89834a67"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d6c1f38157111c8cb87b39c160d002f5dec7987f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test_project/test_project/templates/newsletter/message/test-newsletter-with-overrides/update.html",
+      "SPDXID": "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-update.html-6341DDF51F584EDCB2415399E5CCC8F9C84CA72E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9f5ad15964243ec9bdf9a010dd02bd6127c65f89c2bed0f633cdb43cba9de19"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6341ddf51f584edcb2415399e5ccc8f9c84ca72e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/utils.py",
+      "SPDXID": "SPDXRef-File--tests-utils.py-52220EA0882A65B4AC77A639AC7BAD3ABB9E28BB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a13b3e4f01989c2b7c2c3d311f25b394ed8a5cb290a0f646fdf2bd4e5b34e351"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "52220ea0882a65b4ac77a639ac7bad3abb9e28bb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/files/addresses.ldif",
+      "SPDXID": "SPDXRef-File--tests-files-addresses.ldif-A64366ECEBE8A1064A8A98308D17D48B1F091875",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2afb4df7dc0f2ebe68cc83f2e8f40ae60ad70a1ca82b16c83b6b4159f088f09e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a64366ecebe8a1064a8a98308d17d48b1f091875"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/settings.rst",
+      "SPDXID": "SPDXRef-File--docs-settings.rst-CC507AE7FB45D75E4EF554875AC89741B0656389",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "24b7424ebe01ac1a5b6fded84b3eba8246563c095703ee4c6ce83ff74956837f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cc507ae7fb45d75e4ef554875ac89741b0656389"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/graph_models.png",
+      "SPDXID": "SPDXRef-File--docs-graph-models.png-D31B51DF44F6B3E097B29854E64A38DA5360AF09",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "06be4ca686eb2304e4f32615a038cbc1e1e6e5001b80963dfff190084343344a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d31b51df44f6b3e097b29854e64a38da5360af09"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/validators.py",
+      "SPDXID": "SPDXRef-File--newsletter-validators.py-912D72AA67808D8E84FDDAA5E8909024B47BCFCF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fc2d3777b7a4a07ea1fee57d39d07e691a01a7f1c377018f1e4a325f276385d6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "912d72aa67808d8e84fddaa5e8909024b47bcfcf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/views.py",
+      "SPDXID": "SPDXRef-File--newsletter-views.py-BA7B8386ACF56CD794D1A97BA9BED7E2E5F7E258",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9d4d5904790b40b8ef315ceaa2b0c298c18a6d49569b839538e8682efb7a9be4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ba7b8386acf56cd794d1a97ba9bed7e2e5f7e258"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/jobs/hourly/submit.py",
+      "SPDXID": "SPDXRef-File--newsletter-jobs-hourly-submit.py-92DE2FD9886EDE00E9F2493989F731460B6AA622",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bba85ef72d1419a69dec6d3b6acbdddb2f18237354bcea30b229b459e575cf1d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "92de2fd9886ede00e9f2493989f731460b6aa622"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/nl/LC_MESSAGES/djangojs.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-nl-LC-MESSAGES-djangojs.po-ED452B7251DAA90A45A74A52EA51646DE38A390A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "931a6e61394e49458a9bbef8d927a9feb2134821cd60e36760cc0678769b0fe6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ed452b7251daa90a45a74a52ea51646de38a390a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/is_IS/LC_MESSAGES/djangojs.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-is-IS-LC-MESSAGES-djangojs.po-A5118A81B02A04C7871B6F3D4E3A7DD4F5D92CEF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "662f3c748f259bb2f07651604f8b6158e23f049bc7298816d0257b06ebf2964c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a5118a81b02a04c7871b6f3d4e3a7dd4f5d92cef"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/cs_CZ/LC_MESSAGES/djangojs.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-cs-CZ-LC-MESSAGES-djangojs.po-1FB591C3BCB65D5D06FB8F6DCE333EC75731B7A3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3dc5367a245d010ce5c540838faa85dffe165deefe5ec370a72326acf6225dd8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1fb591c3bcb65d5d06fb8f6dce333ec75731b7a3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/ar/LC_MESSAGES/djangojs.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-ar-LC-MESSAGES-djangojs.po-78A7209B5650180771CE714608AFA4CC711CB93D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "af2b1b52c81c57649da150b47334c749f7d96f6b904ec3538c5a92f8a2805e56"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "78a7209b5650180771ce714608afa4cc711cb93d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/pt_BR/LC_MESSAGES/djangojs.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-pt-BR-LC-MESSAGES-djangojs.mo-EADF6969713302D06B356F7D51C59FA3F5DF69FD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a14a9794512107d44638144b15cbda36c689c9899c4a283cdebe0d57d3b64232"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eadf6969713302d06b356f7d51c59fa3f5df69fd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/pt_PT/LC_MESSAGES/djangojs.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-pt-PT-LC-MESSAGES-djangojs.mo-C0D8C8089B75B0FBFDC152DCF3FA219D15FEFA0B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7381757557062c44614c54bb0c8bec1d2c48e9b7cf33c84351f07f3a4f0e05ef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c0d8c8089b75b0fbfdc152dcf3fa219d15fefa0b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/en/LC_MESSAGES/djangojs.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-en-LC-MESSAGES-djangojs.po-0A00B7B50CC7D80387E0EDF674B39B9847020778",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "62ff23045c550d39bd497826e3c95c3be309accf095dbce4a7ddc0569dca7053"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0a00b7b50cc7d80387e0edf674b39b9847020778"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/static/newsletter/admin/img/icon-yes.gif",
+      "SPDXID": "SPDXRef-File--newsletter-static-newsletter-admin-img-icon-yes.gif-3EF025B7A3AB4F8CFBA42D7A84DAF42B5BBFA741",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2baca219e4b1f476ec971f545299e411dfae89e1568d87349db11bbf79af6beb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3ef025b7a3ab4f8cfba42d7a84daf42b5bbfa741"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/migrations/__init__.py",
+      "SPDXID": "SPDXRef-File--newsletter-migrations---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/admin/newsletter/subscription/confirmimportform.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-admin-newsletter-subscription-confirmimportform.html-AFD13D4B3EEDAF7DE69883A435D81795AAF92109",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ceebfcded60a60b9cee7411cfaf4c8d8a23e1adb0fe1d8aa8b906ccb921b8049"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "afd13d4b3eedaf7de69883a435d81795aaf92109"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CHANGES.rst",
+      "SPDXID": "SPDXRef-File--CHANGES.rst-87F0D41DC767D1401DD562A5E116E9AD0ACB2A67",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3f5f23e7bd4363b0082ba058bc7965bce01848887cb9e77ca36560cd5ec8c96e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "87f0d41dc767d1401dd562a5e116e9ad0acb2a67"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.pre-commit-config.yaml",
+      "SPDXID": "SPDXRef-File--.pre-commit-config.yaml-24C419EBE7DBFAD9E73885D6FD9BCC8C99A460D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c4757dece5aea1a81a37e4d8dddf40a379bf62a3318d244ea545b409f393eb99"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "24c419ebe7dbfad9e73885d6fd9bcc8c99a460d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-9BA4224C9D265494410538D7A02BF9E19DA36104",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6381463eb273eeb2ef6d02926c137dd607ce93e29028474443e07424db0bfd94"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9ba4224c9d265494410538d7a02bf9e19da36104"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test_project/test_project/__init__.py",
+      "SPDXID": "SPDXRef-File--test-project-test-project---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test_project/test_project/templates/newsletter/message/test-newsletter-with-overrides/unsubscribe.html",
+      "SPDXID": "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-unsubscribe.html-0026A52F6FE624122C8AB91E51E0AD6B988AEBDD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b1ee11b9dc5765a056fed6e508bbdedd5ec973bc9179e67f2b86f655f410c1f2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0026a52f6fe624122c8ab91e51e0ad6b988aebdd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contrib/README.rst",
+      "SPDXID": "SPDXRef-File--contrib-README.rst-4FB96132BFF94AE376A4575D30E1E063CCED3A8A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5a45a6653b4ac45946f8e11530c61dab4069646c200163968844a6ed336307fd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4fb96132bff94ae376a4575d30e1e063cced3a8a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/__init__.py",
+      "SPDXID": "SPDXRef-File--tests---init--.py-2C91652CF5C20DAE2C0C6523CAC1B98E24BA190A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "53d2a0d1607e128215a03b6a5d89242e5c314959db24187395194e25744451a4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2c91652cf5c20dae2c0c6523cac1b98e24ba190a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/release.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-release.yml-A097D905C5A8023AE511427527D5AD3D7C0AA183",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0ede9d72819142167bd3d5e2c6f93a32b69c74ab9908f44132706b82a6527db0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a097d905c5a8023ae511427527d5ad3d7c0aa183"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/templates.rst",
+      "SPDXID": "SPDXRef-File--docs-templates.rst-E54847F28048901ABC84084544C610D0A8B57265",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "08dc35dd931002acf855e6628bd39e22eb3d37de7a6d9f44dc99b7079ded514c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e54847f28048901abc84084544c610d0a8b57265"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/utils.py",
+      "SPDXID": "SPDXRef-File--newsletter-utils.py-633542BA46C2F200108945CA2EBA419E35DE735A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4ed12a6676e4c449a87f25e2d159a94b3cafc8af9379419ab4976ec060454d54"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "633542ba46c2f200108945ca2eba419e35de735a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/admin_utils.py",
+      "SPDXID": "SPDXRef-File--newsletter-admin-utils.py-4E79C67F5E428E0F5C9B914AE403E55B767BE6BA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b34606527c9d6664ef4c2c09fdde9f55eb552a2b7d672a40e95f8d310fd065bf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4e79c67f5e428e0f5c9b914ae403e55b767be6ba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/jobs/__init__.py",
+      "SPDXID": "SPDXRef-File--newsletter-jobs---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/fr/LC_MESSAGES/djangojs.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-fr-LC-MESSAGES-djangojs.po-19B0DB18F45EE536F1A97157759CDEE12218AAFD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6c83fbd5dbdfd33929398591426126c2eae416ac6817bd7583fe739bb749e006"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "19b0db18f45ee536f1a97157759cdee12218aafd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/es/LC_MESSAGES/djangojs.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-es-LC-MESSAGES-djangojs.po-6197BDADD90DCFFBB818BB7082750F62B0EFD71A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5e11f84a48aef5c2d46d6c30531f71a6460e8ea6ab1f477ce47986ff3607d030"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6197bdadd90dcffbb818bb7082750f62b0efd71a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/pl/LC_MESSAGES/djangojs.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-pl-LC-MESSAGES-djangojs.po-33A8E0A18D13D7FE3B418750C6A859A7B37F388A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1a643e29465d96e9c340a5a5baf4c5cc511bd528b4c091c47c7280102f4be40e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "33a8e0a18d13d7fe3b418750c6a859a7b37f388a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/subscription_unsubscribe.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-subscription-unsubscribe.html-4B5C6FA759A78955CBE82FCE48B779A2CB530303",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b579cd229650ec43164e1c21c192c87fd417ab5721db9deb43e58665df618714"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4b5c6fa759a78955cbe82fce48b779a2cb530303"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/fa/LC_MESSAGES/djangojs.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-fa-LC-MESSAGES-djangojs.po-4305D8D3FE65D617F3821742406AA3D5C126FBA2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c68862295c2095ad24ff7dcc6cb477aa662e25ec04ef0fd3841cb5896a05ce95"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4305d8d3fe65d617f3821742406aa3d5c126fba2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/ru/LC_MESSAGES/djangojs.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-ru-LC-MESSAGES-djangojs.po-28E97452C533ABC72C5E8DE9A575C086F63A25E3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85688feec6a7eff7c8d5dabf4c8c6693e457ecacc21af3cd521634f05849c455"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "28e97452c533abc72c5e8de9a575c086f63a25e3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/it/LC_MESSAGES/djangojs.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-it-LC-MESSAGES-djangojs.mo-FE9ADC75EC0E86CBFEE585791ACBC4643B9559C3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "68d00cfe7b350cb2ee2109c6ce98c3c220ec5964f5d2f6117bb73082ff288f60"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fe9adc75ec0e86cbfee585791acbc4643b9559c3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/de/LC_MESSAGES/djangojs.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-de-LC-MESSAGES-djangojs.po-39FAD99DC9FEF0D989C5D5153E221931E02E305A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "383fc86f8fd48cffcdf3e605b71600c25b95af2ef7d48509964019cde309845a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "39fad99dc9fef0d989c5d5153e221931e02e305a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/el_GR/LC_MESSAGES/djangojs.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-el-GR-LC-MESSAGES-djangojs.po-7111C60626DC31E729006D1BD5AE24DF7188D8B6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c33c8e7da34137698a918cf68c9a448182977bb47dc592b42b338aaf564af363"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7111c60626dc31e729006d1bd5ae24df7188d8b6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/migrations/0001_initial.py",
+      "SPDXID": "SPDXRef-File--newsletter-migrations-0001-initial.py-1232C1B4DF6FBB4C5549D7EA48D900B58567F487",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "af756e1438fa9b7bf7f8b2bc4d89d0090f28d78b1aa6716522054ed7b7dc5868"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1232c1b4df6fbb4c5549d7ea48d900b58567f487"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/migrations/0003_auto_20160226_1518.py",
+      "SPDXID": "SPDXRef-File--newsletter-migrations-0003-auto-20160226-1518.py-CACF04FB27A17A9EBE6A0A9CF763D251EFB31399",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6dcf1dedce23e2be743686de95f65fd9059c49db5b09de89466898489e3ba2a8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cacf04fb27a17a9ebe6a0a9cf763d251efb31399"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/de/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-de-LC-MESSAGES-django.mo-1532F5E4BE98D201A76E12A59BF81D07C84FA9E4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "104187ef66d6edb63fdf1258b7a973caf9ac225927e0a645ab9e13e775e2457f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1532f5e4be98d201a76e12a59bf81d07c84fa9e4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/el_GR/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-el-GR-LC-MESSAGES-django.mo-75644F92848D334CDAD15950AF740B2694514C9A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "60274a1cd3b9ba5bd6ad61d9d1f83013e4ed943be39b177d7aa334e1f6fc6e13"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "75644f92848d334cdad15950af740b2694514c9a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/migrations/0002_auto_20150416_1555.py",
+      "SPDXID": "SPDXRef-File--newsletter-migrations-0002-auto-20150416-1555.py-8981DB030089664C0F0A9BA530B5D05AE69ACF7C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d31e6765525c7ca3afd3064832f0954ece1a9ce472deb742b0d667107b69c6d6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8981db030089664c0f0a9ba530b5d05ae69acf7c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/admin/newsletter/message/change_form.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-admin-newsletter-message-change-form.html-D55FFFD551CF4923BC9C9FD103F722CF39ED3F68",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0e1c4d2b53784cb64f9c907ce7f466832f23cb3dc8f83a38b9850581ee844aec"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d55fffd551cf4923bc9c9fd103f722cf39ed3f68"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/subscription_subscribe_user.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-subscription-subscribe-user.html-1C9D046E90337FB98B5A3D71D872E68EA86687B1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fd732910bfd9bee15e23d4a4694eb785492ca73b2b60165b5d7946f69b9d18cf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1c9d046e90337fb98b5a3d71d872e68ea86687b1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/subscription_activate.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-subscription-activate.html-F287200C628F910E7D5A6ED7BACC0B3191D3B27B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "617c8731c4232795b7c6dd62a4ce3af6138c1ca6039b195958a57d936aa08058"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f287200c628f910e7d5a6ed7bacc0b3191d3b27b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/message/subscribe.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-message-subscribe.html-EFE407F371EF92FD3B55AFB7895B9F80F6741A92",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "93485aa7188e6b5ab95745d8a83db9dec211e1f77804e27b7aa464d5cdeabb4c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "efe407f371ef92fd3b55afb7895b9f80f6741a92"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/message/update.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-message-update.html-527F1914AC66735FD4D69CB9FC356AA555844384",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "490dc470d48bb865f4184b2b2582439259863982654d3fe2c35e71b3eecae0b1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "527f1914ac66735fd4d69cb9fc356aa555844384"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./RELENG.rst",
+      "SPDXID": "SPDXRef-File--RELENG.rst-48F0558A4DA98A4CA4A3174A1557B218EE7FB5AB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "75b80da3262807ab81de2d91899359ee11c905a383899774108653825263ed50"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "48f0558a4da98a4ca4a3174a1557b218ee7fb5ab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test_project/test_project/templates/newsletter/message/test-newsletter-with-overrides/message.txt",
+      "SPDXID": "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-message.txt-20C13E12C5BFC68FE09CD35F5434FFAF0FF501A9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d792e3ede514eddb406a5606604c63affabff7ad5bac88a5511a215f5bb9a4b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "20c13e12c5bfc68fe09cd35f5434ffaf0ff501a9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test_project/test_project/templates/newsletter/message/test-newsletter-with-overrides/update_subject.txt",
+      "SPDXID": "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-update-subject.txt-74C2D73613DC5EB4143AD462F189E3FBBA5F2716",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b1f44db27f2425af1f7851c8f4fab4da7e3d9806524906ade65d8b50a3ad73f0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "74c2d73613dc5eb4143ad462f189e3fbba5f2716"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_validators.py",
+      "SPDXID": "SPDXRef-File--tests-test-validators.py-01CC82E00898CF85F5CCF9B63A7DECC4A594BD06",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "27b2dcee99d7c0dc9eced64c47b25a360525e2ce0a096ac5781880b0fccdf60a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "01cc82e00898cf85f5ccf9b63a7decc4a594bd06"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/files/sample.txt",
+      "SPDXID": "SPDXRef-File--tests-files-sample.txt-D7C07366C789BB4D8C0F532C178AAFADA3C2DC7D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7616da9d5eda9847d3711cd1261183311a5fa9cb2c2a1e64a8d5a495e53fc1e5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d7c07366c789bb4d8c0f532c178aafada3c2dc7d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/conf.py",
+      "SPDXID": "SPDXRef-File--docs-conf.py-D08B8577FD0C5A64CAF522A64C1EB82DA3D8AE73",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "177555b3fd5a663ab63f03d1c1278622bf03650baad0adcbdface7e08c77e256"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d08b8577fd0c5a64caf522a64c1eb82da3d8ae73"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/reference.rst",
+      "SPDXID": "SPDXRef-File--docs-reference.rst-CC7D280D483B873D1F326C29057A4EC69EB46EC8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5400e779c9433b4a024bffc799ab4b0d64632653a60e2217f7651f84d2287ddf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cc7d280d483b873d1f326c29057a4ec69eb46ec8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/urls.py",
+      "SPDXID": "SPDXRef-File--newsletter-urls.py-DF700C2F88C3D5E24E9573E8644349920A79FF45",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f22dd6949290021523d7b7613d1780b891d58721a9051c0250093e10143325b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "df700c2f88c3d5e24e9573e8644349920a79ff45"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/fields.py",
+      "SPDXID": "SPDXRef-File--newsletter-fields.py-CCFBE5A23DD0BAF4A3CF5D5C5761968AC19612C1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1a8493635b263eea58b7decc6ca8c50ed68c730203dda2d46e2e83cadc5313c2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ccfbe5a23dd0baf4a3cf5d5c5761968ac19612c1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/jobs/monthly/__init__.py",
+      "SPDXID": "SPDXRef-File--newsletter-jobs-monthly---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/nl/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-nl-LC-MESSAGES-django.po-94FDA98914D307EB492CFD332664386B8FD4959E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "567fe7a82729d48947608abcd6afd643f69441d82df72031ea1a432b96463c3a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "94fda98914d307eb492cfd332664386b8fd4959e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/is_IS/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-is-IS-LC-MESSAGES-django.po-0CC0C72E9D8941E551537BD1C8140C68A3F23965",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3e8b19e578acf868e590851c2e45cf37eea794dbb85b721d7b7097c9b7505e9c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0cc0c72e9d8941e551537bd1c8140c68a3f23965"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/cs_CZ/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-cs-CZ-LC-MESSAGES-django.po-4DABC96F0929D1CCAAB74270AA122FAC9765E0EC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "966357ea7caa0b4aa8e57e76e1601725e94c27f9aebb9edd31885ed86ef8ee77"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4dabc96f0929d1ccaab74270aa122fac9765e0ec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/ar/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-ar-LC-MESSAGES-django.po-A68837414484E4B9EE900D0C8471A0A80132B164",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8870d09b19592b34210021ae10d40a5ba7980aa749dd3d971569812d15fffc2f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a68837414484e4b9ee900d0c8471a0a80132b164"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/zh_CN/LC_MESSAGES/djangojs.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-zh-CN-LC-MESSAGES-djangojs.po-01405C3566C25298E96B0EDCB0A01955CA6CB68B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dfcda501e19ad86999dee82a716e3bb34afa123701558cca936ccdf04f550023"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "01405c3566c25298e96b0edcb0a01955ca6cb68b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/it/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-it-LC-MESSAGES-django.mo-78AAA70EC644139FA738DDD3A8559F35CEB17403",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7a075322b470d894d1719594204ccf0c5787ce991ad0750bf150f01255663052"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "78aaa70ec644139fa738ddd3a8559f35ceb17403"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/en/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-en-LC-MESSAGES-django.po-8223946886A425B72C3CE7659EF6D142719E4773",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8b6a47c7567ada9f51408559241b47271b467cdc2aea1bdf8710fa30eaf87d41"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8223946886a425b72c3ce7659ef6d142719e4773"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/static/newsletter/admin/js/submit_interface.js",
+      "SPDXID": "SPDXRef-File--newsletter-static-newsletter-admin-js-submit-interface.js-D5D9C9E4EC4B64BE042FA07689135482DEEC713D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "170e67723b0b1710c1a7bdaa752307858836d072c805da833af68b224ae062ed"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d5d9c9e4ec4b64be042fa07689135482deec713d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/migrations/0006_attachment.py",
+      "SPDXID": "SPDXRef-File--newsletter-migrations-0006-attachment.py-A5F84C70D47B093E2118756090AD55435BED4A89",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6b1c2109e73c6048c5d31d972cb31d6de5f6c790491f550cf043165ce7bab675"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a5f84c70d47b093e2118756090ad55435bed4a89"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/admin/newsletter/submission/change_form.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-admin-newsletter-submission-change-form.html-D85F87D5EE32B90D2174D45FD495BD078AE36323",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "677be2660979c0ed8cd817f5b0c2d9e70bc4f8e1c73a44f86afe027f9f04c50a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d85f87d5ee32b90d2174d45fd495bd078ae36323"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/subscription_unsubscribe_email_sent.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-subscription-unsubscribe-email-sent.html-042FAAB76E5443FBCE426C41223EE93C1B628DB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a6b2cc7bea89212e540d293ad1fce04de7defece4eee027b301e9167c0ccd5c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "042faab76e5443fbce426c41223ee93c1b628db7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/subscription_unsubscribe_user.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-subscription-unsubscribe-user.html-FA9D765AAEA6A7457FD8DEE31746E22A2638FF73",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b700141225550c807c4f33dcdfb234c7c942b08c03a04a94adde7cfcf78a0db8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fa9d765aaea6a7457fd8dee31746e22a2638ff73"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/message/subscribe_subject.txt",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-message-subscribe-subject.txt-E491A2D261192F5488FED77935016C62F8EE0FC2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d24945e6368eca603b2d22546d45b7c4dc6cab4f574842a777daaaa8107fb200"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e491a2d261192f5488fed77935016c62f8ee0fc2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-CCCBA0333791F19ACC9D9F10BE3EA60292EA6503",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d783ac78180bf0abf17aa1a894177a4f5a84c08a5eed9a3ac67f0995649dd1b1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cccba0333791f19acc9d9f10be3ea60292ea6503"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/subscription_update_email_sent.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-subscription-update-email-sent.html-C670D3DAF12847395B4C08ABAAE7C3C85BEADB9B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f5b1492bde4c3ad724e9dfddd1c49e6ff895ce4a9649c52e63a015eb6382a622"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c670d3daf12847395b4c08abaae7c3c85beadb9b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/subscription_update_activated.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-subscription-update-activated.html-7DD2F7D510D6BDB26C2E69E94B76392D66E6D46C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aaee6b08c9f1758b2eb92ea61846b502f682e40ba87e5423c217185eaa202f96"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7dd2f7d510d6bdb26c2e69e94b76392d66e6d46c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/message/subscribe.txt",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-message-subscribe.txt-EA58538DF7FF19A749A3AF67FD880FA02340BDC5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "38ef832ba0dbd806c19c02d15db976314e8bf8bdc18cf887e00b67302dd25f14"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ea58538df7ff19a749a3af67fd880fa02340bdc5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE.txt",
+      "SPDXID": "SPDXRef-File--LICENSE.txt-A2F9FFBF32EEB6284AFA81BC4FB4C27B80D044E9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8486a10c4393cee1c25392769ddd3b2d6c242d6ec7928e1414efff7dfb2f07ef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a2f9ffbf32eeb6284afa81bc4fb4c27b80d044e9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-CA8E45BEE756BD25AFD3A706C04AE6232742C148",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "df022a4ac5b2e57982bbe9eeb41eb080e4b309e3897345b53070786dce7a9383"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ca8e45bee756bd25afd3a706c04ae6232742c148"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test_project/manage.py",
+      "SPDXID": "SPDXRef-File--test-project-manage.py-0C59BD37CCDFB27003D5E9D4C8EA000BA184218A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6871ea91090dc7be815dd0910065ce869db99e168cb559a0b5e4aa7ce05acadf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0c59bd37ccdfb27003d5e9d4c8ea000ba184218a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test_project/test_project/templates/newsletter/message/test-newsletter-with-overrides/message_subject.txt",
+      "SPDXID": "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-message-subject.txt-1A565C65FA40B3F7988560F2AFF9E451D40A33E8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c6956bd1f092de6ee0f9be533ef34d8b649d425e2263c267b43f5cbf36bb2be0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1a565c65fa40b3f7988560f2aff9e451d40a33e8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test_project/test_project/templates/newsletter/message/test-newsletter-with-overrides/message.html",
+      "SPDXID": "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-message.html-D42810196FBF8193CF024992F01A5703B3B245E5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2799e0a3bb7913eaae2eaca5d1106ba6705c2035bcc5e932cdfa26e22d1e130f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d42810196fbf8193cf024992f01a5703b3b245e5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_mailing.py",
+      "SPDXID": "SPDXRef-File--tests-test-mailing.py-4BE11C98BDB111113B6C645E11F3A8C5B54CB25A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "23186d4e738e17f68fb6e8f410f693c1c3ea51b94c631c9f4e34128fc0ca74f2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4be11c98bdb111113b6c645e11f3a8c5b54cb25a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/files/addresses.vcf",
+      "SPDXID": "SPDXRef-File--tests-files-addresses.vcf-910A83F833621FD17223956D38990AE494B075B9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "402533b9c3760cf9c322cd01c88fe8cb9c765f52f3f06dbcc962512f6dc74208"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "910a83f833621fd17223956d38990ae494b075b9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/graph_models.pdf",
+      "SPDXID": "SPDXRef-File--docs-graph-models.pdf-67FF284E090D40B7F250452A69D5BF43962CF530",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5c16553d37aaadb60ce9526d1be06790c73f9dc39bc3127f6af0be5754e02132"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "67ff284e090d40b7f250452a69d5bf43962cf530"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/make.bat",
+      "SPDXID": "SPDXRef-File--docs-make.bat-BD48CBE31D8B15575495B7B2DED95D0CC85B9DCE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b3b38b473a79d968b12cef59fe7085b6825d1093ccbe1ae191682b8ec44dcc64"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bd48cbe31d8b15575495b7b2ded95d0cc85b9dce"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/converters.py",
+      "SPDXID": "SPDXRef-File--newsletter-converters.py-BFA7A001294E1FA02F318BED48AE9BF0FA5F3619",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d31fd2d294a5db150c374d70445d3eaa8ddc954ad4db49b83add26b53f25daf4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bfa7a001294e1fa02f318bed48ae9bf0fa5f3619"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/management/__init__.py",
+      "SPDXID": "SPDXRef-File--newsletter-management---init--.py-9B50726D12911C30E05C232D7091A18156ADB807",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "938c089db0894b9edc2fd3cd81abff4d425be2a03eda8444651225f84bcbd547"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9b50726d12911c30e05c232d7091a18156adb807"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/jobs/hourly/__init__.py",
+      "SPDXID": "SPDXRef-File--newsletter-jobs-hourly---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/nl/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-nl-LC-MESSAGES-django.mo-B6BA56CB8F0EAD238C72FEBD8FDE15AF14F7D0BB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "98c186d4d683193e727ed7c778969ccbe0ec113c2632ec09f271a8130d5e4252"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b6ba56cb8f0ead238c72febd8fde15af14f7d0bb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/is_IS/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-is-IS-LC-MESSAGES-django.mo-0AD7CCF62C34416F2CE73FBF010EF5078BB02F07",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e848dd13446d2e7f09736f7c21a855eee10bedfa43405203f362c7d603e48228"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ad7ccf62c34416f2ce73fbf010ef5078bb02f07"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/cs_CZ/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-cs-CZ-LC-MESSAGES-django.mo-A3D59804EC48532611DEF76EAB2374E372EBB19B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "378ccda291e5c664e65c03ca3adc4f0c243bc36e910df3d0ee012524715b5324"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a3d59804ec48532611def76eab2374e372ebb19b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/ar/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-ar-LC-MESSAGES-django.mo-740F9823D81DC822D62C0D7C9A17F1CA5FF4A4DE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "891b649f8fb6075bc84f00ad670b372271bf7a69d3176193d110f4bc2a2ce4ef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "740f9823d81dc822d62c0d7c9a17f1ca5ff4a4de"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/pt_BR/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-pt-BR-LC-MESSAGES-django.po-DDD3B5A2BA3F43409A934B74ACD2E5AECDBE4E67",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f990c01aac029542fca4ed57a4896fda56dcac4ad11d9741c2865cb2560f24bc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ddd3b5a2ba3f43409a934b74acd2e5aecdbe4e67"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/pt_PT/LC_MESSAGES/djangojs.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-pt-PT-LC-MESSAGES-djangojs.po-24198779ABC5F58F2099B7C93EA459CD38A92557",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d181cc224b6ab3c930882068af1f5086b3c2812e69a92226e78d8f87f25610a9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "24198779abc5f58f2099b7c93ea459cd38a92557"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/en/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-en-LC-MESSAGES-django.mo-27219572B0ED3357FDE8B88C0FE09C6764B8662B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "55d0b7985ca562b06188c6d30e648379dfe6cffc6b14f76a98d396a3380b9a27"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "27219572b0ed3357fde8b88c0fe09c6764b8662b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/static/newsletter/admin/img/icon-no.gif",
+      "SPDXID": "SPDXRef-File--newsletter-static-newsletter-admin-img-icon-no.gif-1E8EE3A708883549F83D759AB875DED0297A4AC9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "75dbe8c54c44c5a4a89e5473177a86848180abc06b8beb134d51555c86a4a802"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1e8ee3a708883549f83d759ab875ded0297a4ac9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/migrations/0005_auto_20190918_0122.py",
+      "SPDXID": "SPDXRef-File--newsletter-migrations-0005-auto-20190918-0122.py-AAE0465F1461D8F51DC7F12C92DA7452A389672B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "56f0017f620eb52a6f88e6d7750b9286de6545f7a58495890e790911c4b2aa64"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "aae0465f1461d8f51dc7f12c92da7452a389672b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tox.ini",
+      "SPDXID": "SPDXRef-File--tox.ini-39316AA5010EDE682C80F25A1E2EEA463BAD6867",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b55c304155deefeead37251330009d9dc5629861aa3fc937251676fe745208aa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "39316aa5010ede682c80f25a1e2eea463bad6867"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.rst",
+      "SPDXID": "SPDXRef-File--README.rst-2DC4616EAE944561D6A234B92D3FC5FDF2CF5C98",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "746098c877c7cd90a29152d5f30d30934c98d7827b83540ea8439283f40ecfb9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2dc4616eae944561d6a234b92d3fc5fdf2cf5c98"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-9BE3D78332C57015A4B53494CB562C0B7F500345",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b03c54e40ca5eb65925e7ad6b88ca7a3f1de34941830736c01be88ca2dda8bb1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9be3d78332c57015a4b53494cb562c0b7f500345"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-92145452e5d822ffbe01957936e8f789800f3e73.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-92145452e5d822ffbe01957936e8f789800f3e73.idx-D12CE65CFE9D8504A9D3122185316584388D3AC7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7374cb3bff60e9ea56e8d3587b510f0e696658b942d96cf08f239683e3bcf7a2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d12ce65cfe9d8504a9d3122185316584388d3ac7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test_project/test_project/settings.py",
+      "SPDXID": "SPDXRef-File--test-project-test-project-settings.py-D464A3F79431BAC0D93663DC3594E1A41A9625F7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "86d0591ae408a28fe6188517f731027fa0c30e0ececa7d548b94d333e5e2b9d3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d464a3f79431bac0d93663dc3594e1a41a9625f7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test_project/test_project/templates/newsletter/message/test-newsletter-with-overrides/unsubscribe_subject.txt",
+      "SPDXID": "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-unsubscribe-subject.txt-4D5DEBB8F5B9F18084600F25516EC20E260BFAA1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "432e53d3237ec029b1a1291d2cfc9e678dd786a14610b57f1eff0a136800759f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4d5debb8f5b9f18084600f25516ec20e260bfaa1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.tx/config",
+      "SPDXID": "SPDXRef-File--.tx-config-5673DFB7A24468054F0A8A255D3FD98249EE969C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "273b5b2963278b3dec0939041d3b636fab9d0fe2fa42323d62626da671bb9c17"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5673dfb7a24468054f0a8a255d3fd98249ee969c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_admin.py",
+      "SPDXID": "SPDXRef-File--tests-test-admin.py-F1885415D6BEE0A0228C04837DBC2E082BDFFE2F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fae20f8fcdc92e07fd49d035c52557b9a8bd5f9cde248e0339a8f2cb953bf8cc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f1885415d6bee0a0228c04837dbc2e082bdffe2f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/files/addresses_duplicates.csv",
+      "SPDXID": "SPDXRef-File--tests-files-addresses-duplicates.csv-0069B41F8B1E4E54841561DB0098235CD0E599EA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8b8170e0e54d90430d6db9ffd95217525e766e1657f5e7d374a1ce9254785df2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0069b41f8b1e4e54841561db0098235cd0e599ea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/usage.rst",
+      "SPDXID": "SPDXRef-File--docs-usage.rst-4BFA7E2B33769CBE61DA6857F3B0F5BCF55FA346",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "74b26c6202cda5463dd5a46e72fd4783460c6f93b18c56f1b1a86fe6831a670a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4bfa7e2b33769cbe61da6857f3b0f5bcf55fa346"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/graph_models.dot",
+      "SPDXID": "SPDXRef-File--docs-graph-models.dot-E396D67FCB2D997250C4E25168800CE54DAAEEEC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cd0b32392b2531d136efb0252f02b5141a1177874d838fb051fb2ccd7e916a56"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e396d67fcb2d997250c4e25168800ce54daaeeec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/admin.py",
+      "SPDXID": "SPDXRef-File--newsletter-admin.py-A3BAB6ED3C713C9A86DFC93BA32F950769DDFA71",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "136c7373496a3b814b624119645810dc1b082aec0d856f1ec49a3cd6f54c3658"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a3bab6ed3c713c9a86dfc93ba32f950769ddfa71"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/management/commands/submit_newsletter.py",
+      "SPDXID": "SPDXRef-File--newsletter-management-commands-submit-newsletter.py-AD0FF44C757E4E2630638E2E9DA759B1759BC2D8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fa8fae2e20cd85b725845613f6445468316ac55516741a191f514f77c3ad2893"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ad0ff44c757e4e2630638e2e9da759b1759bc2d8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/fr/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-fr-LC-MESSAGES-django.po-6A380C2CD6A6F1F45584FC7CC0F16FE06F6A77F1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eaa911083f443a44a0ac1d73c26f63ea0afcc7b4f9830e3dacb99ca1c4a78bb2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6a380c2cd6a6f1f45584fc7cc0f16fe06f6a77f1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/es/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-es-LC-MESSAGES-django.po-F739A229E08CDEC5AF76EF7A33EA1F6B40CF4A3E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4fbaf8d16f403db7ba3f889588752ddf2cef38c68b3ea66ad616d30b0bf9acf0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f739a229e08cdec5af76ef7a33ea1f6b40cf4a3e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/pl/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-pl-LC-MESSAGES-django.po-12AD07BFD8903120041F35CC7ECD0F6D8AD27429",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8a4a205b3fbc9e570a2b5449b16a030ef1d4736c2957d7ff7238ffd3eb8f41c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "12ad07bfd8903120041f35cc7ecd0f6d8ad27429"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/fa/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-fa-LC-MESSAGES-django.po-769FBBC2D47D2D8E2F921BD301FD807904FEF9EA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4baebdf69830173d84abddbefcd5f6cce2a0542c616d24791841b6e1178b6571"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "769fbbc2d47d2d8e2f921bd301fd807904fef9ea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/ru/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-ru-LC-MESSAGES-django.po-EBECDF12962F58BFAF7BF8DF3EB5995A9711E2EE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d13ee1507b395c2ccd633292ac054e252f760ae8a89230c4aafef73586e3f56d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ebecdf12962f58bfaf7bf8df3eb5995a9711e2ee"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/pt_BR/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-pt-BR-LC-MESSAGES-django.mo-BD2F449ECA9CBDA5B8431073434028ED88BBAEC4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b273fa6332b1559810466100409e47b0493fa12349b789cbf6dcaf85f90539d7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bd2f449eca9cbda5b8431073434028ed88bbaec4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/de/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-de-LC-MESSAGES-django.po-7E0027D6C707A504CF7B420A2B9A57CF2D601613",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2aad38d40ae581d9cb7e3f95b9f81cf8c76a301643f872bd9c5368a8233c8505"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7e0027d6c707a504cf7b420a2b9a57cf2d601613"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/el_GR/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-el-GR-LC-MESSAGES-django.po-E3B429883E07F382A9A1CF1246487AEB26D58E64",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "577fd61760fe0b099b267545928fcb6d920b9db4958fbf3433af665b11d5ae59"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e3b429883e07f382a9a1cf1246487aeb26d58e64"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/static/newsletter/admin/img/submitting.gif",
+      "SPDXID": "SPDXRef-File--newsletter-static-newsletter-admin-img-submitting.gif-6D20137A80A8E1F9D7FE6D5C41FBC06AC98CC914",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "97889e1972deb03c24d3f4f84a6719233efa97730b6fd7ddc718bd6e58e6c700"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6d20137a80a8e1f9d7fe6d5c41fbc06ac98cc914"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/migrations/0008_longer_subscription_name.py",
+      "SPDXID": "SPDXRef-File--newsletter-migrations-0008-longer-subscription-name.py-5136C08A5AED7B9307CBA7DE6ED83F7E872DC5DA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3d04bb533057a71ee932eaa9328a3bde755045fd0999dcdef45a92ce27cc243e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5136c08a5aed7b9307cba7de6ed83f7e872dc5da"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/widget/image.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-widget-image.html-D5E6D0B033D812BA85EA7EF7577FAC9292FF6A1F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "40a3e3298a12836f89745b4ad071d5e9c6633329971ef4b9e14fdedf911eefd0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d5e6d0b033d812ba85ea7ef7577fac9292ff6a1f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/newsletter_list.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-newsletter-list.html-C1CAA4A62ABA7E1E6A6D808A39F2939993BCC648",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "37bb42a734e6cea53b9fb47d5ce64325a8a6babd353d76558ce64b606952e7e0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c1caa4a62aba7e1e6a6d808a39f2939993bcc648"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/common.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-common.html-F83B8E42C0D58BCEF46183AEEFEF0DEE493A92CE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "54106074b7607ce4dc59057e90d3aca1cf49a1a28a683a3f7beb2b705ca35b31"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f83b8e42c0d58bcef46183aeefef0dee493a92ce"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/message/update.txt",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-message-update.txt-F2A4BB5EF598D1DB9536F6540A9A3B635C2F4BC8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9789efe83fa75f0bc7e6fc57ab95a17dc097630b230e3675238d43b9dec97cc4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f2a4bb5ef598d1db9536f6540a9a3b635c2f4bc8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/addressimport/__init__.py",
+      "SPDXID": "SPDXRef-File--newsletter-addressimport---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./setup.py",
+      "SPDXID": "SPDXRef-File--setup.py-997E731DEDB423296BEB919C390368BC1F766301",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3f6fd749ef4177bdff684c04e882ad671ce925e75caca68becbaaef82d262bf9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "997e731dedb423296beb919c390368bc1f766301"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CODE_OF_CONDUCT.md",
+      "SPDXID": "SPDXRef-File--CODE-OF-CONDUCT.md-411EFAE378B83BECCECF7DC65A630C67829F504B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "97d5dc1da048fb2119e87d9af66d78eb2269693cf56b3aaca66422f9c2410e91"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "411efae378b83beccecf7dc65a630c67829f504b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-9BA4224C9D265494410538D7A02BF9E19DA36104",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6381463eb273eeb2ef6d02926c137dd607ce93e29028474443e07424db0bfd94"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9ba4224c9d265494410538d7a02bf9e19da36104"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test_project/test_project/templates/404.html",
+      "SPDXID": "SPDXRef-File--test-project-test-project-templates-404.html-BF23FB4B9A0C4E44FF8E738EF65A971813A270AA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7ffc1ad42128514d8876b97e55a6d03a13ef7d0b7b9310d8458960d0f58fdd96"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf23fb4b9a0c4e44ff8e738ef65a971813a270aa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./test_project/test_project/templates/newsletter/message/test-newsletter-with-overrides/update.txt",
+      "SPDXID": "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-update.txt-3C7399A26607541CBE77D28EDD8FB499461D900D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6db8339cb06a8d166f604468b9f45f15b42631d49fc5a821e9ff8d8df1b19905"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3c7399a26607541cbe77d28edd8fb499461d900d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_web.py",
+      "SPDXID": "SPDXRef-File--tests-test-web.py-C766AA5A2C6B9319768EB4F34728043C78D25E4F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b703184ff730b7f8558759da847d5fdc48036f8b63e4ecdc6bb742811d231157"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c766aa5a2c6b9319768eb4f34728043c78d25e4f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/files/addresses.csv",
+      "SPDXID": "SPDXRef-File--tests-files-addresses.csv-6F4AA130A4AB5EFFDFE6D3CF475CE1C4FAC256D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2fa62af10dad7330dce3c9cc35296abd343645af5dd78a6ae9cfe808d8e5aae5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6f4aa130a4ab5effdfe6d3cf475ce1c4fac256d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/Makefile",
+      "SPDXID": "SPDXRef-File--docs-Makefile-6A1A3746FCF3DF37402DCD77D43F15EA31992ECC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "289b2becda6eab41921ba6bf1d2588cb727de4346538541e6d21012fd1bdc9e1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6a1a3746fcf3df37402dcd77d43f15ea31992ecc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/requirements.txt",
+      "SPDXID": "SPDXRef-File--docs-requirements.txt-77E50B6C4EF54F60C5075F395894C1A6B98F7AED",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "779b6fc714dc501b47f03a23bbea11dd7826207f0afdb78da4316c29b79ab761"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "77e50b6c4ef54f60c5075f395894c1a6b98f7aed"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/models.py",
+      "SPDXID": "SPDXRef-File--newsletter-models.py-BDD559ACAE37A5E6F6127ADD062E9E20B57D14DB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8c045166b63c7fe05bb7b0b7b1e1bdd40a58ebea3578c2467da2e78d7694c232"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bdd559acae37a5e6f6127add062e9e20b57d14db"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/admin_forms.py",
+      "SPDXID": "SPDXRef-File--newsletter-admin-forms.py-74219663E6DF25E44B3EBCCFE28A12738428EEA1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dd6f1fb36752759572cb53f72ddd1bce7ebf2973efaec1a6c2fc6506efff6665"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "74219663e6df25e44b3ebccfe28a12738428eea1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/jobs/weekly/__init__.py",
+      "SPDXID": "SPDXRef-File--newsletter-jobs-weekly---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/nl/LC_MESSAGES/djangojs.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-nl-LC-MESSAGES-djangojs.mo-8B5FB5ED84F3A414E582E96E5DCC3F8F3DF59C16",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8ef45ed1f8e9eda40ecc77a248fdd91aa45f7b360ada9d5d3722c873357add4b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8b5fb5ed84f3a414e582e96e5dcc3f8f3df59c16"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/is_IS/LC_MESSAGES/djangojs.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-is-IS-LC-MESSAGES-djangojs.mo-A15EAACE2DC548F38314E7B06FBA4589974FAF10",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eb2a230a991635c277cd922a060549e9cf8c07d396d25e7f5178e3cc7ea86506"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a15eaace2dc548f38314e7b06fba4589974faf10"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/cs_CZ/LC_MESSAGES/djangojs.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-cs-CZ-LC-MESSAGES-djangojs.mo-D51271E8E0D41E018D223F40D990503CE21BB9EE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "45a25d5a90b48fc0f00675e624bd3434d01cc4d9f445d67fc7f3f3ab37f73bdd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d51271e8e0d41e018d223f40d990503ce21bb9ee"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/ar/LC_MESSAGES/djangojs.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-ar-LC-MESSAGES-djangojs.mo-C806E216001980FDE2247E6DCA2093552AE89A39",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6466a78de8814a1e8b47e62b85de429ab59ae79426547e68079a8efc043b2be2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c806e216001980fde2247e6dca2093552ae89a39"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/zh_CN/LC_MESSAGES/djangojs.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-zh-CN-LC-MESSAGES-djangojs.mo-F307DB863FE9A5FF922AF0EE1ECFDC9874B67FE2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4465a1e300fdc0df85023b497977d3a859156868d96616ed8f9cb91144b52cf3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f307db863fe9a5ff922af0ee1ecfdc9874b67fe2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/it/LC_MESSAGES/djangojs.po",
+      "SPDXID": "SPDXRef-File--newsletter-locale-it-LC-MESSAGES-djangojs.po-51875F321773D3B181183D8FB28538B371A418C7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cf3df5c9112f8c77acf63bf1471b18c56b34800f58baf359cbd52c4d17c006e5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "51875f321773d3b181183d8fb28538b371a418c7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/locale/en/LC_MESSAGES/djangojs.mo",
+      "SPDXID": "SPDXRef-File--newsletter-locale-en-LC-MESSAGES-djangojs.mo-1C1DAD64BFB372E42667346731337E75DC817FD9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2fc7f86389a680bb48ddbb5f9e84237f56dccf8be292b46226614d4ee6ad3e66"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1c1dad64bfb372e42667346731337e75dc817fd9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/static/newsletter/admin/js/subscriber_lookup.js",
+      "SPDXID": "SPDXRef-File--newsletter-static-newsletter-admin-js-subscriber-lookup.js-680E29D12195CAC220BBCBE8105FBC5AA4E7D27F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "acd796e006d4cba95be0109008a63407cfff0d9e5d77715e767e5545921f1f22"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "680e29d12195cac220bbcbe8105fbc5aa4e7d27f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/migrations/0004_auto_20180407_1043.py",
+      "SPDXID": "SPDXRef-File--newsletter-migrations-0004-auto-20180407-1043.py-146E25C8938B0F4EA84E00149912062318DB7CDD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "351e7b6535ea3ae3f4260abf3c4e7378923e7a15f7ea5baf51471262d227c565"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "146e25c8938b0f4ea84e00149912062318db7cdd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/admin/newsletter/message/preview.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-admin-newsletter-message-preview.html-DEEAD2C39695982A6639F5C6DF2AE7C91C07980D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8a36c48d646450b57d00d12230b2eea3cc940b516070b3b91ef10969ee96fc0c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "deead2c39695982a6639f5c6df2ae7c91c07980d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/subscription_subscribe.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-subscription-subscribe.html-A6563AD294BE2BA4ABE3E5D3202ED8EE57049CF3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "17d58860285e90c88e2f028905bb6f71f30578550d38dcb6ae500b0253e6325e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a6563ad294be2ba4abe3e5d3202ed8ee57049cf3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/subscription_update.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-subscription-update.html-904AF359408CF3FE216C10A34D9909E261998EE1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4a5f38b0943feb6cadd6850e90319486d7a53d3f9cead68c10a242ec396fdf48"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "904af359408cf3fe216c10a34d9909e261998ee1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/message/message_subject.txt",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-message-message-subject.txt-90F203C127C15C069E5DE96900D8A9FDDF01B134",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "87a34d0b23b4812c89ef650f724483c2f3b0c546d14570c3d1a19d3f2ead6df7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "90f203c127c15c069e5de96900d8a9fddf01b134"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/submission_archive.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-submission-archive.html-444782C00F67D11689CCEDF58DB036AB58C8FB9A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d9e7d2ca5d3b4e2faac3baa58e629b418efa5278a9211323affdad6110db188a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "444782c00f67d11689ccedf58db036ab58c8fb9a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/message/unsubscribe_subject.txt",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-message-unsubscribe-subject.txt-D3100258CD066D05A2441AAFFC55E1673E6F9670",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2342f24724b4b4853adb65027202ae8385c266062a068299b9a38631c249f406"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d3100258cd066d05a2441aaffc55e1673e6f9670"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/admin/newsletter/subscription/change_list.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-admin-newsletter-subscription-change-list.html-3F4830BBB67250FF15A25BA05B1093959F005B41",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6f7c748e06d709f9094660e6e651b003aaa9db4e3790a3516bdae3e8fd2dfe5c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3f4830bbb67250ff15a25ba05b1093959f005b41"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/message/message.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-message-message.html-DF80AC4933DA7C9D442D4406883F6464A0A24D6D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5bba0bc4ae479c105f4aa56c49a7fa4f59bb9bb75f328cefe7afb93cc979b0a5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "df80ac4933da7c9d442d4406883f6464a0a24d6d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/message/thumbnail/easy_thumbnails.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-message-thumbnail-easy-thumbnails.html-859287E658C2748F9DBB697E54FD941271021130",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a1a1365099c1d1d3584139819caff699c6c08f1b65f5848e28ea1512d9d8ab60"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "859287e658c2748f9dbb697e54fd941271021130"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/newsletter_detail.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-newsletter-detail.html-85E4ED1555C90CBF139446C5D13F959635741942",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "737fc5d5b6d33753f82c87c7750312a51e7a0938df8a29e18dd587c618c3f691"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "85e4ed1555c90cbf139446c5d13f959635741942"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/message/message.txt",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-message-message.txt-CFB43AAED4BAF57AAED4639D2688CB3C61D53ECE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "66470a1e2a34e091fc828d0875a9709b6133e5b27fc6cf8e354d8dba0f25bd2c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cfb43aaed4baf57aaed4639d2688cb3c61d53ece"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/subscription_unsubscribe_activated.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-subscription-unsubscribe-activated.html-8CB67934D139369768B6C1F48EFACC28CC3CCDE0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5539eaffd745fb663a7787762feeba5f86fdaef9bb565638f495f928ee6e68cb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8cb67934d139369768b6c1f48efacc28cc3ccde0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/message/update_subject.txt",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-message-update-subject.txt-9ED4F25D7C32C8267E3DA47A4B500E170B27001A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "46a5165857efde5038c722dddc077996deb6f56b3f55195156015b01861c981a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9ed4f25d7c32c8267e3da47a4b500e170b27001a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/message/unsubscribe.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-message-unsubscribe.html-7F0539C35E92AE8362759A7DE8FF3C0367704CD0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1a99448be5e4a98bf2b81c11d12ff7f9df961d7563159d15f9a861fc59e53aab"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7f0539c35e92ae8362759a7de8ff3c0367704cd0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./newsletter/templates/newsletter/message/thumbnail/sorl_thumbnail.html",
+      "SPDXID": "SPDXRef-File--newsletter-templates-newsletter-message-thumbnail-sorl-thumbnail.html-6AFF03EB36ED7DCBB3D67DF86E07E4503E830E54",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5e39a96334afc929abfa597dc63fedc6ab6cc463cdda212b141afa06ee9b1832"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6aff03eb36ed7dcbb3d67df86e07e4503e830e54"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "sorl-thumbnail",
+      "SPDXID": "SPDXRef-Package-66BEC3FE65F0372ADAE1CE3A9CC6AEDC83BDCB6EBFDD1AC3D16174237A60C899",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "12.10.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/sorl-thumbnail@12.10.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "django-newsletter",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "50fb0f2b4253a538164fc333561fec44e7063fb9"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "django-newsletter-15.4.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:swid/django-newsletter/spdx.org/django-newsletter@django-newsletter-15.4.6?tag_id=06b46217-e245-4a9e-9992-f264060fb98b"
+        }
+      ],
+      "supplier": "Organization: django-newsletter",
+      "hasFiles": [
+        "SPDXRef-File--newsletter-templates-newsletter-message-message.html-DF80AC4933DA7C9D442D4406883F6464A0A24D6D",
+        "SPDXRef-File--newsletter-templates-newsletter-message-message-subject.txt-90F203C127C15C069E5DE96900D8A9FDDF01B134",
+        "SPDXRef-File--newsletter-templates-newsletter-subscription-update.html-904AF359408CF3FE216C10A34D9909E261998EE1",
+        "SPDXRef-File--newsletter-templates-newsletter-subscription-subscribe.html-A6563AD294BE2BA4ABE3E5D3202ED8EE57049CF3",
+        "SPDXRef-File--newsletter-templates-admin-newsletter-message-preview.html-DEEAD2C39695982A6639F5C6DF2AE7C91C07980D",
+        "SPDXRef-File--newsletter-migrations-0004-auto-20180407-1043.py-146E25C8938B0F4EA84E00149912062318DB7CDD",
+        "SPDXRef-File--newsletter-static-newsletter-admin-js-subscriber-lookup.js-680E29D12195CAC220BBCBE8105FBC5AA4E7D27F",
+        "SPDXRef-File--newsletter-locale-en-LC-MESSAGES-djangojs.mo-1C1DAD64BFB372E42667346731337E75DC817FD9",
+        "SPDXRef-File--newsletter-locale-it-LC-MESSAGES-djangojs.po-51875F321773D3B181183D8FB28538B371A418C7",
+        "SPDXRef-File--newsletter-locale-zh-CN-LC-MESSAGES-djangojs.mo-F307DB863FE9A5FF922AF0EE1ECFDC9874B67FE2",
+        "SPDXRef-File--newsletter-locale-ar-LC-MESSAGES-djangojs.mo-C806E216001980FDE2247E6DCA2093552AE89A39",
+        "SPDXRef-File--newsletter-locale-cs-CZ-LC-MESSAGES-djangojs.mo-D51271E8E0D41E018D223F40D990503CE21BB9EE",
+        "SPDXRef-File--newsletter-locale-is-IS-LC-MESSAGES-djangojs.mo-A15EAACE2DC548F38314E7B06FBA4589974FAF10",
+        "SPDXRef-File--newsletter-locale-nl-LC-MESSAGES-djangojs.mo-8B5FB5ED84F3A414E582E96E5DCC3F8F3DF59C16",
+        "SPDXRef-File--newsletter-jobs-weekly---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--newsletter-admin-forms.py-74219663E6DF25E44B3EBCCFE28A12738428EEA1",
+        "SPDXRef-File--newsletter-models.py-BDD559ACAE37A5E6F6127ADD062E9E20B57D14DB",
+        "SPDXRef-File--docs-requirements.txt-77E50B6C4EF54F60C5075F395894C1A6B98F7AED",
+        "SPDXRef-File--docs-Makefile-6A1A3746FCF3DF37402DCD77D43F15EA31992ECC",
+        "SPDXRef-File--tests-files-addresses.csv-6F4AA130A4AB5EFFDFE6D3CF475CE1C4FAC256D1",
+        "SPDXRef-File--tests-test-web.py-C766AA5A2C6B9319768EB4F34728043C78D25E4F",
+        "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-update.txt-3C7399A26607541CBE77D28EDD8FB499461D900D",
+        "SPDXRef-File--test-project-test-project-templates-404.html-BF23FB4B9A0C4E44FF8E738EF65A971813A270AA",
+        "SPDXRef-File--.git-logs-refs-heads-master-9BA4224C9D265494410538D7A02BF9E19DA36104",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--CODE-OF-CONDUCT.md-411EFAE378B83BECCECF7DC65A630C67829F504B",
+        "SPDXRef-File--setup.py-997E731DEDB423296BEB919C390368BC1F766301",
+        "SPDXRef-File--newsletter-addressimport---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--newsletter-templates-newsletter-message-update.txt-F2A4BB5EF598D1DB9536F6540A9A3B635C2F4BC8",
+        "SPDXRef-File--newsletter-templates-newsletter-common.html-F83B8E42C0D58BCEF46183AEEFEF0DEE493A92CE",
+        "SPDXRef-File--newsletter-templates-newsletter-newsletter-list.html-C1CAA4A62ABA7E1E6A6D808A39F2939993BCC648",
+        "SPDXRef-File--newsletter-templates-widget-image.html-D5E6D0B033D812BA85EA7EF7577FAC9292FF6A1F",
+        "SPDXRef-File--newsletter-migrations-0008-longer-subscription-name.py-5136C08A5AED7B9307CBA7DE6ED83F7E872DC5DA",
+        "SPDXRef-File--newsletter-static-newsletter-admin-img-submitting.gif-6D20137A80A8E1F9D7FE6D5C41FBC06AC98CC914",
+        "SPDXRef-File--newsletter-locale-el-GR-LC-MESSAGES-django.po-E3B429883E07F382A9A1CF1246487AEB26D58E64",
+        "SPDXRef-File--newsletter-locale-de-LC-MESSAGES-django.po-7E0027D6C707A504CF7B420A2B9A57CF2D601613",
+        "SPDXRef-File--newsletter-locale-pt-BR-LC-MESSAGES-django.mo-BD2F449ECA9CBDA5B8431073434028ED88BBAEC4",
+        "SPDXRef-File--newsletter-locale-ru-LC-MESSAGES-django.po-EBECDF12962F58BFAF7BF8DF3EB5995A9711E2EE",
+        "SPDXRef-File--newsletter-locale-fa-LC-MESSAGES-django.po-769FBBC2D47D2D8E2F921BD301FD807904FEF9EA",
+        "SPDXRef-File--newsletter-locale-pl-LC-MESSAGES-django.po-12AD07BFD8903120041F35CC7ECD0F6D8AD27429",
+        "SPDXRef-File--newsletter-locale-es-LC-MESSAGES-django.po-F739A229E08CDEC5AF76EF7A33EA1F6B40CF4A3E",
+        "SPDXRef-File--newsletter-locale-fr-LC-MESSAGES-django.po-6A380C2CD6A6F1F45584FC7CC0F16FE06F6A77F1",
+        "SPDXRef-File--newsletter-management-commands-submit-newsletter.py-AD0FF44C757E4E2630638E2E9DA759B1759BC2D8",
+        "SPDXRef-File--newsletter-admin.py-A3BAB6ED3C713C9A86DFC93BA32F950769DDFA71",
+        "SPDXRef-File--docs-graph-models.dot-E396D67FCB2D997250C4E25168800CE54DAAEEEC",
+        "SPDXRef-File--docs-usage.rst-4BFA7E2B33769CBE61DA6857F3B0F5BCF55FA346",
+        "SPDXRef-File--tests-files-addresses-duplicates.csv-0069B41F8B1E4E54841561DB0098235CD0E599EA",
+        "SPDXRef-File--tests-test-admin.py-F1885415D6BEE0A0228C04837DBC2E082BDFFE2F",
+        "SPDXRef-File--.tx-config-5673DFB7A24468054F0A8A255D3FD98249EE969C",
+        "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-unsubscribe-subject.txt-4D5DEBB8F5B9F18084600F25516EC20E260BFAA1",
+        "SPDXRef-File--test-project-test-project-settings.py-D464A3F79431BAC0D93663DC3594E1A41A9625F7",
+        "SPDXRef-File--.git-objects-pack-pack-92145452e5d822ffbe01957936e8f789800f3e73.idx-D12CE65CFE9D8504A9D3122185316584388D3AC7",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-packed-refs-9BE3D78332C57015A4B53494CB562C0B7F500345",
+        "SPDXRef-File--README.rst-2DC4616EAE944561D6A234B92D3FC5FDF2CF5C98",
+        "SPDXRef-File--tox.ini-39316AA5010EDE682C80F25A1E2EEA463BAD6867",
+        "SPDXRef-File--newsletter-templates-newsletter-message-subscribe.txt-EA58538DF7FF19A749A3AF67FD880FA02340BDC5",
+        "SPDXRef-File--newsletter-templates-newsletter-message-subscribe-subject.txt-E491A2D261192F5488FED77935016C62F8EE0FC2",
+        "SPDXRef-File--newsletter-templates-newsletter-subscription-unsubscribe-user.html-FA9D765AAEA6A7457FD8DEE31746E22A2638FF73",
+        "SPDXRef-File--newsletter-templates-newsletter-subscription-unsubscribe-email-sent.html-042FAAB76E5443FBCE426C41223EE93C1B628DB7",
+        "SPDXRef-File--newsletter-templates-admin-newsletter-submission-change-form.html-D85F87D5EE32B90D2174D45FD495BD078AE36323",
+        "SPDXRef-File--newsletter-migrations-0006-attachment.py-A5F84C70D47B093E2118756090AD55435BED4A89",
+        "SPDXRef-File--newsletter-static-newsletter-admin-js-submit-interface.js-D5D9C9E4EC4B64BE042FA07689135482DEEC713D",
+        "SPDXRef-File--newsletter-locale-en-LC-MESSAGES-django.po-8223946886A425B72C3CE7659EF6D142719E4773",
+        "SPDXRef-File--newsletter-locale-it-LC-MESSAGES-django.mo-78AAA70EC644139FA738DDD3A8559F35CEB17403",
+        "SPDXRef-File--newsletter-locale-zh-CN-LC-MESSAGES-djangojs.po-01405C3566C25298E96B0EDCB0A01955CA6CB68B",
+        "SPDXRef-File--newsletter-locale-ar-LC-MESSAGES-django.po-A68837414484E4B9EE900D0C8471A0A80132B164",
+        "SPDXRef-File--newsletter-locale-cs-CZ-LC-MESSAGES-django.po-4DABC96F0929D1CCAAB74270AA122FAC9765E0EC",
+        "SPDXRef-File--newsletter-locale-is-IS-LC-MESSAGES-django.po-0CC0C72E9D8941E551537BD1C8140C68A3F23965",
+        "SPDXRef-File--newsletter-locale-nl-LC-MESSAGES-django.po-94FDA98914D307EB492CFD332664386B8FD4959E",
+        "SPDXRef-File--newsletter-jobs-monthly---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--newsletter-fields.py-CCFBE5A23DD0BAF4A3CF5D5C5761968AC19612C1",
+        "SPDXRef-File--newsletter-urls.py-DF700C2F88C3D5E24E9573E8644349920A79FF45",
+        "SPDXRef-File--docs-reference.rst-CC7D280D483B873D1F326C29057A4EC69EB46EC8",
+        "SPDXRef-File--docs-conf.py-D08B8577FD0C5A64CAF522A64C1EB82DA3D8AE73",
+        "SPDXRef-File--tests-files-sample.txt-D7C07366C789BB4D8C0F532C178AAFADA3C2DC7D",
+        "SPDXRef-File--tests-test-validators.py-01CC82E00898CF85F5CCF9B63A7DECC4A594BD06",
+        "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-update-subject.txt-74C2D73613DC5EB4143AD462F189E3FBBA5F2716",
+        "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-message.txt-20C13E12C5BFC68FE09CD35F5434FFAF0FF501A9",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--RELENG.rst-48F0558A4DA98A4CA4A3174A1557B218EE7FB5AB",
+        "SPDXRef-File--newsletter-templates-newsletter-message-update-subject.txt-9ED4F25D7C32C8267E3DA47A4B500E170B27001A",
+        "SPDXRef-File--newsletter-templates-newsletter-message-message.txt-CFB43AAED4BAF57AAED4639D2688CB3C61D53ECE",
+        "SPDXRef-File--newsletter-templates-newsletter-submission-archive.html-444782C00F67D11689CCEDF58DB036AB58C8FB9A",
+        "SPDXRef-File--newsletter-templates-newsletter-subscription-update-email-sent.html-C670D3DAF12847395B4C08ABAAE7C3C85BEADB9B",
+        "SPDXRef-File--newsletter-migrations-0003-auto-20160226-1518.py-CACF04FB27A17A9EBE6A0A9CF763D251EFB31399",
+        "SPDXRef-File--newsletter-migrations-0001-initial.py-1232C1B4DF6FBB4C5549D7EA48D900B58567F487",
+        "SPDXRef-File--newsletter-locale-el-GR-LC-MESSAGES-djangojs.po-7111C60626DC31E729006D1BD5AE24DF7188D8B6",
+        "SPDXRef-File--newsletter-locale-de-LC-MESSAGES-djangojs.po-39FAD99DC9FEF0D989C5D5153E221931E02E305A",
+        "SPDXRef-File--newsletter-locale-it-LC-MESSAGES-djangojs.mo-FE9ADC75EC0E86CBFEE585791ACBC4643B9559C3",
+        "SPDXRef-File--newsletter-locale-ru-LC-MESSAGES-djangojs.po-28E97452C533ABC72C5E8DE9A575C086F63A25E3",
+        "SPDXRef-File--newsletter-locale-fa-LC-MESSAGES-djangojs.po-4305D8D3FE65D617F3821742406AA3D5C126FBA2",
+        "SPDXRef-File--newsletter-locale-pl-LC-MESSAGES-djangojs.po-33A8E0A18D13D7FE3B418750C6A859A7B37F388A",
+        "SPDXRef-File--newsletter-locale-es-LC-MESSAGES-djangojs.po-6197BDADD90DCFFBB818BB7082750F62B0EFD71A",
+        "SPDXRef-File--newsletter-locale-fr-LC-MESSAGES-djangojs.po-19B0DB18F45EE536F1A97157759CDEE12218AAFD",
+        "SPDXRef-File--newsletter-jobs---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--newsletter-admin-utils.py-4E79C67F5E428E0F5C9B914AE403E55B767BE6BA",
+        "SPDXRef-File--newsletter-utils.py-633542BA46C2F200108945CA2EBA419E35DE735A",
+        "SPDXRef-File--docs-templates.rst-E54847F28048901ABC84084544C610D0A8B57265",
+        "SPDXRef-File--.github-workflows-release.yml-A097D905C5A8023AE511427527D5AD3D7C0AA183",
+        "SPDXRef-File--tests---init--.py-2C91652CF5C20DAE2C0C6523CAC1B98E24BA190A",
+        "SPDXRef-File--contrib-README.rst-4FB96132BFF94AE376A4575D30E1E063CCED3A8A",
+        "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-unsubscribe.html-0026A52F6FE624122C8AB91E51E0AD6B988AEBDD",
+        "SPDXRef-File--test-project-test-project---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--.git-logs-HEAD-9BA4224C9D265494410538D7A02BF9E19DA36104",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--.pre-commit-config.yaml-24C419EBE7DBFAD9E73885D6FD9BCC8C99A460D1",
+        "SPDXRef-File--CHANGES.rst-87F0D41DC767D1401DD562A5E116E9AD0ACB2A67",
+        "SPDXRef-File--newsletter-templates-newsletter-message-thumbnail-easy-thumbnails.html-859287E658C2748F9DBB697E54FD941271021130",
+        "SPDXRef-File--newsletter-templates-newsletter-message-unsubscribe-subject.txt-D3100258CD066D05A2441AAFFC55E1673E6F9670",
+        "SPDXRef-File--newsletter-templates-newsletter-subscription-update-activated.html-7DD2F7D510D6BDB26C2E69E94B76392D66E6D46C",
+        "SPDXRef-File--newsletter-templates-newsletter-subscription-unsubscribe.html-4B5C6FA759A78955CBE82FCE48B779A2CB530303",
+        "SPDXRef-File--newsletter-templates-admin-newsletter-subscription-confirmimportform.html-AFD13D4B3EEDAF7DE69883A435D81795AAF92109",
+        "SPDXRef-File--newsletter-migrations---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--newsletter-static-newsletter-admin-img-icon-yes.gif-3EF025B7A3AB4F8CFBA42D7A84DAF42B5BBFA741",
+        "SPDXRef-File--newsletter-locale-en-LC-MESSAGES-djangojs.po-0A00B7B50CC7D80387E0EDF674B39B9847020778",
+        "SPDXRef-File--newsletter-locale-pt-PT-LC-MESSAGES-djangojs.mo-C0D8C8089B75B0FBFDC152DCF3FA219D15FEFA0B",
+        "SPDXRef-File--newsletter-locale-pt-BR-LC-MESSAGES-djangojs.mo-EADF6969713302D06B356F7D51C59FA3F5DF69FD",
+        "SPDXRef-File--newsletter-locale-ar-LC-MESSAGES-djangojs.po-78A7209B5650180771CE714608AFA4CC711CB93D",
+        "SPDXRef-File--newsletter-locale-cs-CZ-LC-MESSAGES-djangojs.po-1FB591C3BCB65D5D06FB8F6DCE333EC75731B7A3",
+        "SPDXRef-File--newsletter-locale-is-IS-LC-MESSAGES-djangojs.po-A5118A81B02A04C7871B6F3D4E3A7DD4F5D92CEF",
+        "SPDXRef-File--newsletter-locale-nl-LC-MESSAGES-djangojs.po-ED452B7251DAA90A45A74A52EA51646DE38A390A",
+        "SPDXRef-File--newsletter-jobs-hourly-submit.py-92DE2FD9886EDE00E9F2493989F731460B6AA622",
+        "SPDXRef-File--newsletter-views.py-BA7B8386ACF56CD794D1A97BA9BED7E2E5F7E258",
+        "SPDXRef-File--newsletter-validators.py-912D72AA67808D8E84FDDAA5E8909024B47BCFCF",
+        "SPDXRef-File--docs-graph-models.png-D31B51DF44F6B3E097B29854E64A38DA5360AF09",
+        "SPDXRef-File--docs-settings.rst-CC507AE7FB45D75E4EF554875AC89741B0656389",
+        "SPDXRef-File--tests-files-addresses.ldif-A64366ECEBE8A1064A8A98308D17D48B1F091875",
+        "SPDXRef-File--tests-utils.py-52220EA0882A65B4AC77A639AC7BAD3ABB9E28BB",
+        "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-update.html-6341DDF51F584EDCB2415399E5CCC8F9C84CA72E",
+        "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-subscribe.html-D6C1F38157111C8CB87B39C160D002F5DEC7987F",
+        "SPDXRef-File--.git-refs-heads-master-D07E408D76BB961C011BF7381EF1F25397B24DAE",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--CONTRIBUTING.rst-FAED0E7179CF38238A8B0C5A16C90E005B79FCDD",
+        "SPDXRef-File--newsletter-templates-newsletter-message-thumbnail-sorl-thumbnail.html-6AFF03EB36ED7DCBB3D67DF86E07E4503E830E54",
+        "SPDXRef-File--newsletter-templates-newsletter-message-unsubscribe.html-7F0539C35E92AE8362759A7DE8FF3C0367704CD0",
+        "SPDXRef-File--newsletter-templates-newsletter-subscription-unsubscribe-activated.html-8CB67934D139369768B6C1F48EFACC28CC3CCDE0",
+        "SPDXRef-File--newsletter-templates-newsletter-newsletter-detail.html-85E4ED1555C90CBF139446C5D13F959635741942",
+        "SPDXRef-File--newsletter-templates-admin-newsletter-subscription-change-list.html-3F4830BBB67250FF15A25BA05B1093959F005B41",
+        "SPDXRef-File--newsletter-migrations-0005-auto-20190918-0122.py-AAE0465F1461D8F51DC7F12C92DA7452A389672B",
+        "SPDXRef-File--newsletter-static-newsletter-admin-img-icon-no.gif-1E8EE3A708883549F83D759AB875DED0297A4AC9",
+        "SPDXRef-File--newsletter-locale-en-LC-MESSAGES-django.mo-27219572B0ED3357FDE8B88C0FE09C6764B8662B",
+        "SPDXRef-File--newsletter-locale-pt-PT-LC-MESSAGES-djangojs.po-24198779ABC5F58F2099B7C93EA459CD38A92557",
+        "SPDXRef-File--newsletter-locale-pt-BR-LC-MESSAGES-django.po-DDD3B5A2BA3F43409A934B74ACD2E5AECDBE4E67",
+        "SPDXRef-File--newsletter-locale-ar-LC-MESSAGES-django.mo-740F9823D81DC822D62C0D7C9A17F1CA5FF4A4DE",
+        "SPDXRef-File--newsletter-locale-cs-CZ-LC-MESSAGES-django.mo-A3D59804EC48532611DEF76EAB2374E372EBB19B",
+        "SPDXRef-File--newsletter-locale-is-IS-LC-MESSAGES-django.mo-0AD7CCF62C34416F2CE73FBF010EF5078BB02F07",
+        "SPDXRef-File--newsletter-locale-nl-LC-MESSAGES-django.mo-B6BA56CB8F0EAD238C72FEBD8FDE15AF14F7D0BB",
+        "SPDXRef-File--newsletter-jobs-hourly---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--newsletter-management---init--.py-9B50726D12911C30E05C232D7091A18156ADB807",
+        "SPDXRef-File--newsletter-converters.py-BFA7A001294E1FA02F318BED48AE9BF0FA5F3619",
+        "SPDXRef-File--docs-make.bat-BD48CBE31D8B15575495B7B2DED95D0CC85B9DCE",
+        "SPDXRef-File--docs-graph-models.pdf-67FF284E090D40B7F250452A69D5BF43962CF530",
+        "SPDXRef-File--tests-files-addresses.vcf-910A83F833621FD17223956D38990AE494B075B9",
+        "SPDXRef-File--tests-test-mailing.py-4BE11C98BDB111113B6C645E11F3A8C5B54CB25A",
+        "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-message.html-D42810196FBF8193CF024992F01A5703B3B245E5",
+        "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-message-subject.txt-1A565C65FA40B3F7988560F2AFF9E451D40A33E8",
+        "SPDXRef-File--test-project-manage.py-0C59BD37CCDFB27003D5E9D4C8EA000BA184218A",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-config-CA8E45BEE756BD25AFD3A706C04AE6232742C148",
+        "SPDXRef-File--LICENSE.txt-A2F9FFBF32EEB6284AFA81BC4FB4C27B80D044E9",
+        "SPDXRef-File--.gitignore-CCCBA0333791F19ACC9D9F10BE3EA60292EA6503",
+        "SPDXRef-File--newsletter-addressimport-parsers.py-2C1AF4196F603A35CCB27FADE29FB28A6628233B",
+        "SPDXRef-File--newsletter-templates-newsletter-message-unsubscribe.txt-05D0CE21463F63B9039D4405DD39462CF6A7F835",
+        "SPDXRef-File--newsletter-templates-newsletter-subscription-subscribe-activated.html-0B21C7C1241882B05AD232A39A3C0470C9B21EE3",
+        "SPDXRef-File--newsletter-templates-newsletter-subscription-subscribe-email-sent.html-42AD17D2FEBCC1DE9F09F30D90F39949A6A9FDC5",
+        "SPDXRef-File--newsletter-templates-admin-newsletter-subscription-importform.html-BC824A5D83D685D14DDEA1F7F71F24EA4DCB3142",
+        "SPDXRef-File--newsletter-migrations-0007-switch-from-sorl-imagefield.py-3C4E9048834260B0B879D6451FC17C0DBC03FEEE",
+        "SPDXRef-File--newsletter-static-newsletter-admin-img-waiting.gif-05C5FE5531E1D29E3EFC6E2CBE5A0B51855860B6",
+        "SPDXRef-File--newsletter-locale-el-GR-LC-MESSAGES-djangojs.mo-44C94730ACF7B058C86988A2A8D554926BE91BE8",
+        "SPDXRef-File--newsletter-locale-de-LC-MESSAGES-djangojs.mo-09684DE64693213E02E6CB7DDDE058594A416050",
+        "SPDXRef-File--newsletter-locale-pt-BR-LC-MESSAGES-djangojs.po-353B2B3D4B2E638D5CC17566278A64168B7B84E9",
+        "SPDXRef-File--newsletter-locale-ru-LC-MESSAGES-djangojs.mo-04C4F6A3BBC36B8E6690D38349EFA9BDB142DF90",
+        "SPDXRef-File--newsletter-locale-fa-LC-MESSAGES-djangojs.mo-4B60A53747CFDB02C401F8FDD0872E799A9C5E8E",
+        "SPDXRef-File--newsletter-locale-pl-LC-MESSAGES-djangojs.mo-CD0DFC2367691A891E05DAC6C5E5558977B392A1",
+        "SPDXRef-File--newsletter-locale-es-LC-MESSAGES-djangojs.mo-D20A66EC30342BAE86A1B21B449C5B583F88C025",
+        "SPDXRef-File--newsletter-locale-fr-LC-MESSAGES-djangojs.mo-BB70D5D727C2DBA5CBDEEAC805346ED382D10960",
+        "SPDXRef-File--newsletter-management-commands---init--.py-9B50726D12911C30E05C232D7091A18156ADB807",
+        "SPDXRef-File--newsletter-settings.py-67D3087D2E09B1BB479BB92B3D5A738B9F710E96",
+        "SPDXRef-File--docs-index.rst-DFC14F8F135AFBB32CB440B36093A6A062E5AC39",
+        "SPDXRef-File--docs-upgrading.rst-EC0655247C166A2129FCE6BE0BC1F56A124311DC",
+        "SPDXRef-File--tests-files-sample.pdf-5D5A5E1980545B3768B456C3DC14C83CA3E4AA89",
+        "SPDXRef-File--tests-test-fields.py-B23BF534E47B42F66560F7288E215B42ABCEBCD1",
+        "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-subscribe.txt-5EB474E60F82F66CC77EF84481372323E1261DF0",
+        "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-subscribe-subject.txt-8C8941D0E057BBD85AC530DD096BA28A29B75E92",
+        "SPDXRef-File--test-project-test-project-urls.py-55138EC4AD6A92785018F816642535D9C6DD2615",
+        "SPDXRef-File--.git-objects-pack-pack-92145452e5d822ffbe01957936e8f789800f3e73.pack-B462D3AC0C9B92031B23D4B4FC54BDE0CCBDB0CF",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--.git-index-440EF4BD862FFC3532ABF085E208AA30C806B3F5",
+        "SPDXRef-File--MANIFEST.in-5C6A79E60005B89F450707AE32AFF18D772C6888",
+        "SPDXRef-File--COPYRIGHT-EADB2993A1635E83DB0B419352A78EE8A9A99A8C",
+        "SPDXRef-File--newsletter-templates-newsletter-message-update.html-527F1914AC66735FD4D69CB9FC356AA555844384",
+        "SPDXRef-File--newsletter-templates-newsletter-message-subscribe.html-EFE407F371EF92FD3B55AFB7895B9F80F6741A92",
+        "SPDXRef-File--newsletter-templates-newsletter-subscription-activate.html-F287200C628F910E7D5A6ED7BACC0B3191D3B27B",
+        "SPDXRef-File--newsletter-templates-newsletter-subscription-subscribe-user.html-1C9D046E90337FB98B5A3D71D872E68EA86687B1",
+        "SPDXRef-File--newsletter-templates-admin-newsletter-message-change-form.html-D55FFFD551CF4923BC9C9FD103F722CF39ED3F68",
+        "SPDXRef-File--newsletter-migrations-0002-auto-20150416-1555.py-8981DB030089664C0F0A9BA530B5D05AE69ACF7C",
+        "SPDXRef-File--newsletter-locale-el-GR-LC-MESSAGES-django.mo-75644F92848D334CDAD15950AF740B2694514C9A",
+        "SPDXRef-File--newsletter-locale-de-LC-MESSAGES-django.mo-1532F5E4BE98D201A76E12A59BF81D07C84FA9E4",
+        "SPDXRef-File--newsletter-locale-it-LC-MESSAGES-django.po-E903D87C8FA8BB97617CB25824966EE99DB460DB",
+        "SPDXRef-File--newsletter-locale-ru-LC-MESSAGES-django.mo-8AB777C31724B2D72B2B5F96D932893108CD769E",
+        "SPDXRef-File--newsletter-locale-fa-LC-MESSAGES-django.mo-AA3DDC48F5960B8EEF12B752E9B48B293AFC2AD6",
+        "SPDXRef-File--newsletter-locale-pl-LC-MESSAGES-django.mo-21CE6D25EDD1A64FCB6B975391AF0BC3573273EE",
+        "SPDXRef-File--newsletter-locale-es-LC-MESSAGES-django.mo-D9D5C4559AF76D4191F62B297F1BB109D0FE64C6",
+        "SPDXRef-File--newsletter-locale-fr-LC-MESSAGES-django.mo-A1D38514EF7D884B5BC702FEDBE356EF04C92C5C",
+        "SPDXRef-File--newsletter-jobs-daily---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--newsletter---init--.py-C3EDA087016786A46650737FDEC94AD4756218FD",
+        "SPDXRef-File--newsletter-forms.py-F44F4C0C0868D4E621B0931501EECC234D48398A",
+        "SPDXRef-File--docs-installation.rst-191A989C14A0B97D13D38B63EC56F456FED3A55A",
+        "SPDXRef-File--.github-workflows-test.yml-7D5963AC5FA21A6C5DCE2F0F2F192C3F941ACE76",
+        "SPDXRef-File--tests-test-settings.py-4B9B5385EA7797AEFA94D91F901EE3E89E447A78",
+        "SPDXRef-File--contrib-export-subscribers.sql-43AE8FB3EC730A84B40671B6660FFEE5DD55F034",
+        "SPDXRef-File--test-project-test-project-templates-newsletter-message-test-newsletter-with-overrides-unsubscribe.txt-5E2FD54532840E484F7268F39AA67392DBC2EF63",
+        "SPDXRef-File--test-project-test-project-fixtures-test-newsletters.json-48A3B99C0BC1009C185E34C5C542CFC1000E9E1A",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-9BA4224C9D265494410538D7A02BF9E19DA36104",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--AUTHORS.rst-D9050528C72057F2D742A7D27B19B4C87AD9D484",
+        "SPDXRef-File--.coveragerc-D92400C8032FC5020BAE11C1F7DDD84D025A77DA"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-66BEC3FE65F0372ADAE1CE3A9CC6AEDC83BDCB6EBFDD1AC3D16174237A60C899",
+      "spdxElementId": "SPDXRef-RootPackage"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "django-newsletter django-newsletter-15.4.6",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-2.2.1-67f64c35-0a67-4c22-995e-20a0c290cc4b/django-newsletter/django-newsletter-15.4.6/Jz_NKZeCjk6U0pdRoIcIQA",
+  "creationInfo": {
+    "created": "2024-01-06T23:45:11Z",
+    "creators": [
+      "Organization: django-newsletter",
+      "Tool: Microsoft.SBOMTool-2.2.1"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

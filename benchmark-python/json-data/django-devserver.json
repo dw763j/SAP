@@ -1,0 +1,59 @@
+{
+    "name": "django-devserver",
+    "home_page": "https://github.com/dcramer/django-devserver",
+    "author": "Person:David Cramer and individual contributors",
+    "version": "0.8.0",
+    "license": "BSD-3-Clause",
+    "copyright": "Copyright (c) 2010 David Cramer and individual contributors.",
+    "packages": [
+        {
+            "name": "sqlparse",
+            "license": "BSD-3-Clause",
+            "home_page": "https://github.com/andialbrecht/sqlparse",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "Werkzeug",
+            "license": "BSD-3-Clause",
+            "home_page": "https://github.com/pallets/werkzeug",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "guppy",
+            "license": "MIT",
+            "home_page": "https://svenil.github.io/guppy-pe/",
+            "author": "Sverker Nilsson",
+            "version": ""
+        },
+        {
+            "name": "line-profiler",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/pyutils/line_profiler",
+            "author": "Robert Kern",
+            "version": ""
+        },
+        {
+            "name": "Django",
+            "license": "BSD-3-Clause",
+            "home_page": "https://www.djangoproject.com/",
+            "author": "Django Software Foundation",
+            "version": ">=1.1"
+        },
+        {
+            "name": "Dozer",
+            "license": "",
+            "home_page": "https://github.com/mgedmin/dozer",
+            "author": "Ben Bangert",
+            "version": ""
+        },
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ""
+        }
+    ]
+}

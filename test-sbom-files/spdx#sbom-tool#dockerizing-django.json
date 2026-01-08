@@ -1,0 +1,1210 @@
+{
+  "files": [
+    {
+      "fileName": "./docker-compose.yml",
+      "SPDXID": "SPDXRef-File--docker-compose.yml-97278915479A8F938A8F7AE538095C3FEA17E560",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3c998daa3d1625a4f496a7f4edd1071617fadbc29e55934f455afa367878f3a3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "97278915479a8f938a8f7ae538095c3fea17e560"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.env",
+      "SPDXID": "SPDXRef-File--.env-781F2E4DB16C579CF18EFAAEFFF42314FE0E3563",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4c3ed687c3e131250da00934d8b450323fdb3afd2312cfbf87320215eee71de9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "781f2e4db16c579cf18efaaefff42314fe0e3563"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-3E163E009DF2DAE34D96EF83577E22B62E16B59F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6c1ee6a531de3a5c893744f8bf51ee85dca5aae27db29c71408d674c4708ddb9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3e163e009df2dae34d96ef83577e22b62e16b59f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./web/docker_django/urls.py",
+      "SPDXID": "SPDXRef-File--web-docker-django-urls.py-7363A2A3822BC71B9B35ECB23C5BBD00BBF60157",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "96f06af38ea63e93fb0e22416e92250021eb41e8fa7ab5147e69a105fb50bc93"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7363a2a3822bc71b9b35ecb23c5bbd00bbf60157"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./web/docker_django/apps/todo/admin.py",
+      "SPDXID": "SPDXRef-File--web-docker-django-apps-todo-admin.py-A0B1A2729D5FD2A8A7F3387C2BC053AB98F74B9A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b2e328e31f08dc907100505521d13ee6a9ea67a240655d051120011ce49cfaf8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a0b1a2729d5fd2a8a7f3387c2bc053ab98f74b9a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-B3F20E72831CC4CDB823A314C98447DDC778BD5F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d329cc61e2cdfd8a74c2d34040c04e6cd5117bb8728cac31af5cb0e1bdea38bc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b3f20e72831cc4cdb823a314c98447ddc778bd5f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-7c6595c2007c7297d736c6617898abb7dd72e8dd.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-7c6595c2007c7297d736c6617898abb7dd72e8dd.pack-4F9FC8079D297076288E6A914D4E0AE75540704F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f0fa5856187d4f244574713e28955b7ffe6d88ded5caba9e891e544b5afb14b5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4f9fc8079d297076288e6a914d4e0ae75540704f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./nginx/sites-enabled/django_project",
+      "SPDXID": "SPDXRef-File--nginx-sites-enabled-django-project-CF2622DDE8DE823C0B587526612C0DCD77BA31A6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0334603ca1a8d04cfabde8872b79cc2262b19c719602f60ea1a1eb597625029e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cf2622dde8de823c0b587526612c0dcd77ba31a6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./web/docker_django/apps/__init__.py",
+      "SPDXID": "SPDXRef-File--web-docker-django-apps---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./web/docker_django/apps/todo/templates/home.html",
+      "SPDXID": "SPDXRef-File--web-docker-django-apps-todo-templates-home.html-C51BBCAE1CCDE85CA7A2FD8ECDAB810B64537202",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f39cc2492b356df15d335423e205fbf8617dfb7cc53e9a073d58aa1c45b201cc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c51bbcae1ccde85ca7a2fd8ecdab810b64537202"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./web/docker_django/wsgi.py",
+      "SPDXID": "SPDXRef-File--web-docker-django-wsgi.py-5B69F7540C203B121DF837083A3B9651F658B622",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c932e113d3f0e9403c466fe5bf293c61d0b556440eb44b55f102a8c8fbd06216"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5b69f7540c203b121df837083a3b9651f658b622"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./web/docker_django/apps/todo/__init__.py",
+      "SPDXID": "SPDXRef-File--web-docker-django-apps-todo---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-CD6DC239980929259CB8378572466ECBDD8E772B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0495cbea9e8466ae48595fdacd2cfc592814346052c0a5f90acc4bc0552590f4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cd6dc239980929259cb8378572466ecbdd8e772b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-3E163E009DF2DAE34D96EF83577E22B62E16B59F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6c1ee6a531de3a5c893744f8bf51ee85dca5aae27db29c71408d674c4708ddb9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3e163e009df2dae34d96ef83577e22b62e16b59f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./web/manage.py",
+      "SPDXID": "SPDXRef-File--web-manage.py-57A89FCDDA4ACFD8D587329CAEAABF45CFE9B3DF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b39a18017ed3faa5e6379ae8da4643f7f3e99ebddf68c0fd4a9cb2e7c83c93a2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "57a89fcdda4acfd8d587329caeaabf45cfe9b3df"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./web/docker_django/apps/todo/tests.py",
+      "SPDXID": "SPDXRef-File--web-docker-django-apps-todo-tests.py-D8BA9A8A1DE20610CA7F80F8C8C6C515ECE66A30",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9ab6c6191360e63c1b4c9b5659aef348a743c9e078be68190917369e4e9563e8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d8ba9a8a1de20610ca7f80f8c8c6c515ece66a30"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./web/static/main.css",
+      "SPDXID": "SPDXRef-File--web-static-main.css-6EE17A58BAAAFE3FB93216C7BEF09660B16B675D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4357975fec6063c14a8f069a72a8b1b25859a6805b68b843a81f1216711a6145"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6ee17a58baaafe3fb93216c7bef09660b16b675d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-FFE6A3022A8EFFC25519BCC409137314C0C55CFD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1aa006b84a7573bf9107a71375a811a7d993ec8a52c7d143e4d3913fc6f01670"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ffe6a3022a8effc25519bcc409137314c0c55cfd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./web/docker_django/settings.py",
+      "SPDXID": "SPDXRef-File--web-docker-django-settings.py-66E72741191A4DBCC93B0D7059432E744DB802CD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cddb51790c592bcea2f6fb022dc2fbde83e161422038f8d3cacb1bc1d3849653"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "66e72741191a4dbcc93b0d7059432e744db802cd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./web/docker_django/apps/todo/views.py",
+      "SPDXID": "SPDXRef-File--web-docker-django-apps-todo-views.py-C05E38A121957AD7D3FF2A145F7BA4D7201785C9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "713242ce01777217a27d9c4d34980861cbb3546f2e90a804512f4b1c1a1b05a3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c05e38a121957ad7d3ff2a145f7ba4d7201785c9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./production.yml",
+      "SPDXID": "SPDXRef-File--production.yml-B3A94788D11EE56BFD2CB509F62C5AF10584A6B1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "abb5e253d96f287286f04202fd817e6ea2eb3d36c1440bd4da75df020910a6c2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b3a94788d11ee56bfd2cb509f62c5af10584a6b1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-423FA03DAAA9069176C10443223EEE96ED39EEFE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6f8be00e9ca75231ec7784bd885029c0338e56332586fa514850f26b107193a7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "423fa03daaa9069176c10443223eee96ed39eefe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-7c6595c2007c7297d736c6617898abb7dd72e8dd.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-7c6595c2007c7297d736c6617898abb7dd72e8dd.idx-D13AFF53CE6648D927E7521CA28729CE5AC5DCDF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fd3aa5e93a6598c9485d33e94f0b687d0cb4caec6165dbffab66f66f100f17c1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d13aff53ce6648d927e7521ca28729ce5ac5dcdf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./web/Dockerfile",
+      "SPDXID": "SPDXRef-File--web-Dockerfile-13A477AB418C2EB3412B93708A038BCA2C67C697",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3a91f413a0fc62eac77364d1c7a00d5a469ca181a0029159f7738a3f613441e2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "13a477ab418c2eb3412b93708a038bca2c67c697"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-C7FD4E76F4F40C18445FDC80C598380A0A7F43B5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d44bd05162c163ff3b89ee125f81113016004e894c7b21143f17accaec3d4913"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c7fd4e76f4f40c18445fdc80c598380a0a7f43b5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./web/docker_django/apps/todo/models.py",
+      "SPDXID": "SPDXRef-File--web-docker-django-apps-todo-models.py-B178EEAB0A0E2F6BCB2EEDFC08ECB07AC6614F87",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6af6f21c6353195ae4c57c4e67c700251aca231875bcf290ed2db236780a3016"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b178eeab0a0e2f6bcb2eedfc08ecb07ac6614f87"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-3E163E009DF2DAE34D96EF83577E22B62E16B59F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6c1ee6a531de3a5c893744f8bf51ee85dca5aae27db29c71408d674c4708ddb9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3e163e009df2dae34d96ef83577e22b62e16b59f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./web/requirements.txt",
+      "SPDXID": "SPDXRef-File--web-requirements.txt-79BBAE7AF41FED0419BA2EFE5F0D0400BB43DA91",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cee3293272809e0fca7259f12e2884531ab5af85213212c169494af76605ac2c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "79bbae7af41fed0419ba2efe5f0d0400bb43da91"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./web/docker_django/apps/todo/urls.py",
+      "SPDXID": "SPDXRef-File--web-docker-django-apps-todo-urls.py-D182BF47BC0852B7EAE280E769F82D67B56A51A7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d08b568bd3976055d66cc5c56f21ff3aa4e302c9ec9c37a127bd9ef8b30a1ca6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d182bf47bc0852b7eae280e769f82d67b56a51a7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./web/tests/__init__.py",
+      "SPDXID": "SPDXRef-File--web-tests---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./web/tests/test_env_settings.py",
+      "SPDXID": "SPDXRef-File--web-tests-test-env-settings.py-62A1E1C69950343350C34F70A6AEC5A15E3023F2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7984477e6cf388f2dddff323e5af91940dc609b1231dc06f0293b3aab6722193"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "62a1e1c69950343350c34f70a6aec5a15e3023f2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-4D8557370B68B3FFDB633DD0007FC54793646634",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "43455a47a315c761994b2b7f73a55b8cd2c00738b5889221261c04a7684b33eb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4d8557370b68b3ffdb633dd0007fc54793646634"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./nginx/Dockerfile",
+      "SPDXID": "SPDXRef-File--nginx-Dockerfile-EF4C53FCDB7564C4F1240C1B590409F72C222464",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d5ff00ddbb591c8203d1ea2838be6e3d43907d1fde724ed482b90ee171086a0f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ef4c53fcdb7564c4f1240c1b590409f72c222464"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./web/docker_django/__init__.py",
+      "SPDXID": "SPDXRef-File--web-docker-django---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./web/docker_django/apps/todo/templates/_base.html",
+      "SPDXID": "SPDXRef-File--web-docker-django-apps-todo-templates--base.html-54EB5200B1524C11BAECA8CAA9CE391F51630A91",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "45c5925f2b3325c8fc8d7aac54dbbea34ed134817489b9317e2159f49d33c8bd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "54eb5200b1524c11baeca8caa9ce391f51630a91"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "psycopg2",
+      "SPDXID": "SPDXRef-Package-C33CE47740928AC52A700AE8F1F85F2368954734E7689B7F1CF6C62F077259F1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.7.7",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/psycopg2@2.7.7"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "pytz",
+      "SPDXID": "SPDXRef-Package-342374B2BABFF1AD6E80F9647DDD56159FCB4404055A62A22AB2CA560CC4E3E5",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2023.3.post1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pytz@2023.3.post1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "gunicorn",
+      "SPDXID": "SPDXRef-Package-B6E520EFC538515C30E58C80F65F5404B6AFA6F721AC7C50659453B14C7FDD7B",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "19.9.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/gunicorn@19.9.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Django",
+      "SPDXID": "SPDXRef-Package-882A796FD1A754EF7D52123FD1C9DE5CC54DB67F574C35B5543108D503FD47BE",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.1.7",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/django@2.1.7"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "redis",
+      "SPDXID": "SPDXRef-Package-628793B59D62E67093189507C44001CB93D2D0650A4CADF7B76A7482AB9B1939",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.2.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/redis@3.2.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "dockerizing-django",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "809fe669cc3934c74007e5ba19b03e40b5a7d79e"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "dockerizing-django-15.4.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:swid/dockerizing-django/spdx.org/dockerizing-django@dockerizing-django-15.4.6?tag_id=c7409ef0-8e4f-4d7f-99bd-eea76d8852a6"
+        }
+      ],
+      "supplier": "Organization: dockerizing-django",
+      "hasFiles": [
+        "SPDXRef-File--web-docker-django-apps-todo-templates--base.html-54EB5200B1524C11BAECA8CAA9CE391F51630A91",
+        "SPDXRef-File--web-docker-django---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--nginx-Dockerfile-EF4C53FCDB7564C4F1240C1B590409F72C222464",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-config-4D8557370B68B3FFDB633DD0007FC54793646634",
+        "SPDXRef-File--web-tests---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--web-docker-django-apps-todo-urls.py-D182BF47BC0852B7EAE280E769F82D67B56A51A7",
+        "SPDXRef-File--web-requirements.txt-79BBAE7AF41FED0419BA2EFE5F0D0400BB43DA91",
+        "SPDXRef-File--.git-logs-HEAD-3E163E009DF2DAE34D96EF83577E22B62E16B59F",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--.gitignore-C7FD4E76F4F40C18445FDC80C598380A0A7F43B5",
+        "SPDXRef-File--web-docker-django-apps-todo-views.py-C05E38A121957AD7D3FF2A145F7BA4D7201785C9",
+        "SPDXRef-File--web-docker-django-settings.py-66E72741191A4DBCC93B0D7059432E744DB802CD",
+        "SPDXRef-File--.git-refs-heads-master-FFE6A3022A8EFFC25519BCC409137314C0C55CFD",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--web-docker-django-apps-todo-admin.py-A0B1A2729D5FD2A8A7F3387C2BC053AB98F74B9A",
+        "SPDXRef-File--web-docker-django-urls.py-7363A2A3822BC71B9B35ECB23C5BBD00BBF60157",
+        "SPDXRef-File--.git-logs-refs-heads-master-3E163E009DF2DAE34D96EF83577E22B62E16B59F",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--.env-781F2E4DB16C579CF18EFAAEFFF42314FE0E3563",
+        "SPDXRef-File--web-docker-django-apps-todo---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--web-docker-django-wsgi.py-5B69F7540C203B121DF837083A3B9651F658B622",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--web-static-main.css-6EE17A58BAAAFE3FB93216C7BEF09660B16B675D",
+        "SPDXRef-File--web-docker-django-apps-todo-tests.py-D8BA9A8A1DE20610CA7F80F8C8C6C515ECE66A30",
+        "SPDXRef-File--web-manage.py-57A89FCDDA4ACFD8D587329CAEAABF45CFE9B3DF",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-3E163E009DF2DAE34D96EF83577E22B62E16B59F",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--README.md-CD6DC239980929259CB8378572466ECBDD8E772B",
+        "SPDXRef-File--web-tests-test-env-settings.py-62A1E1C69950343350C34F70A6AEC5A15E3023F2",
+        "SPDXRef-File--web-docker-django-apps-todo-models.py-B178EEAB0A0E2F6BCB2EEDFC08ECB07AC6614F87",
+        "SPDXRef-File--web-Dockerfile-13A477AB418C2EB3412B93708A038BCA2C67C697",
+        "SPDXRef-File--.git-objects-pack-pack-7c6595c2007c7297d736c6617898abb7dd72e8dd.idx-D13AFF53CE6648D927E7521CA28729CE5AC5DCDF",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-packed-refs-423FA03DAAA9069176C10443223EEE96ED39EEFE",
+        "SPDXRef-File--production.yml-B3A94788D11EE56BFD2CB509F62C5AF10584A6B1",
+        "SPDXRef-File--web-docker-django-apps-todo-templates-home.html-C51BBCAE1CCDE85CA7A2FD8ECDAB810B64537202",
+        "SPDXRef-File--web-docker-django-apps---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--nginx-sites-enabled-django-project-CF2622DDE8DE823C0B587526612C0DCD77BA31A6",
+        "SPDXRef-File--.git-objects-pack-pack-7c6595c2007c7297d736c6617898abb7dd72e8dd.pack-4F9FC8079D297076288E6A914D4E0AE75540704F",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--.git-index-B3F20E72831CC4CDB823A314C98447DDC778BD5F",
+        "SPDXRef-File--docker-compose.yml-97278915479A8F938A8F7AE538095C3FEA17E560"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-342374B2BABFF1AD6E80F9647DDD56159FCB4404055A62A22AB2CA560CC4E3E5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-628793B59D62E67093189507C44001CB93D2D0650A4CADF7B76A7482AB9B1939",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-882A796FD1A754EF7D52123FD1C9DE5CC54DB67F574C35B5543108D503FD47BE",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B6E520EFC538515C30E58C80F65F5404B6AFA6F721AC7C50659453B14C7FDD7B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C33CE47740928AC52A700AE8F1F85F2368954734E7689B7F1CF6C62F077259F1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "dockerizing-django dockerizing-django-15.4.6",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-2.2.1-a5533369-0fe0-471b-8723-1028b3c2d27f/dockerizing-django/dockerizing-django-15.4.6/Mu03DB2jAUCCg2g3ThfUpw",
+  "creationInfo": {
+    "created": "2024-01-06T08:32:04Z",
+    "creators": [
+      "Organization: dockerizing-django",
+      "Tool: Microsoft.SBOMTool-2.2.1"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

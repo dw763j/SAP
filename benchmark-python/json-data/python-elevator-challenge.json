@@ -1,0 +1,11 @@
+{
+    "name": "python-elevator-challenge",
+    "home_page": "https://github.com/mshang/python-elevator-challenge",
+    "author": "Person:Miles Shang",
+    "version": "",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2016 Miles Shang",
+    "packages": [
+        {}
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "gain",
+    "home_page": "https://github.com/elliotgao2/gain",
+    "author": "Organization:Free Software Foundation, Inc. <http://fsf.org/>",
+    "version": "",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>",
+    "packages": [
+        {
+            "name": "pytest",
+            "license": "MIT",
+            "home_page": "https://github.com/pytest-dev/pytest",
+            "author": "Holger Krekel, Bruno Oliveira, Ronny Pfannschmidt, Floris Bruynooghe, Brianna Laugher, Florian Bruhin, Others (See AUTHORS)",
+            "version": ""
+        },
+        {
+            "name": "uvloop",
+            "license": ["MIT","Apache-2.0"],
+            "home_page": "https://github.com/MagicStack/uvloop",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "aiofiles",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/Tinche/aiofiles",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ""
+        },
+        {
+            "name": "lxml",
+            "license": "BSD-3-Clause",
+            "home_page": "https://lxml.de/",
+            "author": "lxml dev team",
+            "version": ""
+        },
+        {
+            "name": "pyquery",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/gawel/pyquery",
+            "author": "Olivier Lauzanne",
+            "version": ""
+        }
+    ]
+}

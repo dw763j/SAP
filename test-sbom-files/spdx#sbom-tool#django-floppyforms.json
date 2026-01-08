@@ -1,0 +1,4059 @@
+{
+  "files": [
+    {
+      "fileName": "./MANIFEST.in",
+      "SPDXID": "SPDXRef-File--MANIFEST.in-887243AC3A3602DC2B3E857DDE9A64A07C399645",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2b5c804e8c5337abe20d5595d0a1f2006197108851e8a430ba43af37b939ffa6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "887243ac3a3602dc2b3e857dde9a64a07c399645"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tox.ini",
+      "SPDXID": "SPDXRef-File--tox.ini-D14A61B6937A4A3A3C513B4CDA121AB78A049BAD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2fe2fced99710c4fbad876f0624c6d02f5964de3208f8f118854274712eab82c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d14a61b6937a4a3a3c513b4cda121ab78a049bad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./setup.cfg",
+      "SPDXID": "SPDXRef-File--setup.cfg-495ADFDFD5F842A3D0954AF11095E1D0207C3A1A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a86e97130ccdc23234bb3379b2ac7166fb7019f00668809f01a5dd6f04b60ac7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "495adfdfd5f842a3d0954af11095e1d0207c3a1a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./setup.py",
+      "SPDXID": "SPDXRef-File--setup.py-BDD8246B6F36A549E379FD4E7C459E955D113C14",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9afd713aae86201746af4093aa574c43578500985700069498b2b587ec73d0d2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bdd8246b6f36a549e379fd4e7c459e955d113c14"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-2AD8079B44A22F7A3C5C701CD19AC7EBB832BB99",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d0af1a7474481923e305d277294a1b39ac732e719a201724c4249a157510849f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2ad8079b44a22f7a3c5c701cd19ac7ebb832bb99"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-347328E40DAF5C008AD61B2EA178514DEF2313E1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9abe303ade4f718f7a8f12cfeeb8f81b8a57d80903dfb933d6f8ceb3d36a23e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "347328e40daf5c008ad61b2ea178514def2313e1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/widgets.py",
+      "SPDXID": "SPDXRef-File--floppyforms-widgets.py-1446DB3AA4BA335F154C48366C6CAD34FC7C96CC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "504977437721ad79303a047c4e390f231d5526bd85c6b23e08270532e9feb1fc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1446db3aa4ba335f154c48366c6cad34fc7c96cc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templatetags/__init__.py",
+      "SPDXID": "SPDXRef-File--floppyforms-templatetags---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/style.css",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-style.css-476D3BAEC2052D6FCB09C3AD8F5ABF3FFBD769B4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7181fd09179040ede671367ca788ba0b7cb9cc1909bce305a5d02daa78a87c6a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "476d3baec2052d6fcb09c3ad8f5abf3ffbd769b4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/gis/widgets.py",
+      "SPDXID": "SPDXRef-File--floppyforms-gis-widgets.py-70654C0D80E981CC6D4B8EE2A620565504930CA9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "df80744a8fc5abf5d5f27fc4c88d040b37cf221a320342c8091e2f9316e91979"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "70654c0d80e981cc6d4b8ee2a620565504930ca9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/close.gif",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-close.gif-C4EA801F6F43D6FA6E89B388AFD4DF89A0E713DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "90021cec43c31342656c4f4628b8d0c2800084d85f291dffca864b7a5f74d98b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c4ea801f6f43d6fa6e89b388afd4df89a0e713dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/js/MapWidget.js",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-js-MapWidget.js-C58AF26303A0655502772637D64D30FD2EDEB02D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "53d549ba3370122d1327300ff1d41b87eaa9db37f0408b91b65ba775d1bfae3a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c58af26303a0655502772637d64d30fd2edeb02d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/save_features_on.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-save-features-on.png-C8D14A9516EBF6D6931E873B05DA6A59B3683AE5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "401a124d3cd2f12465eabdba9ae969da5e7d140988814387ef3661af554d9198"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c8d14a9516ebf6d6931e873b05da6a59b3683ae5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/draw_point_off.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-draw-point-off.png-E2FF88470DDBD5ACDC766780F9DA83EE18D2E0E8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "52ba41c5427dcd2ccba214dcc68d76e2011a3e5a67c6997a0215e5294c79517d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e2ff88470ddbd5acdc766780f9da83ee18d2e0e8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/forms.py",
+      "SPDXID": "SPDXRef-File--floppyforms-forms.py-B829AD3A6A7CA77F5609E5DA0A77EAC3CE4D5A62",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5611466e22d79818cfc51b17f601e1d3abd6a33fd2c9536685abbd1d940cea98"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b829ad3a6a7ca77f5609e5da0a77eac3ce4d5a62"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/pan_off.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-pan-off.png-41EE45F0C9BE87468928D302AA3CA1180E3538D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "913e2bb02e83d5b916dd85fdd5b51fd483b8a001994280933ec2b6aab6bd5688"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "41ee45f0c9be87468928d302aa3ca1180e3538d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/gis/fields.py",
+      "SPDXID": "SPDXRef-File--floppyforms-gis-fields.py-F4928DD30A6E37D3890230D8B6D104521D53348C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cb10d11f5c1dc70cdb8dfbbbe052fb3b30ebd044bd4040d45f590049d43b986e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f4928dd30a6e37d3890230d8b6d104521d53348c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/move_feature_on.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-move-feature-on.png-7621E3C335A1F300EDD78620EE9A7957AEB9442D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6bc840ea731ee4700ef3280bda54ef697e4d6f5f1f77818b99ed37d3cda73823"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7621e3c335a1f300edd78620ee9a7957aeb9442d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pytest.ini",
+      "SPDXID": "SPDXRef-File--pytest.ini-BFC33FC5BE2B1BCA99EDD6B4C9939137A42FA3F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4379cce5c01cc5082d7cf4de1e086ac2f5d386a399424ae49a789e0d0ec24d0b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bfc33fc5be2b1bca99edd6b4c9939137a42fa3f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/drag-rectangle-off.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-drag-rectangle-off.png-E5721026018618A7FA3C66B27B50E866794B59B3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c4bf89a6849f462192d059eba5d1a3f879e1544a32795e823f271f946314453b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e5721026018618a7fa3c66b27b50e866794b59b3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/google.css",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-google.css-BD52DFAA5CF18C542B7ABD4259D599A309B0A60C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "13770f79974bea2433dec52187a75ffa81a5bd83620f42e1e2fff0d90cce3d4e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bd52dfaa5cf18c542b7abd4259d599a309b0a60c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CONTRIBUTING.md",
+      "SPDXID": "SPDXRef-File--CONTRIBUTING.md-D2B6F8A03447D3962D72E1D03353F064028B8B49",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "52200c8fec0588ab8b1e96928ce2ea05be265cbff9666aa24b79e7d8605a57e1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d2b6f8a03447d3962d72e1d03353f064028b8b49"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/move_feature_off.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-move-feature-off.png-DB3823427A91E74B5B0FB127105F7776B2EB152F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "864d33d6b55a162bd9f8674e1dfe37c8dab5c85386a967bf9889d16bf1a9bdf9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "db3823427a91e74b5b0fb127105f7776b2eb152f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/zoom-panel-NOALPHA.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-zoom-panel-NOALPHA.png-17FE004434D037E265643AAD32C0739F6FC4DC77",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1df7273a93ab46ba16c18e6673b588d40497fd88f61ad259f1643756f4e505f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "17fe004434d037e265643aad32c0739f6fc4dc77"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/view_previous_off.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-view-previous-off.png-8581A73EE4BA21A68D0F55C679253ABDE1658056",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "75ef2ce1ef6757255bfa26226532cbf6830c603a9800fa9cc6d9050a26054184"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8581a73ee4ba21a68d0f55c679253abde1658056"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-E05077AB071E8A40BF0774A883FEBC87512C5CFB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "73e3e9f09f06bb884af0c906216527645aa415fbc80afaa3d8fe79db43230693"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e05077ab071e8a40bf0774a883febc87512c5cfb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-0991b316dfcb73f1e3d89c38e3e16c71efbf997f.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-0991b316dfcb73f1e3d89c38e3e16c71efbf997f.pack-183F0C7536F0F62A070D2A6EA826078ACE173EF3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "03f8514f738e42aeb0d10bb9058824b4f4adbd4fd2b6570ff00770d5409b3feb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "183f0c7536f0f62a070d2a6ea826078ace173ef3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/compat.py",
+      "SPDXID": "SPDXRef-File--floppyforms-compat.py-617FCBA7799833725B1DF7C8321CD975C1AE8988",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2fb83ceed47c377960ef432f04f883042bd423f353c8c2443ce6f381c9ce4a8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "617fcba7799833725b1df7c8321cd975c1ae8988"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templatetags/floppyforms_internals.py",
+      "SPDXID": "SPDXRef-File--floppyforms-templatetags-floppyforms-internals.py-AA5FB85814456C0D6FED2D53EDE5698AEB9C0DE0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e4d3d19b751f99a2b190161047f7c5e95f0c04267927e4376839d9a55c2c5acf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "aa5fb85814456c0d6fed2d53ede5698aeb9c0de0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/ie6-style.css",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-ie6-style.css-2A2C5DCF93778567DD20E64C06F09B0458E3B4C9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8904906745cfb763b511f6f20dd77fecd05900ab473629fbf655cc940f21106f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2a2c5dcf93778567dd20e64c06f09b0458e3b4c9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/editing_tool_bar.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-editing-tool-bar.png-58603C8CBC55A60800FBECBAD6BD9B8EA73B3B5D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6a77f883389683858dee157aa74af4da55c1aa2b341ce61848a1814685c08fe6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "58603c8cbc55a60800fbecbad6bd9b8ea73b3b5d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/view_previous_on.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-view-previous-on.png-67DFA697A59120820B6F7FB60F3CCD608B23065E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "861d50693a3be7d7d7fbba7ce7c943ae862cb9498534dc1f17d04c5268d877d6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "67dfa697a59120820b6f7fb60f3ccd608b23065e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/view_next_on.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-view-next-on.png-ACD63411A72EE52538DEF521A53F2639A45B6E41",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6e24c42dabeb03cedf6596877502e9a2c74c59548502f386a66a34bdadcbadaa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acd63411a72ee52538def521a53f2639a45b6e41"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/draw_line_on.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-draw-line-on.png-D43B705B050CA579B9FC73B46D56770DAC76D405",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "41e485c47abbbf7b7a6e98d6076b45c4794dc943e7535e7fe5763de797936235"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d43b705b050ca579b9fc73b46d56770dac76d405"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/checkbox.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-checkbox.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa46ae935b9fdfb58fa158d65b6d168599941e602d0732c0cec8875a5da4e555"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f648e71ae3fe0da70532cd39f64a7e35b36bb127"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/url.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-url.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa46ae935b9fdfb58fa158d65b6d168599941e602d0732c0cec8875a5da4e555"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f648e71ae3fe0da70532cd39f64a7e35b36bb127"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/hidden.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-hidden.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa46ae935b9fdfb58fa158d65b6d168599941e602d0732c0cec8875a5da4e555"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f648e71ae3fe0da70532cd39f64a7e35b36bb127"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/email.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-email.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa46ae935b9fdfb58fa158d65b6d168599941e602d0732c0cec8875a5da4e555"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f648e71ae3fe0da70532cd39f64a7e35b36bb127"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/gis/google.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-gis-google.html-D940D55283D4D4861CDA7793D92C75B83939F445",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a94b201c2744280d7097c448e4c662d3abaab3c77dc4066d1ede42d563b99001"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d940d55283d4d4861cda7793d92c75b83939f445"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_widgets.py",
+      "SPDXID": "SPDXRef-File--tests-test-widgets.py-8B110365AA6D2008711E2F472F29CA016CC9F171",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d9e9755eaa0f5e473fabf36a9188fc37550c5ffafe73d7af2a2c84141cdb72ce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8b110365aa6d2008711e2f472f29ca016cc9f171"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_layouts.py",
+      "SPDXID": "SPDXRef-File--tests-test-layouts.py-B2BFF45DF4F7AAA53B0AE4BF654CE67BBB2CAF57",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "05fdd1504a175dbec58cf7512afcb5ff27aee33747932d5cf71cfd74f6438997"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b2bff45df4f7aaa53b0ae4bf654ce67bbb2caf57"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/demo/__init__.py",
+      "SPDXID": "SPDXRef-File--tests-demo---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/templates/simple_formrow_tag_with_config.html",
+      "SPDXID": "SPDXRef-File--tests-templates-simple-formrow-tag-with-config.html-04EA824BB17D44F46DA50C9AAB6068F04E759938",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bc97d3ea6a7ea7f5dd9a0089d47ce133a8d846b3b845d6ada9bc01082b27852a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04ea824bb17d44f46da50c9aab6068f04e759938"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/panning-hand-off.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-panning-hand-off.png-1A1563DAFA64CF5D6DB93B9970DE2961FACABE65",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a321b9c4b5175cec681b0d814866a71e374100f16f0ba3bca485eaa58c467e9d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1a1563dafa64cf5d6db93b9970de2961facabe65"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/pan_on.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-pan-on.png-36B6E7C6ABF93FB1C6EA36FCCE95A415A389B2D5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3ca1385abd7ad7443c46f86c6c99e0cdf7fadee7a2537145cdb0b945682b6c3f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "36b6e7c6abf93fb1c6ea36fcce95a415a389b2d5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/checkbox_select.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-checkbox-select.html-680313223ECC365306D7CCB20BF338F761BFC43E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dfe8d735949cb30a810d4a3b4890da77783519d5f7dcae28834c7f2c988c2125"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "680313223ecc365306d7ccb20bf338f761bfc43e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/date.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-date.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa46ae935b9fdfb58fa158d65b6d168599941e602d0732c0cec8875a5da4e555"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f648e71ae3fe0da70532cd39f64a7e35b36bb127"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/phonenumber.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-phonenumber.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa46ae935b9fdfb58fa158d65b6d168599941e602d0732c0cec8875a5da4e555"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f648e71ae3fe0da70532cd39f64a7e35b36bb127"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/input.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-input.html-31A148A395C2330AA275FAE89AF93D7E54360307",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "414072559b1432e3a47159d086b71d55bf682584d2ebe452e2d74d62738ec074"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "31a148a395c2330aa275fae89af93d7e54360307"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/gis/openlayers.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-gis-openlayers.html-535CEB4EB442604B2D0D3B2037182B18F89D3ABD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c8b0fef8679005ab2d83bab2750745d34839b6f7dad7281b320dccc7709637ca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "535ceb4eb442604b2d0d3b2037182b18f89d3abd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_deprecations.py",
+      "SPDXID": "SPDXRef-File--tests-test-deprecations.py-F6C454C484E041989B61753983ED2778DFC7D27F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5ed7a2340de1e645f0df104ca66d9e764abaa84acb6bcd02a1113856e1f6b1a9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f6c454c484e041989b61753983ed2778dfc7d27f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/settings.py",
+      "SPDXID": "SPDXRef-File--tests-settings.py-4CEEA99D9E6670484765B7A8886711E84AA5DBD7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "01eb38e13ff6ffcb7ce9d1afcb0db66b664c5d087ca48af5f3adb46a09aff689"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4ceea99d9e6670484765b7a8886711e84aa5dbd7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/demo/urls.py",
+      "SPDXID": "SPDXRef-File--tests-demo-urls.py-245CDB2832CCFF1564CA2DF89077EEEE778CE65C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e679c2ecfce06e80ed8f6a8b1cde6dbd3995d79f9c59285176e857779e41c913"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "245cdb2832ccff1564ca2df89077eeee778ce65c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/templates/simple_form_tag.html",
+      "SPDXID": "SPDXRef-File--tests-templates-simple-form-tag.html-A61ACC5F4611A587CE5CED61F0B7F324E16B2D7C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1ad95d79a556fd46c6bc47af1169765686340584ad8be2baa7c1d71702e729f2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a61acc5f4611a587ce5ced61f0b7f324e16b2d7c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/test.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-test.yml-39A7174E9C50597145324764FF96D5AEC972D8C7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6b3cb9d63ee83b334055abb9c84b48fa77c0fff7de80460ae55d265e08216253"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "39a7174e9c50597145324764ff96d5aec972d8c7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/usage.rst",
+      "SPDXID": "SPDXRef-File--docs-usage.rst-C8EAF2E08CDB8EA9C64C32D28088BA8329EF24C4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2e7569547e4094c0ebf7c2c3b18c1d969b88b98a46d89222063af6005433d7ce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c8eaf2e08cdb8ea9c64c32d28088ba8329ef24c4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.travis.yml",
+      "SPDXID": "SPDXRef-File--.travis.yml-ADE0CC4B2FC330194E8C2B175EF2A10A7067C670",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6c24b28f392df8e5225d29918eb0c7c7463504cb4e39caf6468a0576fd466f8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ade0cc4b2fc330194e8c2b175ef2a10a7067c670"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/conf.py",
+      "SPDXID": "SPDXRef-File--docs-conf.py-2B79F785AA394994C35171B4A7626534AB8F5836",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "52643741c704a7a582ea29263404702d84fc6448e1366757babe1015a33a3685"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2b79f785aa394994c35171b4a7626534ab8f5836"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-F81BD9CDA478F5523295ABE6A1E3CE1016C5B5AB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f0a50477b6e9c92b9d454f3cb6206c5d0ebad97533e4f93c6e1f28238b42e1b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f81bd9cda478f5523295abe6a1e3ce1016c5b5ab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/gis/__init__.py",
+      "SPDXID": "SPDXRef-File--floppyforms-gis---init--.py-D903E7E1BA74319E89FBA7FB37564606CC8CFC33",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1a699d0332689b16e73a8d05abb3c8150c23110323267ebdde86f5df70a2246d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d903e7e1ba74319e89fba7fb37564606cc8cfc33"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/OpenLayers.js",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-OpenLayers.js-3AFA58A477F7E5B51516885D1A3F6AE547CA8303",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d2b7c75c56266fb81326bde24edfc814f02e115aa1713c388036da79a8de7282"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3afa58a477f7e5b51516885d1a3f6ae547ca8303"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/ruler.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-ruler.png-2711B71805E51EB7CBE4E137398F75E643C3B77B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a9825c13f5321a6a79b4a11ec8bb68645cdff742d8d7388a02b80030e1c3d413"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2711b71805e51eb7cbe4e137398f75e643c3b77b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/navigation_history.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-navigation-history.png-46BE1E5958AB1901EFD9401F3528942E32FC0190",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cc21efd49d80f23b8840daca2544dae4098629ac12f756fa6b166ea648ae8674"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "46be1e5958ab1901efd9401f3528942e32fc0190"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/remove_point_on.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-remove-point-on.png-B54A3A18B1F684F5D433701EFC6D1718A3D947AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d128b5c624bdd6d69fb22149c473cb5e8ba52b05507cb7209ae11e5782f3088"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b54a3a18b1f684f5d433701efc6d1718a3d947ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/draw_polygon_off.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-draw-polygon-off.png-E9DF960D7CE29FFFC145FB4859805A2A9CD758DE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f88cbe4ffbb096b9cf5ebe8fb30279c2775d550fb5225c39bc8aecaab90c6b1e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e9df960d7ce29fffc145fb4859805a2a9cd758de"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/__future__/__init__.py",
+      "SPDXID": "SPDXRef-File--floppyforms---future-----init--.py-D7658DB13F968CF9FD01309B86392CAB72A49D73",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "daf29c127b14b053830242f422a3bbf104c9dfb72c3eb1659032d1fe89c0cb41"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d7658db13f968cf9fd01309b86392cab72a49d73"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/slug.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-slug.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa46ae935b9fdfb58fa158d65b6d168599941e602d0732c0cec8875a5da4e555"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f648e71ae3fe0da70532cd39f64a7e35b36bb127"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/_render_as.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms--render-as.html-3D02CFAFBC29C2CA5B2A1A6659C7D0DD94EFA4DF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3b5833c50f0cda278315d2ff15cb7d5204cc8d155c051c2356dfd745a64a4803"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3d02cfafbc29c2ca5b2a1a6659c7d0dd94efa4df"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/time.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-time.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa46ae935b9fdfb58fa158d65b6d168599941e602d0732c0cec8875a5da4e555"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f648e71ae3fe0da70532cd39f64a7e35b36bb127"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/rows/li.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-rows-li.html-3C95A0502E7B9BF6E2697F15AA58572F96F5CF08",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b2059423033c94d50f67ada8c522cc89438d0531db2ec6719faec812abd67dea"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3c95a0502e7b9bf6e2697f15aa58572f96f5cf08"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/base.py",
+      "SPDXID": "SPDXRef-File--tests-base.py-819BB18ED88894DFFCA4D6F008E118C9C017635B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fa6461d4aa20769c8f8c7e02fa3ece9afbf185d60601fee6e7c39337dd7f25a5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "819bb18ed88894dffca4d6f008e118c9c017635b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_gis.py",
+      "SPDXID": "SPDXRef-File--tests-test-gis.py-A7AE73400F26EA334A622751135A13267AECD0F1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e291dc145e470ea09f45aed66e641fb9630598b8cfd2e098dcd1c15aa4f2fa26"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a7ae73400f26ea334a622751135a13267aecd0f1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/demo/forms.py",
+      "SPDXID": "SPDXRef-File--tests-demo-forms.py-E6BFFCE3433949C848DA654EFD94743470F46974",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5387875470cd7febaa2b73d055c4f0bbf3eaa1225f4baf92d69534b538f95663"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e6bffce3433949c848da654efd94743470f46974"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/images/osmlinestring.png",
+      "SPDXID": "SPDXRef-File--docs-images-osmlinestring.png-C00212A674DB5823738C442A836E2BDAFCC0F492",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "791dd35a0a74ccbdb9f9ddda652e8977370931327003bc7b7d1815c0dffa3db4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c00212a674db5823738c442a836e2bdafcc0f492"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/templatetags.rst",
+      "SPDXID": "SPDXRef-File--docs-templatetags.rst-AFF9AF9853F8BBE01D9065219B7E0EEEA1393CB3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5c4eda7ef37543a0de3d83141c4ad3c172a3312706077451fec7cc2e132ee883"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "aff9af9853f8bbe01d9065219b7e0eeea1393cb3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/images/pointfield.png",
+      "SPDXID": "SPDXRef-File--docs-images-pointfield.png-27525C2E9F069780B65BC03E448D002CAEB72E6D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4d40cc57e463e90a33d3eabed9de99354df9f06f7cc9c3d5e51cc32e0788164d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "27525c2e9f069780b65bc03e448d002caeb72e6d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/templates/custom.html",
+      "SPDXID": "SPDXRef-File--tests-templates-custom.html-02CC77D989CE50AA6BFA71223D566BB57627F5B3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0b2a8c1ed121c3d6f1d3376f16a42c8f6103f65bb22b16d6fcca18fe3119c388"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "02cc77d989ce50aa6bfa71223d566bb57627f5b3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/release.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-release.yml-BB0D54361B55015A9337FC7ABB9B91B007985033",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "39eea94fb27b2d9447008892865ff1f4b6b2669af523ae3eab610e6d35fac115"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bb0d54361b55015a9337fc7abb9b91b007985033"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/geodjango.rst",
+      "SPDXID": "SPDXRef-File--docs-geodjango.rst-6D679A58420AC091822D5BABB3BB2B3027C3C939",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a768b255e9de3b044f85a23367e6dc06588401c9c11c271e678610b75685391a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6d679a58420ac091822d5babb3bb2b3027c3c939"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE",
+      "SPDXID": "SPDXRef-File--LICENSE-BEA2366695E017FDF80D91F714D01B0BED1F23B0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4f75d07dbb6b9380fb6ebf55ce8665083508c00794ec25997af18750488fb2f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bea2366695e017fdf80d91f714d01b0bed1f23b0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./benchmark.py",
+      "SPDXID": "SPDXRef-File--benchmark.py-4BC536279B01E3BFE5812A84BD09BF35613DF9B2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "96d8f52e2e97673e691b38c8e1cdc7ef40952628b5fcab9a9fb1898d414dc747"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4bc536279b01e3bfe5812a84bd09bf35613df9b2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-347328E40DAF5C008AD61B2EA178514DEF2313E1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9abe303ade4f718f7a8f12cfeeb8f81b8a57d80903dfb933d6f8ceb3d36a23e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "347328e40daf5c008ad61b2ea178514def2313e1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/fields.py",
+      "SPDXID": "SPDXRef-File--floppyforms-fields.py-CFCAA618048ADAF082D0A88204A43760467A9EC5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e7fdd6b6589b792b48d031411f1f12024b2537c2299edec850d9505fbfb081fc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cfcaa618048adaf082d0a88204a43760467a9ec5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/gis/img/move_vertex_on.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-gis-img-move-vertex-on.png-112055A85F15176F49FB0E357FBCF6BB58A7E49A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fd2af116e8efc40f585d92285f0f921af8751a5b94730c25c7a7d6e08c799f84"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "112055a85f15176f49fb0e357fbcf6bb58a7e49a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/blank.gif",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-blank.gif-9D01CC5DC8E042C0D4AD6CFB8B3AC38E84A5EF9F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "47043e4823a6c21a8881de789b4185355330b5804629d23f6b43dd93f5265292"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9d01cc5dc8e042c0d4ad6cfb8b3ac38e84a5ef9f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/view_next_off.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-view-next-off.png-B9035EA7B3C822F5C35540C9539DD7609ACB4F39",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "34d4411ee60ea914663e4c5c4375c77818aec4a871a77cd72e01b33e7b336214"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b9035ea7b3c822f5c35540c9539dd7609acb4f39"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/remove_point_off.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-remove-point-off.png-7641CB56FF0C25D7B3C2BC8DDB9795FC0330FE3E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3fdd3e2c4c0355cc549273a21997df1cd5acab840016f35ba93d4902f5613927"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7641cb56ff0c25d7b3c2bc8ddb9795fc0330fe3e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/pan-panel-NOALPHA.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-pan-panel-NOALPHA.png-5BC7D194A3F43EBCBEE8C7D064B469DDFD3B2149",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4595327cc223b644c95d961ce67717b667fe22e33125604fb0aa280d10dd5bf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5bc7d194a3f43ebcbee8c7d064b469ddfd3b2149"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/zoom-panel.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-zoom-panel.png-2209FA9DDC8C1464B4EA50AE2ED7084F83C39DED",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "40e9f0e4f10cdeeca3e3dca23d5f37136d269be3c6ba2513f6dbc9e15e2c4d4a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2209fa9ddc8c1464b4ea50ae2ed7084f83c39ded"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/range.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-range.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa46ae935b9fdfb58fa158d65b6d168599941e602d0732c0cec8875a5da4e555"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f648e71ae3fe0da70532cd39f64a7e35b36bb127"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/textarea.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-textarea.html-28F626034F35B9D14516AD0FC25E84A99914E06A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "117a2b8d7bcc2cf689b8338bef8bf395f4fbfedf992a466e623c02ed9926bde5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "28f626034f35b9d14516ad0fc25e84a99914e06a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/text.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-text.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa46ae935b9fdfb58fa158d65b6d168599941e602d0732c0cec8875a5da4e555"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f648e71ae3fe0da70532cd39f64a7e35b36bb127"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/rows/tr.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-rows-tr.html-87C43F0AB08945E9026A96047EB83B94651E7075",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "29c8375a5c2d76d87243364e3cfaa7f6571dd4d994e1b7510db74225117652d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "87c43f0ab08945e9026a96047eb83b94651e7075"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/layouts/default.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-layouts-default.html-76DEF8C721276EDFB79A3B52EB61D90628ED9BA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f109e94abfcf59401acfef4ad3538af485409ee52a5bd64186820c1d8d32f6cd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "76def8c721276edfb79a3b52eb61d90628ed9ba4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_fields.py",
+      "SPDXID": "SPDXRef-File--tests-test-fields.py-DFA193F413627573E4D4D8BB0D026EAF1FB80768",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4951135fb815ba1825ecdf08d9b781f7b6d6573d7b93f2e5ae2f0a86902780a0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dfa193f413627573e4d4d8bb0d026eaf1fb80768"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_templatetags.py",
+      "SPDXID": "SPDXRef-File--tests-test-templatetags.py-4B2D2B4341EB86752308B7A9A2A84D4282C98F5D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e4e6b8735ef9d2b080d02ce2d17078736d3f22a875dfe794fb09cb1c5ab259f5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4b2d2b4341eb86752308b7a9a2a84d4282c98f5d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/demo/templates/demo/index.html",
+      "SPDXID": "SPDXRef-File--tests-demo-templates-demo-index.html-5EC5E84BF3CC3B4391657E6F4AE99B8F926FFD61",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "695899bfe609a744db8c4e1a2e64e683b65a32c5331f1b9f94fe65b4c7fa9764"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5ec5e84bf3cc3b4391657e6f4ae99b8f926ffd61"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/templates/media_widget.html",
+      "SPDXID": "SPDXRef-File--tests-templates-media-widget.html-F443F663C6E8ED94EABE3326599F9120A98BFAF2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "73a841821991e9152054d193ed78a7741718a336ee5d4b1063a1792497790e3e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f443f663c6e8ed94eabe3326599f9120a98bfaf2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/examples.rst",
+      "SPDXID": "SPDXRef-File--docs-examples.rst-AB856DA386478D5180E142DF0BFA8D534FF5D19A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "846c11744cc447a2812cda95552b3d0cccdc9362a123fc99251f97c71a380e2f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ab856da386478d5180e142df0bfa8d534ff5d19a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/widgets-reference.rst",
+      "SPDXID": "SPDXRef-File--docs-widgets-reference.rst-3C6F1F57D8538E3A578CFEEC90AA85F7E79EAED9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d4dd7ec17107aa872bdb7e7ee5d303022abba18fe8ecd8c3b32b46736dfe8d9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3c6f1f57d8538e3a578cfeec90aa85f7e79eaed9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-46F0A4F30979A6301B496B231E7B7F451C5CBF95",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "09e6ae80c0a4d7c4de5641b27f5b25e0aca6acab8aa34b3f073562ec818dce95"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "46f0a4f30979a6301b496b231e7b7f451c5cbf95"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.rst",
+      "SPDXID": "SPDXRef-File--README.rst-5F5ED27437EF6B13B6ED5D7173CDE041CB71C160",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ad6cf5eda21ac97d59fe59a809618504af05003526630e04b3fb9e413a4d1520"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5f5ed27437ef6b13b6ed5d7173cde041cb71c160"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-550017C88B0546BFDC4C191D56EBE99D21713E39",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "07f37fc678d4fe77367089ffd7ac799769ae1c97d64c3b2cd10f319528595c5d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "550017c88b0546bfdc4c191d56ebe99d21713e39"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-0991b316dfcb73f1e3d89c38e3e16c71efbf997f.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-0991b316dfcb73f1e3d89c38e3e16c71efbf997f.idx-FC836CB0C6A319D73DCEE66A658392BDC7537468",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5a8473e2848bea2ece9dc4c2f98eed7a2d820c575a2a6a29317f2b70868cef6c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fc836cb0c6a319d73dcee66a658392bdc7537468"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/models.py",
+      "SPDXID": "SPDXRef-File--floppyforms-models.py-56B059239CF4F49D34FBC810F9B91DDA9F1975F1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ac5cf5c66f777b16a615d526b2ac9e6cd8c11511f0f06c6f2a44962840da428a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "56b059239cf4f49d34fbc810f9b91dda9f1975f1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templatetags/floppyforms.py",
+      "SPDXID": "SPDXRef-File--floppyforms-templatetags-floppyforms.py-C20DB047ACC26E3C0E3F7A2933DD3D816485ED42",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d1d96c880ee44bb4c0502e77c9a006954bb98dd9eb853ca119f703d0adb5c813"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c20db047acc26e3c0e3f7a2933dd3d816485ed42"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/style.mobile.css",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-style.mobile.css-2DB1F2284F0DFA881B4361ADA16B5C5409D0460B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "992c1663eec72e82980823a1420aa65d28ab3587e0d8ee0108feffed8efce648"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2db1f2284f0dfa881b4361ada16b5c5409d0460b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/draw_polygon_on.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-draw-polygon-on.png-7564DE8E5C13A6A291583D3CD5BEFFB867A1D5EC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "98d20f761744746291cac98910f01489b01d4590ec1ae60c70d33fead57a0748"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7564de8e5c13a6a291583d3cd5beffb867a1d5ec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/add_point_on.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-add-point-on.png-295AAEBDA3569B5653E2927886C4B694B7B33734",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b620c1ebfe706f61713d9a097563b7fa262c7c4fd3f6167a084bded74a3fbdf7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "295aaebda3569b5653e2927886c4b694b7b33734"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/drag-rectangle-on.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-drag-rectangle-on.png-7DB140DB94F9BB046BCD6A0C8B6AA03BD78190AF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0e6b258b8bc681c6b2ed018e00d17cc33aacbe5f0e6c8046c2cc1a57ce432497"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7db140db94f9bb046bcd6a0c8b6aa03bd78190af"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/draw_line_off.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-draw-line-off.png-AB83B59394BF77B35CBD2BC8CA720842F47F663D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9ea2b0f24a58aa3c74a66e8d0c310c7cc24ba04fc0a95a08e5048a8337660a95"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ab83b59394bf77b35cbd2bc8ca720842f47f663d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/clearable_input.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-clearable-input.html-2C1C4FBF3716E2948FBF7B43CCC97CAAE124A467",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eadc212869ed391d9e3abfe57eea7572472dad7f8d4871b96add8687bb0fff22"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2c1c4fbf3716e2948fbf7b43ccc97caae124a467"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/attrs.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-attrs.html-53F3BF6110A967F9073572B5B54781380AD2EBFB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d00c81f397a49ee310b4bebbaae9313e6c7726ea4349e9095e41d91e750ca651"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "53f3bf6110a967f9073572b5b54781380ad2ebfb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/password.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-password.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa46ae935b9fdfb58fa158d65b6d168599941e602d0732c0cec8875a5da4e555"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f648e71ae3fe0da70532cd39f64a7e35b36bb127"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/select_date.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-select-date.html-C6AF4261BAF20F27E425B6C511D47E3B7953580F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c25b29df9eb11dfd40765207fdcd7ffe40fe252ae869fbb4836479888198f1fd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c6af4261baf20f27e425b6c511d47e3b7953580f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/gis/osm.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-gis-osm.html-8BF732D750E7C07A1E7BE820BCD5279DAA5483A4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "701deaa3cfed7a298a9a1b670c71ff754a5c90fe7207af16dd44e5cc659e6522"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8bf732d750e7c07a1e7be820bcd5279daa5483a4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/models.py",
+      "SPDXID": "SPDXRef-File--tests-models.py-3FDDEE1AC4E4D9BF2652AA055DC4CE034F62DD50",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "319926c46dcc6c627245c365528c8808e21017be3db8cc7eab30661b9bf1e9de"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3fddee1ac4e4d9bf2652aa055dc4ce034f62dd50"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/requirements.txt",
+      "SPDXID": "SPDXRef-File--tests-requirements.txt-688C060A4F4D54CE07484890626DAF9E925F5F57",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ef96d046c81cffddac39e7c83e17d2d01eb77864d044015a1aa609898524b279"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "688c060a4f4d54ce07484890626daf9e925f5f57"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/demo/settings.py",
+      "SPDXID": "SPDXRef-File--tests-demo-settings.py-BA1BCD5FFA8A9B6AFB06ABE5E742849DA2AA3A58",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5fd6ba38dc03217cef38033136f0d9e611726456df4d02ced5c58c9e5f2b1c08"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ba1bcd5ffa8a9b6afb06abe5e742849da2aa3a58"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/templates/simple_formrow_tag.html",
+      "SPDXID": "SPDXRef-File--tests-templates-simple-formrow-tag.html-885D6A8F25B59182D97118DCE303FE64672C9951",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "baab2abc3b7dbaf561d7a3d5c52bf9d8d4ab8f47baf4c0cae5ebb1881dcf74d3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "885d6a8f25b59182d97118dce303fe64672c9951"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/Makefile",
+      "SPDXID": "SPDXRef-File--docs-Makefile-8EDC5AC4E615AD6885359BB191AA879463CA18F0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d9c1a2a282be5fa391bad16cd539abca6e3b783f934f6ccc0f7f905824c7356b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8edc5ac4e615ad6885359bb191aa879463ca18f0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/changelog.rst",
+      "SPDXID": "SPDXRef-File--docs-changelog.rst-AFDA90E84C48D8613E6FFD5605B629F612A84355",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c3c53a28b203e61c0afca540d27df40dc316bc0c1cc435ac135424cf04aac1ab"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "afda90e84c48d8613e6ffd5605b629f612a84355"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/images/datepicker-chromium.png",
+      "SPDXID": "SPDXRef-File--docs-images-datepicker-chromium.png-4D4AF7DD8E436C15EB5FA9993B9515CAAC9F3DEB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4c94a808198dc944c8599e9d0e165fca710339e835071473c81ff25338ab8a5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4d4af7dd8e436c15eb5fa9993b9515caac9f3deb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/images/slider-jquery-ui.png",
+      "SPDXID": "SPDXRef-File--docs-images-slider-jquery-ui.png-29B19FAF771426CF22F94ED0EFE5E2FBA645A4A6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "43b4914b4b4a4ee17855a8c8397428ad6eeb203e8b1b9f3d92b501cf461c0e61"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "29b19faf771426cf22f94ed0efe5e2fba645a4a6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/images/gmappoly.png",
+      "SPDXID": "SPDXRef-File--docs-images-gmappoly.png-CB209252E2D148F9CF858FC633B85C3F04D72BB4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8f47376fc65a5fa490ef3d0c100d80079c239f6100fe6972cd1bf9d5c931d257"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cb209252e2d148f9cf858fc633b85c3f04d72bb4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CHANGES.rst",
+      "SPDXID": "SPDXRef-File--CHANGES.rst-B2542D697BEBD19AC30BCACE77D5CF8DBF38176E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b2e7ba6fd654999cd3709afb4b19e2958f513cfbcefeee00b927b3bf0647264b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b2542d697bebd19ac30bcace77d5cf8dbf38176e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/images/datepicker-jquery-ui.png",
+      "SPDXID": "SPDXRef-File--docs-images-datepicker-jquery-ui.png-2781C9AB5456C6506129F87A554304165F2A924E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3a595b9d7130a0223ad8bd1cd2f7e27f434efae6f334d81e52f21dc86ab71308"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2781c9ab5456c6506129f87a554304165f2a924e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CODE_OF_CONDUCT.md",
+      "SPDXID": "SPDXRef-File--CODE-OF-CONDUCT.md-411EFAE378B83BECCECF7DC65A630C67829F504B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "97d5dc1da048fb2119e87d9af66d78eb2269693cf56b3aaca66422f9c2410e91"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "411efae378b83beccecf7dc65a630c67829f504b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-347328E40DAF5C008AD61B2EA178514DEF2313E1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9abe303ade4f718f7a8f12cfeeb8f81b8a57d80903dfb933d6f8ceb3d36a23e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "347328e40daf5c008ad61b2ea178514def2313e1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/__init__.py",
+      "SPDXID": "SPDXRef-File--floppyforms---init--.py-6EC93D4596627CBF80EE86E0C4101B59AF0C5B13",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e7ca715ebcb9bfe2ee70e84ce1b6f6628173ebdfe9d232bf0e850476cd80b075"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6ec93d4596627cbf80ee86e0c4101b59af0c5b13"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/gis/img/move_vertex_off.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-gis-img-move-vertex-off.png-B23C8DFFC96D2A3D0CE8E807B183714CB72862D2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "25ee99199a5e25f38eac758e1296ae33d5681d089a7829a264875b8129e56989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b23c8dffc96d2a3d0ce8e807b183714cb72862d2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/pan-panel.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-pan-panel.png-546442B686590881171287F354FE14D0751AD3F7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "74c4d08eca29a208e7f7e6e7c266587f880cffc9840391e28b8ac8ee136dca80"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "546442b686590881171287f354fe14d0751ad3f7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/save_features_off.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-save-features-off.png-5E29327A104B47F716E6A281AAB9A1473F3201E0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "41697eebbe9633bf71dd4fbdc213775088660eba8350d5877c9a67d6183693d6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5e29327a104b47f716e6a281aab9a1473f3201e0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/panning-hand-on.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-panning-hand-on.png-B210D7D20D3786119BC10426A45735A82730D47C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "26be082250ef3988d8d0ecbbeae3536042b24dbc5a08cf5460020ca9cd3359a2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b210d7d20d3786119bc10426a45735a82730d47c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/overview_replacement.gif",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-overview-replacement.gif-7191FD2CB81A52F88030CAED0F43F55F1AA208D4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "537ddb4551d5cadac52219c4411c7e679301ecc13b0eb92dac3b9b5da6d25fa4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7191fd2cb81a52f88030caed0f43f55f1aa208d4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/add_point_off.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-add-point-off.png-619054B425CC09B106F5A54BA51AC807CAEB7640",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "32c36254195a88e07f6961068d173c9f3fa343dda52dd9bb257c15d62205c331"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "619054b425cc09b106f5a54ba51ac807caeb7640"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/number.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-number.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa46ae935b9fdfb58fa158d65b6d168599941e602d0732c0cec8875a5da4e555"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f648e71ae3fe0da70532cd39f64a7e35b36bb127"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/file.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-file.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa46ae935b9fdfb58fa158d65b6d168599941e602d0732c0cec8875a5da4e555"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f648e71ae3fe0da70532cd39f64a7e35b36bb127"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/ipaddress.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-ipaddress.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa46ae935b9fdfb58fa158d65b6d168599941e602d0732c0cec8875a5da4e555"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f648e71ae3fe0da70532cd39f64a7e35b36bb127"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/rows/p.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-rows-p.html-0D82A17D4AA172BF91A4D2F723161B51A7B244F6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8eaccd5236d0d286e33d088d7751f6425472ad90235ad07bce07a52fcdb8c4ee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0d82a17d4aa172bf91a4d2f723161b51a7b244f6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/layouts/p.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-layouts-p.html-11AFB30A9B63EC583BE7FE37FECA8455ACB79724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bb65a880ed8824b5d840fd68e80d6126cf63c0276a26e9f82ef3b166250bbc88"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "11afb30a9b63ec583be7fe37feca8455acb79724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/tests.py",
+      "SPDXID": "SPDXRef-File--tests-tests.py-BC5EE51D57A71527FA4409E317EC221F89EF7F39",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "805494e53c57413bde22c050bf1f9ac73b65af8d86fd13e9c7e0e6f78e2a466a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bc5ee51d57a71527fa4409e317ec221f89ef7f39"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/__init__.py",
+      "SPDXID": "SPDXRef-File--tests---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/demo/views.py",
+      "SPDXID": "SPDXRef-File--tests-demo-views.py-737904E0C0E1CC745A68E9B266523429FDF89E78",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8f31a3c79e6749f1715009ffdde7f94f261af54a916630ac22a970c85bc376e8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "737904e0c0e1cc745a68e9b266523429fdf89e78"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/templates/formconfig_inside_only.html",
+      "SPDXID": "SPDXRef-File--tests-templates-formconfig-inside-only.html-DABD1296908D9401B313EB5F78A16F8A68044AD2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7a95b0321035ceeca240fa8b9bd73bdec1c75b22bf2e417a28bfacb07d261e12"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dabd1296908d9401b313eb5f78a16f8a68044ad2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/customization.rst",
+      "SPDXID": "SPDXRef-File--docs-customization.rst-66BADA1321700EBD1835649E148FC87814551461",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "632ac50d99a1cf396ddfaef1b9db3b2cb32ef483f06e73f34214c0574df0e7ef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "66bada1321700ebd1835649e148fc87814551461"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/index.rst",
+      "SPDXID": "SPDXRef-File--docs-index.rst-E37B8A6E813334E63DE887BF27D85598712C0430",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "42244da120572f86e366be376aacf191945348d28ab9a82d44fc022b2846fb08"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e37b8a6e813334e63de887bf27d85598712c0430"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/images/geomcollection.png",
+      "SPDXID": "SPDXRef-File--docs-images-geomcollection.png-3AD899D121189D23EF248C8B5E9E08A085A6CA04",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f963fe0f775a162e71640cc8f95a7f95607642d3421d5859b7e8d7292fc80aff"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3ad899d121189d23ef248c8b5e9e08a085a6ca04"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/static/floppyforms/openlayers/theme/default/img/draw_point_on.png",
+      "SPDXID": "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-draw-point-on.png-4FDE22D395A31A6B537E9E9E47D8FF69338B2653",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "21f4f320d62f52a122923a70752debf2092a9d3269f46e29525865c8003c8d1a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4fde22d395a31a6b537e9e9e47d8ff69338b2653"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/select.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-select.html-B039B0372B478591EBB73FA97828223229D21556",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b567a72aad7dbca514f8ab881518912847598f4cb9e77f41a087faa32a52d438"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b039b0372b478591ebb73fa97828223229d21556"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/errors.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-errors.html-3D6CBF00DA72F6A097D3D3B832EE782A2A272CFB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0cb45d8d6fa666ba676373d8075c74682add5ada1c5c0cd61585a06538332ba7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3d6cbf00da72f6a097d3d3b832ee782a2a272cfb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/radio.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-radio.html-6BA26A224EE6F58F4C014623E8B8C369525FE202",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "be1dc04d5c1fc3eacb367a9d29a00a66047809048a526ab2c6a0c4992c6e73cc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6ba26a224ee6f58f4c014623e8b8c369525fe202"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/dummy.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-dummy.html-403E0C7EBAD618756BFB441D0CCD018D2F6AA0FC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7b8848e530a6e4804e0570019f2b62358c20478b2de4433a6a395c902264d086"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "403e0c7ebad618756bfb441d0ccd018d2f6aa0fc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/layouts/table.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-layouts-table.html-919B9F5C858925245CF2F322AA8BEAE0A5F06560",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "baad47125d971ec5432af0eb16bed7dbaf3051426e7bd165c14685a021f4f0dd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "919b9f5c858925245cf2f322aa8beae0a5f06560"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/compat.py",
+      "SPDXID": "SPDXRef-File--tests-compat.py-AE39375EE71EDF6857B61E15861E32D01F084821",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "90ad3f9457c7f76d66ffab64c1960ee313c45342aa7b35f68bd892f1ef3234d7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ae39375ee71edf6857b61e15861e32d01f084821"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_forms.py",
+      "SPDXID": "SPDXRef-File--tests-test-forms.py-FD8A4635FD9C4D7677EB317BF3EA32D324154E8D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ed0a828c98fd2711c98fb8d01c26ef2d2f05592a24487197b60327d8f6310bb1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fd8a4635fd9c4d7677eb317bf3ea32d324154e8d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/demo/manage.py",
+      "SPDXID": "SPDXRef-File--tests-demo-manage.py-88303CE3FA0D80D5C7C45D5F4DBB2F7E97B38557",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5656abb2b241b5016a9eb39377fbdaf107e507915822d4c0fe0267642ae1ecd8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "88303ce3fa0d80d5c7c45d5f4dbb2f7e97b38557"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/templates/extra_argument_with_config.html",
+      "SPDXID": "SPDXRef-File--tests-templates-extra-argument-with-config.html-1CC1234CFF1371F4496931D5443F9ACEB528C71B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "437207a2c732881271f2c29887a09a4728e1f46240562ab78c2b76cc980e28a5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1cc1234cff1371f4496931d5443f9aceb528c71b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/widgets.rst",
+      "SPDXID": "SPDXRef-File--docs-widgets.rst-667875340EC5DA34D3F0CCFA49002DF195DF7AE9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2c0ab240c3aab15f20e1ff5e0920858362af2d214c1470f34fac1cd59ea7c885"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "667875340ec5da34d3f0ccfa49002df195df7ae9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/differences.rst",
+      "SPDXID": "SPDXRef-File--docs-differences.rst-53B083B2C17F6C0097D59332CC2BE87C9A27DF2A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5ea5e4ea3c776551237322fd434bb28842b5af0f7ec4063d92bc24cead6dd7ee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "53b083b2c17f6c0097d59332cc2be87c9a27df2a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/images/image_with_thumbnail.png",
+      "SPDXID": "SPDXRef-File--docs-images-image-with-thumbnail.png-6DD84D6A4B99F109691C448CC8CB8EFF41F4BB7D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81d44911efb525887f77efaae4040dc26e72cb964260e8ec997a3e2712d07655"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6dd84d6a4b99f109691c448cc8cb8eff41f4bb7d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/__future__/models.py",
+      "SPDXID": "SPDXRef-File--floppyforms---future---models.py-89DF9F394700CBDB3DB8DE55E4191F8DE299D145",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7346fa286ecee260af4000b188fbc3fd894fd95b840e3266f3a68b3f7064a3a8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "89df9f394700cbdb3db8de55e4191f8de299d145"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/color.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-color.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa46ae935b9fdfb58fa158d65b6d168599941e602d0732c0cec8875a5da4e555"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f648e71ae3fe0da70532cd39f64a7e35b36bb127"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/search.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-search.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa46ae935b9fdfb58fa158d65b6d168599941e602d0732c0cec8875a5da4e555"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f648e71ae3fe0da70532cd39f64a7e35b36bb127"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/datetime.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-datetime.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa46ae935b9fdfb58fa158d65b6d168599941e602d0732c0cec8875a5da4e555"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f648e71ae3fe0da70532cd39f64a7e35b36bb127"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/rows/default.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-rows-default.html-3285A7F84CE1DA74410092E1901532A8E5481903",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "352e28a0f73ddb13438b6307505a5c5526b905185d5308bfc049ab4511511e4f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3285a7f84ce1da74410092e1901532a8e5481903"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./floppyforms/templates/floppyforms/layouts/ul.html",
+      "SPDXID": "SPDXRef-File--floppyforms-templates-floppyforms-layouts-ul.html-67638F0304DC60DBCA9316FA5BB2F37B052DAE30",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e619e398584207ab3cc4d7a1f5fbe10948824be59cbb0d0189f3b9727673bcbf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "67638f0304dc60dbca9316fa5bb2f37b052dae30"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_rendering.py",
+      "SPDXID": "SPDXRef-File--tests-test-rendering.py-77BDC4A57BA551EB1FCFBAA7838D2E9C7CF771E1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dd46d0a18dedb15c3ae85331022078b1a86da91a9b86520d12d4b189c6552a80"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "77bdc4a57ba551eb1fcfbaa7838d2e9c7cf771e1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_modelforms.py",
+      "SPDXID": "SPDXRef-File--tests-test-modelforms.py-0AF580E711EF83796E149E53A2FC1BD4A9E4DF55",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c14590f635cbf1ce30b79b46e0b137d6b61054bba308e50749365ae13c5140f9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0af580e711ef83796e149e53a2fc1bd4a9e4df55"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/templates/simple_formfield_tag.html",
+      "SPDXID": "SPDXRef-File--tests-templates-simple-formfield-tag.html-AB52FA315A69B411786727AE623597FC0A25954A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b21c0573ddda231ff18874b9ebbe9e3de2ef84e33db4c098096d8c36bb7ac111"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ab52fa315a69b411786727ae623597fc0a25954a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/templates/extra_argument.html",
+      "SPDXID": "SPDXRef-File--tests-templates-extra-argument.html-D097FBC1983FE9C41E696571A1904FE2058A15E2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "92a9f5b9c406c290b05afee2d8a9062d0b953fc0ef30fd498c3eeb62519ca21b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d097fbc1983fe9c41e696571a1904fe2058a15e2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/layouts.rst",
+      "SPDXID": "SPDXRef-File--docs-layouts.rst-718D30AA49D7E14DE6AB1E452EB74A5DDF3D7657",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a923329525b3e38cfafe7989701ef8c71e4d403070e06866d253c5708c22c6a9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "718d30aa49d7e14de6ab1e452eb74a5ddf3d7657"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/bootstrap.rst",
+      "SPDXID": "SPDXRef-File--docs-bootstrap.rst-26C174E30621196A103B89EA5F1507E1D8078BE8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d50572f4c9289a5fbb6149fff6147487f247316039823f93081e28b3cc5656b4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "26c174e30621196a103b89ea5f1507e1d8078be8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/images/slider-chromium.png",
+      "SPDXID": "SPDXRef-File--docs-images-slider-chromium.png-52E9EEF9E8DE2DD6C6BB74F2AEB72074CF4F70FD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2c345196f610d8f37e1cf1a6a7aaf30f3c5fa214948a290ae2a3fa24f37457b1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "52e9eef9e8de2dd6c6bb74f2aeb72074cf4f70fd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "mccabe",
+      "SPDXID": "SPDXRef-Package-6ABBEE8EB23C0C04447026A0DA67162808FCA40BE5AE367A7929A882324A9926",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.7.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/mccabe@0.7.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Pillow",
+      "SPDXID": "SPDXRef-Package-5855B2D97427905963799DAA83EFD81E11B5DC556EF20AD287B64FB6C50A814A",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "10.2.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pillow@10.2.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "pyflakes",
+      "SPDXID": "SPDXRef-Package-E62B2B83F94E09D39E670BDC56C195792C65246194434E5C0C71C815A6FE49B2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.2.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pyflakes@3.2.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "pycodestyle",
+      "SPDXID": "SPDXRef-Package-5D4FD154DE77E32FC3E8DBBD8091FDBA7B5A601716440F16FF65108E3A262EEE",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.11.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pycodestyle@2.11.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "argparse",
+      "SPDXID": "SPDXRef-Package-306B1568864CF96262FD3FD3D2C4F58848D9739341390DF95828FF065CB19D7C",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Python-2.0.1",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.4.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/argparse@1.4.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "flake8",
+      "SPDXID": "SPDXRef-Package-2D1E63E8B8556C500F74FA2F8ED8D9A0AF20F75E07DBC38013BB7DD621802909",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "7.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/flake8@7.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "coverage",
+      "SPDXID": "SPDXRef-Package-C87F4BBF0E26CB8539E7D061137FC151BF61933725CA6A8B20B71B7D00A6B5BE",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "7.4.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/coverage@7.4.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "django-discover-runner",
+      "SPDXID": "SPDXRef-Package-3365ACCC9C6FF43475035F0890F5FEDF9CF2A651602DE29B0BE28353C2C094AF",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/django-discover-runner@1.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "django-floppyforms",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "753915a9211347b40b4e023c39a543d51e248359"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "django-floppyforms-15.4.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:swid/django-floppyforms/spdx.org/django-floppyforms@django-floppyforms-15.4.6?tag_id=5784a0bc-a074-47aa-9349-9c1ada297f6c"
+        }
+      ],
+      "supplier": "Organization: django-floppyforms",
+      "hasFiles": [
+        "SPDXRef-File--docs-images-geomcollection.png-3AD899D121189D23EF248C8B5E9E08A085A6CA04",
+        "SPDXRef-File--docs-index.rst-E37B8A6E813334E63DE887BF27D85598712C0430",
+        "SPDXRef-File--docs-customization.rst-66BADA1321700EBD1835649E148FC87814551461",
+        "SPDXRef-File--tests-templates-formconfig-inside-only.html-DABD1296908D9401B313EB5F78A16F8A68044AD2",
+        "SPDXRef-File--tests-demo-views.py-737904E0C0E1CC745A68E9B266523429FDF89E78",
+        "SPDXRef-File--tests---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--tests-tests.py-BC5EE51D57A71527FA4409E317EC221F89EF7F39",
+        "SPDXRef-File--floppyforms-templates-floppyforms-layouts-p.html-11AFB30A9B63EC583BE7FE37FECA8455ACB79724",
+        "SPDXRef-File--floppyforms-templates-floppyforms-rows-p.html-0D82A17D4AA172BF91A4D2F723161B51A7B244F6",
+        "SPDXRef-File--floppyforms-templates-floppyforms-ipaddress.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+        "SPDXRef-File--floppyforms-templates-floppyforms-file.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+        "SPDXRef-File--floppyforms-templates-floppyforms-number.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-add-point-off.png-619054B425CC09B106F5A54BA51AC807CAEB7640",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-overview-replacement.gif-7191FD2CB81A52F88030CAED0F43F55F1AA208D4",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-panning-hand-on.png-B210D7D20D3786119BC10426A45735A82730D47C",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-save-features-off.png-5E29327A104B47F716E6A281AAB9A1473F3201E0",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-pan-panel.png-546442B686590881171287F354FE14D0751AD3F7",
+        "SPDXRef-File--floppyforms-static-floppyforms-gis-img-move-vertex-off.png-B23C8DFFC96D2A3D0CE8E807B183714CB72862D2",
+        "SPDXRef-File--floppyforms---init--.py-6EC93D4596627CBF80EE86E0C4101B59AF0C5B13",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-347328E40DAF5C008AD61B2EA178514DEF2313E1",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--CODE-OF-CONDUCT.md-411EFAE378B83BECCECF7DC65A630C67829F504B",
+        "SPDXRef-File--CHANGES.rst-B2542D697BEBD19AC30BCACE77D5CF8DBF38176E",
+        "SPDXRef-File--docs-images-pointfield.png-27525C2E9F069780B65BC03E448D002CAEB72E6D",
+        "SPDXRef-File--docs-templatetags.rst-AFF9AF9853F8BBE01D9065219B7E0EEEA1393CB3",
+        "SPDXRef-File--docs-conf.py-2B79F785AA394994C35171B4A7626534AB8F5836",
+        "SPDXRef-File--tests-templates-simple-formrow-tag-with-config.html-04EA824BB17D44F46DA50C9AAB6068F04E759938",
+        "SPDXRef-File--tests-demo---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--tests-test-layouts.py-B2BFF45DF4F7AAA53B0AE4BF654CE67BBB2CAF57",
+        "SPDXRef-File--tests-test-widgets.py-8B110365AA6D2008711E2F472F29CA016CC9F171",
+        "SPDXRef-File--floppyforms-templates-floppyforms-gis-google.html-D940D55283D4D4861CDA7793D92C75B83939F445",
+        "SPDXRef-File--floppyforms-templates-floppyforms-email.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+        "SPDXRef-File--floppyforms-templates-floppyforms-hidden.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+        "SPDXRef-File--floppyforms-templates-floppyforms-url.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+        "SPDXRef-File--floppyforms-templates-floppyforms-checkbox.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-draw-line-on.png-D43B705B050CA579B9FC73B46D56770DAC76D405",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-view-next-on.png-ACD63411A72EE52538DEF521A53F2639A45B6E41",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-view-previous-on.png-67DFA697A59120820B6F7FB60F3CCD608B23065E",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-editing-tool-bar.png-58603C8CBC55A60800FBECBAD6BD9B8EA73B3B5D",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-ie6-style.css-2A2C5DCF93778567DD20E64C06F09B0458E3B4C9",
+        "SPDXRef-File--floppyforms-templatetags-floppyforms-internals.py-AA5FB85814456C0D6FED2D53EDE5698AEB9C0DE0",
+        "SPDXRef-File--floppyforms-compat.py-617FCBA7799833725B1DF7C8321CD975C1AE8988",
+        "SPDXRef-File--.git-objects-pack-pack-0991b316dfcb73f1e3d89c38e3e16c71efbf997f.pack-183F0C7536F0F62A070D2A6EA826078ACE173EF3",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-packed-refs-E05077AB071E8A40BF0774A883FEBC87512C5CFB",
+        "SPDXRef-File--CONTRIBUTING.md-D2B6F8A03447D3962D72E1D03353F064028B8B49",
+        "SPDXRef-File--pytest.ini-BFC33FC5BE2B1BCA99EDD6B4C9939137A42FA3F4",
+        "SPDXRef-File--docs-images-slider-chromium.png-52E9EEF9E8DE2DD6C6BB74F2AEB72074CF4F70FD",
+        "SPDXRef-File--docs-bootstrap.rst-26C174E30621196A103B89EA5F1507E1D8078BE8",
+        "SPDXRef-File--docs-layouts.rst-718D30AA49D7E14DE6AB1E452EB74A5DDF3D7657",
+        "SPDXRef-File--tests-templates-extra-argument.html-D097FBC1983FE9C41E696571A1904FE2058A15E2",
+        "SPDXRef-File--tests-templates-simple-formfield-tag.html-AB52FA315A69B411786727AE623597FC0A25954A",
+        "SPDXRef-File--tests-test-modelforms.py-0AF580E711EF83796E149E53A2FC1BD4A9E4DF55",
+        "SPDXRef-File--tests-test-rendering.py-77BDC4A57BA551EB1FCFBAA7838D2E9C7CF771E1",
+        "SPDXRef-File--floppyforms-templates-floppyforms-layouts-ul.html-67638F0304DC60DBCA9316FA5BB2F37B052DAE30",
+        "SPDXRef-File--floppyforms-templates-floppyforms-rows-default.html-3285A7F84CE1DA74410092E1901532A8E5481903",
+        "SPDXRef-File--floppyforms-templates-floppyforms-datetime.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+        "SPDXRef-File--floppyforms-templates-floppyforms-search.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+        "SPDXRef-File--floppyforms-templates-floppyforms-color.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+        "SPDXRef-File--floppyforms---future---models.py-89DF9F394700CBDB3DB8DE55E4191F8DE299D145",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-zoom-panel-NOALPHA.png-17FE004434D037E265643AAD32C0739F6FC4DC77",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-drag-rectangle-off.png-E5721026018618A7FA3C66B27B50E866794B59B3",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-move-feature-on.png-7621E3C335A1F300EDD78620EE9A7957AEB9442D",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-draw-point-off.png-E2FF88470DDBD5ACDC766780F9DA83EE18D2E0E8",
+        "SPDXRef-File--floppyforms-static-floppyforms-js-MapWidget.js-C58AF26303A0655502772637D64D30FD2EDEB02D",
+        "SPDXRef-File--floppyforms-gis-widgets.py-70654C0D80E981CC6D4B8EE2A620565504930CA9",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--setup.py-BDD8246B6F36A549E379FD4E7C459E955D113C14",
+        "SPDXRef-File--docs-images-datepicker-chromium.png-4D4AF7DD8E436C15EB5FA9993B9515CAAC9F3DEB",
+        "SPDXRef-File--docs-widgets-reference.rst-3C6F1F57D8538E3A578CFEEC90AA85F7E79EAED9",
+        "SPDXRef-File--docs-examples.rst-AB856DA386478D5180E142DF0BFA8D534FF5D19A",
+        "SPDXRef-File--tests-templates-media-widget.html-F443F663C6E8ED94EABE3326599F9120A98BFAF2",
+        "SPDXRef-File--tests-demo-templates-demo-index.html-5EC5E84BF3CC3B4391657E6F4AE99B8F926FFD61",
+        "SPDXRef-File--tests-test-templatetags.py-4B2D2B4341EB86752308B7A9A2A84D4282C98F5D",
+        "SPDXRef-File--tests-test-fields.py-DFA193F413627573E4D4D8BB0D026EAF1FB80768",
+        "SPDXRef-File--floppyforms-templates-floppyforms-layouts-default.html-76DEF8C721276EDFB79A3B52EB61D90628ED9BA4",
+        "SPDXRef-File--floppyforms-templates-floppyforms-rows-tr.html-87C43F0AB08945E9026A96047EB83B94651E7075",
+        "SPDXRef-File--floppyforms-templates-floppyforms-text.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+        "SPDXRef-File--floppyforms-templates-floppyforms-textarea.html-28F626034F35B9D14516AD0FC25E84A99914E06A",
+        "SPDXRef-File--floppyforms-templates-floppyforms-range.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-zoom-panel.png-2209FA9DDC8C1464B4EA50AE2ED7084F83C39DED",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-pan-panel-NOALPHA.png-5BC7D194A3F43EBCBEE8C7D064B469DDFD3B2149",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-remove-point-off.png-7641CB56FF0C25D7B3C2BC8DDB9795FC0330FE3E",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-view-next-off.png-B9035EA7B3C822F5C35540C9539DD7609ACB4F39",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-blank.gif-9D01CC5DC8E042C0D4AD6CFB8B3AC38E84A5EF9F",
+        "SPDXRef-File--floppyforms-static-floppyforms-gis-img-move-vertex-on.png-112055A85F15176F49FB0E357FBCF6BB58A7E49A",
+        "SPDXRef-File--floppyforms-fields.py-CFCAA618048ADAF082D0A88204A43760467A9EC5",
+        "SPDXRef-File--.git-logs-refs-heads-master-347328E40DAF5C008AD61B2EA178514DEF2313E1",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--benchmark.py-4BC536279B01E3BFE5812A84BD09BF35613DF9B2",
+        "SPDXRef-File--LICENSE-BEA2366695E017FDF80D91F714D01B0BED1F23B0",
+        "SPDXRef-File--docs-images-datepicker-jquery-ui.png-2781C9AB5456C6506129F87A554304165F2A924E",
+        "SPDXRef-File--docs-images-slider-jquery-ui.png-29B19FAF771426CF22F94ED0EFE5E2FBA645A4A6",
+        "SPDXRef-File--docs-geodjango.rst-6D679A58420AC091822D5BABB3BB2B3027C3C939",
+        "SPDXRef-File--.github-workflows-release.yml-BB0D54361B55015A9337FC7ABB9B91B007985033",
+        "SPDXRef-File--tests-templates-custom.html-02CC77D989CE50AA6BFA71223D566BB57627F5B3",
+        "SPDXRef-File--tests-demo-forms.py-E6BFFCE3433949C848DA654EFD94743470F46974",
+        "SPDXRef-File--tests-test-gis.py-A7AE73400F26EA334A622751135A13267AECD0F1",
+        "SPDXRef-File--tests-base.py-819BB18ED88894DFFCA4D6F008E118C9C017635B",
+        "SPDXRef-File--floppyforms-templates-floppyforms-rows-li.html-3C95A0502E7B9BF6E2697F15AA58572F96F5CF08",
+        "SPDXRef-File--floppyforms-templates-floppyforms-time.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+        "SPDXRef-File--floppyforms-templates-floppyforms--render-as.html-3D02CFAFBC29C2CA5B2A1A6659C7D0DD94EFA4DF",
+        "SPDXRef-File--floppyforms-templates-floppyforms-slug.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+        "SPDXRef-File--floppyforms---future-----init--.py-D7658DB13F968CF9FD01309B86392CAB72A49D73",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-draw-polygon-off.png-E9DF960D7CE29FFFC145FB4859805A2A9CD758DE",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-remove-point-on.png-B54A3A18B1F684F5D433701EFC6D1718A3D947AC",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-navigation-history.png-46BE1E5958AB1901EFD9401F3528942E32FC0190",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-ruler.png-2711B71805E51EB7CBE4E137398F75E643C3B77B",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-OpenLayers.js-3AFA58A477F7E5B51516885D1A3F6AE547CA8303",
+        "SPDXRef-File--floppyforms-gis---init--.py-D903E7E1BA74319E89FBA7FB37564606CC8CFC33",
+        "SPDXRef-File--.git-refs-heads-master-F81BD9CDA478F5523295ABE6A1E3CE1016C5B5AB",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--.travis.yml-ADE0CC4B2FC330194E8C2B175EF2A10A7067C670",
+        "SPDXRef-File--docs-images-image-with-thumbnail.png-6DD84D6A4B99F109691C448CC8CB8EFF41F4BB7D",
+        "SPDXRef-File--docs-differences.rst-53B083B2C17F6C0097D59332CC2BE87C9A27DF2A",
+        "SPDXRef-File--docs-widgets.rst-667875340EC5DA34D3F0CCFA49002DF195DF7AE9",
+        "SPDXRef-File--tests-templates-extra-argument-with-config.html-1CC1234CFF1371F4496931D5443F9ACEB528C71B",
+        "SPDXRef-File--tests-demo-manage.py-88303CE3FA0D80D5C7C45D5F4DBB2F7E97B38557",
+        "SPDXRef-File--tests-test-forms.py-FD8A4635FD9C4D7677EB317BF3EA32D324154E8D",
+        "SPDXRef-File--tests-compat.py-AE39375EE71EDF6857B61E15861E32D01F084821",
+        "SPDXRef-File--floppyforms-templates-floppyforms-layouts-table.html-919B9F5C858925245CF2F322AA8BEAE0A5F06560",
+        "SPDXRef-File--floppyforms-templates-floppyforms-dummy.html-403E0C7EBAD618756BFB441D0CCD018D2F6AA0FC",
+        "SPDXRef-File--floppyforms-templates-floppyforms-radio.html-6BA26A224EE6F58F4C014623E8B8C369525FE202",
+        "SPDXRef-File--floppyforms-templates-floppyforms-errors.html-3D6CBF00DA72F6A097D3D3B832EE782A2A272CFB",
+        "SPDXRef-File--floppyforms-templates-floppyforms-select.html-B039B0372B478591EBB73FA97828223229D21556",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-draw-point-on.png-4FDE22D395A31A6B537E9E9E47D8FF69338B2653",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-pan-off.png-41EE45F0C9BE87468928D302AA3CA1180E3538D1",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-save-features-on.png-C8D14A9516EBF6D6931E873B05DA6A59B3683AE5",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-close.gif-C4EA801F6F43D6FA6E89B388AFD4DF89A0E713DD",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-style.css-476D3BAEC2052D6FCB09C3AD8F5ABF3FFBD769B4",
+        "SPDXRef-File--floppyforms-templatetags---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--floppyforms-widgets.py-1446DB3AA4BA335F154C48366C6CAD34FC7C96CC",
+        "SPDXRef-File--.git-logs-HEAD-347328E40DAF5C008AD61B2EA178514DEF2313E1",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--setup.cfg-495ADFDFD5F842A3D0954AF11095E1D0207C3A1A",
+        "SPDXRef-File--tox.ini-D14A61B6937A4A3A3C513B4CDA121AB78A049BAD",
+        "SPDXRef-File--docs-images-gmappoly.png-CB209252E2D148F9CF858FC633B85C3F04D72BB4",
+        "SPDXRef-File--docs-changelog.rst-AFDA90E84C48D8613E6FFD5605B629F612A84355",
+        "SPDXRef-File--docs-Makefile-8EDC5AC4E615AD6885359BB191AA879463CA18F0",
+        "SPDXRef-File--tests-templates-simple-formrow-tag.html-885D6A8F25B59182D97118DCE303FE64672C9951",
+        "SPDXRef-File--tests-demo-settings.py-BA1BCD5FFA8A9B6AFB06ABE5E742849DA2AA3A58",
+        "SPDXRef-File--tests-requirements.txt-688C060A4F4D54CE07484890626DAF9E925F5F57",
+        "SPDXRef-File--tests-models.py-3FDDEE1AC4E4D9BF2652AA055DC4CE034F62DD50",
+        "SPDXRef-File--floppyforms-templates-floppyforms-gis-osm.html-8BF732D750E7C07A1E7BE820BCD5279DAA5483A4",
+        "SPDXRef-File--floppyforms-templates-floppyforms-select-date.html-C6AF4261BAF20F27E425B6C511D47E3B7953580F",
+        "SPDXRef-File--floppyforms-templates-floppyforms-password.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+        "SPDXRef-File--floppyforms-templates-floppyforms-attrs.html-53F3BF6110A967F9073572B5B54781380AD2EBFB",
+        "SPDXRef-File--floppyforms-templates-floppyforms-clearable-input.html-2C1C4FBF3716E2948FBF7B43CCC97CAAE124A467",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-draw-line-off.png-AB83B59394BF77B35CBD2BC8CA720842F47F663D",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-drag-rectangle-on.png-7DB140DB94F9BB046BCD6A0C8B6AA03BD78190AF",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-add-point-on.png-295AAEBDA3569B5653E2927886C4B694B7B33734",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-draw-polygon-on.png-7564DE8E5C13A6A291583D3CD5BEFFB867A1D5EC",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-style.mobile.css-2DB1F2284F0DFA881B4361ADA16B5C5409D0460B",
+        "SPDXRef-File--floppyforms-templatetags-floppyforms.py-C20DB047ACC26E3C0E3F7A2933DD3D816485ED42",
+        "SPDXRef-File--floppyforms-models.py-56B059239CF4F49D34FBC810F9B91DDA9F1975F1",
+        "SPDXRef-File--.git-objects-pack-pack-0991b316dfcb73f1e3d89c38e3e16c71efbf997f.idx-FC836CB0C6A319D73DCEE66A658392BDC7537468",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--.git-index-550017C88B0546BFDC4C191D56EBE99D21713E39",
+        "SPDXRef-File--README.rst-5F5ED27437EF6B13B6ED5D7173CDE041CB71C160",
+        "SPDXRef-File--.gitignore-46F0A4F30979A6301B496B231E7B7F451C5CBF95",
+        "SPDXRef-File--docs-images-osmlinestring.png-C00212A674DB5823738C442A836E2BDAFCC0F492",
+        "SPDXRef-File--docs-usage.rst-C8EAF2E08CDB8EA9C64C32D28088BA8329EF24C4",
+        "SPDXRef-File--.github-workflows-test.yml-39A7174E9C50597145324764FF96D5AEC972D8C7",
+        "SPDXRef-File--tests-templates-simple-form-tag.html-A61ACC5F4611A587CE5CED61F0B7F324E16B2D7C",
+        "SPDXRef-File--tests-demo-urls.py-245CDB2832CCFF1564CA2DF89077EEEE778CE65C",
+        "SPDXRef-File--tests-settings.py-4CEEA99D9E6670484765B7A8886711E84AA5DBD7",
+        "SPDXRef-File--tests-test-deprecations.py-F6C454C484E041989B61753983ED2778DFC7D27F",
+        "SPDXRef-File--floppyforms-templates-floppyforms-gis-openlayers.html-535CEB4EB442604B2D0D3B2037182B18F89D3ABD",
+        "SPDXRef-File--floppyforms-templates-floppyforms-input.html-31A148A395C2330AA275FAE89AF93D7E54360307",
+        "SPDXRef-File--floppyforms-templates-floppyforms-phonenumber.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+        "SPDXRef-File--floppyforms-templates-floppyforms-date.html-F648E71AE3FE0DA70532CD39F64A7E35B36BB127",
+        "SPDXRef-File--floppyforms-templates-floppyforms-checkbox-select.html-680313223ECC365306D7CCB20BF338F761BFC43E",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-pan-on.png-36B6E7C6ABF93FB1C6EA36FCCE95A415A389B2D5",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-panning-hand-off.png-1A1563DAFA64CF5D6DB93B9970DE2961FACABE65",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-view-previous-off.png-8581A73EE4BA21A68D0F55C679253ABDE1658056",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-img-move-feature-off.png-DB3823427A91E74B5B0FB127105F7776B2EB152F",
+        "SPDXRef-File--floppyforms-static-floppyforms-openlayers-theme-default-google.css-BD52DFAA5CF18C542B7ABD4259D599A309B0A60C",
+        "SPDXRef-File--floppyforms-gis-fields.py-F4928DD30A6E37D3890230D8B6D104521D53348C",
+        "SPDXRef-File--floppyforms-forms.py-B829AD3A6A7CA77F5609E5DA0A77EAC3CE4D5A62",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-config-2AD8079B44A22F7A3C5C701CD19AC7EBB832BB99",
+        "SPDXRef-File--MANIFEST.in-887243AC3A3602DC2B3E857DDE9A64A07C399645"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3365ACCC9C6FF43475035F0890F5FEDF9CF2A651602DE29B0BE28353C2C094AF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-306B1568864CF96262FD3FD3D2C4F58848D9739341390DF95828FF065CB19D7C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2D1E63E8B8556C500F74FA2F8ED8D9A0AF20F75E07DBC38013BB7DD621802909",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C87F4BBF0E26CB8539E7D061137FC151BF61933725CA6A8B20B71B7D00A6B5BE",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5855B2D97427905963799DAA83EFD81E11B5DC556EF20AD287B64FB6C50A814A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E62B2B83F94E09D39E670BDC56C195792C65246194434E5C0C71C815A6FE49B2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5D4FD154DE77E32FC3E8DBBD8091FDBA7B5A601716440F16FF65108E3A262EEE",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6ABBEE8EB23C0C04447026A0DA67162808FCA40BE5AE367A7929A882324A9926",
+      "spdxElementId": "SPDXRef-RootPackage"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "django-floppyforms django-floppyforms-15.4.6",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-2.2.1-6fb3cb20-07be-4978-80fa-93e4d8b0e5cd/django-floppyforms/django-floppyforms-15.4.6/cdyN6uT9NEq5aj9OIvrVbg",
+  "creationInfo": {
+    "created": "2024-01-07T00:01:13Z",
+    "creators": [
+      "Organization: django-floppyforms",
+      "Tool: Microsoft.SBOMTool-2.2.1"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "zzzzz",
+    "home_page": "https://github.com/defaultnamehere/zzzzz",
+    "author": "Person:",
+    "version": "",
+    "license": "MIT",
+    "copyright": "",
+    "packages": [
+        {
+            "name": "Flask",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/pallets/flask",
+            "author": "",
+            "version": "0.10.1"
+        },
+        {
+            "name": "Jinja2",
+            "license": "BSD-3-Clause",
+            "home_page": "https://palletsprojects.com/p/jinja/",
+            "author": "",
+            "version": "2.8"
+        },
+        {
+            "name": "MarkupSafe",
+            "license": "BSD-3-Clause",
+            "home_page": "https://palletsprojects.com/p/markupsafe/",
+            "author": "",
+            "version": "0.23"
+        },
+        {
+            "name": "Werkzeug",
+            "license": "BSD-3-Clause",
+            "home_page": "https://github.com/pallets/werkzeug",
+            "author": "",
+            "version": "0.11.4"
+        },
+        {
+            "name": "itsdangerous",
+            "license": "BSD-3-Clause",
+            "home_page": "https://palletsprojects.com/p/itsdangerous/",
+            "author": "Armin Ronacher",
+            "version": "0.24"
+        },
+        {
+            "name": "requests",
+            "license": "Apache-2.0",
+            "home_page": "https://requests.readthedocs.io",
+            "author": "Kenneth Reitz",
+            "version": "2.91"
+        },
+        {
+            "name": "wsgiref",
+            "license": [
+                "PSF-2.0",
+                "ZPL-1.1"
+            ],
+            "home_page": "http://cheeseshop.python.org/pypi/wsgiref",
+            "author": "Phillip J. Eby",
+            "version": "0.1.2"
+        }
+    ]
+}

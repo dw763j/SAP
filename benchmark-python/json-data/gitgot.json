@@ -1,0 +1,45 @@
+{
+    "name": "GitGot",
+    "home_page": "https://github.com/BishopFox/GitGot",
+    "author": "Organization:Free Software Foundation, Inc. <http://fsf.org/>",
+    "version": "",
+    "license": "LGPL-3.0-only",
+    "copyright": "Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>",
+    "packages": [
+        {
+            "name": "github",
+            "license": "MIT",
+            "home_page": "https://github.com/VarMonke/Github-Api-Wrapper",
+            "author": "VarMonke & sudosnok",
+            "version": ""
+        },
+        {
+            "name": "requests",
+            "license": "Apache-2.0",
+            "home_page": "https://requests.readthedocs.io",
+            "author": "Kenneth Reitz",
+            "version": ""
+        },
+        {
+            "name": "beautifulsoup4",
+            "license": "MIT",
+            "home_page": "https://github.com/collegue1337/BeautifulSoup4",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "PyGithub",
+            "license": "LGPL-3.0-only",
+            "home_page": "https://github.com/PyGithub/PyGithub",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "ssdeep",
+            "license": "LGPL-3.0-or-later",
+            "home_page": "http://github.com/DinoTools/python-ssdeep",
+            "author": "PhiBo (DinoTools)",
+            "version": ""
+        }
+    ]
+}

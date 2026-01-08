@@ -1,0 +1,3035 @@
+{
+  "files": [
+    {
+      "fileName": "./tox.ini",
+      "SPDXID": "SPDXRef-File--tox.ini-F5B1A8E3A915116AFC8658C4C900DF060591F702",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b00aaad79e9e9586ddd7d4be7125957ca7d74a289be6f46a6fdd5ddfe2b80ad5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f5b1a8e3a915116afc8658c4c900df060591f702"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./MANIFEST.in",
+      "SPDXID": "SPDXRef-File--MANIFEST.in-D4601CB422D14F1CC387DD5DEC6302C8F8F83D15",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e90b6edf61303e56921ae99c6abf5b18a45223181cc94c6f60bfd7ac755d651c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d4601cb422d14f1cc387dd5dec6302c8f8f83d15"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-088B1263BDB67334571037035A2C69E146A4DBCE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa8eb685174b3bcd5e4bf05199912321c7915e1a019e590e3e0555e81b4d68b1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "088b1263bdb67334571037035a2c69e146a4dbce"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-B260D6830A7111EF7ECD55AE986EF6413DBED150",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f0a2e6e32f791c902da6f9117eb34845c100cebb42bfbae2a52faa605bd711a5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b260d6830a7111ef7ecd55ae986ef6413dbed150"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-0b7e00774736ec41837641a6f2ab3bc3c481a9ca.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-0b7e00774736ec41837641a6f2ab3bc3c481a9ca.idx-75F8CD78B097ECC50046D9E349DCC50857BDD10A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "47cfa5459f85c162b3c520df108a9e8ac7e55c6496b05213dc600ee4068f522e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "75f8cd78b097ecc50046d9e349dcc50857bdd10a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_recurrent_event.py",
+      "SPDXID": "SPDXRef-File--tests-test-recurrent-event.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_templatetags.py",
+      "SPDXID": "SPDXRef-File--tests-test-templatetags.py-75E393EB608E2FFFAAADD25CFADC6CB515EC1CA0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bf3e62ee69ba86d766acdbbf2f5904d57ea2a0c60006539e09af5463ee84b392"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "75e393eb608e2fffaaadd25cfadc6cb515ec1ca0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/forms.py",
+      "SPDXID": "SPDXRef-File--schedule-forms.py-AFDC2EEB92C16988BD716C5E73E05F32C48386E8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c8104570891b72ef1dd499dde2377d4f10cec684f6494a02eba8ccbe6be6e896"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "afdc2eeb92c16988bd716c5e73e05f32c48386e8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AUTHORS",
+      "SPDXID": "SPDXRef-File--AUTHORS-FAFF892C66A8A064AB6E12E0EC626F4E787F5B4B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "98e08eba7f24aa26924459a8c1db60af0a65cb33e36c400ef9c72e95c699e8a0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "faff892c66a8a064ab6e12e0ec626f4e787f5b4b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/models/calendars.py",
+      "SPDXID": "SPDXRef-File--schedule-models-calendars.py-E1D37F5B0D4666654E3EBE3982211C5C5856EB77",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7e2a265b474287147ac0c83d03e81738dc4dbcbfa67eb0425c11e720f1df42a5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e1d37f5b0d4666654e3ebe3982211c5c5856eb77"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/es/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--schedule-locale-es-LC-MESSAGES-django.po-8F67EFFAA869B17A5E17ADE1F797D945FE5E0152",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3804924347f39c05de1b9889dd3dd19ab3966d6a7cc622e6e75e7a040e358072"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8f67effaa869b17a5e17ade1f797d945fe5e0152"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/it/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--schedule-locale-it-LC-MESSAGES-django.po-4A1C36B896B331C7BECA0A80C1B95FD4C153B9F0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6fab5f63d84a2979637632c7afa56aa60ad54d6753905d34d3264515ad7fe410"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4a1c36b896b331c7beca0a80c1b95fd4c153b9f0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/static/schedule.css",
+      "SPDXID": "SPDXRef-File--schedule-static-schedule.css-95F409CE09FC5220C935412BADB6E23DF20368B7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7d71c1382cae224d8bfb298707df05989928fa260fc60c269ad53fe7cbd22031"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "95f409ce09fc5220c935412badb6e23df20368b7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-816F4F773296DB50D63BCE9964177BA9E39F7055",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "12c1245254ab3f6d9cdc8bdd086373c79b1fe685b028a76cf1c2a826f02039d4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "816f4f773296db50d63bce9964177ba9e39f7055"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/migrations/0005_verbose_name_plural_for_calendar.py",
+      "SPDXID": "SPDXRef-File--schedule-migrations-0005-verbose-name-plural-for-calendar.py-93E899A63784668279CB8E0FD6EA7209E50392B6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3fdccc7cffee7ebfffa6098dcdf628d2736703c7d1e22b0ac93baf10160bcc46"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "93e899a63784668279cb8e0fd6ea7209e50392b6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_perms.py",
+      "SPDXID": "SPDXRef-File--tests-test-perms.py-ADB7E4FA09CE7A542B7165D79CCA830513B71468",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "05fd3c9cee07213fc3829d0f8539ac7018a3d05289803fc998adabd4a40e66fa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "adb7e4fa09ce7a542b7165d79cca830513b71468"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_periods.py",
+      "SPDXID": "SPDXRef-File--tests-test-periods.py-187CBCE550A7CFDEA40A494C99A6803C74A53704",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "54a9371fb2457aa4d5a21734c5a4b84f5ff8e5ebf1135fb883a3153389d21c75"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "187cbce550a7cfdea40a494c99a6803c74a53704"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/periods.py",
+      "SPDXID": "SPDXRef-File--schedule-periods.py-39D187DA57B3505A52498B702FA425BE14EFF57B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cca264c4e8aa2de8fbebad1e9368c2e88ae43eb74a28444a79ca6ec4a77d1ac9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "39d187da57b3505a52498b702fa425be14eff57b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/models/__init__.py",
+      "SPDXID": "SPDXRef-File--schedule-models---init--.py-BA7ADE283EF65317005EE021039DA438B839FA1B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3254f9ddce87ca3d80ade9c186f78e076b5766fb02aaf803501d33f154a77672"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ba7ade283ef65317005ee021039da438b839fa1b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/ru/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--schedule-locale-ru-LC-MESSAGES-django.po-520090273E00B78E20101BF0ACD392C70962390C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "144b316e533aa9428516bae10e77f6fdb86ef5305f1a563d1a303bdcc5dca6eb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "520090273e00b78e20101bf0acd392c70962390c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/de/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--schedule-locale-de-LC-MESSAGES-django.po-8CDCEFDA43BA58D673A1E6CB8F3AE1C539924A81",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "86381fa39077ed8f49e5e9c9a0e1e06af591eac6c4e5a2c8fa914bf91af6e8a3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8cdcefda43ba58d673a1e6cb8f3ae1c539924a81"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/migrations/0014_use_autofields_for_pk.py",
+      "SPDXID": "SPDXRef-File--schedule-migrations-0014-use-autofields-for-pk.py-69763428A20F5734B8783FACCAA7B11024D5E91A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "daaaa2d9ae4614d3771ba9ef5cb82211b92e7654b10197faa9910475f2fe2ae7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "69763428a20f5734b8783faccaa7b11024d5e91a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/migrations/0009_merge_20180108_2303.py",
+      "SPDXID": "SPDXRef-File--schedule-migrations-0009-merge-20180108-2303.py-4AC731258A0C99AE798D25BCC51368B4E13168A7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2ec5b4b079a191085e989b29bece56f9744fd609c2020b3c8a5594a52d341e6b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4ac731258a0c99ae798d25bcc51368b4e13168a7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/fullcalendar_script.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-fullcalendar-script.html-66C8893EC4168CE88F2080EC25FC4E45E4598EBE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d8b768860570324f24a210d2c8a96f230b3e1a05dec8b1e67bc5483dc2d6b8e0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "66c8893ec4168ce88f2080ec25fc4e45e4598ebe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-CB587AC979C5A12EA2FAD8CA5AF781961C1B0668",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bda5cfbd39e60865d1109488bdc0ef20a99b0a24a91e9a932948d1bd5f9f2e41"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cb587ac979c5a12ea2fad8ca5af781961c1b0668"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/settings.py",
+      "SPDXID": "SPDXRef-File--tests-settings.py-597566353037089114DBA9BFD4AA4EA57CE401EA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6c93baf8fbcca75e469ad177e1cb8e8f0bc62d62c6c017e8ecaf331330acf29"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "597566353037089114dba9bfd4aa4ea57ce401ea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/test.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-test.yml-E1DF6762AB7D6E5499F6ED361BA0B271C53FE6BF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4c9e57aae277f5f4944ae8bbf1706bf7d5f84ee0aac2a75f813b36c31f675ff8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e1df6762ab7d6e5499f6ed361ba0b271c53fe6bf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/settings.py",
+      "SPDXID": "SPDXRef-File--schedule-settings.py-556C5D044B14A6F1000C7E9ED7405D92AA07E239",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1c449f6f9a230d602a54a9a0e6cef48158d1f9f5abcf25c0ddfdbcf111417042"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "556c5d044b14a6f1000c7e9ed7405d92aa07e239"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templatetags/__init__.py",
+      "SPDXID": "SPDXRef-File--schedule-templatetags---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/pt_BR/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--schedule-locale-pt-BR-LC-MESSAGES-django.po-076D5086DAB8D0E7AD93E6FA2BF9A889BF8F133E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7eaa9dfe8edb808a61d524c2e9cadafc365354526f4caac3838bea196890035a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "076d5086dab8d0e7ad93e6fa2bf9a889bf8f133e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/en/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--schedule-locale-en-LC-MESSAGES-django.po-9CFCE446A3DBA76054A0165BE8F3430B04C7D851",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f57ae0ce72daca916ff260d53989c5e74241da22fa6d48fc67fb6d2b39240cab"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9cfce446a3dba76054a0165be8f3430b04c7d851"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/migrations/0001_initial.py",
+      "SPDXID": "SPDXRef-File--schedule-migrations-0001-initial.py-37B9E796DC56DBE96E975E896CFAC79FC231E17D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "698f1d6344d0a46cbe1d12c0c18903955a043dcb0bfe80c98ec10fbb161397ce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "37b9e796dc56dbe96e975e896cfac79fc231e17d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/migrations/0006_update_text_fields_empty_string.py",
+      "SPDXID": "SPDXRef-File--schedule-migrations-0006-update-text-fields-empty-string.py-7BC7FB9D54ABD41A3C9C0B4C68ACEF4F211058A1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "64dd338b108d6b49899641297c49f686b954b47e62da99b317ab5053e97b39c0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7bc7fb9d54abd41a3c9c0b4c68acef4f211058a1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/fullcalendar.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-fullcalendar.html-D0B9C34537BBA374D64F46A478428FBAF507F019",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1bfe1700971d037c4b904e61e3a736fba3bf6dd04ba218f82cfb6db6adae2dd8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d0b9c34537bba374d64f46a478428fbaf507f019"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_month_table.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--month-table.html-5CEDB20F864FFB9882595DFC2FB3FDB8973C73C5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "183d2dc53a3d4844c063a4dba893e8a6bf8dea262957c2ddaaa0054559130787"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5cedb20f864ffb9882595dfc2fb3fdb8973c73c5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_prev.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--prev.html-28F7B0B762862A23ACBABD623CF865BFD4CEA18D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "548cef50b0309bb3512291884a9e1614a131c2662aeca13c9a9629895f1147de"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "28f7b0b762862a23acbabd623cf865bfd4cea18d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_day_cell.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--day-cell.html-C2AD3919B46198091E39AEB030887786A9982E0A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "23890d8596ac1b7243f9943e0a0a1250b3013c8665ea3df62a3825fd82b219ef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c2ad3919b46198091e39aeb030887786a9982e0a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/changelog.txt",
+      "SPDXID": "SPDXRef-File--docs-changelog.txt-D2ADECE05182CCB3CF746427799242105F717EF3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bf3f6f944a0ac1dd79ce18802ffce81e8d7f7e8dbbd839a15b6de988eafb1e57"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d2adece05182ccb3cf746427799242105f717ef3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/views.txt",
+      "SPDXID": "SPDXRef-File--docs-views.txt-E45C56528D8130868A1D49EFB944D5EF85040990",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d1bbee5de2a37ca51dbf14ca895ee5e9ef390dd521b902f8327adacc0561c716"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e45c56528d8130868a1d49efb944d5ef85040990"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CHANGELOG",
+      "SPDXID": "SPDXRef-File--CHANGELOG-BD7DCCF838EB5D194809079CA3CCD3B09C560925",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a8ab220b4c0b730a8d3f57364009b9b6f0b42ed15b93db5fc2c28d77cf1a53bc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bd7dccf838eb5d194809079ca3ccd3b09c560925"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.pre-commit-config.yaml",
+      "SPDXID": "SPDXRef-File--.pre-commit-config.yaml-1724815D1A2106A4E3599BA89C73C90E291A9A45",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dafd32148e510ff0333668f642aee37471f60237e462b093116aa1b6c539c669"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1724815d1a2106a4e3599ba89c73c90e291a9a45"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-816F4F773296DB50D63BCE9964177BA9E39F7055",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "12c1245254ab3f6d9cdc8bdd086373c79b1fe685b028a76cf1c2a826f02039d4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "816f4f773296db50d63bce9964177ba9e39f7055"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_event.py",
+      "SPDXID": "SPDXRef-File--tests-test-event.py-2B80EB5A366EFF133B4BC62AA86D27562A3607BF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9299eefb31ba44dae4b5adbb40231b603ffaa3d9f4e469975c462419d380043b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2b80eb5a366eff133b4bc62aa86d27562a3607bf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_occurrence.py",
+      "SPDXID": "SPDXRef-File--tests-test-occurrence.py-426FCE196CCA29FD703D1A068B365F481D056118",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c414e0e15bf07bdb0b10dd83b364b88203682406ab5e0ededb32d9be9a73e7e0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "426fce196cca29fd703d1a068b365f481d056118"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/urls.py",
+      "SPDXID": "SPDXRef-File--schedule-urls.py-936681A4AB4B9F261AB1F86C34E8BA318502DC8D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9e92aabf8f0e155352e05228edd325a4b66ad2abff3c4bb812e0970d1b05aae5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "936681a4ab4b9f261ab1f86c34e8ba318502dc8d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/models/rules.py",
+      "SPDXID": "SPDXRef-File--schedule-models-rules.py-97DBAD35C76BDCC191F7D84B80234498A44E32D2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "178fcc04c98834dbad3a904b2f09e86d4b22fc39a6465ac44a68d8548f3589a3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "97dbad35c76bdcc191f7d84b80234498a44e32d2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/es/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--schedule-locale-es-LC-MESSAGES-django.mo-7FEA2F6551741FE4292AB2A127CE0E8444D9AAB0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6d092f73e4a3e41d918ead629934165899781ae8ffa81e0eab95f95631d080d1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7fea2f6551741fe4292ab2a127ce0e8444d9aab0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/it/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--schedule-locale-it-LC-MESSAGES-django.mo-2ABBDF125ECAB12B5F01D43731E4F239B8AA9C4F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c870d9f81921e3de42887e91f8a9e16dfe4ccc677ed2c8d09f06f052e3397808"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2abbdf125ecab12b5f01d43731e4f239b8aa9c4f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/static/schedule.js",
+      "SPDXID": "SPDXRef-File--schedule-static-schedule.js-4F39864A59E3D2A8FA36FC2A8E22883D6977893A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3fcb4848571f606ed1e6b45340982104257dab410dd6e7b1299f48b078cc55dc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4f39864a59e3d2a8fa36fc2a8e22883d6977893a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/migrations/0003_auto_20160715_0028.py",
+      "SPDXID": "SPDXRef-File--schedule-migrations-0003-auto-20160715-0028.py-30520468797489F669D3A737FDD953320D493318",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e5fd2f7d3393e8d31415344b0ec2b7d8d8a2fec3a43c6992c201689fd02b2cac"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "30520468797489f669d3a737fdd953320d493318"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/base.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-base.html-F6F29CDB92D60819FDD42B3215EF8E5735A9A8BC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "999c96040e8b84e510a4080c3f8888bc2f86e871a1e599cbeb340dfd951c5754"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f6f29cdb92d60819fdd42b3215ef8e5735a9a8bc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/occurrence.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-occurrence.html-47D2B5697DB5AEE31AF10D9CA1736EAB873268B3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "26b9833afb9e63c07c5264ba0d13353d57e30ad0ee067c1149b83710ae8b30e7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "47d2b5697db5aee31af10d9ca1736eab873268b3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/calendar_compact_month.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-calendar-compact-month.html-80E09022337721D175292A3246E8AD08BB0E2C17",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "86eb8da0d6b85580645a09f34380a179c17fc0371e58044b75336f7a7b090dd7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "80e09022337721d175292a3246e8ad08bb0e2c17"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/calendar_week.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-calendar-week.html-2896D0D1F799761454670B09FED6FE57FA584CAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c98d4c5f3e5e2bf48d1821400e6a6e963cdf7780d38bda1786196c4910541844"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2896d0d1f799761454670b09fed6fe57fa584cac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/feeds/ical.py",
+      "SPDXID": "SPDXRef-File--schedule-feeds-ical.py-36385750608EF08BBD4C7CCE5E327451E5CEAD24",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7d81791294243218d27b18abed4e6b9e50f14b52fda743c43d637d99f2647af2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "36385750608ef08bbd4c7cce5e327451e5cead24"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/install.txt",
+      "SPDXID": "SPDXRef-File--docs-install.txt-CFA6C8FD87491B03A4745FB5BAA6C1A0927EC699",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "74fcc8e79615c60b7029e4ada619989fa249f6457f1afb90fbc770dce1a411b7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cfa6c8fd87491b03a4745fb5baa6c1a0927ec699"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./setup.py",
+      "SPDXID": "SPDXRef-File--setup.py-9E0C6B126DEDF9D40CB1738FC50FF0BC634CA2B8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "843ac26c38a41abae578250bc0f9419194b320a0f67327d941037a4268f6cfe7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9e0c6b126dedf9d40cb1738fc50ff0bc634ca2b8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-9713E2B7E01E37ADC5DC8378F575CA19824950C4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f1a5b740033fdd8cf8db67ebb369a6999176c4c152ed248053a52da29d6cb107"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9713e2b7e01e37adc5dc8378f575ca19824950c4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_views.py",
+      "SPDXID": "SPDXRef-File--tests-test-views.py-2E7317E7789F591870906DFB7A4741577E3A9273",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2b4b790e7fcaeda1209bcb857d725c4cf0b2571563597d3c69b4f3fe4274df9f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2e7317e7789f591870906dfb7a4741577e3a9273"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_calendar.py",
+      "SPDXID": "SPDXRef-File--tests-test-calendar.py-A5458C8A7964C12F5FA37A207CB9101D5F3627C5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c33d5991e9327e8958cf944f4fdbd225af54b86ad9b5a20328f1cf9b304fa4c6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a5458c8a7964c12f5fa37a207cb9101d5f3627c5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/apps.py",
+      "SPDXID": "SPDXRef-File--schedule-apps.py-EACF54EDA508CBD5335D92B1514B96D80F75368F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d215efc95c92e6a1e9819af747a4019566559308300c343d8a3fe53d15eb2d81"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eacf54eda508cbd5335d92b1514b96d80f75368f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/__init__.py",
+      "SPDXID": "SPDXRef-File--schedule---init--.py-1D449E67DDBEC3B57ACA14751B89C9FF1281ECDB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cc0970e26cfc4e9583d95a4af1875fb02cbc3b2aa96497d129261e50d522825e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1d449e67ddbec3b57aca14751b89c9ff1281ecdb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/fr/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--schedule-locale-fr-LC-MESSAGES-django.po-CE03B7D8E5D8E45C900BD73F5B62178D2F81DDB6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0a0810c21e7b49ab6568b890bbf2fed9b512703dc7dc0aea91aafc2211b67a94"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ce03b7d8e5d8e45c900bd73f5b62178d2f81ddb6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/fi/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--schedule-locale-fi-LC-MESSAGES-django.po-8C32B485237DFA76593E314364DCF9AF9414AB7A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c2c95fa60499dd40baa06648538cb7344e79ba2cd2b36482a17d2e9d3869ae55"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8c32b485237dfa76593e314364dcf9af9414ab7a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/zh/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--schedule-locale-zh-LC-MESSAGES-django.po-546AA08F7098299EB4FEAB7AE6F38867595443BA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0411444900f7633f8aa95bf6ae57f1ef7abcdc0dd218d4355f96ef7d929b4904"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "546aa08f7098299eb4feab7ae6f38867595443ba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/migrations/0010_events_set_missing_calendar.py",
+      "SPDXID": "SPDXRef-File--schedule-migrations-0010-events-set-missing-calendar.py-023FF3301D4C35B2D8C2FB9195194CA076B10DE1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "68c8273ffd2df6341bf28eac6ac8a50844409f90a7371fec645576b34a8fe2c2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "023ff3301d4c35b2d8c2fb9195194ca076b10de1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/migrations/__init__.py",
+      "SPDXID": "SPDXRef-File--schedule-migrations---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_create_event_options.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--create-event-options.html-6F52AB622508A531709F9BE2EA189DD025285B47",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "09aced20a17435a7e95a32b201feebc54fcfc6b12d0394b589b7f47fe3d866f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6f52ab622508a531709f9be2ea189dd025285b47"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_next.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--next.html-5C0E6808AE1A65DE4DC1EC71F44124FC172769F9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "83861f3a9cd301eba6336524d5fd89bea49d75999b10c0e14895d027f22fa3a6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5c0e6808ae1a65de4dc1ec71f44124fc172769f9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_dialogs.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--dialogs.html-6F9C92C92247E05156AE002E0E22D895DD7114D2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ae472a55cdec8af7037868ed3890f64ca58ae7c2581d4bcced30b4bf581cc8d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6f9c92c92247e05156ae002e0e22d895dd7114d2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_event_title.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--event-title.html-4F44E04CEA834B84EAFA2969D3FA9A9E79DEB717",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4974e020a59ec20e315848397c2066fd44078747e362c4a012b79a497014ffa9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4f44e04cea834b84eafa2969d3fa9a9e79deb717"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/settings.txt",
+      "SPDXID": "SPDXRef-File--docs-settings.txt-50F25849781E6BBED16A0741D65FB94D93CE0ED9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6bdaaeb27962961ae5a7d978960868e3f1700de615c6b1d4600d9a70f68707f0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "50f25849781e6bbed16a0741d65fb94d93ce0ed9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.coveragerc",
+      "SPDXID": "SPDXRef-File--.coveragerc-24BC23BBB9E82E7C1F49E95D8BC74AA3D3DEA908",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5e8ca6a0d0cc1bf5f44d7a9cb8d3e918e22f1c46049637e9359b1a99fcf5b1f2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "24bc23bbb9e82e7c1f49e95d8bc74aa3d3dea908"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-DD8E8826088C2A83B5EBE1E83FA0AA5F0ED56F98",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8dd7e69cf77bff3e6717335270c85d60f7aee7f9e917566d94e0afd8c9d31317"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dd8e8826088c2a83b5ebe1e83fa0aa5f0ed56f98"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/develop",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-develop-CC806E04A848B70A643F3138D3B8AA00C06EC0C6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "855e5ad40a4011b5a1ceff89bb4903e205f3efa5a8101c78e97ae7f87378b0e2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cc806e04a848b70a643f3138d3b8aa00c06ec0c6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_forms.py",
+      "SPDXID": "SPDXRef-File--tests-test-forms.py-65B9176DFB34030FF8122AB198586298A966243A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9f711b9a0a2d6396f60cf0b49a15d3c610dc61c8f6538164328fd9f308d96625"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "65b9176dfb34030ff8122ab198586298a966243a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.github/workflows/check.yml",
+      "SPDXID": "SPDXRef-File--.github-workflows-check.yml-568818EB4F2952B48C4BE0C8E6C0D50DEEF7CAFC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3522e58c11fff4b14e9583b3b51e814522fe8c0726fabdda614496974b883a85"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "568818eb4f2952b48c4be0c8e6c0d50deef7cafc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/admin.py",
+      "SPDXID": "SPDXRef-File--schedule-admin.py-79A3E1116CC0D3D0228DCAD924D036E78A8981CC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "163196099d3d113f968958b6bb09788dcf178e0416cedbb5dbbfbd9f3825fd98"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "79a3e1116cc0d3d0228dcad924d036e78a8981cc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templatetags/scheduletags.py",
+      "SPDXID": "SPDXRef-File--schedule-templatetags-scheduletags.py-3861955973FB3B945A267F446A09A1BDA4223C70",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "381640c7414dda2ca1c6ad93691951e97213947b03d31d157a8cc78f139e00db"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3861955973fb3b945a267f446a09a1bda4223c70"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/pt_BR/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--schedule-locale-pt-BR-LC-MESSAGES-django.mo-09F0F7B00A2FAE04E57D8E0478C9E9B064CAC78A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1053cee904e08a19c000446fbb3df2b30a0f9e17c875c890327fcbcc12d07619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "09f0f7b00a2fae04e57d8e0478c9e9b064cac78a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/en/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--schedule-locale-en-LC-MESSAGES-django.mo-8649E6A161E9A1C796F06CC219975069C9D4C3DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9307a3dbfc1ddbd25362612fe8a84719630fbcf33b053a12573e0d299ce31c31"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8649e6a161e9a1c796f06cc219975069c9d4c3dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/migrations/0007_merge_text_fields.py",
+      "SPDXID": "SPDXRef-File--schedule-migrations-0007-merge-text-fields.py-BF52219CE526AEFCBEA44B086045229891037198",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "86a91fdd720789f1e501a9ce3e275c175bdda9006e8f9833684e75e429210faa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf52219ce526aefcbea44b086045229891037198"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/migrations/0002_event_color_event.py",
+      "SPDXID": "SPDXRef-File--schedule-migrations-0002-event-color-event.py-6F4F337ACE1CA2E9E68FAF4522622C3C0B31E81E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3bc9faea73287818ad3bc292a19db02c361a9cdb7d3e36cfb3a120b0715984c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6f4f337ace1ca2e9e68faf4522622c3c0b31e81e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/profiles/schedule.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-profiles-schedule.html-CF338136B77198D4BBD41722A29A33AC1B56E3F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6b5fac2a76cb833d2e6f01c7510d94ef3b4d4e3ea244f8cb30b7bb33634f4ad6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cf338136b77198d4bbd41722a29a33ac1b56e3f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/calendar_list.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-calendar-list.html-8B084AED867C445C046A00DE6B7A8E3FD64FA83A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a8acdeda08a37e24188a0e41a2c743b53c90ab189a97130e65e90776dd711d8f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8b084aed867c445c046a00de6b7a8e3fd64fa83a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/event.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-event.html-9F4BEA38A403D4B4E2BBB4E00783F462D8DF5FFF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "efd9555486bafa8dcd21074e2533b45b3166697a733fd1bc64a4231f9a6c9637"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9f4bea38a403d4b4e2bbb4e00783f462d8df5fff"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/create_event.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-create-event.html-1F8FDB50683640AC045BA05170172218920CCAF4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c17ae1155fb1363a7f4360a272b674183afe64004690156d088f2fb78584c742"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1f8fdb50683640ac045ba05170172218920ccaf4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/template_tags.txt",
+      "SPDXID": "SPDXRef-File--docs-template-tags.txt-133E9325260BA1DA5BD6264D60B7C083306FC7E0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4818752ccd2ea5caa0903da310cb2148e63eb06730b060adfcf88c5637caac97"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "133e9325260ba1da5bd6264d60b7c083306fc7e0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/overview.txt",
+      "SPDXID": "SPDXRef-File--docs-overview.txt-FD460011B61572C9472F22ACD47688CC4C75C0CC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ccb66cc8d341840a69701a05dc4a7548e391a7456a6485310bbb4457bb3f8125"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fd460011b61572c9472f22acd47688cc4c75c0cc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE.txt",
+      "SPDXID": "SPDXRef-File--LICENSE.txt-3ED0C6EA36A917D06DC7AC274CAD660E341B5A96",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "75b38d250395e0faabb5af5ec5d685ed5ace142dd39de7577f0baebc437f9942"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3ed0c6ea36a917d06dc7ac274cad660e341b5a96"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-AB0B8693F2861787C1A27812179C532A09A3B9BD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "92c232c8bb8f1e17b3dffe12f15b82dab228a04287d42f7d20d1f4e10fce89e5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ab0b8693f2861787c1a27812179c532a09a3b9bd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-0b7e00774736ec41837641a6f2ab3bc3c481a9ca.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-0b7e00774736ec41837641a6f2ab3bc3c481a9ca.pack-7663FC6A6C5E474C33822806D41681448AB336AD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8bc6e73e1e561c73420518c3500bd30837833f857fa7a8628f0dfcb85e57ce1f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7663fc6a6c5e474c33822806d41681448ab336ad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_rule.py",
+      "SPDXID": "SPDXRef-File--tests-test-rule.py-8271A251F91208DCD012E8D2E4EBE6114C9473A1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5d1a5981e42631edd2ad76edf3c3c3be25a279b2f6df42cc7702220800af3439"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8271a251f91208dcd012e8d2e4ebe6114c9473a1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/__init__.py",
+      "SPDXID": "SPDXRef-File--tests---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/utils.py",
+      "SPDXID": "SPDXRef-File--schedule-utils.py-72CD86E51E44C8CEB5C2DB028DAFE200D9044E1C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "33d670e6648a3da14023980b293306ddac0b324d4729040e48be0f788cd742ba"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "72cd86e51e44c8ceb5c2db028dafe200d9044e1c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/views.py",
+      "SPDXID": "SPDXRef-File--schedule-views.py-34D02A171B637893BBB2D8DF2738F84AE947DEB6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a2c411a11481e4d0c865cbe17b3fbcb09d96940c749a952d780dc64c7210e8ca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "34d02a171b637893bbb2d8df2738f84ae947deb6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/fr/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--schedule-locale-fr-LC-MESSAGES-django.mo-80A3746F409069435A0DDBEC12406C654AFE701F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1250a1c2c63fca9b36d1a6c3ef576fee5abdd56d77c071b8aaa71e3add8c6aaa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "80a3746f409069435a0ddbec12406c654afe701f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/fi/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--schedule-locale-fi-LC-MESSAGES-django.mo-FDE65BE07ACC37B56E0BAF5128843DAEA2413306",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2e6f7fd91a6108907a7ce84d5918a2887482dcafe2f48016397cdfb1168aa46a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fde65be07acc37b56e0baf5128843daea2413306"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/zh/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--schedule-locale-zh-LC-MESSAGES-django.mo-8649E6A161E9A1C796F06CC219975069C9D4C3DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9307a3dbfc1ddbd25362612fe8a84719630fbcf33b053a12573e0d299ce31c31"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8649e6a161e9a1c796f06cc219975069c9d4c3dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/migrations/0004_text_fields_not_null.py",
+      "SPDXID": "SPDXRef-File--schedule-migrations-0004-text-fields-not-null.py-FAEB43B04ABA6AADF52BD2C2B64F1C48753D651B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "68478bd3d6ee6a08578ed5452b8bccd0986086d71074f4985092ed85cd31ff09"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "faeb43b04aba6aadf52bd2c2b64f1c48753d651b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/migrations/0008_gfk_index.py",
+      "SPDXID": "SPDXRef-File--schedule-migrations-0008-gfk-index.py-5ECB9614DC0299070BD824CBDE3917ED79D6C9B6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cbc1878b35934d1728b291c7a4d9cd2b7ea6648c79c8b800c36c63b23b9576e8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5ecb9614dc0299070bd824cbde3917ed79d6c9b6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_detail.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--detail.html-5E4E1BDCF5EEE52F99D74D06BA3F3981AC05FA09",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "99910e9ed8a4066b022b423cf5217e1846168fcd7fde23c028ab2d78c48d824c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5e4e1bdcf5eee52f99d74d06ba3f3981ac05fa09"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/calendar_tri_month.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-calendar-tri-month.html-9776359C1C922D1C2FDD17464393600D418DEEFC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "991118a51c60bc90291e4ccf0778f8313a452f452e74374d7ca06b0da881485a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9776359c1c922d1c2fdd17464393600d418deefc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_prevnext.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--prevnext.html-4BF6CE0D27BDF03EEB5B1F349A0BAA3EF5F72F2B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "18e2c0f61a47a3842333cee775148a8b38aada705e581d4b0f6ee5059784c5ca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4bf6ce0d27bdf03eeb5b1f349a0baa3ef5f72f2b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/cancel_occurrence.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-cancel-occurrence.html-C73D46A899B380859B7B21565EB34588C44954CA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "afa67fccd1b8ea822e39a53a22f98010c0c8fc60acd15ccba8f4c4f6f7819648"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c73d46a899b380859b7b21565eb34588c44954ca"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/index.txt",
+      "SPDXID": "SPDXRef-File--docs-index.txt-6772A9F5F77BCF8FDA2291F6A5608C927B21F283",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "58a8f84873f1e77d87f85e147c67e924c06f5731c790ee7539ddadf28fef3746"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6772a9f5f77bcf8fda2291f6a5608c927b21f283"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-95447F479BBF0570361217843F2ED38260ED197B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a3832245016e024f5d19bfd743e5f77db7326473d6b311fa205acf0f26928404"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "95447f479bbf0570361217843f2ed38260ed197b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./setup.cfg",
+      "SPDXID": "SPDXRef-File--setup.cfg-EDAF7FEBBC26A91BB96439B1976D016FE2A988E7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1145f0a8578ac0608c456e8eab023fb336b05afe174e517c3185dfd705ae4017"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "edaf7febbc26a91bb96439b1976d016fe2a988e7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/develop",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-develop-816F4F773296DB50D63BCE9964177BA9E39F7055",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "12c1245254ab3f6d9cdc8bdd086373c79b1fe685b028a76cf1c2a826f02039d4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "816f4f773296db50d63bce9964177ba9e39f7055"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/test_utils.py",
+      "SPDXID": "SPDXRef-File--tests-test-utils.py-603841F6A0CD121C9E4C78D0FD55137F5EB1D08E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "557362481aa53f0b8bcb43f912edd3e8d9e40a41f24f696911775f5248de439e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "603841f6a0cd121c9e4c78d0fd55137f5eb1d08e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./tests/fixtures/schedule.json",
+      "SPDXID": "SPDXRef-File--tests-fixtures-schedule.json-11A6E2D5B2B3A1C72086654FC17183F97E36A113",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e70939809e9e6c1927b88f8566b0f965c6602e0553a1f307ac89f78705c51815"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "11a6e2d5b2b3a1c72086654fc17183f97e36a113"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/widgets.py",
+      "SPDXID": "SPDXRef-File--schedule-widgets.py-C3BDE74F0F17D6A6F0EEE51139AB4078F7B3781B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "097915ab4bd06e1c54a57faafce0564d15ba962d75214e049ed0421ff0bbd9df"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c3bde74f0f17d6a6f0eee51139ab4078f7b3781b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/models/events.py",
+      "SPDXID": "SPDXRef-File--schedule-models-events.py-431D2EE98C037FBF3371AFD51058683E27794238",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d93e11b8e5efe06421e64f7f1966b46a9b3da9a603a22a635116d1047cf99f8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "431d2ee98c037fbf3371afd51058683e27794238"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/ru/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--schedule-locale-ru-LC-MESSAGES-django.mo-4412D266FC5C0440B25EB691B487108CD72D3CE7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fa1e1cd7af399e96f4355723a1f61295767a90e17dbe59c8698b2846a4da12e2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4412d266fc5c0440b25eb691b487108cd72d3ce7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/de/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--schedule-locale-de-LC-MESSAGES-django.mo-78EC72D78C095841072623BBFC4C671B06487239",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "58ed85c276b634e07b74fbe5e53730dc0db899acf928baaf17281baecd6f7c68"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "78ec72d78c095841072623bbfc4c671b06487239"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/migrations/0012_auto_20191025_1852.py",
+      "SPDXID": "SPDXRef-File--schedule-migrations-0012-auto-20191025-1852.py-2C49755F50257A8241FE66DAD78BFD8D0B451990",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6adcf78681795452122282e20a5cf7ea772d78607b500a2e363e262957d54336"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2c49755f50257a8241fe66dad78bfd8d0b451990"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/migrations/0013_auto_20210502_2303.py",
+      "SPDXID": "SPDXRef-File--schedule-migrations-0013-auto-20210502-2303.py-20DAE99EBAD23C0E9A7578907DF5DB298A2BC233",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1c39c31fe66672ab59233877df681bd3dd6e974814e592c42eaa4e3a7b925140"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "20dae99ebad23c0e9a7578907df5db298a2bc233"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/fullcalendar_modal.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-fullcalendar-modal.html-8D94D70414AA0B9622F29B0EF2CEE1F202D6E250",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6d9b72528c5838e3bc1f71b95e1f443b2f38cb2438437f9d782ae07cd30af868"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8d94d70414aa0b9622f29b0ef2cee1f202d6e250"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/calendar_day.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-calendar-day.html-5F72D3F444DB289847DCBA3ADD1CCB535B352FCA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ccce4fa0d6acf3d98f1c90bc74e1771680b0ba63dec1008a0f2b12cd33aa74a9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5f72d3f444db289847dcba3add1ccb535b352fca"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/edit_occurrence.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-edit-occurrence.html-1D3A13DDBBEDF1427C251A2BC1E3E594FF193DFE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ab5667b13179d1b224bfc1b731bdab7af741b348768a06c3897d872395fa5fc3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1d3a13ddbbedf1427c251a2bc1e3e594ff193dfe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_daily_table.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--daily-table.html-CA8D67326B60AA9D4945593140B18BDFD07272B4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0523d16607eb5fd86e2542aed71fdbbd702484380e21ea8e80c32ba854c99870"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ca8d67326b60aa9d4945593140b18bdfd07272b4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/conf.py",
+      "SPDXID": "SPDXRef-File--docs-conf.py-0ACC27E441E337612CC79A32365E6AEC4C1760D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "79e66c9d14b82116557a75bcdfba48d657b366c62495a1b4ce77cbfdb6e4239b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0acc27e441e337612cc79a32365e6aec4c1760d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/utils.txt",
+      "SPDXID": "SPDXRef-File--docs-utils.txt-E8049241562FE5618D746E90960BC8A28B0D6D59",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0cbad57691fdb1f8def51cbaa5b7291beefc6b599bb4e69fa85f3818f91cb3a7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e8049241562fe5618d746e90960bc8a28b0d6d59"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/migrations/0011_event_calendar_not_null.py",
+      "SPDXID": "SPDXRef-File--schedule-migrations-0011-event-calendar-not-null.py-9D2BB5FF08874614C7AD3AD068FFBB2087ECBFDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "da7c0a4a86347f05ca0408ba7a1a6336ca56a077ac65c4857733444eca75adac"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9d2bb5ff08874614c7ad3ad068ffbb2087ecbfdc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_day_cell_big.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--day-cell-big.html-2C3DBCF592B00D7709630C66AD10A0E788B98164",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2e2ba6435a1b016bde3bff4b321a34d1a42fd18e0372ab1592ac05541bb7a410"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2c3dbcf592b00d7709630c66ad10a0e788b98164"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/calendar_month.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-calendar-month.html-CFA750278C4468679972326CA964F11E7E644625",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7694eab7886b7de23c9934833b93a207bde90f2995bca1daa3c0280fab81d3b6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cfa750278c4468679972326ca964f11e7e644625"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/delete_event.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-delete-event.html-3291DE7997AFDBAABA473111BE97B4E1CBD463D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3ff8583594d8271333a98198b43e919f48dffe5f04e9f5ede584670cb4f06299"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3291de7997afdbaaba473111be97b4e1cbd463d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/feeds/__init__.py",
+      "SPDXID": "SPDXRef-File--schedule-feeds---init--.py-9CAACEA809464CEE5E59834982C5987E5A4E3B5F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3865bf29d59e9a5dae218cb70bef62d01cc170f6cb6e6bf3014ee104255f3c63"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9caacea809464cee5e59834982c5987e5a4e3b5f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/models.txt",
+      "SPDXID": "SPDXRef-File--docs-models.txt-B1F4D5E54C5FA2F646BA0EEBCD80EB3E5A42EECD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "001abe38bef7f85354c7607158690f13c446c0096b8af2650a726c87b1949f3c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b1f4d5e54c5fa2f646ba0eebcd80eb3e5a42eecd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/calendar.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-calendar.html-3C6B6E3FEB0A53E800E2871C2E0C25C52E25E6A0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2590cc2ccf4994731324a8c850cc144c8600959cd90b3625f7933e514e75510f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3c6b6e3feb0a53e800e2871c2e0c25c52e25e6a0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_event_options.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--event-options.html-3D9055DF511368B42FE71B1C99D97032F358C11F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "61f0c6a366214e36eb3ab18d2c52d9a8ca1eea01f33fe31c36f11eda8c9a3119"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3d9055df511368b42fe71b1c99d97032f358c11f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/calendar_year.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-calendar-year.html-319542DAE3346220107E61D8D92C9DEEB83594C2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "17ab1991baaa6a574f76d2cbcdec599a2214947a9dca505143dfa97205b5bc6b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "319542dae3346220107e61d8d92c9deeb83594c2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/Makefile",
+      "SPDXID": "SPDXRef-File--docs-Makefile-B112885070F690B0207D9F9DB39BFDEC3B20B3E4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7c882f120749ce9bb0522aad635f93a1d8b47359f8eca6042ed5991c01521558"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b112885070f690b0207d9f9db39bfdec3b20b3e4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/periods.txt",
+      "SPDXID": "SPDXRef-File--docs-periods.txt-A96F21F5F6A7F7B07DCC96F536CE9C083A268987",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "37d2408fd8bb4aa462d9d9675fd5ac4522a87e0f6866f8ac4b9ad3b0de6fac55"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a96f21f5f6a7f7b07dcc96f536ce9c083a268987"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "django-scheduler",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "f7f9cc33f2c79bbdf070aded47350b6eb588dd25"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "django-scheduler-15.4.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:swid/django-scheduler/spdx.org/django-scheduler@django-scheduler-15.4.6?tag_id=0f87c2b7-6946-4bc8-b862-bdbd28187309"
+        }
+      ],
+      "supplier": "Organization: django-scheduler",
+      "hasFiles": [
+        "SPDXRef-File--docs-settings.txt-50F25849781E6BBED16A0741D65FB94D93CE0ED9",
+        "SPDXRef-File--schedule-templates-schedule--event-title.html-4F44E04CEA834B84EAFA2969D3FA9A9E79DEB717",
+        "SPDXRef-File--schedule-templates-schedule--dialogs.html-6F9C92C92247E05156AE002E0E22D895DD7114D2",
+        "SPDXRef-File--schedule-templates-schedule--next.html-5C0E6808AE1A65DE4DC1EC71F44124FC172769F9",
+        "SPDXRef-File--schedule-templates-schedule--create-event-options.html-6F52AB622508A531709F9BE2EA189DD025285B47",
+        "SPDXRef-File--schedule-migrations---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--schedule-migrations-0010-events-set-missing-calendar.py-023FF3301D4C35B2D8C2FB9195194CA076B10DE1",
+        "SPDXRef-File--schedule-locale-zh-LC-MESSAGES-django.po-546AA08F7098299EB4FEAB7AE6F38867595443BA",
+        "SPDXRef-File--schedule-locale-fi-LC-MESSAGES-django.po-8C32B485237DFA76593E314364DCF9AF9414AB7A",
+        "SPDXRef-File--schedule-locale-fr-LC-MESSAGES-django.po-CE03B7D8E5D8E45C900BD73F5B62178D2F81DDB6",
+        "SPDXRef-File--schedule---init--.py-1D449E67DDBEC3B57ACA14751B89C9FF1281ECDB",
+        "SPDXRef-File--schedule-apps.py-EACF54EDA508CBD5335D92B1514B96D80F75368F",
+        "SPDXRef-File--tests-test-calendar.py-A5458C8A7964C12F5FA37A207CB9101D5F3627C5",
+        "SPDXRef-File--tests-test-views.py-2E7317E7789F591870906DFB7A4741577E3A9273",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-config-9713E2B7E01E37ADC5DC8378F575CA19824950C4",
+        "SPDXRef-File--setup.py-9E0C6B126DEDF9D40CB1738FC50FF0BC634CA2B8",
+        "SPDXRef-File--docs-periods.txt-A96F21F5F6A7F7B07DCC96F536CE9C083A268987",
+        "SPDXRef-File--docs-Makefile-B112885070F690B0207D9F9DB39BFDEC3B20B3E4",
+        "SPDXRef-File--schedule-templates-schedule-calendar-year.html-319542DAE3346220107E61D8D92C9DEEB83594C2",
+        "SPDXRef-File--schedule-templates-schedule--event-options.html-3D9055DF511368B42FE71B1C99D97032F358C11F",
+        "SPDXRef-File--schedule-templates-schedule-calendar.html-3C6B6E3FEB0A53E800E2871C2E0C25C52E25E6A0",
+        "SPDXRef-File--schedule-templates-fullcalendar-script.html-66C8893EC4168CE88F2080EC25FC4E45E4598EBE",
+        "SPDXRef-File--schedule-migrations-0009-merge-20180108-2303.py-4AC731258A0C99AE798D25BCC51368B4E13168A7",
+        "SPDXRef-File--schedule-migrations-0014-use-autofields-for-pk.py-69763428A20F5734B8783FACCAA7B11024D5E91A",
+        "SPDXRef-File--schedule-locale-de-LC-MESSAGES-django.po-8CDCEFDA43BA58D673A1E6CB8F3AE1C539924A81",
+        "SPDXRef-File--schedule-locale-ru-LC-MESSAGES-django.po-520090273E00B78E20101BF0ACD392C70962390C",
+        "SPDXRef-File--schedule-models---init--.py-BA7ADE283EF65317005EE021039DA438B839FA1B",
+        "SPDXRef-File--schedule-periods.py-39D187DA57B3505A52498B702FA425BE14EFF57B",
+        "SPDXRef-File--tests-test-periods.py-187CBCE550A7CFDEA40A494C99A6803C74A53704",
+        "SPDXRef-File--tests-test-perms.py-ADB7E4FA09CE7A542B7165D79CCA830513B71468",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-816F4F773296DB50D63BCE9964177BA9E39F7055",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--AUTHORS-FAFF892C66A8A064AB6E12E0EC626F4E787F5B4B",
+        "SPDXRef-File--.gitignore-088B1263BDB67334571037035A2C69E146A4DBCE",
+        "SPDXRef-File--docs-index.txt-6772A9F5F77BCF8FDA2291F6A5608C927B21F283",
+        "SPDXRef-File--schedule-templates-schedule-cancel-occurrence.html-C73D46A899B380859B7B21565EB34588C44954CA",
+        "SPDXRef-File--schedule-templates-schedule--prevnext.html-4BF6CE0D27BDF03EEB5B1F349A0BAA3EF5F72F2B",
+        "SPDXRef-File--schedule-templates-schedule-calendar-tri-month.html-9776359C1C922D1C2FDD17464393600D418DEEFC",
+        "SPDXRef-File--schedule-templates-schedule--detail.html-5E4E1BDCF5EEE52F99D74D06BA3F3981AC05FA09",
+        "SPDXRef-File--schedule-migrations-0008-gfk-index.py-5ECB9614DC0299070BD824CBDE3917ED79D6C9B6",
+        "SPDXRef-File--schedule-migrations-0004-text-fields-not-null.py-FAEB43B04ABA6AADF52BD2C2B64F1C48753D651B",
+        "SPDXRef-File--schedule-locale-zh-LC-MESSAGES-django.mo-8649E6A161E9A1C796F06CC219975069C9D4C3DD",
+        "SPDXRef-File--schedule-locale-fi-LC-MESSAGES-django.mo-FDE65BE07ACC37B56E0BAF5128843DAEA2413306",
+        "SPDXRef-File--schedule-locale-fr-LC-MESSAGES-django.mo-80A3746F409069435A0DDBEC12406C654AFE701F",
+        "SPDXRef-File--schedule-views.py-34D02A171B637893BBB2D8DF2738F84AE947DEB6",
+        "SPDXRef-File--schedule-utils.py-72CD86E51E44C8CEB5C2DB028DAFE200D9044E1C",
+        "SPDXRef-File--tests---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--tests-test-rule.py-8271A251F91208DCD012E8D2E4EBE6114C9473A1",
+        "SPDXRef-File--.git-objects-pack-pack-0b7e00774736ec41837641a6f2ab3bc3c481a9ca.pack-7663FC6A6C5E474C33822806D41681448AB336AD",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--.git-index-AB0B8693F2861787C1A27812179C532A09A3B9BD",
+        "SPDXRef-File--LICENSE.txt-3ED0C6EA36A917D06DC7AC274CAD660E341B5A96",
+        "SPDXRef-File--docs-models.txt-B1F4D5E54C5FA2F646BA0EEBCD80EB3E5A42EECD",
+        "SPDXRef-File--schedule-feeds---init--.py-9CAACEA809464CEE5E59834982C5987E5A4E3B5F",
+        "SPDXRef-File--schedule-templates-schedule-delete-event.html-3291DE7997AFDBAABA473111BE97B4E1CBD463D1",
+        "SPDXRef-File--schedule-templates-schedule-calendar-month.html-CFA750278C4468679972326CA964F11E7E644625",
+        "SPDXRef-File--schedule-templates-schedule--day-cell-big.html-2C3DBCF592B00D7709630C66AD10A0E788B98164",
+        "SPDXRef-File--schedule-migrations-0011-event-calendar-not-null.py-9D2BB5FF08874614C7AD3AD068FFBB2087ECBFDC",
+        "SPDXRef-File--schedule-migrations-0005-verbose-name-plural-for-calendar.py-93E899A63784668279CB8E0FD6EA7209E50392B6",
+        "SPDXRef-File--schedule-static-schedule.css-95F409CE09FC5220C935412BADB6E23DF20368B7",
+        "SPDXRef-File--schedule-locale-it-LC-MESSAGES-django.po-4A1C36B896B331C7BECA0A80C1B95FD4C153B9F0",
+        "SPDXRef-File--schedule-locale-es-LC-MESSAGES-django.po-8F67EFFAA869B17A5E17ADE1F797D945FE5E0152",
+        "SPDXRef-File--schedule-models-calendars.py-E1D37F5B0D4666654E3EBE3982211C5C5856EB77",
+        "SPDXRef-File--schedule-forms.py-AFDC2EEB92C16988BD716C5E73E05F32C48386E8",
+        "SPDXRef-File--tests-test-templatetags.py-75E393EB608E2FFFAAADD25CFADC6CB515EC1CA0",
+        "SPDXRef-File--tests-test-recurrent-event.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--.git-objects-pack-pack-0b7e00774736ec41837641a6f2ab3bc3c481a9ca.idx-75F8CD78B097ECC50046D9E349DCC50857BDD10A",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-packed-refs-B260D6830A7111EF7ECD55AE986EF6413DBED150",
+        "SPDXRef-File--MANIFEST.in-D4601CB422D14F1CC387DD5DEC6302C8F8F83D15",
+        "SPDXRef-File--docs-views.txt-E45C56528D8130868A1D49EFB944D5EF85040990",
+        "SPDXRef-File--docs-changelog.txt-D2ADECE05182CCB3CF746427799242105F717EF3",
+        "SPDXRef-File--schedule-templates-schedule--day-cell.html-C2AD3919B46198091E39AEB030887786A9982E0A",
+        "SPDXRef-File--schedule-templates-schedule--prev.html-28F7B0B762862A23ACBABD623CF865BFD4CEA18D",
+        "SPDXRef-File--schedule-templates-schedule--month-table.html-5CEDB20F864FFB9882595DFC2FB3FDB8973C73C5",
+        "SPDXRef-File--schedule-templates-fullcalendar.html-D0B9C34537BBA374D64F46A478428FBAF507F019",
+        "SPDXRef-File--schedule-migrations-0006-update-text-fields-empty-string.py-7BC7FB9D54ABD41A3C9C0B4C68ACEF4F211058A1",
+        "SPDXRef-File--schedule-migrations-0001-initial.py-37B9E796DC56DBE96E975E896CFAC79FC231E17D",
+        "SPDXRef-File--schedule-locale-en-LC-MESSAGES-django.po-9CFCE446A3DBA76054A0165BE8F3430B04C7D851",
+        "SPDXRef-File--schedule-locale-pt-BR-LC-MESSAGES-django.po-076D5086DAB8D0E7AD93E6FA2BF9A889BF8F133E",
+        "SPDXRef-File--schedule-templatetags---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--schedule-settings.py-556C5D044B14A6F1000C7E9ED7405D92AA07E239",
+        "SPDXRef-File--.github-workflows-test.yml-E1DF6762AB7D6E5499F6ED361BA0B271C53FE6BF",
+        "SPDXRef-File--tests-settings.py-597566353037089114DBA9BFD4AA4EA57CE401EA",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-CB587AC979C5A12EA2FAD8CA5AF781961C1B0668",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--tox.ini-F5B1A8E3A915116AFC8658C4C900DF060591F702",
+        "SPDXRef-File--docs-overview.txt-FD460011B61572C9472F22ACD47688CC4C75C0CC",
+        "SPDXRef-File--docs-template-tags.txt-133E9325260BA1DA5BD6264D60B7C083306FC7E0",
+        "SPDXRef-File--schedule-templates-schedule-create-event.html-1F8FDB50683640AC045BA05170172218920CCAF4",
+        "SPDXRef-File--schedule-templates-schedule-event.html-9F4BEA38A403D4B4E2BBB4E00783F462D8DF5FFF",
+        "SPDXRef-File--schedule-templates-schedule-calendar-list.html-8B084AED867C445C046A00DE6B7A8E3FD64FA83A",
+        "SPDXRef-File--schedule-templates-profiles-schedule.html-CF338136B77198D4BBD41722A29A33AC1B56E3F4",
+        "SPDXRef-File--schedule-migrations-0002-event-color-event.py-6F4F337ACE1CA2E9E68FAF4522622C3C0B31E81E",
+        "SPDXRef-File--schedule-migrations-0007-merge-text-fields.py-BF52219CE526AEFCBEA44B086045229891037198",
+        "SPDXRef-File--schedule-locale-en-LC-MESSAGES-django.mo-8649E6A161E9A1C796F06CC219975069C9D4C3DD",
+        "SPDXRef-File--schedule-locale-pt-BR-LC-MESSAGES-django.mo-09F0F7B00A2FAE04E57D8E0478C9E9B064CAC78A",
+        "SPDXRef-File--schedule-templatetags-scheduletags.py-3861955973FB3B945A267F446A09A1BDA4223C70",
+        "SPDXRef-File--schedule-admin.py-79A3E1116CC0D3D0228DCAD924D036E78A8981CC",
+        "SPDXRef-File--.github-workflows-check.yml-568818EB4F2952B48C4BE0C8E6C0D50DEEF7CAFC",
+        "SPDXRef-File--tests-test-forms.py-65B9176DFB34030FF8122AB198586298A966243A",
+        "SPDXRef-File--.git-refs-heads-develop-CC806E04A848B70A643F3138D3B8AA00C06EC0C6",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-HEAD-DD8E8826088C2A83B5EBE1E83FA0AA5F0ED56F98",
+        "SPDXRef-File--.coveragerc-24BC23BBB9E82E7C1F49E95D8BC74AA3D3DEA908",
+        "SPDXRef-File--docs-utils.txt-E8049241562FE5618D746E90960BC8A28B0D6D59",
+        "SPDXRef-File--docs-conf.py-0ACC27E441E337612CC79A32365E6AEC4C1760D1",
+        "SPDXRef-File--schedule-templates-schedule--daily-table.html-CA8D67326B60AA9D4945593140B18BDFD07272B4",
+        "SPDXRef-File--schedule-templates-schedule-edit-occurrence.html-1D3A13DDBBEDF1427C251A2BC1E3E594FF193DFE",
+        "SPDXRef-File--schedule-templates-schedule-calendar-day.html-5F72D3F444DB289847DCBA3ADD1CCB535B352FCA",
+        "SPDXRef-File--schedule-templates-fullcalendar-modal.html-8D94D70414AA0B9622F29B0EF2CEE1F202D6E250",
+        "SPDXRef-File--schedule-migrations-0013-auto-20210502-2303.py-20DAE99EBAD23C0E9A7578907DF5DB298A2BC233",
+        "SPDXRef-File--schedule-migrations-0012-auto-20191025-1852.py-2C49755F50257A8241FE66DAD78BFD8D0B451990",
+        "SPDXRef-File--schedule-locale-de-LC-MESSAGES-django.mo-78EC72D78C095841072623BBFC4C671B06487239",
+        "SPDXRef-File--schedule-locale-ru-LC-MESSAGES-django.mo-4412D266FC5C0440B25EB691B487108CD72D3CE7",
+        "SPDXRef-File--schedule-models-events.py-431D2EE98C037FBF3371AFD51058683E27794238",
+        "SPDXRef-File--schedule-widgets.py-C3BDE74F0F17D6A6F0EEE51139AB4078F7B3781B",
+        "SPDXRef-File--tests-fixtures-schedule.json-11A6E2D5B2B3A1C72086654FC17183F97E36A113",
+        "SPDXRef-File--tests-test-utils.py-603841F6A0CD121C9E4C78D0FD55137F5EB1D08E",
+        "SPDXRef-File--.git-logs-refs-heads-develop-816F4F773296DB50D63BCE9964177BA9E39F7055",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--setup.cfg-EDAF7FEBBC26A91BB96439B1976D016FE2A988E7",
+        "SPDXRef-File--README.md-95447F479BBF0570361217843F2ED38260ED197B",
+        "SPDXRef-File--docs-install.txt-CFA6C8FD87491B03A4745FB5BAA6C1A0927EC699",
+        "SPDXRef-File--schedule-feeds-ical.py-36385750608EF08BBD4C7CCE5E327451E5CEAD24",
+        "SPDXRef-File--schedule-templates-schedule-calendar-week.html-2896D0D1F799761454670B09FED6FE57FA584CAC",
+        "SPDXRef-File--schedule-templates-schedule-calendar-compact-month.html-80E09022337721D175292A3246E8AD08BB0E2C17",
+        "SPDXRef-File--schedule-templates-schedule-occurrence.html-47D2B5697DB5AEE31AF10D9CA1736EAB873268B3",
+        "SPDXRef-File--schedule-templates-base.html-F6F29CDB92D60819FDD42B3215EF8E5735A9A8BC",
+        "SPDXRef-File--schedule-migrations-0003-auto-20160715-0028.py-30520468797489F669D3A737FDD953320D493318",
+        "SPDXRef-File--schedule-static-schedule.js-4F39864A59E3D2A8FA36FC2A8E22883D6977893A",
+        "SPDXRef-File--schedule-locale-it-LC-MESSAGES-django.mo-2ABBDF125ECAB12B5F01D43731E4F239B8AA9C4F",
+        "SPDXRef-File--schedule-locale-es-LC-MESSAGES-django.mo-7FEA2F6551741FE4292AB2A127CE0E8444D9AAB0",
+        "SPDXRef-File--schedule-models-rules.py-97DBAD35C76BDCC191F7D84B80234498A44E32D2",
+        "SPDXRef-File--schedule-urls.py-936681A4AB4B9F261AB1F86C34E8BA318502DC8D",
+        "SPDXRef-File--tests-test-occurrence.py-426FCE196CCA29FD703D1A068B365F481D056118",
+        "SPDXRef-File--tests-test-event.py-2B80EB5A366EFF133B4BC62AA86D27562A3607BF",
+        "SPDXRef-File--.git-logs-HEAD-816F4F773296DB50D63BCE9964177BA9E39F7055",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--.pre-commit-config.yaml-1724815D1A2106A4E3599BA89C73C90E291A9A45",
+        "SPDXRef-File--CHANGELOG-BD7DCCF838EB5D194809079CA3CCD3B09C560925"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "django-scheduler django-scheduler-15.4.6",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-2.2.1-3a320499-3d42-41c6-b6e5-e0686ee4403b/django-scheduler/django-scheduler-15.4.6/45G31dlNTEGyfsquyYuRIA",
+  "creationInfo": {
+    "created": "2024-01-06T09:44:11Z",
+    "creators": [
+      "Organization: django-scheduler",
+      "Tool: Microsoft.SBOMTool-2.2.1"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

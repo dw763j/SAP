@@ -1,0 +1,38 @@
+{
+    "name": "hackingtool",
+    "home_page": "https://github.com/Z4nzu/hackingtool",
+    "author": "Person:Hardik Zinzuvadiya",
+    "version": "1.1.0",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2020 Mr.Z4nzu",
+    "packages": [
+        {
+            "name": "boxes",
+            "license": "MIT",
+            "home_page": "https://github.com/ralsina/boxes",
+            "author": "Roberto Alsina",
+            "version": ""
+        },
+        {
+            "name": "Flask",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/pallets/flask",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "lolcat",
+            "license": "",
+            "home_page": "https://github.com/tehmaze/lolcat/",
+            "author": "Wijnand Modderman-Lenstra",
+            "version": ""
+        },
+        {
+            "name": "requests",
+            "license": "Apache-2.0",
+            "home_page": "https://requests.readthedocs.io",
+            "author": "Kenneth Reitz",
+            "version": ""
+        }
+    ]
+}

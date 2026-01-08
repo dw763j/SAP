@@ -1,0 +1,26 @@
+{
+    "name": "hayaku",
+    "home_page": "https://github.com/hayaku/hayaku",
+    "author": "Person:Roman Komarov, Sergey Mezentsev",
+    "version": "1.5.4",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2012 Roman Komarov <kizmarh@yandex.ru>, Sergey Mezentsev <thebits@yandex.ru>",
+    "packages": [
+        {
+            "name": "sublime",
+            "home_page": "",
+            "author": "Organization:Sublime",
+            "version": "",
+            "license": "",
+            "copyright": ""
+        },
+        {
+            "name": "sublime_plugin",
+            "home_page": "",
+            "author": "Organization:Sublime",
+            "version": "",
+            "license": "",
+            "copyright": ""
+        }
+    ]
+}

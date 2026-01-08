@@ -1,0 +1,52 @@
+{
+    "name": "pinject",
+    "home_page": "https://github.com/google/pinject",
+    "author": "Person:Kurt Steinkraus",
+    "version": "0.15.3",
+    "license": "Apache-2.0",
+    "copyright": "",
+    "packages": [
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ""
+        },
+        {
+            "name": "semver",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/python-semver/python-semver",
+            "author": "Kostiantyn Rybnikov",
+            "version": ""
+        },
+        {
+            "name": "six",
+            "license": "MIT",
+            "home_page": "https://github.com/benjaminp/six",
+            "author": "Benjamin Peterson",
+            "version": ">=1.7.3"
+        },
+        {
+            "name": "mock",
+            "license": "",
+            "home_page": "http://mock.readthedocs.org/en/latest/",
+            "author": "Testing Cabal",
+            "version": ">=3.0.5"
+        },
+        {
+            "name": "decorator",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/micheles/decorator",
+            "author": "Michele Simionato",
+            "version": ">=4.3.0"
+        },
+        {
+            "name": "pytest",
+            "license": "MIT",
+            "home_page": "https://github.com/pytest-dev/pytest",
+            "author": "Holger Krekel, Bruno Oliveira, Ronny Pfannschmidt, Floris Bruynooghe, Brianna Laugher, Florian Bruhin, Others (See AUTHORS)",
+            "version": ""
+        }
+    ]
+}

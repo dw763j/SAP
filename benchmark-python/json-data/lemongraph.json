@@ -1,0 +1,73 @@
+{
+    "name": "lemongraph",
+    "home_page": "https://github.com/NationalSecurityAgency/lemongraph",
+    "author": "Person:",
+    "version": "",
+    "license": "Apache-2.0",
+    "copyright": "",
+    "packages": [
+        {
+            "name": "cffi",
+            "license": "MIT",
+            "home_page": "http://cffi.readthedocs.org",
+            "author": "Armin Rigo, Maciej Fijalkowski",
+            "version": ">=1.0.1,<1.12"
+        },
+        {
+            "name": "lazy",
+            "license": "BSD-2-Clause",
+            "home_page": "https://github.com/stefanholek/lazy",
+            "author": "Stefan H. Holek",
+            "version": ">=1.0,<1.4"
+        },
+        {
+            "name": "msgpack-python",
+            "license": "Apache-2.0",
+            "home_page": "http://msgpack.org/",
+            "author": "INADA Naoki",
+            "version": ">=0.5.2,<0.6"
+        },
+        {
+            "name": "pysigset",
+            "license": "LGPL-3.0-or-later",
+            "home_page": "https://github.com/ossobv/pysigset",
+            "author": "Walter Doekes",
+            "version": ">=0.2,<0.4"
+        },
+        {
+            "name": "python-dateutil",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/dateutil/dateutil",
+            "author": "Gustavo Niemeyer",
+            "version": ">=1.4,<2.7"
+        },
+        {
+            "name": "six",
+            "license": "MIT",
+            "home_page": "https://github.com/benjaminp/six",
+            "author": "Benjamin Peterson",
+            "version": ""
+        },
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ""
+        },
+        {
+            "name": "Distutils",
+            "license": "",
+            "home_page": "http://www.python.org/sigs/distutils-sig/",
+            "author": "Greg Ward",
+            "version": ""
+        },
+        {
+            "name": "msgpack",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/msgpack/msgpack",
+            "author": "",
+            "version": ""
+        }
+    ]
+}

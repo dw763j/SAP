@@ -1,0 +1,30 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "spdxVersion": "SPDX-2.2",
+    "creationInfo": {
+        "created": "2024-10-26T15:10:00Z",
+        "creators": [
+            "Tool: ort-36.0.0-018.sha.e5c6e0c"
+        ],
+        "licenseListVersion": "3.25.0"
+    },
+    "name": "Unnamed document",
+    "dataLicense": "CC0-1.0",
+    "documentNamespace": "spdx://d683ee27-6ade-412f-aba0-b43f87e7ed1c",
+    "documentDescribes": [
+        "SPDXRef-Project-PIP-requirements.txt"
+    ],
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Project-PIP-requirements.txt",
+            "copyrightText": "Copyright (c) 2015 James Socol\ncopyright 2012-2018 James Socol",
+            "downloadLocation": "NONE",
+            "filesAnalyzed": false,
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "name": "requirements.txt",
+            "summary": "NONE"
+        }
+    ]
+}

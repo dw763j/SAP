@@ -1,0 +1,45 @@
+{
+    "name": "tinychain",
+    "home_page": "https://github.com/jamesob/tinychain",
+    "author": "Person:James O'Beirne",
+    "version": "",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2017 James O'Beirne",
+    "packages": [
+        {
+            "name": "pytest",
+            "license": "MIT",
+            "home_page": "https://github.com/pytest-dev/pytest",
+            "author": "Holger Krekel, Bruno Oliveira, Ronny Pfannschmidt, Floris Bruynooghe, Brianna Laugher, Florian Bruhin, Others (See AUTHORS)",
+            "version": "3.1.1"
+        },
+        {
+            "name": "pytest-cov",
+            "license": "MIT",
+            "home_page": "https://github.com/pytest-dev/pytest-cov",
+            "author": "Marc Schlaich",
+            "version": "2.5.1"
+        },
+        {
+            "name": "base58",
+            "license": "MIT",
+            "home_page": "https://github.com/keis/base58",
+            "author": "David Keijser",
+            "version": "0.2.5"
+        },
+        {
+            "name": "ecdsa",
+            "license": "MIT",
+            "home_page": "http://github.com/tlsfuzzer/python-ecdsa",
+            "author": "Brian Warner",
+            "version": "0.13"
+        },
+        {
+            "name": "docopt",
+            "license": "MIT",
+            "home_page": "http://docopt.org",
+            "author": "Vladimir Keleshev",
+            "version": "0.6.2"
+        }
+    ]
+}

@@ -1,0 +1,1135 @@
+{
+  "files": [
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-DC941B211BEC12FE22A6A9056957F8FACAA6C6CB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0035e5f1f7ac325b34f23ced4f2403140f9fbebea6347d34bf0ca0928fa51b0d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dc941b211bec12fe22a6a9056957f8facaa6c6cb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-7ABDD38BC1942F6686E1C571684D3F49FD575C44",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "251b08dce37fce03694c67f16d353f9998186640de1caed5f33e2e8e14f8a597"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7abdd38bc1942f6686e1c571684d3f49fd575c44"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-b66be1d78551c601079315881dd13a6c369fa0d5.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-b66be1d78551c601079315881dd13a6c369fa0d5.pack-10A098F15903ED719BDAC13A71C0CBA061644043",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1ca215ce3a45f91ea32fcea7d87f788a97ebcb2d4618185565ff3deec6e9a990"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "10a098f15903ed719bdac13a71c0cba061644043"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/README.md",
+      "SPDXID": "SPDXRef-File--demos-README.md-D8E3E4B89CB44FB89034962CA66D5EF159D40E6B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f73c5e1cd48f54ec32e4ad5751f404ab5d365023594fa48cadb9113d05d45fc6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d8e3e4b89cb44fb89034962ca66d5ef159d40e6b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/cifar10/models/__init__.py",
+      "SPDXID": "SPDXRef-File--demos-cifar10-models---init--.py-470D3C1D201CFEAE45A3036662A8A7F4EFCCA326",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e21781ced41f35d37047bb82e72d7747e23f99c8649610c3a14392ea189bf9de"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "470d3c1d201cfeae45a3036662a8a7f4efcca326"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/cifar10/curve/pretrained/densenet-adam-lr0.001-betas0.9-0.999",
+      "SPDXID": "SPDXRef-File--demos-cifar10-curve-pretrained-densenet-adam-lr0.001-betas0.9-0.999-8AC1B6D32BBD67CCA57AFEE90E6AEC0995A74CB0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bcca262ccb38efc8638940352a05098fc37cddb9a64d7800e8c0047121e1540f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8ac1b6d32bbd67cca57afee90e6aec0995a74cb0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/cifar10/requirements.txt",
+      "SPDXID": "SPDXRef-File--demos-cifar10-requirements.txt-5DDA9A5FB983E48F1AF8AC9775B43DD3BFE3B733",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f23bfe747595da63f1514835c0d7204e16bfd8122277e7a0d55313fbe4242f87"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5dda9a5fb983e48f1af8ac9775b43dd3bfe3b733"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/cifar10/curve/pretrained/resnet-adagrad-lr0.01",
+      "SPDXID": "SPDXRef-File--demos-cifar10-curve-pretrained-resnet-adagrad-lr0.01-E9F818C843D7EB09A8A96E53C0293EA13E050E3E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f7ad3f8051d972f07cd2d70e9243485ba328cc281e1142ba1a298a42fc7f0b7f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e9f818c843d7eb09a8a96e53c0293ea13e050e3e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/cifar10/curve/pretrained/densenet-amsbound-lr0.001-betas0.9-0.999-final_lr0.1-gamma0.001",
+      "SPDXID": "SPDXRef-File--demos-cifar10-curve-pretrained-densenet-amsbound-lr0.001-betas0.9-0.999-final-lr0.1-gamma0.001-03919285AE5602C7D841D3D62F1F01E90768406B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "86b15000b08cd491210b1c5da24db57430247d9e3900daa131e8e721b7711be7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "03919285ae5602c7d841d3d62f1f01e90768406b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE",
+      "SPDXID": "SPDXRef-File--LICENSE-58853EB8199B5AFE72A73A25FD8CF8C94285174B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "58853eb8199b5afe72a73a25fd8cf8c94285174b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-9E420DFBF260EC44304FA4DBEFD7B8A8A2705D6A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ca04a6c89b527ae1335b0d2f22bb21d06af783df8703242db7f0c9a269998158"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9e420dfbf260ec44304fa4dbefd7b8a8a2705d6a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/cifar10/.gitignore",
+      "SPDXID": "SPDXRef-File--demos-cifar10-.gitignore-AFE9C23233AA5A64B10F37AC8675FF61FD8A7DAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d7cbab5ae4daa5473e79a84538e39462e0378c98f9f745e723183cb9dd05d199"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "afe9c23233aa5a64b10f37ac8675ff61fd8a7dac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/cifar10/curve/pretrained/densenet-amsgrad-lr0.001-betas0.9-0.999",
+      "SPDXID": "SPDXRef-File--demos-cifar10-curve-pretrained-densenet-amsgrad-lr0.001-betas0.9-0.999-A888D179D5938A3BFF244EA8D12C6DEAE15507BD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aaafd1d7b59b69f625cbd27f61f17ff86d005a7de7c8fc1262dcbf1ed5d0ca5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a888d179d5938a3bff244ea8d12c6deae15507bd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/cifar10/curve/pretrained/densenet-adabound-lr0.001-betas0.9-0.999-final_lr0.1-gamma0.001",
+      "SPDXID": "SPDXRef-File--demos-cifar10-curve-pretrained-densenet-adabound-lr0.001-betas0.9-0.999-final-lr0.1-gamma0.001-2BF19B92D0DE2BACF89969A628E9D2223684A0A3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "339294b5210dcfd08bddfa2ab8b7c9e971bf96ce49338d4a71b2145f2dabf330"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2bf19b92d0de2bacf89969a628e9d2223684a0a3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-E4DD2F639AE4CEA9A8D8B21F236DF9F78282765C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e39c84f1a6fd175689a02d27c3d7b62e4767834b39a75d0c11c4bab8041cdf12"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e4dd2f639ae4cea9a8d8b21f236df9f78282765c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-FB7031B12E32BF1ADED2A27FD73E9F2F8AD0B299",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b6e442622d59ee05ce5bf400414561b47c00d1a862871df4b8a0ceb2c7f854e0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fb7031b12e32bf1aded2a27fd73e9f2f8ad0b299"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-b66be1d78551c601079315881dd13a6c369fa0d5.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-b66be1d78551c601079315881dd13a6c369fa0d5.idx-833F9A7867E804ACC35BC89F0803A4B88B702DCC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4944c7683a3e1e7890051fee3dd60d9a66f660dfdcdb3183fa9d7323446c5b33"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "833f9a7867e804acc35bc89f0803a4b88b702dcc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./adabound/__init__.py",
+      "SPDXID": "SPDXRef-File--adabound---init--.py-C6128825DAE0E161EB580C87F29FAB68C3BC0B9D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "faabbcc56ec6b94093f3da669116faf27ec2b0fe48ee1d26a8d975e4d000e0e5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c6128825dae0e161eb580c87f29fab68c3bc0b9d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/cifar10/models/densenet.py",
+      "SPDXID": "SPDXRef-File--demos-cifar10-models-densenet.py-708453BE69146FED3211301036407BD6B3E5A48F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "216bd18be90cd62369be175c6e19ff6eb4c657919bd2925ae1e8e03624e09af3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "708453be69146fed3211301036407bd6b3e5a48f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/cifar10/curve/pretrained/resnet-adam-lr0.001-betas0.99-0.999",
+      "SPDXID": "SPDXRef-File--demos-cifar10-curve-pretrained-resnet-adam-lr0.001-betas0.99-0.999-2010574980780BA972C8FE2E639893A4447CA9DE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d32b2005509a5adaa2847d02d49e0b0814a0156baaaf26978fa198e861224a6f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2010574980780ba972c8fe2e639893a4447ca9de"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./release.sh",
+      "SPDXID": "SPDXRef-File--release.sh-C969F2733121EA63534A97B7775F2654A9BE57F3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9bb7591ee1f77711233597b4bca7f677495d57d10eb694224182c4620cabea2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c969f2733121ea63534a97b7775f2654a9be57f3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-9E420DFBF260EC44304FA4DBEFD7B8A8A2705D6A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ca04a6c89b527ae1335b0d2f22bb21d06af783df8703242db7f0c9a269998158"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9e420dfbf260ec44304fa4dbefd7b8a8a2705d6a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/cifar10/main.py",
+      "SPDXID": "SPDXRef-File--demos-cifar10-main.py-C7C637482DC9F6C9E827C88297D65A5B6110CF56",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0201ccef69a0937dfef71b61492c30750111f033254c1833f8553eaa641a34f3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c7c637482dc9f6c9e827c88297d65a5b6110cf56"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/cifar10/curve/pretrained/resnet-sgd-lr0.1-momentum0.9",
+      "SPDXID": "SPDXRef-File--demos-cifar10-curve-pretrained-resnet-sgd-lr0.1-momentum0.9-5DA5CC5FFD6EADA2967B20D8E20AA3203C502833",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7e83e84154c366b50d0d8b3f006535a3d540ee1c7e513c210f114dcb522eb737"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5da5cc5ffd6eada2967b20d8e20aa3203c502833"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/cifar10/curve/pretrained/resnet-amsbound-lr0.001-betas0.9-0.999-final_lr0.1-gamma0.001",
+      "SPDXID": "SPDXRef-File--demos-cifar10-curve-pretrained-resnet-amsbound-lr0.001-betas0.9-0.999-final-lr0.1-gamma0.001-84BB388C378A0434D12D9603E15EF4264B523F67",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "03eb86a51d4adbc44bdd8ed73509f6e95ccaf5ddf28e711e4ab5f25f78c10b56"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "84bb388c378a0434d12d9603e15ef4264b523f67"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-2BDC15433C8387848C57ACD3BFF86200E2994014",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3d297d0fa75a688422e9f2c9f5a8a83124bd723c77f212a5dec8b0387e483e02"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2bdc15433c8387848c57acd3bff86200e2994014"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/cifar10/visualization.ipynb",
+      "SPDXID": "SPDXRef-File--demos-cifar10-visualization.ipynb-B8603B111D1C9D0D65DD978CCB5D451D8F43BE0C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "097894fa815522072797cc412a17cea6145776564256c18527042801e90b46da"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b8603b111d1c9d0d65dd978ccb5d451d8f43be0c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/cifar10/curve/pretrained/resnet-amsgrad-lr0.001-betas0.99-0.999",
+      "SPDXID": "SPDXRef-File--demos-cifar10-curve-pretrained-resnet-amsgrad-lr0.001-betas0.99-0.999-D8659DBBA33DAD6BF78A6EBE078D10FF3746C0C3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d35afcd820fababb0821f5c6164d7ee73a2cd2049cecdd8302a09288f09ed1f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d8659dbba33dad6bf78a6ebe078d10ff3746c0c3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./setup.py",
+      "SPDXID": "SPDXRef-File--setup.py-E3BEB59358091B5F565E932999879D12F9CB7E7B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f39b6b65a2a4f80e10f600d91694830aed3d851ec9a8b7e0c83ebadfd013a337"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e3beb59358091b5f565e932999879d12f9cb7e7b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-9E420DFBF260EC44304FA4DBEFD7B8A8A2705D6A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ca04a6c89b527ae1335b0d2f22bb21d06af783df8703242db7f0c9a269998158"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9e420dfbf260ec44304fa4dbefd7b8a8a2705d6a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/cifar10/README.md",
+      "SPDXID": "SPDXRef-File--demos-cifar10-README.md-E0DDD0881020E7962E10D91F752B13D772F42338",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "24e90cd9f62c6825f69052a533514a1833d239e1c00e1ba3641ccbc73780938b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e0ddd0881020e7962e10d91f752b13d772f42338"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/cifar10/curve/pretrained/resnet-adabound-lr0.001-betas0.9-0.999-final_lr0.1-gamma0.001",
+      "SPDXID": "SPDXRef-File--demos-cifar10-curve-pretrained-resnet-adabound-lr0.001-betas0.9-0.999-final-lr0.1-gamma0.001-67328A9B15F7D17E951D42AB23A300CB6E6FBDC8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "93ebff6839161f62cc5f8b04c070ff047aed9c7d1715ac757f60167b7719e744"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "67328a9b15f7d17e951d42ab23a300cb6e6fbdc8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/cifar10/curve/pretrained/densenet-sgd-lr0.1-momentum0.9",
+      "SPDXID": "SPDXRef-File--demos-cifar10-curve-pretrained-densenet-sgd-lr0.1-momentum0.9-DC7F18401CBB0970D14D65B8E41A692BCBDAD4AF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0e0d6a8c06be3c7b63839291d1cfba8dbc4dcbe12b5d2a597c0c8e75aa05de67"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dc7f18401cbb0970d14d65b8e41a692bcbdad4af"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-B4A1C87AF778127E1D945290DB89657AAB515AE0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5127bfbb695d46dfca0bc3ad4e616df224f14b64e07a087fb09a2b270f1e3cd0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b4a1c87af778127e1d945290db89657aab515ae0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./adabound/adabound.py",
+      "SPDXID": "SPDXRef-File--adabound-adabound.py-F663A57986DBB4B7EBA3E5E132B71918870E73FA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "574acae590dd9b159e684a2a97bbdc515102264bf1208b5ba1da66872f95c649"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f663a57986dbb4b7eba3e5e132b71918870e73fa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/cifar10/models/resnet.py",
+      "SPDXID": "SPDXRef-File--demos-cifar10-models-resnet.py-E776E08806EFD6A5A965158BC0929A9C2A2CB33A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5c9cf5ed1c6e8c92a619207f0d9a20bbfaa2d68e80ba56278defed832725e0b2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e776e08806efd6a5a965158bc0929a9c2a2cb33a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./demos/cifar10/curve/pretrained/densenet-adagrad-lr0.01",
+      "SPDXID": "SPDXRef-File--demos-cifar10-curve-pretrained-densenet-adagrad-lr0.01-39DAAF292FC2FCB0A2070A5221897DDC895B38D0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "52006670c56f1648c71f575d923510d88cf449176d982ffac0bfbc5f3c2faa5c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "39daaf292fc2fcb0a2070a5221897ddc895b38d0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "AdaBound",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "7372e0887880bc720bbb454e665111ddabe5a13a"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "AdaBound-15.4.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:swid/AdaBound/spdx.org/AdaBound@AdaBound-15.4.6?tag_id=55648d51-0a16-46fe-b9dc-2d94193f4f3f"
+        }
+      ],
+      "supplier": "Organization: AdaBound",
+      "hasFiles": [
+        "SPDXRef-File--demos-cifar10-curve-pretrained-densenet-adam-lr0.001-betas0.9-0.999-8AC1B6D32BBD67CCA57AFEE90E6AEC0995A74CB0",
+        "SPDXRef-File--demos-cifar10-models---init--.py-470D3C1D201CFEAE45A3036662A8A7F4EFCCA326",
+        "SPDXRef-File--demos-README.md-D8E3E4B89CB44FB89034962CA66D5EF159D40E6B",
+        "SPDXRef-File--.git-objects-pack-pack-b66be1d78551c601079315881dd13a6c369fa0d5.pack-10A098F15903ED719BDAC13A71C0CBA061644043",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-packed-refs-7ABDD38BC1942F6686E1C571684D3F49FD575C44",
+        "SPDXRef-File--README.md-DC941B211BEC12FE22A6A9056957F8FACAA6C6CB",
+        "SPDXRef-File--demos-cifar10-curve-pretrained-densenet-sgd-lr0.1-momentum0.9-DC7F18401CBB0970D14D65B8E41A692BCBDAD4AF",
+        "SPDXRef-File--demos-cifar10-curve-pretrained-resnet-adabound-lr0.001-betas0.9-0.999-final-lr0.1-gamma0.001-67328A9B15F7D17E951D42AB23A300CB6E6FBDC8",
+        "SPDXRef-File--demos-cifar10-README.md-E0DDD0881020E7962E10D91F752B13D772F42338",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-9E420DFBF260EC44304FA4DBEFD7B8A8A2705D6A",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--setup.py-E3BEB59358091B5F565E932999879D12F9CB7E7B",
+        "SPDXRef-File--demos-cifar10-curve-pretrained-resnet-amsgrad-lr0.001-betas0.99-0.999-D8659DBBA33DAD6BF78A6EBE078D10FF3746C0C3",
+        "SPDXRef-File--demos-cifar10-visualization.ipynb-B8603B111D1C9D0D65DD978CCB5D451D8F43BE0C",
+        "SPDXRef-File--.git-refs-heads-master-2BDC15433C8387848C57ACD3BFF86200E2994014",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--demos-cifar10-curve-pretrained-resnet-adam-lr0.001-betas0.99-0.999-2010574980780BA972C8FE2E639893A4447CA9DE",
+        "SPDXRef-File--demos-cifar10-models-densenet.py-708453BE69146FED3211301036407BD6B3E5A48F",
+        "SPDXRef-File--adabound---init--.py-C6128825DAE0E161EB580C87F29FAB68C3BC0B9D",
+        "SPDXRef-File--.git-objects-pack-pack-b66be1d78551c601079315881dd13a6c369fa0d5.idx-833F9A7867E804ACC35BC89F0803A4B88B702DCC",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--.git-index-FB7031B12E32BF1ADED2A27FD73E9F2F8AD0B299",
+        "SPDXRef-File--.gitignore-E4DD2F639AE4CEA9A8D8B21F236DF9F78282765C",
+        "SPDXRef-File--demos-cifar10-curve-pretrained-densenet-adagrad-lr0.01-39DAAF292FC2FCB0A2070A5221897DDC895B38D0",
+        "SPDXRef-File--demos-cifar10-models-resnet.py-E776E08806EFD6A5A965158BC0929A9C2A2CB33A",
+        "SPDXRef-File--adabound-adabound.py-F663A57986DBB4B7EBA3E5E132B71918870E73FA",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-config-B4A1C87AF778127E1D945290DB89657AAB515AE0",
+        "SPDXRef-File--demos-cifar10-curve-pretrained-densenet-adabound-lr0.001-betas0.9-0.999-final-lr0.1-gamma0.001-2BF19B92D0DE2BACF89969A628E9D2223684A0A3",
+        "SPDXRef-File--demos-cifar10-curve-pretrained-densenet-amsgrad-lr0.001-betas0.9-0.999-A888D179D5938A3BFF244EA8D12C6DEAE15507BD",
+        "SPDXRef-File--demos-cifar10-.gitignore-AFE9C23233AA5A64B10F37AC8675FF61FD8A7DAC",
+        "SPDXRef-File--.git-logs-HEAD-9E420DFBF260EC44304FA4DBEFD7B8A8A2705D6A",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--LICENSE-58853EB8199B5AFE72A73A25FD8CF8C94285174B",
+        "SPDXRef-File--demos-cifar10-curve-pretrained-densenet-amsbound-lr0.001-betas0.9-0.999-final-lr0.1-gamma0.001-03919285AE5602C7D841D3D62F1F01E90768406B",
+        "SPDXRef-File--demos-cifar10-curve-pretrained-resnet-adagrad-lr0.01-E9F818C843D7EB09A8A96E53C0293EA13E050E3E",
+        "SPDXRef-File--demos-cifar10-requirements.txt-5DDA9A5FB983E48F1AF8AC9775B43DD3BFE3B733",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--demos-cifar10-curve-pretrained-resnet-amsbound-lr0.001-betas0.9-0.999-final-lr0.1-gamma0.001-84BB388C378A0434D12D9603E15EF4264B523F67",
+        "SPDXRef-File--demos-cifar10-curve-pretrained-resnet-sgd-lr0.1-momentum0.9-5DA5CC5FFD6EADA2967B20D8E20AA3203C502833",
+        "SPDXRef-File--demos-cifar10-main.py-C7C637482DC9F6C9E827C88297D65A5B6110CF56",
+        "SPDXRef-File--.git-logs-refs-heads-master-9E420DFBF260EC44304FA4DBEFD7B8A8A2705D6A",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--release.sh-C969F2733121EA63534A97B7775F2654A9BE57F3"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "AdaBound AdaBound-15.4.6",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-2.2.1-68f1d9cd-6214-40f6-9de1-ad743e050d89/AdaBound/AdaBound-15.4.6/VLozExJXYU2y_wMXue7iiQ",
+  "creationInfo": {
+    "created": "2024-01-07T16:02:16Z",
+    "creators": [
+      "Organization: AdaBound",
+      "Tool: Microsoft.SBOMTool-2.2.1"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "credstash",
+    "home_page": "https://github.com/fugue/credstash",
+    "author": "Organization:Fugue Inc",
+    "version": "1.17.1",
+    "license": " Apache-2.0",
+    "copyright": "Copyright 2020 Fugue Inc",
+    "packages": [
+        {
+            "name": "PyYAML",
+            "license": "MIT",
+            "home_page": "https://pyyaml.org/",
+            "author": "Kirill Simonov",
+            "version": ">=4.2b1"
+        },
+        {
+            "name": "pytest",
+            "license": "MIT",
+            "home_page": "https://github.com/pytest-dev/pytest",
+            "author": "Holger Krekel, Bruno Oliveira, Ronny Pfannschmidt, Floris Bruynooghe, Brianna Laugher, Florian Bruhin, Others (See AUTHORS)",
+            "version": ">=5.4.1"
+        },
+        {
+            "name": "cryptography",
+            "license": "Apache-2.0 OR BSD-3-Clause",
+            "home_page": "https://github.com/pyca/cryptography",
+            "author": "",
+            "version": ">=2.1"
+        },
+        {
+            "name": "boto3",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/boto/boto3",
+            "author": "Amazon Web Services",
+            "version": ">=1.1.1"
+        },
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ">=17.1"
+        },
+        {
+            "name": "flake8",
+            "license": "MIT",
+            "home_page": "https://github.com/pycqa/flake8",
+            "author": "Tarek Ziade",
+            "version": ""
+        },
+        {
+            "name": "multiprocessing",
+            "license": "BSD-4-Clause",
+            "home_page": "http://code.google.com/p/python-multiprocessing",
+            "author": "Christian Heimes",
+            "version": ""
+        },
+        {
+            "name": "botocore",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/boto/botocore",
+            "author": "Amazon Web Services",
+            "version": ""
+        }
+    ]
+}

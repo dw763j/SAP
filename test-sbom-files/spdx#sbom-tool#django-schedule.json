@@ -1,0 +1,3924 @@
+{
+  "files": [
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.textile",
+      "SPDXID": "SPDXRef-File--README.textile-46293E852A9D7A194EA0732E3497C2892EDBF93C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f536bcdf531e1dc2e5f61877a48e229de9d8c8c3668035903ed94188439f1ef0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "46293e852a9d7a194ea0732e3497c2892edbf93c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-4FBF65EC311A749BE46B4D5EE63ACECC160ECE70",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "909e7fe8c2bd5e737a3f1dea069aaeed435bd69af2bbdd5cf23efe3cfb5067fb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4fbf65ec311a749be46b4d5ee63acecc160ece70"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/views.py",
+      "SPDXID": "SPDXRef-File--schedule-views.py-8146BC2D4564746CC0E4BFD2A061AB489685EA85",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "671bf8fb54dadcda3c289b37b090c7da6b6206e510a75d2acd568a5eec328d98"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8146bc2d4564746cc0e4bfd2a061ab489685ea85"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/tests/test_models.py",
+      "SPDXID": "SPDXRef-File--schedule-tests-test-models.py-572776524A2312C938143E212BBE7FF2322629E3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f7aa23158d4d8e4a1859f2768dca4483f9c79751c0c16d4a1f6b46b8b189719a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "572776524a2312c938143e212bbe7ff2322629e3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/models/events.py",
+      "SPDXID": "SPDXRef-File--schedule-models-events.py-E490B8844DA7D801FB4431C26C63F7C556B75621",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "17b10dd83fb6c5ce48bd357d3b53c7185069965c7f05a4d932b51742f65c1b67"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e490b8844da7d801fb4431c26c63f7c556b75621"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/de/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--schedule-locale-de-LC-MESSAGES-django.po-8CDCEFDA43BA58D673A1E6CB8F3AE1C539924A81",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "86381fa39077ed8f49e5e9c9a0e1e06af591eac6c4e5a2c8fa914bf91af6e8a3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8cdcefda43ba58d673a1e6cb8f3ae1c539924a81"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/occurrence.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-occurrence.html-131CBAC530B76AD0B9CE0092B8EDAA64C19483D3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d9be4b1184ac0375d8f06138b847f66b2ff18dd2e1876977cc6117c1b0a408b1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "131cbac530b76ad0b9ce0092b8edaa64c19483d3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_event_options.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--event-options.html-EE717CC3CF20D67BAAA4BE57DC1695C3BFF7A032",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6c0b14e27d2f38392dd2146ee485c5c697f154c2ea7f48504fc6c7f1619c6186"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee717cc3cf20d67baaa4be57dc1695c3bff7a032"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/calendar_year.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-calendar-year.html-8028C36329CBE9ABAB94F2DE9B2D171B23960E61",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c626a6e8571b1a13a36924b45271fa6298652f229074f892a046772de637e18b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8028c36329cbe9abab94f2de9b2d171b23960e61"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/feeds/__init__.py",
+      "SPDXID": "SPDXRef-File--schedule-feeds---init--.py-D9A56D113CE067E09ECC8E7E891FE9069840DBFC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "90fb1fb890e0f54b68655730146b74c9ede251747292c1a68e5b72776424032d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9a56d113ce067e09ecc8e7e891fe9069840dbfc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/periods.txt",
+      "SPDXID": "SPDXRef-File--docs-periods.txt-822E63B4706ACEDA079E11264A6AEDEE36D2CF11",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "48a4815fa674757ec98a9082ca27a0d75254a3bdcbb47d28a7ed0415ed0b6dd9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "822e63b4706aceda079e11264a6aedee36d2cf11"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ffffff_11x11_icon_plus.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ffffff-11x11-icon-plus.gif-CE4321E6A1883A2B35AFACFE5680A852178F46A0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "16823233214552b575324163c6be55406eb2e6cb1abf8e44a4200c01d707e173"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ce4321e6a1883a2b35afacfe5680a852178f46a0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ffffff_11x11_icon_close.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ffffff-11x11-icon-close.gif-150EF036E882317B8A9F0E31D1E06E955DBCF6A3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0155f335a047060531d6ac18b9a0ca3d7d9b117209fe114174225055ddce61ab"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "150ef036e882317b8a9f0e31d1e06e955dbcf6a3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ffffff_11x11_icon_doc.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ffffff-11x11-icon-doc.gif-8197228475B64FE7D1FCE112D3627251869F7A8B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b5413d5450834c277a883cc7cc076895e30a0d597238a32543a106f7daa416f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8197228475b64fe7d1fce112d3627251869f7a8b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/e0e0e0_40x100_textures_02_glass_80.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-e0e0e0-40x100-textures-02-glass-80.png-218FDF591D37869B4A8B7FE40328A94B2A7CFCA9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "271112762fd5564e58ab550a8379d05124a1d65b12b355638e748925e612d0d4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "218fdf591d37869b4a8b7fe40328a94b2a7cfca9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ui-icons_222222_256x240.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ui-icons-222222-256x240.png-1F12BAC718A6275823D9805CBE6BF6818838AA8C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "57adb0d65f4e91dacfee975d9574422bee7486c8a182d60133728c672f2cdbbc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1f12bac718a6275823d9805cbe6bf6818838aa8c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ffffff_7x7_arrow_left.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ffffff-7x7-arrow-left.gif-828AA596B4FD861048079A7A18D354F5510C5CDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7d356d597fbcdbb956ffd0bc5bbf9a3ae3de99a2db5e57a4d53cecb0d452e100"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "828aa596b4fd861048079a7a18d354f5510c5cdc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-44D08F2A4292336D66C5BC60EC426F316A5AD2A4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "779724288055e7b286200233bb50b58c02556b715c2b21bca15b761122d7bfef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "44d08f2a4292336d66c5bc60ec426f316a5ad2a4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./setup.py",
+      "SPDXID": "SPDXRef-File--setup.py-16ACBFCF76D3E49271C2D17D8AE10570B6ECB6A1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "50412b04ad41514031b9afe94cc9cb8f119f6d35bc5209f093ecbe46bdb7bed6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "16acbfcf76d3e49271c2d17d8ae10570b6ecb6a1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-0e9e529bc316bc0ca636dedb6912c67aa5b2b58d.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-0e9e529bc316bc0ca636dedb6912c67aa5b2b58d.pack-501C9D701FD022B5785700BBA66B84D88CA13B9F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ea0e2b4a3219cc53c8c0e6cbb78d6b13f4cdcebc03bdad157bfed4794e17c0de"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "501c9d701fd022b5785700bba66b84d88ca13b9f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/forms.py",
+      "SPDXID": "SPDXRef-File--schedule-forms.py-06B16FC2557226DE1659853F84B34E7FB305E69E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7731955c55163667dff2c3a12bee320ab16abc08195339a7dcdbca1e846f5dcd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "06b16fc2557226de1659853f84b34e7fb305e69e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/management/commands/load_sample_data.py",
+      "SPDXID": "SPDXRef-File--schedule-management-commands-load-sample-data.py-D85D8D7BA1D8771C5DFC438A21F22CBF93FC9182",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4d7820708ff06391dd4b8d0b974448c399b3020fefdaac7ab255b59c874c9c6e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d85d8d7ba1d8771c5dfc438a21f22cbf93fc9182"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/tests/__init__.py",
+      "SPDXID": "SPDXRef-File--schedule-tests---init--.py-40B9457B928A24D6770ABCD351D2806EC82FFC09",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "14b5af5ab0d4e2c1c0964b19b820daac6a7c9aa6166c636e4268fa5685ac6f31"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "40b9457b928a24d6770abcd351d2806ec82ffc09"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templatetags/__init__.py",
+      "SPDXID": "SPDXRef-File--schedule-templatetags---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/en/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--schedule-locale-en-LC-MESSAGES-django.po-9CFCE446A3DBA76054A0165BE8F3430B04C7D851",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f57ae0ce72daca916ff260d53989c5e74241da22fa6d48fc67fb6d2b39240cab"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9cfce446a3dba76054a0165be8f3430b04c7d851"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/calendar_day.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-calendar-day.html-0C3BE389B19001E4DF435A6FFD355A75B73F6327",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "13ac640dff31ae4ca8f7852e6a73b8d788d42b1776b86414ee277f01b292b330"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0c3be389b19001e4df435a6ffd355a75b73f6327"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/event.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-event.html-36FCD69FC1F7AC654BB6C6D3684A9FC3ECB0CF5C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5bf1edb67e7b347f7cf1358ccfa8621a6b646b8643bf68c833490907a37a62a2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "36fcd69fc1f7ac654bb6c6d3684a9fc3ecb0cf5c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-50F9E71EC867FEDC272ED08B58A2257849CE763C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "590f8243cbae509d2efe41e6fc0a60dcc32036f84db009a606a74210277fdf7c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "50f9e71ec867fedc272ed08b58a2257849ce763c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/periods.py",
+      "SPDXID": "SPDXRef-File--schedule-periods.py-8F53D5DB3269423AFDC75653E9387828872EE2F9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7e0ca00060e08ca4e68eab7ad8edbd19329146adc4844ca5769aa37b573ad996"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8f53d5db3269423afdc75653e9387828872ee2f9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/management/commands/__init__.py",
+      "SPDXID": "SPDXRef-File--schedule-management-commands---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/tests/test_periods.py",
+      "SPDXID": "SPDXRef-File--schedule-tests-test-periods.py-029ABEA8645ACC218397F3CF144525D5C8FC71D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b1e2183fe9070245c25c8afe2759cf30e6fa06a1d21ec20d8b47c1db4c0b5279"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "029abea8645acc218397f3cf144525d5c8fc71d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/fr/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--schedule-locale-fr-LC-MESSAGES-django.po-49CAFD9C2747053C98DBDC4D9D9EE2D0DA2FA3A4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "689b4c367ef170c2ad0515e33ea2b3304727aaf77326d6d24bbafebf3fde812a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "49cafd9c2747053c98dbdc4d9d9ee2d0da2fa3a4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/profiles/schedule.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-profiles-schedule.html-DA93BD8A79EDED44F79B6CB11905BBAB82266B6B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "56c7218d6e0a5ee492e254ec57c3e6ccb4c55a789010afcf8e83136811d26ab8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da93bd8a79eded44f79b6cb11905bbab82266b6b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/calendar_list.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-calendar-list.html-BFDB6D0AB0B71C764C7C0C9396E6C1E3D173F195",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3b91cd38cb447084a4289173da4a69384dc060c4faa2b206025550f12df6291e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bfdb6d0ab0b71c764c7c0c9396e6c1e3d173f195"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/event_form_base.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-event-form-base.html-0EF82A7FD52FD0A5ABBDB512385201D0FCAF5E37",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d4668444cdf42074023205c61904b640dc2c902ad594568f1c758dae92e57204"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ef82a7fd52fd0a5abbdb512385201d0fcaf5e37"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_event_title.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--event-title.html-4F44E04CEA834B84EAFA2969D3FA9A9E79DEB717",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4974e020a59ec20e315848397c2066fd44078747e362c4a012b79a497014ffa9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4f44e04cea834b84eafa2969d3fa9a9e79deb717"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/settings.txt",
+      "SPDXID": "SPDXRef-File--docs-settings.txt-051C38FBB9D03D1F642E3D27C4C29D289CF4F16B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "439b3ad559418558db6cc9eed7e3bbb62156355683700af5e70090412928139f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "051c38fbb9d03d1f642e3d27c4c29d289cf4f16b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/urls.py",
+      "SPDXID": "SPDXRef-File--project-sample-urls.py-E84ECE0400075D347AF7096A370F8C6CF52BE644",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dea4a8f97b215135bbb47e5811514cc6b6d490370ab444b98708a4125ac011b6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e84ece0400075d347af7096a370f8c6cf52be644"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/222222_11x11_icon_folder_open.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-222222-11x11-icon-folder-open.gif-5207EB03A7931C4D232D341D984D986829E06744",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ef7e97d5fe14ab029886497b9cbc31f93687dbaf3db9df53b19c7aa10bc333ed"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5207eb03a7931c4d232d341d984d986829e06744"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ffffff_11x11_icon_folder_closed.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ffffff-11x11-icon-folder-closed.gif-38F19096F6712E895C63FCA43D094F21F512BA57",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9649086ebb992536e224aed8c606c2e9120f001a6982856f8ab5e7c8f1f07ddc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "38f19096f6712e895c63fca43d094f21f512ba57"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/222222_11x11_icon_arrows_updown.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-222222-11x11-icon-arrows-updown.gif-071A8D0EFE6C24984B866A45FB9ADA0EF52DE145",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "33b7663f426f2b15806c7eabde2a4d181f7ede33753557b382371a73f2d82817"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "071a8d0efe6c24984b866a45fb9ada0ef52de145"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/222222_11x11_icon_doc.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-222222-11x11-icon-doc.gif-08C10E2028A0D9A0FFE4773813F724CA0A6572FD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0aa8b0663e7ebddb858aa303063f6ffc21ca34f4cac81a83187fce3983f88e1d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "08c10e2028a0d9a0ffe4773813f724ca0a6572fd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ui-bg_gloss-wave_25_333333_500x100.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ui-bg-gloss-wave-25-333333-500x100.png-F392706472B2A6C15E4B9C264698E230317BA5E5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "767480ed00608a1a610998cc76bd75a607b23a3af868946263d7ba3d62e3a819"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f392706472b2a6c15e4b9c264698e230317ba5e5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/888888_7x7_arrow_down.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-888888-7x7-arrow-down.gif-4BF31B0D3CFC0BF1280571AA02404B8142160D07",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1aae3603c9d73bbcd2230e1c551a6901b6f8d1a3cf785289e4a77a31a46b2291"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4bf31b0d3cfc0bf1280571aa02404b8142160d07"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ui-bg_flat_50_5c5c5c_40x100.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ui-bg-flat-50-5c5c5c-40x100.png-0D04610E8A416E83B3809B1BE8C9F3176F8C4759",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bbed94a2455af7ea1a5bce1a73cf9169ffd961629e839b32bdb4e6647f365c87"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0d04610e8a416e83b3809b1be8c9f3176f8c4759"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/schedule/img/pencil.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-schedule-img-pencil.png-62A1B41AC5EEFBF3D0AD578A19572D4096D88146",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "858a4033d92f654e344243bbc75a968c39c298bd7fa87b5b3c9fe6eca4161386"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "62a1b41ac5eefbf3d0ad578a19572d4096d88146"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/js/jquery.bgiframe.js",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-js-jquery.bgiframe.js-BA6BDDBC44210EE4FFE5E77CA61AE8CA32ED45AE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3b410debc288e90c761ae48850cee0e63f98157e9417dd89c07ceed9bd47f75c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ba6bddbc44210ee4ffe5e77ca61ae8ca32ed45ae"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/templates/site_base.html",
+      "SPDXID": "SPDXRef-File--project-sample-templates-site-base.html-B957279111DEF828907A7A4FBE33DA55084DD189",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ab27271db703e1f172fe357faab8f80a23c6c6a5875a71fadd30203aa3208672"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b957279111def828907a7a4fbe33da55084dd189"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_day_cell.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--day-cell.html-9ACB04793DABCF1AFAD110FA2C80B6FE07929688",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c007b3b65a4efe8f17d1209447874360d9febb66baee4359eb155c0cff30c2b9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9acb04793dabcf1afad110fa2c80b6fe07929688"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/conf.py",
+      "SPDXID": "SPDXRef-File--docs-conf.py-948A3E966A0230385AF78F8BCF3D106CD209CB1F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eec08479341bf6f7153f63803ce97dd25a124dc5f3f88ad536637d31bbd55434"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "948a3e966a0230385af78f8bcf3d106cd209cb1f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/views.txt",
+      "SPDXID": "SPDXRef-File--docs-views.txt-529FB2A2A9EFD23D0E628221DA7F0A4F8066EDE0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dc148968d2c5235af924cf093cc7c1801432d204110de9aee2b5d83b2512518a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "529fb2a2a9efd23d0e628221da7f0a4f8066ede0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/222222_11x11_icon_minus.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-222222-11x11-icon-minus.gif-05F690CBD113603AEF8D1ECDC41645AF25939862",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e96d22e23cac649b4fcb3a27f3f73ee2867d073e958ebae570c799159dfedd98"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "05f690cbd113603aef8d1ecdc41645af25939862"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ffffff_11x11_icon_arrows_leftright.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ffffff-11x11-icon-arrows-leftright.gif-D52218CB4D72FC830910AE01E659683351CE7971",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bbe9abaaf3352a409f50acc17d0d603ab41604ad816a0caa6c729abd424e28c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d52218cb4d72fc830910ae01e659683351ce7971"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/222222_7x7_arrow_left.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-222222-7x7-arrow-left.gif-EF587B41D47F0E2247C068A4429439429B4885B7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "527cd5e48e6cf3a36e1b450ebb871b4e25f5eb52606d8e313fd1c5211b1283fd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ef587b41d47f0e2247c068a4429439429b4885b7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ui-icons_cccccc_256x240.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ui-icons-cccccc-256x240.png-0AC85D84FE31E58909FF0F12079A4326D84F33A6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0e73e7f7cef0e465b56b7da355f2b8b18e4d59b86cab6215e4fe3c16caf9a8dd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ac85d84fe31e58909ff0f12079a4326d84f33a6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/888888_11x11_icon_arrows_leftright.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-888888-11x11-icon-arrows-leftright.gif-C41F93AB8F2BE28DB8B649E0C9BBBF46A3AE9987",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fa5ea366c77cd2f8930110fa9a4cbad18582c0eecbbb4e225478999700a4da8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c41f93ab8f2be28db8b649e0c9bbbf46a3ae9987"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ffffff_11x11_icon_folder_open.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ffffff-11x11-icon-folder-open.gif-98B933A063273FF2563C13630F35C6583FB72B5E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9db29b056de1c5e52b9cc7889c883f514cdb548eca234752ebae6c2746cfa034"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "98b933a063273ff2563c13630f35c6583fb72b5e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/888888_7x7_arrow_left.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-888888-7x7-arrow-left.gif-72C7999FBD9552BD6A0B2AD24C9561AF5293E050",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ccfd078ad170c337f6f554450ac1dbf3836601a7361b51f16c1fc5a163a53d25"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "72c7999fbd9552bd6a0b2ad24c9561af5293e050"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/schedule/img/right_mod.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-schedule-img-right-mod.png-736EFC7651844545026B23FACE54B13E43D7EB2C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c13ec95ac5de2d5febdefba550a06134b79975bcd0206616d35af2c3b97e126e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "736efc7651844545026b23face54b13e43d7eb2c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/schedule/css/schedule.css",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-schedule-css-schedule.css-7880C64CABDA2A286E265DC382D82A69AA8341FB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "689faebfa93fbdf4a2c90146befe79e06fe9a057d90c495f19aae99c03d5c140"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7880c64cabda2a286e265dc382d82a69aa8341fb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/templates/base.html",
+      "SPDXID": "SPDXRef-File--project-sample-templates-base.html-F305902D5EF63A067F3ED4630460987241A37091",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "98646d3caa545b1249544c750eda88e2d3f3a27b409b566904c38a63139beb62"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f305902d5ef63a067f3ed4630460987241a37091"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/__init__.py",
+      "SPDXID": "SPDXRef-File--schedule---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/tests/test_views.py",
+      "SPDXID": "SPDXRef-File--schedule-tests-test-views.py-6E2B8E3075ECD91B9FA50FF89E7D85EFD20A2750",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6394d2fb57e5ec5ff03ba55203ed7745f45f519470797dfff2515201e4203999"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6e2b8e3075ecd91b9fa50ff89e7d85efd20a2750"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/models/__init__.py",
+      "SPDXID": "SPDXRef-File--schedule-models---init--.py-258DEACF4435998FCF9734A1D21F37CE062FABDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7ca34068eae497d8c9fff4791a8b659f22389047c88cd3c8900bcb68bafa6b0d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "258deacf4435998fcf9734a1d21f37ce062fabdc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/es/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--schedule-locale-es-LC-MESSAGES-django.mo-EF58CAC7A0AD5C16FC39977185E2E2C9DA6F7DFB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "edd89e1fdd9bef61f14794a966d19c7caa354b092c826332957724b926a72ab4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ef58cac7a0ad5c16fc39977185e2e2c9da6f7dfb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_detail.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--detail.html-5DF2BCA2D1E8AAF02E917203894949713102F592",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ef30b0f54a0bec49184e58e9d9d30a1a557c2e75c39b2d7004ea4e68524dc811"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5df2bca2d1e8aaf02e917203894949713102f592"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/calendar_compact_month.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-calendar-compact-month.html-F6831122D6D53613E5E2044DAB937E62996562D7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8504656cc121bbdf38af084680f20c53f74ccb09bcc2203c6d8e6af323eace4b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f6831122d6d53613e5e2044dab937e62996562d7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/calendar_week.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-calendar-week.html-EF2E7F92442260161C31EECCDB19F5D562EF8066",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "60d5a3bbd6cda71d3fd3caa38c3da37fd90eeb59e36b6df2b5193c0c690aedc7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ef2e7f92442260161c31eeccdb19f5d562ef8066"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/feeds/icalendar.py",
+      "SPDXID": "SPDXRef-File--schedule-feeds-icalendar.py-DD0CCAF6EAA258770A34BC08F044E6651AF856C2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0f4932bab7e32fdc1b972af74a2bbc31deb0b83781d16bf3c9960211bb88d3eb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dd0ccaf6eaa258770a34bc08f044e6651af856c2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/install.txt",
+      "SPDXID": "SPDXRef-File--docs-install.txt-7872728A68D466AEFED5DD8E12327AAA870A2D73",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e4202e2f7ef495cca54622864f288a616058a18d002c22bc374d6ed7e5b7c971"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7872728a68d466aefed5dd8e12327aaa870a2d73"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/manage.py",
+      "SPDXID": "SPDXRef-File--project-sample-manage.py-A1253ED135B5F35125ABFF284081135D3CA6943C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c39d47fe9653d6e61c05db44bb8b490783d62226f4b2d2a383997f6672c6a456"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a1253ed135b5f35125abff284081135d3ca6943c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/222222_11x11_icon_close.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-222222-11x11-icon-close.gif-021385C6D9659E9747A70AC79CFB3203D235B8C4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bbe59df4605f45923223c07f608220bbb9242179ef2af26f4b7d784e71fcc019"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "021385c6d9659e9747a70ac79cfb3203d235b8c4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/222222_7x7_arrow_down.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-222222-7x7-arrow-down.gif-5D13864E6BF5E365958A50C24587249C9FC1C0FB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6c8bb5f8cd154abb58ddf5e390e4c46efef2dba747c92d848541d69fb7b0031a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5d13864e6bf5e365958a50c24587249c9fc1c0fb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ui-icons_a83300_256x240.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ui-icons-a83300-256x240.png-080684169E1C8428398C6BFD8BD0B4934E104243",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3ae5bd9824686752d6283c198e572fa6415bb7f08434fb7151287f8edec25ad0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "080684169e1c8428398c6bfd8bd0b4934e104243"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/d8d8d8_40x100_textures_02_glass_90.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-d8d8d8-40x100-textures-02-glass-90.png-146AED94D8A8343F259BC393C300161B437EA8C3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9ce55b74ff6a47b2a3d983689123fb03509a588693b807721bff6bc9d06e8d68"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "146aed94d8a8343f259bc393c300161b437ea8c3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ui-bg_glass_40_ffc73d_1x400.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ui-bg-glass-40-ffc73d-1x400.png-17185944A5864158916D30FB69F8274B6D3682D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e704a3c33b119f64b3d2cfcac5e114463df2e5a03af93e1f4740a0743c58f971"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "17185944a5864158916d30fb69f8274b6d3682d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ui-bg_glass_20_555555_1x400.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ui-bg-glass-20-555555-1x400.png-0320A2B7A6E9003F538291549BB52F3AAEC23238",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "28620ea07efea445eb88cb9fa527f471cbeee2dd31d6207d65c5cfec424ce57e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0320a2b7a6e9003f538291549bb52f3aaec23238"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ui-bg_highlight-soft_80_eeeeee_1x100.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ui-bg-highlight-soft-80-eeeeee-1x100.png-FD0299FD1E97DF2A8BFB538F6DC74D9773894EED",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8a1d26d17cc47e21ffa887a686ce19a9d9445737df81e1bdd29962d8a2483978"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fd0299fd1e97df2a8bfb538f6dc74d9773894eed"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/schedule/img/left_mod.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-schedule-img-left-mod.png-6629BA830F1E7CDC3F2D0F2CC7F546BC10D04F60",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8a079e773a43935039e0c3c0b9608630d8138be6ae7b694b6d7ea2b8eab896fc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6629ba830f1e7cdc3f2d0f2cc7f546bc10d04f60"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/js/jquery.timePicker.js",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-js-jquery.timePicker.js-6A3E1CEF04EAF0C2D8CC25AC6E4D8CA7C21F9BD9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8c27572ff64462d123e2af15299dcd4af49a2d7b28e52278577ffd57cf921f50"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6a3e1cef04eaf0c2d8cc25ac6e4d8ca7c21f9bd9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENCSE.txt",
+      "SPDXID": "SPDXRef-File--LICENCSE.txt-1FB7FCE2728ABBDB30481B048EEAF4588434D660",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3fde37785f937a9a5ccf96e2a9cf47343681e1f87c26f5a9450350eb0397ed19"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1fb7fce2728abbdb30481b048eeaf4588434d660"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-7D55620EC3F853F9E178F3B2C7A0E601C42E78AD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "87fb0bc3ea2189c538b20b05d5c16b7dfe6da10a11e8196a86b072e0d7901dbc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7d55620ec3f853f9e178f3b2c7a0e601c42e78ad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-0e9e529bc316bc0ca636dedb6912c67aa5b2b58d.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-0e9e529bc316bc0ca636dedb6912c67aa5b2b58d.idx-8DBE265986631D270E340B578C25763055A6577F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f4188dca7f8ed163fd92b5e5b3210a5ad5df6fc522f2443a47439e4166ce34f8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8dbe265986631d270e340b578c25763055a6577f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/urls.py",
+      "SPDXID": "SPDXRef-File--schedule-urls.py-0871CB2E3EB6834F580453DC815C3FD36D22CFC5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "36f48f4ef65b287a6b667b635d6ef1c17dd97f5a24043b12367048c854a5641f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0871cb2e3eb6834f580453dc815c3fd36d22cfc5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/management/commands/load_example_data.py",
+      "SPDXID": "SPDXRef-File--schedule-management-commands-load-example-data.py-154F32B1D326EBEC3BF82589E307023E657AB357",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ccf4f871676cf40774da12d160c3268a0ac10ef8764fccf58a9d2b077a00243d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "154f32b1d326ebec3bf82589e307023e657ab357"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/tests/test_templatetags.py",
+      "SPDXID": "SPDXRef-File--schedule-tests-test-templatetags.py-242700FC94426B78891CEC8E54A0BF444F6E74B8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f5aeba2f383edf858ea42a8e67eca919109694c2bac914639764fe7f91991943"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "242700fc94426b78891cec8e54a0bf444f6e74b8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templatetags/scheduletags.py",
+      "SPDXID": "SPDXRef-File--schedule-templatetags-scheduletags.py-E47288F23A00A542B33EF9052929EB97D34C181A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c4dd2e32a91d9d52bdb1f42b45ccd6413f6b224392a3699e5ae4e8fd3fc04f2c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e47288f23a00a542b33ef9052929eb97d34c181a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/en/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--schedule-locale-en-LC-MESSAGES-django.mo-8649E6A161E9A1C796F06CC219975069C9D4C3DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9307a3dbfc1ddbd25362612fe8a84719630fbcf33b053a12573e0d299ce31c31"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8649e6a161e9a1c796f06cc219975069c9d4c3dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_month_table.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--month-table.html-8BDD739036B94D2C6C701FBD4437B5FDE54D5B47",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7d7a52765c9fe5825fb230a841551cd00dcb633b7bd8ed2266483d19b082ef9a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8bdd739036b94d2c6c701fbd4437b5fde54d5b47"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_dialogs.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--dialogs.html-D1FB51FEDB2EFD8BCC635FFFFED31BE3247009A1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "87d08cec4f2676be2acbeb684846b765ef57311f958d2f503fa9889115cea8ac"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d1fb51fedb2efd8bcc635ffffed31be3247009a1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/create_event.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-create-event.html-F71DC918B0725A6E56B3811D466BA8D645B0C921",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3f6a08394b74a99cd584694931272ee5a1add56a28347d013659be08200a563b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f71dc918b0725a6e56b3811d466ba8d645b0c921"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ui-icons_4b8e0b_256x240.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ui-icons-4b8e0b-256x240.png-84C106CAD65A7494B7109897C8FBFDD47AE9231B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "55770b460c559ddad92c86fe8e00a57d2e357604a1fa69c9dacc41fa72bac14f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "84c106cad65a7494b7109897c8fbfdd47ae9231b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/template_tags.txt",
+      "SPDXID": "SPDXRef-File--docs-template-tags.txt-6C5ED949E3F606579C83FD37364AF4DD4F7CCED1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6f426347802c4575200d94eacc5c508d6d70805919f965f73e2c9839bc7e6609"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6c5ed949e3f606579c83fd37364af4dd4f7cced1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ui-bg_inset-soft_30_f58400_1x100.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ui-bg-inset-soft-30-f58400-1x100.png-53E08145186E5D55D12255242F7BE22912609B3E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3f2b6e9dbcb8a881fa4917a1cf148437815723d2a9bb279e2ea7d222c6ab5d2f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "53e08145186e5d55d12255242f7be22912609b3e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/schedule/img/right_grey.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-schedule-img-right-grey.png-6FB09EA471FB5D35445D26A5380B037B4D5F25AF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6378bd5927977cc3bfae468e841bcb688789bd59d1242cf0638e8b1fe983c44c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6fb09ea471fb5d35445d26a5380b037b4d5f25af"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/css/jquery-ui.css",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-css-jquery-ui.css-6B76706B0FD628519DF2D108E058E85D4A76EF09",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2a8655a97f957035453db6ee3a13c0c20b808bf0db5185ab027cc7279d8591ac"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6b76706b0fd628519df2d108e058e85d4a76ef09"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/overview.txt",
+      "SPDXID": "SPDXRef-File--docs-overview.txt-7DA3453891452F1AA707BF47D475C491E3F2FF7F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ca8329b0e8a97edf1844e7db7948d24b38cc66f4df31c5da8ec682551e1804cd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7da3453891452f1aa707bf47d475c491e3f2ff7f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ui-bg_inset-soft_25_000000_1x100.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ui-bg-inset-soft-25-000000-1x100.png-55D69D12E85E68677BC2432173893E6CD065A1EF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2c6cda1b46cbe7827c2c816b1b60df1183725aebd723e9440415dd9bdbdf3fae"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "55d69d12e85e68677bc2432173893e6cd065a1ef"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/888888_11x11_icon_folder_open.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-888888-11x11-icon-folder-open.gif-59D63889F2062F97EFEDFF8E12721263430717AB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b01156cf35cf9cc7db526deb7c7c4f26568fd0797ce5db9c20c3a7db7515b594"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "59d63889f2062f97efedff8e12721263430717ab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ui-icons_ffffff_256x240.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ui-icons-ffffff-256x240.png-1D8DA8C320A8417D9776E369AD2AEF2F910CECA8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f52f0b159664cc2f40dbba748e3bd0e8ec0e836faea7733cb9270e84f5c7f3a3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1d8da8c320a8417d9776e369ad2aef2f910ceca8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/222222_35x9_colorpicker_indicator.gif.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-222222-35x9-colorpicker-indicator.gif.gif-7FFE484B21E8FC13B7536ECA4C9110BB618FE54B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8ef46aa9ec92585bd59bbf6e9e64fd6145dfb9d3013f3cfb238dcb0463241989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7ffe484b21e8fc13b7536eca4c9110bb618fe54b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/222222_11x11_icon_resize_se.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-222222-11x11-icon-resize-se.gif-EF58DFCE7766B51038D8FB0F420F24E0EECE62F7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b1752b3d4c261bf18ce2f95154b467a9fed94b346832de197b89d88d10cb75f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ef58dfce7766b51038d8fb0f420f24e0eece62f7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/222222_7x7_arrow_right.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-222222-7x7-arrow-right.gif-732568AEF4B30696CED49B0C1FCE939D6C54FC55",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d13f2fe852b8e8a94dec9638d58c31d19b6f5e5dfbb2336fd5a4b70efb9a10e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "732568aef4b30696ced49b0c1fce939d6c54fc55"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/888888_11x11_icon_folder_closed.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-888888-11x11-icon-folder-closed.gif-37E3508DDB2126F286D12A8D4088689EA5D14BA3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c59683380e6e93898b1bd2c353c39f5cd2a180bae71872956ae8780ff8872f50"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "37e3508ddb2126f286d12a8d4088689ea5d14ba3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/schedule/img/shadow.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-schedule-img-shadow.png-97C4BD5FDEBA26B06101D36B966DF8EAC690C20F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "590dbeca5406ad334387e28a6427ad58c8d6c0ac29293dd7fa3113f07c072c47"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "97c4bd5fdeba26b06101d36b966df8eac690c20f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/js/jquery.js",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-js-jquery.js-3DC9F7C2642EFFF4482E68C9D9DF874BF98F5BCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c8370a2d050359e9d505acc411e6f457a49b21360a21e6cbc9229bad3a767899"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3dc9f7c2642efff4482e68c9d9df874bf98f5bcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/templates/500.html",
+      "SPDXID": "SPDXRef-File--project-sample-templates-500.html-272B5096E6572807D980CD0E9BB68DED38DAC068",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "594272c88dba03bb8d0a79b5249c093b760398a4721d2196f0d5f1b1c02c588d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "272b5096e6572807d980cd0e9bb68ded38dac068"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-62A7CFD10CC4A5EAA40B7685133F6A9BAB76EFEF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2920f7562bcc2251c6a4a5235bfe381c716842fd267f7e144ea163ec43f543f5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "62a7cfd10cc4a5eaa40b7685133f6a9bab76efef"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-B5530C0816A8C45571A4168D9B6A1C16783C1BBE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8c2ffde135f3b4d2926fcce46bde2e71fcb8c29ae19658ca90882c479ae75167"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b5530c0816a8c45571a4168d9b6a1c16783c1bbe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/utils.py",
+      "SPDXID": "SPDXRef-File--schedule-utils.py-8A2B62D2FDCDB06C5CFE4B4881B27206ECB53F5D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "efe80ec8fb110a2123dbc609969a10d6c646266058f1206d0d83b102b074aa7a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8a2b62d2fdcdb06c5cfe4b4881b27206ecb53f5d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/management/__init__.py",
+      "SPDXID": "SPDXRef-File--schedule-management---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/tests/test_utils.py",
+      "SPDXID": "SPDXRef-File--schedule-tests-test-utils.py-FD7A39DC163A07CBF94FBE24848AD7851F10D886",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "30f5582eee80877adac01eea4230830112cf3b7e291892b4c45d2f6c54777404"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fd7a39dc163a07cbf94fbe24848ad7851f10d886"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/models/fixtures/schedule.json",
+      "SPDXID": "SPDXRef-File--schedule-models-fixtures-schedule.json-7DD06219A9DCD2801CC3F1A43172A7B6595E81CC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fd66fb8582437642bde032d4dc244e4fd57636569920f3684656e0d79b7c24f0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7dd06219a9dcd2801cc3f1a43172a7b6595e81cc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/de/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--schedule-locale-de-LC-MESSAGES-django.mo-78EC72D78C095841072623BBFC4C671B06487239",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "58ed85c276b634e07b74fbe5e53730dc0db899acf928baaf17281baecd6f7c68"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "78ec72d78c095841072623bbfc4c671b06487239"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/calendar.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-calendar.html-2AA8B909512198B95D457C5E6C3BCF05D69E4353",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c111476f6cc16ba0f200839fdb080966c2d6f23fe5f78839b4678dbaaa1883e8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2aa8b909512198b95d457c5e6c3bcf05d69e4353"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/edit_occurrence.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-edit-occurrence.html-8EDCDE843CC7EB16F3713391529C508081A72F1F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "358306124e29e16925f3f6ae8f8f1632efdc1dc063ad672a708bd5551b374630"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8edcde843cc7eb16f3713391529c508081a72f1f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_daily_table.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--daily-table.html-3AE039D26591C1D844EFC36291EDD3F9C1D00305",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "68d18d18842364aeb6fe23af53a369cbe189239d0c0391051d70f1d7e9e0b25a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3ae039d26591c1d844efc36291edd3f9c1d00305"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/Makefile",
+      "SPDXID": "SPDXRef-File--docs-Makefile-3CD457CCBFC4DB456568E139C63187066F7AAB6E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3cfda1ec3822b6968366e3bdeb5252cb643ac034a1f1020aa4aaf6711ffbd27a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3cd457ccbfc4db456568e139c63187066f7aab6e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/utils.txt",
+      "SPDXID": "SPDXRef-File--docs-utils.txt-003F0C15EEA933E805A927B7FEE4BC24CADABF36",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a9f6104dac9390414be679d81c28676450b0a80a6ce06e1ca4a2b15ba1967cbc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "003f0c15eea933e805a927b7fee4bc24cadabf36"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/222222_11x11_icon_plus.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-222222-11x11-icon-plus.gif-703726E95D9D6B8B771EE09F57F195E101BCDD0D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4b2889aefc7540607f291373a621853357f356dccb826b639c7d86f03e964b0e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "703726e95d9d6b8b771ee09f57f195e101bcdd0d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/222222_11x11_icon_folder_closed.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-222222-11x11-icon-folder-closed.gif-2EB9E229B9AC34FA984B5660DC004E99F54559E1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "56078d39e31ee80338019773167bae4d0905b0289c81fbb26da6e71be66af9a7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2eb9e229b9ac34fa984b5660dc004e99f54559e1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/888888_11x11_icon_close.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-888888-11x11-icon-close.gif-41EDB8612FDCD666CA53ACDDF76C9754250DA534",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "07802b8bc43b182d7e868e754012c6b9710c077db8a5cb770a4a4b7a7b0b0367"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "41edb8612fdcd666ca53acddf76c9754250da534"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ffffff_11x11_icon_arrows_updown.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ffffff-11x11-icon-arrows-updown.gif-027636908D795FF4AF4004F6428BA9E0BCCE0A2E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c47f06055c4d072312484e696682c49f201ee183a4325005f6f10aace9b6b1d8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "027636908d795ff4af4004f6428ba9e0bcce0a2e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/888888_7x7_arrow_right.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-888888-7x7-arrow-right.gif-FA01A3E60D04E683946B0DC5EEAD832230163A31",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7033b2f4285a7aa2d1a978a55a08891b6288659df923b16c661d6a47bfd1656c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fa01a3e60d04e683946b0dc5eead832230163a31"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/888888_11x11_icon_minus.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-888888-11x11-icon-minus.gif-83B82AD1E2A046FB0DE337EFA86DD9285014BB75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2e55f5d0d6af7e6e5cd1749db203d5440d33771ef20c3c9ae1067e3933d6dffa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "83b82ad1e2a046fb0de337efa86dd9285014bb75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ffffff_7x7_arrow_up.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ffffff-7x7-arrow-up.gif-0415B59AF38CDDA778AD1A9427589D099A5EFA5E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8905f226165d74858e3f574c62789dcc22595a8ecd5bc9a0daccb52238d65484"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0415b59af38cdda778ad1a9427589d099a5efa5e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/schedule/img/view.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-schedule-img-view.png-D2AA6A1242FA8FDA0F0403811A3B1488273288AB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "07f099a12fcb96e0d2757d1cfd652467bfd836914690ec12993ebf806aab5ac5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d2aa6a1242fa8fda0f0403811a3b1488273288ab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/schedule/img/left_grey.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-schedule-img-left-grey.png-D6D22F61F696349F1DDE23F5B655BF815E7D663F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4f9575aa9290fca95a94e55d33245fa1fbd43b626c73c9d465053d6cb00ae734"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d6d22f61f696349f1dde23f5b655bf815e7d663f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/css/jquery-ui-themeroller.css",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-css-jquery-ui-themeroller.css-0732E2DCBC3CD3C6D42527E47096426E825991D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bd3bb4ee3bb8cca55f3f2f32c6715231c080b16d612289b53f52b2bf4181a500"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0732e2dcbc3cd3c6d42527e47096426e825991d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./AUTHORS",
+      "SPDXID": "SPDXRef-File--AUTHORS-B23E70F31AB3E20BE70114522B78E47BFADF9D5D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d0e621a012b59a907bb70a25aa6dac99bf8f4547dc38178c92b5dab6dcddac22"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b23e70f31ab3e20be70114522b78e47bfadf9d5d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-50F9E71EC867FEDC272ED08B58A2257849CE763C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "590f8243cbae509d2efe41e6fc0a60dcc32036f84db009a606a74210277fdf7c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "50f9e71ec867fedc272ed08b58a2257849ce763c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/signals.py",
+      "SPDXID": "SPDXRef-File--schedule-signals.py-D258B98CE723353711CE773FF2D1D6CAE19817DF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7a6565b1f2a18081426e2608f06441eb0dc9b6d16b24a4c9965fe95e72c46dae"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d258b98ce723353711ce773ff2d1d6cae19817df"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/conf/__init__.py",
+      "SPDXID": "SPDXRef-File--schedule-conf---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/models/rules.py",
+      "SPDXID": "SPDXRef-File--schedule-models-rules.py-B1979FC4C38272D13C7902496D234340DBC4068D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e65f425a14d95a6331207b02d2cca4fb0378c3861105d295ee080f106a64a55c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b1979fc4c38272d13c7902496d234340dbc4068d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/es/LC_MESSAGES/django.po",
+      "SPDXID": "SPDXRef-File--schedule-locale-es-LC-MESSAGES-django.po-B8BDFEAD90406C79C14C0D6ECB52039D9D0E19E2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4e11552900cc225135111b2e8d8831fb2ab19acc55b1a36f34cc4295c9cf0d88"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b8bdfead90406c79c14c0d6ecb52039d9d0e19e2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_create_event_options.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--create-event-options.html-41E328BCBFB6248E10FE2F41F6B018377F167D01",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "27d6925615458c916f0abbcc42c40d8be2374b16e7129c8857c8338299f5b6f0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "41e328bcbfb6248e10fe2f41f6b018377f167d01"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/calendar_month.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-calendar-month.html-82D6FC57B89EF0D2A33C2834A9CE371EC00B2D74",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1e1283173e5121887012cf21d36ceea66f7b9c5822f7e551b5cb47eb3733b80b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "82d6fc57b89ef0d2a33c2834a9ce371ec00b2d74"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/delete_event.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-delete-event.html-69804AA454E673B6247CF994E871CE586EB40C41",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "64683f045244ac1285714655cc77e3690ea8084b0a1a956104a93c5ae829202e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "69804aa454e673b6247cf994e871ce586eb40c41"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/feeds/atom.py",
+      "SPDXID": "SPDXRef-File--schedule-feeds-atom.py-7321F590E15BC2776138002383313500B64C95F1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f71054f5c00c185a0b61cc47f0256304fb298ff7e9f154e0dc4f8c5ff0f6faa7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7321f590e15bc2776138002383313500b64c95f1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/models.txt",
+      "SPDXID": "SPDXRef-File--docs-models.txt-B1F4D5E54C5FA2F646BA0EEBCD80EB3E5A42EECD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "001abe38bef7f85354c7607158690f13c446c0096b8af2650a726c87b1949f3c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b1f4d5e54c5fa2f646ba0eebcd80eb3e5a42eecd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/__init__.py",
+      "SPDXID": "SPDXRef-File--project-sample---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./MANIFEST.in",
+      "SPDXID": "SPDXRef-File--MANIFEST.in-F651A2D2FCD10395231A0C0504841FC2F1184A29",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ebda69b3863e1da9ef8912da30457748c1f871f8f2986bfee9678b28d68a2a5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f651a2d2fcd10395231a0c0504841fc2f1184a29"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/888888_11x11_icon_plus.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-888888-11x11-icon-plus.gif-1A9C7007860AF6027BCAE37333ECDFF337CE5DE5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f3dd4071bc05bd8d4b58cec8485e22ac737c9c5cfd9527b70163c642dbad74f5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1a9c7007860af6027bcae37333ecdff337ce5de5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/222222_7x7_arrow_up.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-222222-7x7-arrow-up.gif-736106EC61AF49EE3BBB46A7ED645EB5D0E283DF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "34ab24b58780ac1824cb08a302077d6f9b41ea24cea747720c0b4bf717141567"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "736106ec61af49ee3bbb46a7ed645eb5d0e283df"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/_x_.",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images--x-.-8DFEB4345F46AB721E6058E6DB08FA71F4541050",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "01a216f93926c96ee5d83748bfa33b2d88bbe3d4e5342291cebafb365fa85b72"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8dfeb4345f46ab721e6058e6db08fa71f4541050"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ffffff_7x7_arrow_down.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ffffff-7x7-arrow-down.gif-54FAAE86542637DF05AA9E20AD3815130395AF93",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7813d7ebb28d32effe2147d2d126acd528dc49e27a191ee7bcc3cae0dcd245c2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "54faae86542637df05aa9e20ad3815130395af93"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/888888_11x11_icon_doc.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-888888-11x11-icon-doc.gif-7620A06653E52FBF576B6338FDBC856502B4115B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "754980b351ce4f3e9b3661729ae680bf7173a17f51993b7730b57abddc144ed4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7620a06653e52fbf576b6338fdbc856502b4115b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-50F9E71EC867FEDC272ED08B58A2257849CE763C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "590f8243cbae509d2efe41e6fc0a60dcc32036f84db009a606a74210277fdf7c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "50f9e71ec867fedc272ed08b58a2257849ce763c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/8ab9ff_40x100_textures_02_glass_50.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-8ab9ff-40x100-textures-02-glass-50.png-BC49BFBA295FB3E0A71BCCDECA30DDD416CD9949",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "be250892d35178ff35465c96f95ffb6a8c69c965ad1e1de8302cb7605eed085c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bc49bfba295fb3e0a71bccdeca30ddd416cd9949"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/admin.py",
+      "SPDXID": "SPDXRef-File--schedule-admin.py-C141D2056E467957F27CF145E8B57A43FD727BB1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7684d1960c21f2993bfaf3ac3e401f7d180698e4d7aaa3c0eb9f60b3eade9fe0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c141d2056e467957f27cf145e8b57a43fd727bb1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ui-bg_flat_30_cccccc_40x100.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ui-bg-flat-30-cccccc-40x100.png-DE94D60DE6CE70CA6B23A61D96EFC2AB2307DAA7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "02decbd7ff58bfd1f43ff458de5918e3c818e169bbac59f8dae8fb08291d5d40"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "de94d60de6ce70ca6b23a61d96efc2ab2307daa7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/conf/settings.py",
+      "SPDXID": "SPDXRef-File--schedule-conf-settings.py-434FE31F39D59E0B11F65CC00050919459D3DFBF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fec4ddeea358baf8ba3cd4f4752a7a8041b43736cae216a2b87f03e40b5f6809"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "434fe31f39d59e0b11f65cc00050919459d3dfbf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/schedule/img/add.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-schedule-img-add.png-B1E838F9E015799DFA9D6043E2DA322A2CC91A62",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "10e3c1d54c258e9e5559099d22e8a046389d41ee131557ec38c16d0cb537252d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b1e838f9e015799dfa9d6043e2da322a2cc91a62"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/models/calendars.py",
+      "SPDXID": "SPDXRef-File--schedule-models-calendars.py-B192FE6F40A594BCBB14021FE885EABFA1485DA3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "417cedaa71948b11567d9138ba195866f747280fbc3a4f5d1eebbf2b277c9821"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b192fe6f40a594bcbb14021fe885eabfa1485da3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/js/jquery-ui-datepicker.js",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-js-jquery-ui-datepicker.js-FD3C5362A1AA104CE4356E5C3D08C0A063510524",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ea8adecc2fe5e1d2e584217c6b8193dd17cc416e7b63da8a03782e487a1691d5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fd3c5362a1aa104ce4356e5c3d08c0a063510524"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/locale/fr/LC_MESSAGES/django.mo",
+      "SPDXID": "SPDXRef-File--schedule-locale-fr-LC-MESSAGES-django.mo-1D2A8A885EEEC6DC9D29A8CD368389A6B5310CD5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6593cb4f254e0251470cb2728be8ca45bf18d80c2e25b386d0bc0c170f7f2cae"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1d2a8a885eeec6dc9d29a8cd368389a6b5310cd5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/base.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-base.html-53EE9E93D034CB7DD71CA56DDAF6E3966C40D35C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fe727eabad1bac0ffaebe01597893131f4c51f95f52a8510a8d817804edcd59b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "53ee9e93d034cb7dd71ca56ddaf6e3966c40d35c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/calendar_tri_month.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-calendar-tri-month.html-D512C47DBA61BAB0A31648546D131E9046D30A18",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "19a57c0515781f5dc5524148dcbe328317eb904f5966811ed9103a17a7fae266"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d512c47dba61bab0a31648546d131e9046d30a18"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/_prevnext.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule--prevnext.html-C3B2FB85B81A5F0D4DE71BA3DED2582A376662C2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4e9b5bde697bbb5bebb1fe0bce5081898ea35f3d06dcaa356b9df61fcd89f33b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c3b2fb85b81a5f0d4de71ba3ded2582a376662c2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./schedule/templates/schedule/cancel_occurrence.html",
+      "SPDXID": "SPDXRef-File--schedule-templates-schedule-cancel-occurrence.html-BACE290544E6116D9E9B5B732CAF30B2619D0EED",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d32111e73e2865e380f496a665de20dcb9778dcd3fd91f4bdf196707839b427e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bace290544e6116d9e9b5b732caf30b2619d0eed"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/templates/homepage.html",
+      "SPDXID": "SPDXRef-File--project-sample-templates-homepage.html-7369AD7B541C5A3AB5941F0F6AE50527C9620A6A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3dc4c85df2a05062267ffc512166db6209cac8df29789aecfbbf87838b87b40f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7369ad7b541c5a3ab5941f0f6ae50527c9620a6a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./docs/index.txt",
+      "SPDXID": "SPDXRef-File--docs-index.txt-1C912A74DAF5C0A8D8F88CA3275CBD5F4D33A796",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c21942c630597aa2ec1956d352791d0c96d5394761f8832fb433f1a96d92f3db"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1c912a74daf5c0a8d8f88ca3275cbd5f4d33a796"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/settings.py",
+      "SPDXID": "SPDXRef-File--project-sample-settings.py-027E170206A92AAC4B917D382F781068EE52459A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "07b57044eecd7313f8f6b9c4a2079b44cc3a0c09872d048a79f78a857d4a6191"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "027e170206a92aac4b917d382f781068ee52459a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/888888_7x7_arrow_up.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-888888-7x7-arrow-up.gif-F606346F45DD65335C6C51203F0D417B01B89BCC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7c35b311513e060539f04fcfabd24d8146dcd0222e118fb046aca1b29506d968"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f606346f45dd65335c6c51203f0d417b01b89bcc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ui-bg_glass_40_0078a3_1x400.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ui-bg-glass-40-0078a3-1x400.png-2AE11E0CCF5AC9DDB186B6DBD906C097DFBA165D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "78f576982c3c0d1af6e7ec3525e3d51d57527a0a818f34b7574bedb533b64409"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2ae11e0ccf5ac9ddb186b6dbd906c097dfba165d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/222222_11x11_icon_arrows_leftright.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-222222-11x11-icon-arrows-leftright.gif-8A92941067355BDE64FA38DDE5ADCB26A9FD0798",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e40de4c0e0c523bbe4484de10890af12ec007bd7a1dcb692a9f43e2260d5dae5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8a92941067355bde64fa38dde5adcb26a9fd0798"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/f3f3f3_40x100_textures_01_flat_0.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-f3f3f3-40x100-textures-01-flat-0.png-5DC392335E40DA93E5582544A5CD5E4F0FA976D3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "897eadb765e493d02cf3429100f61e8fa7856f7bc6fd46ea8d29e19f0b57ae8f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5dc392335e40da93e5582544a5cd5e4f0fa976d3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/888888_11x11_icon_arrows_updown.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-888888-11x11-icon-arrows-updown.gif-E803AF3A95217B5187BAB3D0D7CED278CFD227DC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c49a99811afd7eafa55311abfc92f97348c94550e11d233d97a88a235c4fed86"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e803af3a95217b5187bab3d0d7ced278cfd227dc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ffffff_11x11_icon_minus.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ffffff-11x11-icon-minus.gif-C56F4D898F4ED4D4429505106B9F68165E112B44",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5a7bea11abb5aeea93b8901324b3942ea64883b1d2783335df5269ca95dda69d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c56f4d898f4ed4d4429505106b9f68165e112b44"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/images/ffffff_7x7_arrow_right.gif",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-images-ffffff-7x7-arrow-right.gif-D72413E454034EAAECE5AA7B76CC4E39CA04F609",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b70a54a2307f652c98afced7c92dbd1b06e1630e2472e1b9013772da9c2a761f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d72413e454034eaaece5aa7b76cc4e39ca04f609"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/schedule/img/delete.png",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-schedule-img-delete.png-8F0EBCB45D7BA71A541D4781329F4A6900C7EE65",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ce07a8b5022e59a1bde9690b720a6bf10fc9767db6512d14ebff2782ec62b5bf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8f0ebcb45d7ba71a541d4781329f4a6900c7ee65"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/site_media/js/jquery-ui.js",
+      "SPDXID": "SPDXRef-File--project-sample-site-media-js-jquery-ui.js-1E92EEA243CFF8B26EC5D160F2A59B1145BFB6D4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c59d58df38a15957344f964dde211eab485b340df98eb60bdd17f90f84c6e226"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1e92eea243cff8b26ec5d160f2a59b1145bfb6d4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./project_sample/templates/404.html",
+      "SPDXID": "SPDXRef-File--project-sample-templates-404.html-335D7D53AD73D2FBB5CA201EFF9ED84EAF8F1B58",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "901bc47fcb7e100505c8a997d353e0b24c1f7b77ed30fd9d431662019392f8f2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "335d7d53ad73d2fbb5ca201eff9ed84eaf8f1b58"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "vobject",
+      "SPDXID": "SPDXRef-Package-FF6A7FE71D25AB6072520C3A4303FEE7E9CBE1D598BA063C899323CFC9E51734",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.9.6.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/vobject@0.9.6.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "six",
+      "SPDXID": "SPDXRef-Package-25378CBAA5B993DD5440CAEF628C8DA9DC0E5905FB2B6D9F3A299EA2FD0D0ED5",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.16.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/six@1.16.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "python-dateutil",
+      "SPDXID": "SPDXRef-Package-1ED38385AE9AC9C171C5C8F7C2B997F38A8272BA5ADB5065689F0B959BB8ED6A",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.8.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/python-dateutil@2.8.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "django-schedule",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "e153c4fdeb07ea1a8ea75259fbe05a2a9c5b0efe"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "django-schedule-15.4.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:swid/django-schedule/spdx.org/django-schedule@django-schedule-15.4.6?tag_id=88ea0a09-d56c-4936-89a8-5485757ef31a"
+        }
+      ],
+      "supplier": "Organization: django-schedule",
+      "hasFiles": [
+        "SPDXRef-File--project-sample-site-media-css-jquery-ui.css-6B76706B0FD628519DF2D108E058E85D4A76EF09",
+        "SPDXRef-File--project-sample-site-media-schedule-img-right-grey.png-6FB09EA471FB5D35445D26A5380B037B4D5F25AF",
+        "SPDXRef-File--project-sample-site-media-images-ui-bg-inset-soft-30-f58400-1x100.png-53E08145186E5D55D12255242F7BE22912609B3E",
+        "SPDXRef-File--project-sample-site-media-images-ui-icons-4b8e0b-256x240.png-84C106CAD65A7494B7109897C8FBFDD47AE9231B",
+        "SPDXRef-File--project-sample-site-media-images-ffffff-7x7-arrow-left.gif-828AA596B4FD861048079A7A18D354F5510C5CDC",
+        "SPDXRef-File--project-sample-site-media-images-ui-icons-222222-256x240.png-1F12BAC718A6275823D9805CBE6BF6818838AA8C",
+        "SPDXRef-File--project-sample-site-media-images-e0e0e0-40x100-textures-02-glass-80.png-218FDF591D37869B4A8B7FE40328A94B2A7CFCA9",
+        "SPDXRef-File--project-sample-site-media-images-ffffff-11x11-icon-doc.gif-8197228475B64FE7D1FCE112D3627251869F7A8B",
+        "SPDXRef-File--project-sample-site-media-images-ffffff-11x11-icon-close.gif-150EF036E882317B8A9F0E31D1E06E955DBCF6A3",
+        "SPDXRef-File--project-sample-site-media-images-ffffff-11x11-icon-plus.gif-CE4321E6A1883A2B35AFACFE5680A852178F46A0",
+        "SPDXRef-File--docs-periods.txt-822E63B4706ACEDA079E11264A6AEDEE36D2CF11",
+        "SPDXRef-File--schedule-feeds---init--.py-D9A56D113CE067E09ECC8E7E891FE9069840DBFC",
+        "SPDXRef-File--schedule-templates-schedule-calendar-year.html-8028C36329CBE9ABAB94F2DE9B2D171B23960E61",
+        "SPDXRef-File--schedule-templates-schedule--event-options.html-EE717CC3CF20D67BAAA4BE57DC1695C3BFF7A032",
+        "SPDXRef-File--schedule-templates-schedule-occurrence.html-131CBAC530B76AD0B9CE0092B8EDAA64C19483D3",
+        "SPDXRef-File--schedule-locale-de-LC-MESSAGES-django.po-8CDCEFDA43BA58D673A1E6CB8F3AE1C539924A81",
+        "SPDXRef-File--schedule-models-events.py-E490B8844DA7D801FB4431C26C63F7C556B75621",
+        "SPDXRef-File--schedule-tests-test-models.py-572776524A2312C938143E212BBE7FF2322629E3",
+        "SPDXRef-File--schedule-views.py-8146BC2D4564746CC0E4BFD2A061AB489685EA85",
+        "SPDXRef-File--.git-refs-heads-master-4FBF65EC311A749BE46B4D5EE63ACECC160ECE70",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--project-sample-site-media-js-jquery.timePicker.js-6A3E1CEF04EAF0C2D8CC25AC6E4D8CA7C21F9BD9",
+        "SPDXRef-File--project-sample-site-media-schedule-img-left-mod.png-6629BA830F1E7CDC3F2D0F2CC7F546BC10D04F60",
+        "SPDXRef-File--project-sample-site-media-images-ui-bg-highlight-soft-80-eeeeee-1x100.png-FD0299FD1E97DF2A8BFB538F6DC74D9773894EED",
+        "SPDXRef-File--project-sample-site-media-images-ui-bg-glass-20-555555-1x400.png-0320A2B7A6E9003F538291549BB52F3AAEC23238",
+        "SPDXRef-File--project-sample-site-media-images-ui-bg-glass-40-ffc73d-1x400.png-17185944A5864158916D30FB69F8274B6D3682D1",
+        "SPDXRef-File--project-sample-site-media-images-d8d8d8-40x100-textures-02-glass-90.png-146AED94D8A8343F259BC393C300161B437EA8C3",
+        "SPDXRef-File--project-sample-site-media-images-ui-icons-a83300-256x240.png-080684169E1C8428398C6BFD8BD0B4934E104243",
+        "SPDXRef-File--project-sample-site-media-images-222222-7x7-arrow-down.gif-5D13864E6BF5E365958A50C24587249C9FC1C0FB",
+        "SPDXRef-File--project-sample-site-media-images-222222-11x11-icon-close.gif-021385C6D9659E9747A70AC79CFB3203D235B8C4",
+        "SPDXRef-File--project-sample-manage.py-A1253ED135B5F35125ABFF284081135D3CA6943C",
+        "SPDXRef-File--docs-install.txt-7872728A68D466AEFED5DD8E12327AAA870A2D73",
+        "SPDXRef-File--schedule-feeds-icalendar.py-DD0CCAF6EAA258770A34BC08F044E6651AF856C2",
+        "SPDXRef-File--schedule-templates-schedule-calendar-week.html-EF2E7F92442260161C31EECCDB19F5D562EF8066",
+        "SPDXRef-File--schedule-templates-schedule-calendar-compact-month.html-F6831122D6D53613E5E2044DAB937E62996562D7",
+        "SPDXRef-File--schedule-templates-schedule--detail.html-5DF2BCA2D1E8AAF02E917203894949713102F592",
+        "SPDXRef-File--schedule-locale-es-LC-MESSAGES-django.mo-EF58CAC7A0AD5C16FC39977185E2E2C9DA6F7DFB",
+        "SPDXRef-File--schedule-models---init--.py-258DEACF4435998FCF9734A1D21F37CE062FABDC",
+        "SPDXRef-File--schedule-tests-test-views.py-6E2B8E3075ECD91B9FA50FF89E7D85EFD20A2750",
+        "SPDXRef-File--schedule---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--project-sample-templates-base.html-F305902D5EF63A067F3ED4630460987241A37091",
+        "SPDXRef-File--project-sample-site-media-schedule-css-schedule.css-7880C64CABDA2A286E265DC382D82A69AA8341FB",
+        "SPDXRef-File--project-sample-site-media-schedule-img-right-mod.png-736EFC7651844545026B23FACE54B13E43D7EB2C",
+        "SPDXRef-File--project-sample-site-media-images-888888-7x7-arrow-left.gif-72C7999FBD9552BD6A0B2AD24C9561AF5293E050",
+        "SPDXRef-File--project-sample-site-media-images-ffffff-11x11-icon-folder-open.gif-98B933A063273FF2563C13630F35C6583FB72B5E",
+        "SPDXRef-File--project-sample-site-media-images-888888-11x11-icon-arrows-leftright.gif-C41F93AB8F2BE28DB8B649E0C9BBBF46A3AE9987",
+        "SPDXRef-File--project-sample-site-media-images-ui-icons-cccccc-256x240.png-0AC85D84FE31E58909FF0F12079A4326D84F33A6",
+        "SPDXRef-File--project-sample-site-media-images-222222-7x7-arrow-left.gif-EF587B41D47F0E2247C068A4429439429B4885B7",
+        "SPDXRef-File--project-sample-site-media-images-ffffff-11x11-icon-arrows-leftright.gif-D52218CB4D72FC830910AE01E659683351CE7971",
+        "SPDXRef-File--project-sample-site-media-images-222222-11x11-icon-minus.gif-05F690CBD113603AEF8D1ECDC41645AF25939862",
+        "SPDXRef-File--docs-views.txt-529FB2A2A9EFD23D0E628221DA7F0A4F8066EDE0",
+        "SPDXRef-File--docs-conf.py-948A3E966A0230385AF78F8BCF3D106CD209CB1F",
+        "SPDXRef-File--schedule-templates-schedule--day-cell.html-9ACB04793DABCF1AFAD110FA2C80B6FE07929688",
+        "SPDXRef-File--schedule-templates-schedule-event.html-36FCD69FC1F7AC654BB6C6D3684A9FC3ECB0CF5C",
+        "SPDXRef-File--schedule-templates-schedule-calendar-day.html-0C3BE389B19001E4DF435A6FFD355A75B73F6327",
+        "SPDXRef-File--schedule-locale-en-LC-MESSAGES-django.po-9CFCE446A3DBA76054A0165BE8F3430B04C7D851",
+        "SPDXRef-File--schedule-templatetags---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--schedule-tests---init--.py-40B9457B928A24D6770ABCD351D2806EC82FFC09",
+        "SPDXRef-File--schedule-management-commands-load-sample-data.py-D85D8D7BA1D8771C5DFC438A21F22CBF93FC9182",
+        "SPDXRef-File--schedule-forms.py-06B16FC2557226DE1659853F84B34E7FB305E69E",
+        "SPDXRef-File--.git-objects-pack-pack-0e9e529bc316bc0ca636dedb6912c67aa5b2b58d.pack-501C9D701FD022B5785700BBA66B84D88CA13B9F",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--.git-index-44D08F2A4292336D66C5BC60EC426F316A5AD2A4",
+        "SPDXRef-File--README.textile-46293E852A9D7A194EA0732E3497C2892EDBF93C",
+        "SPDXRef-File--project-sample-site-media-css-jquery-ui-themeroller.css-0732E2DCBC3CD3C6D42527E47096426E825991D1",
+        "SPDXRef-File--project-sample-site-media-schedule-img-left-grey.png-D6D22F61F696349F1DDE23F5B655BF815E7D663F",
+        "SPDXRef-File--project-sample-site-media-schedule-img-view.png-D2AA6A1242FA8FDA0F0403811A3B1488273288AB",
+        "SPDXRef-File--project-sample-site-media-images-ffffff-7x7-arrow-up.gif-0415B59AF38CDDA778AD1A9427589D099A5EFA5E",
+        "SPDXRef-File--project-sample-site-media-images-888888-11x11-icon-minus.gif-83B82AD1E2A046FB0DE337EFA86DD9285014BB75",
+        "SPDXRef-File--project-sample-site-media-images-888888-7x7-arrow-right.gif-FA01A3E60D04E683946B0DC5EEAD832230163A31",
+        "SPDXRef-File--project-sample-site-media-images-ffffff-11x11-icon-arrows-updown.gif-027636908D795FF4AF4004F6428BA9E0BCCE0A2E",
+        "SPDXRef-File--project-sample-site-media-images-888888-11x11-icon-close.gif-41EDB8612FDCD666CA53ACDDF76C9754250DA534",
+        "SPDXRef-File--project-sample-site-media-images-222222-11x11-icon-folder-closed.gif-2EB9E229B9AC34FA984B5660DC004E99F54559E1",
+        "SPDXRef-File--project-sample-site-media-images-222222-11x11-icon-plus.gif-703726E95D9D6B8B771EE09F57F195E101BCDD0D",
+        "SPDXRef-File--docs-utils.txt-003F0C15EEA933E805A927B7FEE4BC24CADABF36",
+        "SPDXRef-File--docs-Makefile-3CD457CCBFC4DB456568E139C63187066F7AAB6E",
+        "SPDXRef-File--schedule-templates-schedule--daily-table.html-3AE039D26591C1D844EFC36291EDD3F9C1D00305",
+        "SPDXRef-File--schedule-templates-schedule-edit-occurrence.html-8EDCDE843CC7EB16F3713391529C508081A72F1F",
+        "SPDXRef-File--schedule-templates-schedule-calendar.html-2AA8B909512198B95D457C5E6C3BCF05D69E4353",
+        "SPDXRef-File--schedule-locale-de-LC-MESSAGES-django.mo-78EC72D78C095841072623BBFC4C671B06487239",
+        "SPDXRef-File--schedule-models-fixtures-schedule.json-7DD06219A9DCD2801CC3F1A43172A7B6595E81CC",
+        "SPDXRef-File--schedule-tests-test-utils.py-FD7A39DC163A07CBF94FBE24848AD7851F10D886",
+        "SPDXRef-File--schedule-management---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--schedule-utils.py-8A2B62D2FDCDB06C5CFE4B4881B27206ECB53F5D",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-config-B5530C0816A8C45571A4168D9B6A1C16783C1BBE",
+        "SPDXRef-File--.gitignore-62A7CFD10CC4A5EAA40B7685133F6A9BAB76EFEF",
+        "SPDXRef-File--project-sample-templates-site-base.html-B957279111DEF828907A7A4FBE33DA55084DD189",
+        "SPDXRef-File--project-sample-site-media-js-jquery.bgiframe.js-BA6BDDBC44210EE4FFE5E77CA61AE8CA32ED45AE",
+        "SPDXRef-File--project-sample-site-media-schedule-img-pencil.png-62A1B41AC5EEFBF3D0AD578A19572D4096D88146",
+        "SPDXRef-File--project-sample-site-media-images-ui-bg-flat-50-5c5c5c-40x100.png-0D04610E8A416E83B3809B1BE8C9F3176F8C4759",
+        "SPDXRef-File--project-sample-site-media-images-888888-7x7-arrow-down.gif-4BF31B0D3CFC0BF1280571AA02404B8142160D07",
+        "SPDXRef-File--project-sample-site-media-images-ui-bg-gloss-wave-25-333333-500x100.png-F392706472B2A6C15E4B9C264698E230317BA5E5",
+        "SPDXRef-File--project-sample-site-media-images-222222-11x11-icon-doc.gif-08C10E2028A0D9A0FFE4773813F724CA0A6572FD",
+        "SPDXRef-File--project-sample-site-media-images-222222-11x11-icon-arrows-updown.gif-071A8D0EFE6C24984B866A45FB9ADA0EF52DE145",
+        "SPDXRef-File--project-sample-site-media-images-ffffff-11x11-icon-folder-closed.gif-38F19096F6712E895C63FCA43D094F21F512BA57",
+        "SPDXRef-File--project-sample-site-media-images-222222-11x11-icon-folder-open.gif-5207EB03A7931C4D232D341D984D986829E06744",
+        "SPDXRef-File--project-sample-urls.py-E84ECE0400075D347AF7096A370F8C6CF52BE644",
+        "SPDXRef-File--docs-settings.txt-051C38FBB9D03D1F642E3D27C4C29D289CF4F16B",
+        "SPDXRef-File--schedule-templates-schedule--event-title.html-4F44E04CEA834B84EAFA2969D3FA9A9E79DEB717",
+        "SPDXRef-File--schedule-templates-schedule-event-form-base.html-0EF82A7FD52FD0A5ABBDB512385201D0FCAF5E37",
+        "SPDXRef-File--schedule-templates-schedule-calendar-list.html-BFDB6D0AB0B71C764C7C0C9396E6C1E3D173F195",
+        "SPDXRef-File--schedule-templates-profiles-schedule.html-DA93BD8A79EDED44F79B6CB11905BBAB82266B6B",
+        "SPDXRef-File--schedule-locale-fr-LC-MESSAGES-django.po-49CAFD9C2747053C98DBDC4D9D9EE2D0DA2FA3A4",
+        "SPDXRef-File--schedule-tests-test-periods.py-029ABEA8645ACC218397F3CF144525D5C8FC71D1",
+        "SPDXRef-File--schedule-management-commands---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--schedule-periods.py-8F53D5DB3269423AFDC75653E9387828872EE2F9",
+        "SPDXRef-File--.git-logs-HEAD-50F9E71EC867FEDC272ED08B58A2257849CE763C",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--setup.py-16ACBFCF76D3E49271C2D17D8AE10570B6ECB6A1",
+        "SPDXRef-File--project-sample-templates-homepage.html-7369AD7B541C5A3AB5941F0F6AE50527C9620A6A",
+        "SPDXRef-File--project-sample-site-media-js-jquery-ui-datepicker.js-FD3C5362A1AA104CE4356E5C3D08C0A063510524",
+        "SPDXRef-File--project-sample-site-media-schedule-img-add.png-B1E838F9E015799DFA9D6043E2DA322A2CC91A62",
+        "SPDXRef-File--project-sample-site-media-images-ui-bg-flat-30-cccccc-40x100.png-DE94D60DE6CE70CA6B23A61D96EFC2AB2307DAA7",
+        "SPDXRef-File--project-sample-site-media-images-8ab9ff-40x100-textures-02-glass-50.png-BC49BFBA295FB3E0A71BCCDECA30DDD416CD9949",
+        "SPDXRef-File--project-sample-site-media-images-888888-11x11-icon-doc.gif-7620A06653E52FBF576B6338FDBC856502B4115B",
+        "SPDXRef-File--project-sample-site-media-images-ffffff-7x7-arrow-down.gif-54FAAE86542637DF05AA9E20AD3815130395AF93",
+        "SPDXRef-File--project-sample-site-media-images--x-.-8DFEB4345F46AB721E6058E6DB08FA71F4541050",
+        "SPDXRef-File--project-sample-site-media-images-222222-7x7-arrow-up.gif-736106EC61AF49EE3BBB46A7ED645EB5D0E283DF",
+        "SPDXRef-File--project-sample-site-media-images-888888-11x11-icon-plus.gif-1A9C7007860AF6027BCAE37333ECDFF337CE5DE5",
+        "SPDXRef-File--project-sample---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--docs-models.txt-B1F4D5E54C5FA2F646BA0EEBCD80EB3E5A42EECD",
+        "SPDXRef-File--schedule-feeds-atom.py-7321F590E15BC2776138002383313500B64C95F1",
+        "SPDXRef-File--schedule-templates-schedule-delete-event.html-69804AA454E673B6247CF994E871CE586EB40C41",
+        "SPDXRef-File--schedule-templates-schedule-calendar-month.html-82D6FC57B89EF0D2A33C2834A9CE371EC00B2D74",
+        "SPDXRef-File--schedule-templates-schedule--create-event-options.html-41E328BCBFB6248E10FE2F41F6B018377F167D01",
+        "SPDXRef-File--schedule-locale-es-LC-MESSAGES-django.po-B8BDFEAD90406C79C14C0D6ECB52039D9D0E19E2",
+        "SPDXRef-File--schedule-models-rules.py-B1979FC4C38272D13C7902496D234340DBC4068D",
+        "SPDXRef-File--schedule-conf---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--schedule-signals.py-D258B98CE723353711CE773FF2D1D6CAE19817DF",
+        "SPDXRef-File--.git-logs-refs-heads-master-50F9E71EC867FEDC272ED08B58A2257849CE763C",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--AUTHORS-B23E70F31AB3E20BE70114522B78E47BFADF9D5D",
+        "SPDXRef-File--project-sample-templates-404.html-335D7D53AD73D2FBB5CA201EFF9ED84EAF8F1B58",
+        "SPDXRef-File--project-sample-site-media-js-jquery-ui.js-1E92EEA243CFF8B26EC5D160F2A59B1145BFB6D4",
+        "SPDXRef-File--project-sample-site-media-schedule-img-delete.png-8F0EBCB45D7BA71A541D4781329F4A6900C7EE65",
+        "SPDXRef-File--project-sample-site-media-images-ffffff-7x7-arrow-right.gif-D72413E454034EAAECE5AA7B76CC4E39CA04F609",
+        "SPDXRef-File--project-sample-site-media-images-ffffff-11x11-icon-minus.gif-C56F4D898F4ED4D4429505106B9F68165E112B44",
+        "SPDXRef-File--project-sample-site-media-images-888888-11x11-icon-arrows-updown.gif-E803AF3A95217B5187BAB3D0D7CED278CFD227DC",
+        "SPDXRef-File--project-sample-site-media-images-f3f3f3-40x100-textures-01-flat-0.png-5DC392335E40DA93E5582544A5CD5E4F0FA976D3",
+        "SPDXRef-File--project-sample-site-media-images-222222-11x11-icon-arrows-leftright.gif-8A92941067355BDE64FA38DDE5ADCB26A9FD0798",
+        "SPDXRef-File--project-sample-site-media-images-ui-bg-glass-40-0078a3-1x400.png-2AE11E0CCF5AC9DDB186B6DBD906C097DFBA165D",
+        "SPDXRef-File--project-sample-site-media-images-888888-7x7-arrow-up.gif-F606346F45DD65335C6C51203F0D417B01B89BCC",
+        "SPDXRef-File--project-sample-settings.py-027E170206A92AAC4B917D382F781068EE52459A",
+        "SPDXRef-File--docs-index.txt-1C912A74DAF5C0A8D8F88CA3275CBD5F4D33A796",
+        "SPDXRef-File--schedule-templates-schedule-cancel-occurrence.html-BACE290544E6116D9E9B5B732CAF30B2619D0EED",
+        "SPDXRef-File--schedule-templates-schedule--prevnext.html-C3B2FB85B81A5F0D4DE71BA3DED2582A376662C2",
+        "SPDXRef-File--schedule-templates-schedule-calendar-tri-month.html-D512C47DBA61BAB0A31648546D131E9046D30A18",
+        "SPDXRef-File--schedule-templates-schedule-base.html-53EE9E93D034CB7DD71CA56DDAF6E3966C40D35C",
+        "SPDXRef-File--schedule-locale-fr-LC-MESSAGES-django.mo-1D2A8A885EEEC6DC9D29A8CD368389A6B5310CD5",
+        "SPDXRef-File--schedule-models-calendars.py-B192FE6F40A594BCBB14021FE885EABFA1485DA3",
+        "SPDXRef-File--schedule-conf-settings.py-434FE31F39D59E0B11F65CC00050919459D3DFBF",
+        "SPDXRef-File--schedule-admin.py-C141D2056E467957F27CF145E8B57A43FD727BB1",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-50F9E71EC867FEDC272ED08B58A2257849CE763C",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--MANIFEST.in-F651A2D2FCD10395231A0C0504841FC2F1184A29",
+        "SPDXRef-File--project-sample-templates-500.html-272B5096E6572807D980CD0E9BB68DED38DAC068",
+        "SPDXRef-File--project-sample-site-media-js-jquery.js-3DC9F7C2642EFFF4482E68C9D9DF874BF98F5BCB",
+        "SPDXRef-File--project-sample-site-media-schedule-img-shadow.png-97C4BD5FDEBA26B06101D36B966DF8EAC690C20F",
+        "SPDXRef-File--project-sample-site-media-images-888888-11x11-icon-folder-closed.gif-37E3508DDB2126F286D12A8D4088689EA5D14BA3",
+        "SPDXRef-File--project-sample-site-media-images-222222-7x7-arrow-right.gif-732568AEF4B30696CED49B0C1FCE939D6C54FC55",
+        "SPDXRef-File--project-sample-site-media-images-222222-11x11-icon-resize-se.gif-EF58DFCE7766B51038D8FB0F420F24E0EECE62F7",
+        "SPDXRef-File--project-sample-site-media-images-222222-35x9-colorpicker-indicator.gif.gif-7FFE484B21E8FC13B7536ECA4C9110BB618FE54B",
+        "SPDXRef-File--project-sample-site-media-images-ui-icons-ffffff-256x240.png-1D8DA8C320A8417D9776E369AD2AEF2F910CECA8",
+        "SPDXRef-File--project-sample-site-media-images-888888-11x11-icon-folder-open.gif-59D63889F2062F97EFEDFF8E12721263430717AB",
+        "SPDXRef-File--project-sample-site-media-images-ui-bg-inset-soft-25-000000-1x100.png-55D69D12E85E68677BC2432173893E6CD065A1EF",
+        "SPDXRef-File--docs-overview.txt-7DA3453891452F1AA707BF47D475C491E3F2FF7F",
+        "SPDXRef-File--docs-template-tags.txt-6C5ED949E3F606579C83FD37364AF4DD4F7CCED1",
+        "SPDXRef-File--schedule-templates-schedule-create-event.html-F71DC918B0725A6E56B3811D466BA8D645B0C921",
+        "SPDXRef-File--schedule-templates-schedule--dialogs.html-D1FB51FEDB2EFD8BCC635FFFFED31BE3247009A1",
+        "SPDXRef-File--schedule-templates-schedule--month-table.html-8BDD739036B94D2C6C701FBD4437B5FDE54D5B47",
+        "SPDXRef-File--schedule-locale-en-LC-MESSAGES-django.mo-8649E6A161E9A1C796F06CC219975069C9D4C3DD",
+        "SPDXRef-File--schedule-templatetags-scheduletags.py-E47288F23A00A542B33EF9052929EB97D34C181A",
+        "SPDXRef-File--schedule-tests-test-templatetags.py-242700FC94426B78891CEC8E54A0BF444F6E74B8",
+        "SPDXRef-File--schedule-management-commands-load-example-data.py-154F32B1D326EBEC3BF82589E307023E657AB357",
+        "SPDXRef-File--schedule-urls.py-0871CB2E3EB6834F580453DC815C3FD36D22CFC5",
+        "SPDXRef-File--.git-objects-pack-pack-0e9e529bc316bc0ca636dedb6912c67aa5b2b58d.idx-8DBE265986631D270E340B578C25763055A6577F",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-packed-refs-7D55620EC3F853F9E178F3B2C7A0E601C42E78AD",
+        "SPDXRef-File--LICENCSE.txt-1FB7FCE2728ABBDB30481B048EEAF4588434D660"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FF6A7FE71D25AB6072520C3A4303FEE7E9CBE1D598BA063C899323CFC9E51734",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-25378CBAA5B993DD5440CAEF628C8DA9DC0E5905FB2B6D9F3A299EA2FD0D0ED5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1ED38385AE9AC9C171C5C8F7C2B997F38A8272BA5ADB5065689F0B959BB8ED6A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "django-schedule django-schedule-15.4.6",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-2.2.1-fdd03a9c-a0fa-4961-b4e1-90fb99637a53/django-schedule/django-schedule-15.4.6/t5P6y1l8Mk-R4uglipA7IA",
+  "creationInfo": {
+    "created": "2024-01-07T00:03:23Z",
+    "creators": [
+      "Organization: django-schedule",
+      "Tool: Microsoft.SBOMTool-2.2.1"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

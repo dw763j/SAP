@@ -1,0 +1,38 @@
+{
+    "name": "GetOldTweets-python",
+    "home_page": "https://github.com/Jefferson-Henrique/GetOldTweets-python",
+    "author": "Person:Jefferson Henrique",
+    "version": "",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2016 Jefferson Henrique",
+    "packages": [
+        {
+            "name": "pyquery",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/gawel/pyquery",
+            "author": "Olivier Lauzanne",
+            "version": "1.2.10"
+        },
+        {
+            "name": "tweet",
+            "license": "",
+            "home_page": "https://github.com/Ganariya/tweet",
+            "author": "ganariya",
+            "version": ""
+        },
+        {
+            "name": "pyquery",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/gawel/pyquery",
+            "author": "Olivier Lauzanne",
+            "version": ""
+        },
+        {
+            "name": "lxml",
+            "license": "BSD-3-Clause",
+            "home_page": "https://lxml.de/",
+            "author": "lxml dev team",
+            "version": "3.5.0"
+        }
+    ]
+}

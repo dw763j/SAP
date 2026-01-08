@@ -1,0 +1,30 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "spdxVersion": "SPDX-2.2",
+    "creationInfo": {
+        "created": "2024-10-24T23:42:22Z",
+        "creators": [
+            "Tool: ort-36.0.0-018.sha.e5c6e0c"
+        ],
+        "licenseListVersion": "3.25.0"
+    },
+    "name": "Unnamed document",
+    "dataLicense": "CC0-1.0",
+    "documentNamespace": "spdx://eabeb470-a7cd-4a69-bbf4-3dac6d003379",
+    "documentDescribes": [
+        "SPDXRef-Project-PIP-setup.py"
+    ],
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Project-PIP-setup.py",
+            "copyrightText": "Copyright (c) 2008-2017 Tony Hauber\ncopyright 2009 Tony Hauber, Yann Malet, Rock Howard",
+            "downloadLocation": "NONE",
+            "filesAnalyzed": false,
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "name": "setup.py",
+            "summary": "NONE"
+        }
+    ]
+}

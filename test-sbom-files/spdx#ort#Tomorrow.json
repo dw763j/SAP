@@ -1,0 +1,240 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "spdxVersion": "SPDX-2.2",
+    "creationInfo": {
+        "created": "2024-10-23T11:14:03Z",
+        "creators": [
+            "Tool: ort-36.0.0-018.sha.e5c6e0c"
+        ],
+        "licenseListVersion": "3.25.0"
+    },
+    "name": "Unnamed document",
+    "dataLicense": "CC0-1.0",
+    "documentNamespace": "spdx://0d14f4f1-a14f-4dcf-b545-cd0247613886",
+    "documentDescribes": [
+        "SPDXRef-Project-PIP-tomorrow-0.2.4"
+    ],
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Project-PIP-tomorrow-0.2.4",
+            "copyrightText": "Copyright (c) 2015 Madison",
+            "downloadLocation": "NONE",
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/madisonmay/tomorrow",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "name": "tomorrow",
+            "summary": "NONE",
+            "versionInfo": "0.2.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-futures-3.1.1",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3a44f286998ae64f0cc083682fcfec16c406134a81a589a5de445d7bb7c2751b"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2001-2006 Python Software Foundation\nCopyright 2009 Brian Quinlan",
+            "downloadLocation": "https://files.pythonhosted.org/packages/05/80/f41cca0ea1ff69bce7e7a7d76182b47bb4e1a494380a532af3e8ee70b9ec/futures-3.1.1-py3-none-any.whl",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/futures@3.1.1"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/agronholm/pythonfutures",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "PSF-2.0",
+            "name": "futures",
+            "summary": "Backport of the concurrent.futures package from Python 3.2",
+            "versionInfo": "3.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-futures-3.1.1-vcs",
+            "copyrightText": "Copyright (c) 2001-2006 Python Software Foundation\nCopyright 2009 Brian Quinlan",
+            "downloadLocation": "git+https://github.com/agronholm/pythonfutures.git@65552e4ae925451679ed9b8d40c0971366abc718",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/futures@3.1.1"
+                }
+            ],
+            "filesAnalyzed": true,
+            "hasFiles": [
+                "SPDXRef-File-1",
+                "SPDXRef-File-2",
+                "SPDXRef-File-3",
+                "SPDXRef-File-4",
+                "SPDXRef-File-5",
+                "SPDXRef-File-6",
+                "SPDXRef-File-7"
+            ],
+            "homepage": "https://github.com/agronholm/pythonfutures",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "PSF-2.0",
+            "licenseInfoFromFiles": [
+                "PSF-2.0",
+                "Python-2.0"
+            ],
+            "name": "futures",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "584d18cebed6310bb5ee783c23185c0bb5f14d51"
+            },
+            "summary": "Backport of the concurrent.futures package from Python 3.2",
+            "versionInfo": "3.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-futures-3.1.1-source-artifact",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "51ecb45f0add83c806c68e4b06106f90db260585b25ef2abfcda0bd95c0132fd"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2001-2006 Python Software Foundation\nCopyright 2009 Brian Quinlan",
+            "downloadLocation": "https://files.pythonhosted.org/packages/cc/26/b61e3a4eb50653e8a7339d84eeaa46d1e93b92951978873c220ae64d0733/futures-3.1.1.tar.gz",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/futures@3.1.1"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/agronholm/pythonfutures",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "PSF-2.0",
+            "name": "futures",
+            "summary": "Backport of the concurrent.futures package from Python 3.2",
+            "versionInfo": "3.1.1"
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-File-1",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "521a94bcd88b7e41ac40ea892bf3da17c266af06"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "CHANGES",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Python-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-2",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "317697855104f4f264a8e8c266b4760991684440"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006 Python Software Foundation",
+            "fileName": "LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "PSF-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-3",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "779c74e19a2d086b15eadda123cd75a74250b7e5"
+                }
+            ],
+            "copyrightText": "Copyright 2009 Brian Quinlan",
+            "fileName": "concurrent/futures/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Python-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-4",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "59eb99d39eec5c4509d1a7960367ecbf8b012a17"
+                }
+            ],
+            "copyrightText": "Copyright 2009 Brian Quinlan",
+            "fileName": "concurrent/futures/_base.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Python-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-5",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "06d8718fb3451dcc400f8f0775794b763acc16ff"
+                }
+            ],
+            "copyrightText": "Copyright 2009 Brian Quinlan",
+            "fileName": "concurrent/futures/process.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Python-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-6",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ec49098b0c2f50c9fe464f050ccc52a2717c49b7"
+                }
+            ],
+            "copyrightText": "Copyright 2009 Brian Quinlan",
+            "fileName": "concurrent/futures/thread.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Python-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-7",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9f42ba0df91208604ddcc1a928c71290f0c94e46"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setup.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Python-2.0"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-futures-3.1.1",
+            "relationshipType": "GENERATED_FROM",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-futures-3.1.1-source-artifact"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-futures-3.1.1",
+            "relationshipType": "GENERATED_FROM",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-futures-3.1.1-vcs"
+        },
+        {
+            "spdxElementId": "SPDXRef-Project-PIP-tomorrow-0.2.4",
+            "relationshipType": "DEPENDS_ON",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-futures-3.1.1"
+        }
+    ]
+}

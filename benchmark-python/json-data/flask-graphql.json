@@ -1,0 +1,59 @@
+{
+    "name": "flask-graphql",
+    "home_page": "https://github.com/graphql-python/flask-graphql",
+    "author": "Person:Syrus Akbary",
+    "version": "2.0.1",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2015 Syrus Akbary",
+    "packages": [
+        {
+            "name": "tox-travis",
+            "license": "MIT",
+            "home_page": "https://github.com/tox-dev/tox-travis",
+            "author": "Ryan Hiebert",
+            "version": ""
+        },
+        {
+            "name": "coveralls",
+            "license": "MIT",
+            "home_page": "http://github.com/TheKevJames/coveralls-python",
+            "author": "TheKevJames",
+            "version": ""
+        },
+        {
+            "name": "Flask",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/pallets/flask",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ""
+        },
+        {
+            "name": "graphql-server",
+            "license": "MIT",
+            "home_page": "https://github.com/graphql-python/graphql-server",
+            "author": "Syrus Akbary",
+            "version": ""
+        },
+        {
+            "name": "graphql",
+            "license": "MIT",
+            "home_page": "https://github.com/graphql-go/graphql",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "pytest",
+            "license": "MIT",
+            "home_page": "https://github.com/pytest-dev/pytest",
+            "author": "Holger Krekel, Bruno Oliveira, Ronny Pfannschmidt, Floris Bruynooghe, Brianna Laugher, Florian Bruhin, Others (See AUTHORS)",
+            "version": ""
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+tools,precision,recall,doc_name,originator_score_r,supplier_score_r,copyright_score_r,version_score_r,dL_score_r,licenseC_score_r,licenseD_score_r,originator_score,supplier_score,version_score,dL_score,licenseC_score,licenseD_score,count
+syft,0.1288,0.1389,0.1598,0.1964,0.1964,0.08,0.1586,0.0,0.03,0.105,0.0,0.0444,0.1781,0.0137,0.034,0.024,100
+gh-sbom,0.3828,0.4005,0.0053,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2092,0.0086,0.0795,0.0,81
+ort,0.0573,0.2547,0.1843,0.0328,0.0328,0.2977,0.072,0.0119,0.131,0.3571,0.08,0.08,0.0271,0.0182,0.003,0.1161,84
+sbom-tool,0.0105,0.0017,0.7349,0.0,0.515,0.32,0.0,0.03,0.18,0.18,0.0,0.0042,0.0081,0.0,0.0,0.01,100

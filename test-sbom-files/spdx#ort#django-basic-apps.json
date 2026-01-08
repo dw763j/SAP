@@ -1,0 +1,31 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "spdxVersion": "SPDX-2.2",
+    "creationInfo": {
+        "created": "2024-10-23T15:55:29Z",
+        "creators": [
+            "Tool: ort-36.0.0-018.sha.e5c6e0c"
+        ],
+        "licenseListVersion": "3.25.0"
+    },
+    "name": "Unnamed document",
+    "dataLicense": "CC0-1.0",
+    "documentNamespace": "spdx://1fa56759-cae9-4ba8-90a5-130a9074bf97",
+    "documentDescribes": [
+        "SPDXRef-Project-PIP-django-basic-apps-0.7"
+    ],
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Project-PIP-django-basic-apps-0.7",
+            "copyrightText": "Copyright (c) Nathan Borror",
+            "downloadLocation": "NONE",
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/nathanborror/django-basic-apps",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "name": "django-basic-apps",
+            "summary": "NONE",
+            "versionInfo": "0.7"
+        }
+    ]
+}

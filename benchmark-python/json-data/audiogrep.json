@@ -1,0 +1,24 @@
+{
+    "name": "audiogrep",
+    "home_page": "https://github.com/antiboredom/audiogrep",
+    "author": "Person:Sam Lavigne",
+    "version": "",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2015 Sam Lavigne",
+    "packages": [
+        {
+            "name": "pydub",
+            "license": "MIT",
+            "home_page": "http://pydub.com",
+            "author": "James Robert",
+            "version": "0.20.0"
+        },
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ""
+        }
+    ]
+}

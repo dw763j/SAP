@@ -1,0 +1,31 @@
+{
+    "name": "redis-rdb-tools",
+    "home_page": "https://github.com/sripathikrishnan/redis-rdb-tools",
+    "author": "Person:Sripathi Krishnan",
+    "version": "0.1.15",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2012 Sripathi Krishnan",
+    "packages": [
+        {
+            "name": "trusty",
+            "license": "",
+            "home_page": "",
+            "author": "Chris Varga",
+            "version": ""
+        },
+        {
+            "name": "redis",
+            "license": "MIT",
+            "home_page": "https://github.com/redis/redis-py",
+            "author": "Redis Inc.",
+            "version": ""
+        },
+        {
+            "name": "Distutils",
+            "license": "",
+            "home_page": "http://www.python.org/sigs/distutils-sig/",
+            "author": "Greg Ward",
+            "version": ""
+        }
+    ]
+}

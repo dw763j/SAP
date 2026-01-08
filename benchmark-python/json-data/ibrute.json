@@ -1,0 +1,24 @@
+{
+    "name": "ibrute",
+    "home_page": "https://github.com/hackappcom/ibrute",
+    "author": "Person:",
+    "version": "",
+    "license": "",
+    "copyright": "",
+    "packages": [
+        {
+            "name": "lxml",
+            "license": "BSD-3-Clause",
+            "home_page": "https://lxml.de/",
+            "author": "lxml dev team",
+            "version": ""
+        },
+        {
+            "name": "socks",
+            "license": "",
+            "home_page": "",
+            "author": "",
+            "version": ""
+        }
+    ]
+}

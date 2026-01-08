@@ -1,0 +1,209 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "comment": "Exact versions could not be resolved for some packages. For more information: https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/about-the-dependency-graph#dependencies-included.",
+        "created": "2024-01-06T20:59:40Z",
+        "creators": [
+            "Tool: GitHub.com-Dependency-Graph"
+        ]
+    },
+    "dataLicense": "CC0-1.0",
+    "documentDescribes": [
+        "SPDXRef-com.github.holgerd77-django-dynamic-scraper"
+    ],
+    "documentNamespace": "https://github.com/holgerd77/django-dynamic-scraper/dependency_graph/sbom-c429e32fff9bb211",
+    "name": "com.github.holgerd77/django-dynamic-scraper",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-com.github.holgerd77-django-dynamic-scraper",
+            "downloadLocation": "git+https://github.com/holgerd77/django-dynamic-scraper",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceLocator": "pkg:github/holgerd77/django-dynamic-scraper",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "com.github.holgerd77/django-dynamic-scraper",
+            "supplier": "NOASSERTION",
+            "versionInfo": ""
+        },
+        {
+            "SPDXID": "SPDXRef-pip-attrs",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "pip:attrs",
+            "supplier": "NOASSERTION",
+            "versionInfo": ">= 17.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-pip-celery-3.1.25",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceLocator": "pkg:pypi/celery@3.1.25",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-2-Clause",
+            "name": "pip:celery",
+            "supplier": "NOASSERTION",
+            "versionInfo": "3.1.25"
+        },
+        {
+            "SPDXID": "SPDXRef-pip-django",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "pip:django",
+            "supplier": "NOASSERTION",
+            "versionInfo": ">= 1.11,< 1.12"
+        },
+        {
+            "SPDXID": "SPDXRef-pip-django-celery-3.2.1",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceLocator": "pkg:pypi/django-celery@3.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-2-Clause",
+            "name": "pip:django-celery",
+            "supplier": "NOASSERTION",
+            "versionInfo": "3.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-pip-future",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "pip:future",
+            "supplier": "NOASSERTION",
+            "versionInfo": ">= 0.17,< 0.18"
+        },
+        {
+            "SPDXID": "SPDXRef-pip-jsonpath-rw",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "pip:jsonpath-rw",
+            "supplier": "NOASSERTION",
+            "versionInfo": ">= 1.4"
+        },
+        {
+            "SPDXID": "SPDXRef-pip-kombu",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "pip:kombu",
+            "supplier": "NOASSERTION",
+            "versionInfo": ">= 3.0.37,< 3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-pip-pillow",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "pip:pillow",
+            "supplier": "NOASSERTION",
+            "versionInfo": ">= 6.2.1,< 7.0"
+        },
+        {
+            "SPDXID": "SPDXRef-pip-scrapy",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "pip:scrapy",
+            "supplier": "NOASSERTION",
+            "versionInfo": ">= 1.5,< 1.6"
+        },
+        {
+            "SPDXID": "SPDXRef-pip-scrapy-djangoitem",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "pip:scrapy-djangoitem",
+            "supplier": "NOASSERTION",
+            "versionInfo": ">= 1.1.1,< 1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-pip-scrapy-splash",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "pip:scrapy-splash",
+            "supplier": "NOASSERTION",
+            "versionInfo": ">= 0.7,< 0.8"
+        },
+        {
+            "SPDXID": "SPDXRef-pip-scrapyd",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "pip:scrapyd",
+            "supplier": "NOASSERTION",
+            "versionInfo": ">= 1.2,< 1.3"
+        }
+    ],
+    "relationships": [
+        {
+            "relatedSpdxElement": "SPDXRef-pip-attrs",
+            "relationshipType": "DEPENDS_ON",
+            "spdxElementId": "SPDXRef-com.github.holgerd77-django-dynamic-scraper"
+        },
+        {
+            "relatedSpdxElement": "SPDXRef-pip-celery-3.1.25",
+            "relationshipType": "DEPENDS_ON",
+            "spdxElementId": "SPDXRef-com.github.holgerd77-django-dynamic-scraper"
+        },
+        {
+            "relatedSpdxElement": "SPDXRef-pip-django",
+            "relationshipType": "DEPENDS_ON",
+            "spdxElementId": "SPDXRef-com.github.holgerd77-django-dynamic-scraper"
+        },
+        {
+            "relatedSpdxElement": "SPDXRef-pip-django-celery-3.2.1",
+            "relationshipType": "DEPENDS_ON",
+            "spdxElementId": "SPDXRef-com.github.holgerd77-django-dynamic-scraper"
+        },
+        {
+            "relatedSpdxElement": "SPDXRef-pip-future",
+            "relationshipType": "DEPENDS_ON",
+            "spdxElementId": "SPDXRef-com.github.holgerd77-django-dynamic-scraper"
+        },
+        {
+            "relatedSpdxElement": "SPDXRef-pip-jsonpath-rw",
+            "relationshipType": "DEPENDS_ON",
+            "spdxElementId": "SPDXRef-com.github.holgerd77-django-dynamic-scraper"
+        },
+        {
+            "relatedSpdxElement": "SPDXRef-pip-kombu",
+            "relationshipType": "DEPENDS_ON",
+            "spdxElementId": "SPDXRef-com.github.holgerd77-django-dynamic-scraper"
+        },
+        {
+            "relatedSpdxElement": "SPDXRef-pip-pillow",
+            "relationshipType": "DEPENDS_ON",
+            "spdxElementId": "SPDXRef-com.github.holgerd77-django-dynamic-scraper"
+        },
+        {
+            "relatedSpdxElement": "SPDXRef-pip-scrapy",
+            "relationshipType": "DEPENDS_ON",
+            "spdxElementId": "SPDXRef-com.github.holgerd77-django-dynamic-scraper"
+        },
+        {
+            "relatedSpdxElement": "SPDXRef-pip-scrapy-djangoitem",
+            "relationshipType": "DEPENDS_ON",
+            "spdxElementId": "SPDXRef-com.github.holgerd77-django-dynamic-scraper"
+        },
+        {
+            "relatedSpdxElement": "SPDXRef-pip-scrapy-splash",
+            "relationshipType": "DEPENDS_ON",
+            "spdxElementId": "SPDXRef-com.github.holgerd77-django-dynamic-scraper"
+        },
+        {
+            "relatedSpdxElement": "SPDXRef-pip-scrapyd",
+            "relationshipType": "DEPENDS_ON",
+            "spdxElementId": "SPDXRef-com.github.holgerd77-django-dynamic-scraper"
+        }
+    ],
+    "spdxVersion": "SPDX-2.3"
+}

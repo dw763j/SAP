@@ -1,0 +1,30 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "spdxVersion": "SPDX-2.2",
+    "creationInfo": {
+        "created": "2024-10-23T18:27:54Z",
+        "creators": [
+            "Tool: ort-36.0.0-018.sha.e5c6e0c"
+        ],
+        "licenseListVersion": "3.25.0"
+    },
+    "name": "Unnamed document",
+    "dataLicense": "CC0-1.0",
+    "documentNamespace": "spdx://de213006-28ab-473d-ab40-e165f822b6aa",
+    "documentDescribes": [
+        "SPDXRef-Project-PIP-requirements.txt"
+    ],
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Project-PIP-requirements.txt",
+            "copyrightText": "(c) 2013-2014 Rico Sta. Cruz - http://ricostacruz.com/nprogress\n(c) OpenJS Foundation and other contributors\nCopyright (c) 2016 Che Liang Liang\nCopyright (c) year Qie Ting Feng Yin\nCopyright 2011-2016 Tim O'Donnell\nCopyright 2011-2016 Twitter, Inc.",
+            "downloadLocation": "NONE",
+            "filesAnalyzed": false,
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "name": "requirements.txt",
+            "summary": "NONE"
+        }
+    ]
+}

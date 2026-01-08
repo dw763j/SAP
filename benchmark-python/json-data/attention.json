@@ -1,0 +1,26 @@
+{
+    "name": "attention",
+    "home_page": "https://github.com/bojone/attention",
+    "author": "Person:bojone",
+    "version": "",
+    "license": "",
+    "copyright": "",
+    "packages": [
+        {
+            "name": "keras",
+            "home_page": "https://github.com/keras-team/keras",
+            "author": "Organization:keras-team",
+            "version": "2.2.4",
+            "license": "Apache-2.0",
+            "copyright": ""
+        },
+        {
+            "name": "tensorflow",
+            "home_page": "https://github.com/tensorflow/tensorflow",
+            "author": "Organization:tensorflow",
+            "version": "1.8",
+            "license": "Apache-2.0",
+            "copyright": ""
+        }
+    ]
+}

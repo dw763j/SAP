@@ -1,0 +1,66 @@
+{
+    "name": "python_koans",
+    "home_page": "https://github.com/gregmalcolm/python_koans",
+    "author": "Person:Greg Malcolm and The Status Is Not Quo",
+    "version": "",
+    "license": "MIT",
+    "copyright": "Copyright 2021 Greg Malcolm and The Status Is Not Quo",
+    "packages": [
+        {
+            "name": "pytest",
+            "license": "MIT",
+            "home_page": "https://github.com/pytest-dev/pytest",
+            "author": "Holger Krekel, Bruno Oliveira, Ronny Pfannschmidt, Floris Bruynooghe, Brianna Laugher, Florian Bruhin, Others (See AUTHORS)",
+            "version": "4.4.2"
+        },
+        {
+            "name": "pytest-testdox",
+            "license": "MIT",
+            "home_page": "https://github.com/renanivo/pytest-testdox",
+            "author": "Renan Ivo",
+            "version": ""
+        },
+        {
+            "name": "mock",
+            "license": "MIT",
+            "home_page": "http://mock.readthedocs.org/en/latest/",
+            "author": "Testing Cabal",
+            "version": ""
+        },
+        {
+            "name": "sniffer",
+            "license": "MIT",
+            "home_page": "http://github.com/jeffh/sniffer/",
+            "author": "Jeff Hui",
+            "version": ""
+        },
+        {
+            "name": "pyinotify",
+            "license": "MIT",
+            "home_page": "http://github.com/seb-m/pyinotify",
+            "author": "Sebastien Martini",
+            "version": ""
+        },
+        {
+            "name": "pywin32",
+            "license": "PSF-2.0",
+            "home_page": "https://github.com/mhammond/pywin32",
+            "author": "Mark Hammond (et al)",
+            "version": ""
+        },
+        {
+            "name": "MacFSEvents",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/malthe/macfsevents",
+            "author": "Malthe Borch",
+            "version": ""
+        },
+        {
+            "name": "Runner",
+            "license": "GPL-2.0-only",
+            "home_page": "https://github.com/mfalesni/Run",
+            "author": "Milan Falešník",
+            "version": ""
+        }
+    ]
+}

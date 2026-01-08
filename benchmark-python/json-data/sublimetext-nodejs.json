@@ -1,0 +1,66 @@
+{
+    "name": "SublimeText-Nodejs",
+    "home_page": "https://github.com/tanepiper/SublimeText-Nodejs?tab=WTFPL-1-ov-file",
+    "author": "Person:Sam Hocevar <sam@hocevar.net>",
+    "version": "2.0.4",
+    "license": "WTFPL",
+    "copyright": "Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>",
+    "packages": [
+        {
+            "name": "python-coveralls",
+            "license": "Apache-2.0",
+            "home_page": "http://github.com/z4r/python-coveralls",
+            "author": "Andrea De Marco",
+            "version": ""
+        },
+        {
+            "name": "commander",
+            "license": "",
+            "home_page": "http://github.com/oremj/commander",
+            "author": "Jeremiah Orem",
+            "version": "2.9.0"
+        },
+        {
+            "name": "nodejs",
+            "license": "MIT",
+            "home_page": "https://github.com/markfinger/python-nodejs",
+            "author": "Mark Finger",
+            "version": "2.0.5"
+        },
+        {
+            "name": "sublime",
+            "license": "CC0",
+            "home_page": "http://github.com/wasade/sublime",
+            "author": "Daniel McDonald",
+            "version": ""
+        },
+        {
+            "name": "psutil",
+            "license": "BSD-3-Clause",
+            "home_page": "https://github.com/giampaolo/psutil",
+            "author": "Giampaolo Rodola",
+            "version": ""
+        },
+        {
+            "name": "coverage",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/nedbat/coveragepy",
+            "author": "Ned Batchelder and 224 others",
+            "version": "4.5.4"
+        },
+        {
+            "name": "codecov",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/codecov/codecov-python",
+            "author": "Codecov",
+            "version": "2.0.15"
+        },
+        {
+            "name": "coveralls",
+            "license": "MIT",
+            "home_page": "http://github.com/TheKevJames/coveralls-python",
+            "author": "TheKevJames",
+            "version": ""
+        }
+    ]
+}

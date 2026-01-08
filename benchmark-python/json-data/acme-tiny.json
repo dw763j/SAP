@@ -1,0 +1,11 @@
+{
+    "name": "acme-tiny",
+    "download_url": "https://github.com/diafygi/acme-tiny",
+    "author": "Person:diafygi",
+    "version": "5.0.1",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2015 Daniel Roesler",
+    "packages": [
+        {}
+    ]
+}

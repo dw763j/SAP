@@ -1,0 +1,915 @@
+{
+  "files": [
+    {
+      "fileName": "./setup.py",
+      "SPDXID": "SPDXRef-File--setup.py-260F8AA40B39153323151022E778B5E6DB03568F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "678ba3aba6d26d1f55e5f32c170070e9772f3357f9c1c377ab861dce8d52012c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "260f8aa40b39153323151022e778b5e6db03568f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-FCE7E0A080263CF448D2B7492574EAFB10F53805",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "afaec9cb1fa0ecd778fa547a79ccb39a46b415c9a57a78b73036af7204de2cba"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fce7e0a080263cf448d2b7492574eafb10f53805"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-5f82d438f64c5f436ff40ba998b69003ef73ff35.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-5f82d438f64c5f436ff40ba998b69003ef73ff35.pack-65C3AEAE79057555DAAE60111596CB5F2145F083",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4e9f43f4a923fcb764600e21e3eadb59f0545be2ac056cdb53eada61c37614e2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "65c3aeae79057555daae60111596cb5f2145f083"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./rest_framework_social_oauth2/urls.py",
+      "SPDXID": "SPDXRef-File--rest-framework-social-oauth2-urls.py-D310A859AE5319D8374A4A8B2BF0D763FC1CC14D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5d9cfe85d020e114b082c95f311a3b6655a6ca725e019ba88c65d3b24f1e0d37"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d310a859ae5319d8374a4a8b2bf0d763fc1cc14d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./rest_framework_social_oauth2/management/commands/createapp.py",
+      "SPDXID": "SPDXRef-File--rest-framework-social-oauth2-management-commands-createapp.py-766D27AF49C7717FA8E0CB75BA140032C33E620E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4c19f9b309245a03871cee83c9729f7e9c78c4b2f5b0c7dd30b8c09305ba3a1e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "766d27af49c7717fa8e0cb75ba140032c33e620e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9427cda09aba1cdde5c69c2b13c905bddb0bc51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./rest_framework_social_oauth2/authentication.py",
+      "SPDXID": "SPDXRef-File--rest-framework-social-oauth2-authentication.py-02F57AF6C76CEE47E8444002A6E16F3EC44CCE66",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3a2888b769265fbdc7b3273a0979ce61f2e74d1835fe067558b999ce7d890595"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "02f57af6c76cee47e8444002a6e16f3ec44cce66"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE.txt",
+      "SPDXID": "SPDXRef-File--LICENSE.txt-B20A5E6A6117DD82B68337DE0D39FD7EEB99BD15",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c368a2584ad051ced2522c08695c218298c6bad5048ec074f94d29992d57d7d7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b20a5e6a6117dd82b68337de0d39fd7eeb99bd15"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-69283C4D860615DD235E146F8B5936BD8334B608",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f55457bf31d973caa36f438b1ed246c9e5ae844790acfc4c7cab0a6dcd0a33ec"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "69283c4d860615dd235e146f8b5936bd8334b608"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./rest_framework_social_oauth2/backends.py",
+      "SPDXID": "SPDXRef-File--rest-framework-social-oauth2-backends.py-A65E9DB88D5B23073D7C4DF46C3FD21E620C275D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bf90e227d2a2f9e06f3b7a38873b8aba3b7f55f6cea3eac2d9778fa66dddfa94"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a65e9db88d5b23073d7c4df46c3fd21e620c275d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.rst",
+      "SPDXID": "SPDXRef-File--README.rst-4C1CFCEAF35D1EBDF158BEE68CB49BBA0B34B8D9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ce0b99084da094c12075d281ed90b993b47976f4562a5785f63701c097d1479a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4c1cfceaf35d1ebdf158bee68cb49bba0b34b8d9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-master-69283C4D860615DD235E146F8B5936BD8334B608",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f55457bf31d973caa36f438b1ed246c9e5ae844790acfc4c7cab0a6dcd0a33ec"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "69283c4d860615dd235e146f8b5936bd8334b608"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./rest_framework_social_oauth2/oauth2_endpoints.py",
+      "SPDXID": "SPDXRef-File--rest-framework-social-oauth2-oauth2-endpoints.py-AE8F54CF66CFAB2BC0E91F823DF1F892201B2B96",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "022a1085d959d05f98144c61537f0cee9deff5f7efdc91526d0e97e01f3187c6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ae8f54cf66cfab2bc0e91f823df1f892201b2b96"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contributors.txt",
+      "SPDXID": "SPDXRef-File--contributors.txt-5B77056290C92DEFCA8D12050F2DCABACF40E83E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6e7fc78b85227d83b43cf7e712b30f968b7d66fb34f7c33b6ba8c9f67078c2bc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5b77056290c92defca8d12050f2dcabacf40e83e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-99CF44AB8E424FC747A21F066809D68D773CD095",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3e500ac884d77973217bef202c9f571c26318955d795b5d51068c233a930c396"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "99cf44ab8e424fc747a21f066809d68d773cd095"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./rest_framework_social_oauth2/oauth2_backends.py",
+      "SPDXID": "SPDXRef-File--rest-framework-social-oauth2-oauth2-backends.py-97D4708E9DDAAC46E5BD449D5F5D746A320754F7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "21eb42f96402f0603291cd2826664bd36bb8b7068aec97f379b753aa0d75e6ef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "97d4708e9ddaac46e5bd449d5f5d746a320754f7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./rest_framework_social_oauth2/views.py",
+      "SPDXID": "SPDXRef-File--rest-framework-social-oauth2-views.py-73090D09779306EA4A2517D232CFE7C981B83BC9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "72fb8fb973448c72b24aa81c357b9bf70699a9038563ca5754716e2656b3003c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "73090d09779306ea4a2517d232cfe7c981b83bc9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./MANIFEST.in",
+      "SPDXID": "SPDXRef-File--MANIFEST.in-2E85CDFCB8BBC3BEB0BC56C8D23E07C6FF1CFAF1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "60e59674f435e04f4e23c8e49137eed3645c257e5c8f9a329e1256d7b2062730"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2e85cdfcb8bbc3beb0bc56c8d23e07c6ff1cfaf1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-69283C4D860615DD235E146F8B5936BD8334B608",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f55457bf31d973caa36f438b1ed246c9e5ae844790acfc4c7cab0a6dcd0a33ec"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "69283c4d860615dd235e146f8b5936bd8334b608"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./rest_framework_social_oauth2/settings.py",
+      "SPDXID": "SPDXRef-File--rest-framework-social-oauth2-settings.py-E0F4C94ED0AB2AA2A5A07103CCFDC06F7E024180",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cd4365689e0fdeb3127285b2d7b9b7fae56f562bbd106279e38490aefd261d1b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e0f4c94ed0ab2aa2a5a07103ccfdc06f7e024180"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-088A2B1B827F0924BC4EDB3B3B0FAA9D7F679F4A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8a830ed361c4546bca4d2009f56ceee74733540ca9974a07c08348e82de2e012"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "088a2b1b827f0924bc4edb3b3b0faa9d7f679f4a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbaef275e46a7f14c1ef456fff2c8bbe8c84724"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/master",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-master-3991E3F38F53326F12D21CAFA7E7586A284ACC64",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eca96ec832a145446dd79485d9f0e7f4ab586d5d0cdefdb202abd89f65e7b1c0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3991e3f38f53326f12d21cafa7e7586a284acc64"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./rest_framework_social_oauth2/__init__.py",
+      "SPDXID": "SPDXRef-File--rest-framework-social-oauth2---init--.py-CA183822E4997D0A00C43BB6A18433440707774A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0f8b3cfb69730a82f6f98b8eef9f4bdb6a513c5ed89905d883a38e96ea3a3986"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ca183822e4997d0a00c43bb6a18433440707774a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CHANGELOG.rst",
+      "SPDXID": "SPDXRef-File--CHANGELOG.rst-1F7F5A27B4486DB90522D8A8EC9D680CB482382A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ded90ccfcb58450e512f9cd2df921a35fef0c14cb1f238b3a80b51232b707518"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1f7f5a27b4486db90522d8a8ec9d680cb482382a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-1387EF8B0AF008A520B530F44BCA57E706FB7649",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3e21f8d970d1bd00d909b3e7684451bf74e108a6136a3d80886198215da0489a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1387ef8b0af008a520b530f44bca57e706fb7649"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-5f82d438f64c5f436ff40ba998b69003ef73ff35.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-5f82d438f64c5f436ff40ba998b69003ef73ff35.idx-FF12A53E712E12D0CEEBB04864D6AD70153AA19A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d450e7c8df3e5d96763e3399f38bc1b769e24edad7e7b58408d9aae16a653822"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ff12a53e712e12d0ceebb04864d6ad70153aa19a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./rest_framework_social_oauth2/oauth2_grants.py",
+      "SPDXID": "SPDXRef-File--rest-framework-social-oauth2-oauth2-grants.py-3129B8F2CBF48070901FF31817E508BD116733EB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "de09e8e295d44095b4cec371046429be9c9487cb5cceaad6379f56104741e567"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3129b8f2cbf48070901ff31817e508bd116733eb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "django-rest-framework-social-oauth2",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "86ea951b6f14c75d78559033ee1230ef7d0ba271"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "django-rest-framework-social-oauth2-15.4.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:swid/django-rest-framework-social-oauth2/spdx.org/django-rest-framework-social-oauth2@django-rest-framework-social-oauth2-15.4.6?tag_id=bc065b2f-ab03-426c-902b-45232d0e348e"
+        }
+      ],
+      "supplier": "Organization: django-rest-framework-social-oauth2",
+      "hasFiles": [
+        "SPDXRef-File--rest-framework-social-oauth2-oauth2-grants.py-3129B8F2CBF48070901FF31817E508BD116733EB",
+        "SPDXRef-File--.git-objects-pack-pack-5f82d438f64c5f436ff40ba998b69003ef73ff35.idx-FF12A53E712E12D0CEEBB04864D6AD70153AA19A",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-packed-refs-1387EF8B0AF008A520B530F44BCA57E706FB7649",
+        "SPDXRef-File--CHANGELOG.rst-1F7F5A27B4486DB90522D8A8EC9D680CB482382A",
+        "SPDXRef-File--rest-framework-social-oauth2-management-commands-createapp.py-766D27AF49C7717FA8E0CB75BA140032C33E620E",
+        "SPDXRef-File--rest-framework-social-oauth2-urls.py-D310A859AE5319D8374A4A8B2BF0D763FC1CC14D",
+        "SPDXRef-File--.git-objects-pack-pack-5f82d438f64c5f436ff40ba998b69003ef73ff35.pack-65C3AEAE79057555DAAE60111596CB5F2145F083",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--.git-index-FCE7E0A080263CF448D2B7492574EAFB10F53805",
+        "SPDXRef-File--setup.py-260F8AA40B39153323151022E778B5E6DB03568F",
+        "SPDXRef-File--rest-framework-social-oauth2-oauth2-endpoints.py-AE8F54CF66CFAB2BC0E91F823DF1F892201B2B96",
+        "SPDXRef-File--.git-logs-refs-heads-master-69283C4D860615DD235E146F8B5936BD8334B608",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--README.rst-4C1CFCEAF35D1EBDF158BEE68CB49BBA0B34B8D9",
+        "SPDXRef-File--rest-framework-social-oauth2-settings.py-E0F4C94ED0AB2AA2A5A07103CCFDC06F7E024180",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-69283C4D860615DD235E146F8B5936BD8334B608",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--MANIFEST.in-2E85CDFCB8BBC3BEB0BC56C8D23E07C6FF1CFAF1",
+        "SPDXRef-File--rest-framework-social-oauth2-views.py-73090D09779306EA4A2517D232CFE7C981B83BC9",
+        "SPDXRef-File--rest-framework-social-oauth2-oauth2-backends.py-97D4708E9DDAAC46E5BD449D5F5D746A320754F7",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-config-99CF44AB8E424FC747A21F066809D68D773CD095",
+        "SPDXRef-File--contributors.txt-5B77056290C92DEFCA8D12050F2DCABACF40E83E",
+        "SPDXRef-File--rest-framework-social-oauth2-backends.py-A65E9DB88D5B23073D7C4DF46C3FD21E620C275D",
+        "SPDXRef-File--.git-logs-HEAD-69283C4D860615DD235E146F8B5936BD8334B608",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--LICENSE.txt-B20A5E6A6117DD82B68337DE0D39FD7EEB99BD15",
+        "SPDXRef-File--rest-framework-social-oauth2---init--.py-CA183822E4997D0A00C43BB6A18433440707774A",
+        "SPDXRef-File--.git-refs-heads-master-3991E3F38F53326F12D21CAFA7E7586A284ACC64",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-HEAD-ACBAEF275E46A7F14C1EF456FFF2C8BBE8C84724",
+        "SPDXRef-File--.gitignore-088A2B1B827F0924BC4EDB3B3B0FAA9D7F679F4A",
+        "SPDXRef-File--rest-framework-social-oauth2-authentication.py-02F57AF6C76CEE47E8444002A6E16F3EC44CCE66",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-D9427CDA09ABA1CDDE5C69C2B13C905BDDB0BC51",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "django-rest-framework-social-oauth2 django-rest-framework-social-oauth2-15.4.6",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-2.2.1-9cf88c6a-049c-42af-bf13-cd4fe37d1618/django-rest-framework-social-oauth2/django-rest-framework-social-oauth2-15.4.6/ouzLi4n3ckG1iMJkZMJRug",
+  "creationInfo": {
+    "created": "2024-01-06T20:05:50Z",
+    "creators": [
+      "Organization: django-rest-framework-social-oauth2",
+      "Tool: Microsoft.SBOMTool-2.2.1"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

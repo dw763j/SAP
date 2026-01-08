@@ -1,0 +1,17 @@
+{
+    "name": "objc_dep",
+    "home_page": "https://github.com/nst/objc_dep",
+    "author": "Person:Nicolas Seriot",
+    "version": "",
+    "license": "BSD-3-Clause",
+    "copyright": "Copyright (c) 2012-2013, Nicolas Seriot",
+    "packages": [
+        {
+            "name": "sets",
+            "license": "MIT",
+            "home_page": "http://github.com/danijar/sets",
+            "author": "Danijar Hafner",
+            "version": ""
+        }
+    ]
+}

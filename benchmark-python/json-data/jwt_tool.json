@@ -1,0 +1,45 @@
+{
+    "name": "jwt_tool",
+    "home_page": "",
+    "author": "Person:",
+    "version": "",
+    "license": "GPL-3.0-only",
+    "copyright": "",
+    "packages": [
+        {
+            "name": "termcolor",
+            "license": "MIT",
+            "home_page": "https://github.com/termcolor/termcolor",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "cprint",
+            "license": "MIT",
+            "home_page": "https://github.com/EVasseure/cprint",
+            "author": "Erwan Vasseure",
+            "version": ""
+        },
+        {
+            "name": "pycryptodomex",
+            "license": "BSD-4-Clause",
+            "home_page": "https://www.pycryptodome.org",
+            "author": "Helder Eijs",
+            "version": ""
+        },
+        {
+            "name": "requests",
+            "license": "Apache-2.0",
+            "home_page": "https://requests.readthedocs.io",
+            "author": "Kenneth Reitz",
+            "version": ""
+        },
+        {
+            "name": "colorama",
+            "license": "BSD-3-Clause",
+            "home_page": "https://github.com/tartley/colorama",
+            "author": "",
+            "version": ""
+        }
+    ]
+}

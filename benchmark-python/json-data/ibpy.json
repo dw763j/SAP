@@ -1,0 +1,31 @@
+{
+    "name": "IbPy",
+    "home_page": "https://github.com/blampe/IbPy",
+    "author": "Person:Troy Melhase <troy@gci.net>",
+    "version": "0.8.0",
+    "license": "",
+    "copyright": "Copyright (C) 2003, 2004, 2005, 2006, 2007, 2008 Troy Melhase <troy@gci.net>",
+    "packages": [
+        {
+            "name": "Distutils",
+            "license": "MIT",
+            "home_page": "http://www.python.org/sigs/distutils-sig/",
+            "author": "Greg Ward",
+            "version": ""
+        },
+        {
+            "name": "java2python",
+            "license": "LGPL-2.1-only",
+            "home_page": "https://github.com/natural/java2python/",
+            "author": "Troy Melhase",
+            "version": ""
+        },
+        {
+            "name": "cfg",
+            "license": "",
+            "home_page": "",
+            "author": "Ian Cordasco, Ashwin Panchapakesan",
+            "version": ""
+        }
+    ]
+}

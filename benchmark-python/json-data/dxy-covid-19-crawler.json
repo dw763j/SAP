@@ -1,0 +1,45 @@
+{
+    "name": "DXY-COVID-19-Crawler",
+    "home_page": "https://github.com/BlankerL/DXY-COVID-19-Crawler",
+    "author": "Person:Jiabao Lin",
+    "version": "",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2020 Jiabao Lin",
+    "packages": [
+        {
+            "name": "beautifulsoup4",
+            "license": "MIT",
+            "home_page": "https://github.com/collegue1337/BeautifulSoup4",
+            "author": "",
+            "version": ">=0.0.1"
+        },
+        {
+            "name": "lxml",
+            "license": "BSD-3-Clause",
+            "home_page": "https://lxml.de/",
+            "author": "lxml dev team",
+            "version": ">=4.4.2"
+        },
+        {
+            "name": "requests",
+            "license": "Apache-2.0",
+            "home_page": "https://requests.readthedocs.io",
+            "author": "Kenneth Reitz",
+            "version": ">=2.22.0"
+        },
+        {
+            "name": "pymongo",
+            "license": "Apache-2.0",
+            "home_page": "",
+            "author": "The MongoDB Python Team",
+            "version": "3.10.1"
+        },
+        {
+            "name": "service",
+            "license": "MIT",
+            "home_page": "https://github.com/torfsen/service",
+            "author": "Florian Brucker",
+            "version": ""
+        }
+    ]
+}

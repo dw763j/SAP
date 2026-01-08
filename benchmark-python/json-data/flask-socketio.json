@@ -1,0 +1,171 @@
+{
+    "name": "Flask-SocketIO",
+    "home_page": "https://github.com/miguelgrinberg/Flask-SocketIO",
+    "author": "Person:Miguel Grinberg",
+    "version": "5.3.6",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2014 Miguel Grinberg",
+    "packages": [
+        {
+            "name": "tox-gh-actions",
+            "license": "MIT",
+            "home_page": "https://github.com/ymyzk/tox-gh-actions",
+            "author": "Yusuke Miyazaki",
+            "version": ""
+        },
+        {
+            "name": "tox",
+            "license": "MIT",
+            "home_page": "https://github.com/tox-dev/tox",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "bidict",
+            "license": "MPL-2.0",
+            "home_page": "https://github.com/jab/bidict",
+            "author": "",
+            "version": "0.22.0"
+        },
+        {
+            "name": "cachelib",
+            "license": "BSD-3-Clause",
+            "home_page": "https://github.com/pallets-eco/cachelib/",
+            "author": "",
+            "version": "0.9.0"
+        },
+        {
+            "name": "click",
+            "license": "BSD-3-Clause",
+            "home_page": "https://palletsprojects.com/p/click/",
+            "author": "",
+            "version": "8.1.3"
+        },
+        {
+            "name": "Flask",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/pallets/flask",
+            "author": "",
+            "version": "2.2.5"
+        },
+        {
+            "name": "Flask-Login",
+            "license": "MIT",
+            "home_page": "https://github.com/maxcountryman/flask-login",
+            "author": "Matthew Frazier",
+            "version": "0.6.2"
+        },
+        {
+            "name": "Flask-Session",
+            "license": "BSD-3-Clause",
+            "home_page": "https://github.com/pallets-eco/flask-session",
+            "author": "",
+            "version": "0.4.0"
+        },
+        {
+            "name": "Flask-SocketIO",
+            "license": "MIT",
+            "home_page": "https://github.com/miguelgrinberg/flask-socketio",
+            "author": "Miguel Grinberg",
+            "version": ""
+        },
+        {
+            "name": "importlib-metadata",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/python/importlib_metadata",
+            "author": "Jason R. Coombs",
+            "version": "4.12.0"
+        },
+        {
+            "name": "itsdangerous",
+            "license": "BSD-3-Clause",
+            "home_page": "https://palletsprojects.com/p/itsdangerous/",
+            "author": "Armin Ronacher",
+            "version": "2.1.2"
+        },
+        {
+            "name": "Jinja2",
+            "license": "BSD-3-Clause",
+            "home_page": "https://palletsprojects.com/p/jinja/",
+            "author": "",
+            "version": "3.1.2"
+        },
+        {
+            "name": "MarkupSafe",
+            "license": "BSD-3-Clause",
+            "home_page": "https://palletsprojects.com/p/markupsafe/",
+            "author": "",
+            "version": "2.1.1"
+        },
+        {
+            "name": "python-engineio",
+            "license": "MIT",
+            "home_page": "https://github.com/miguelgrinberg/python-engineio",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "python-socketio",
+            "license": "MIT",
+            "home_page": "https://github.com/miguelgrinberg/python-socketio",
+            "author": "",
+            "version": ">= 5.0.2"
+        },
+        {
+            "name": "six",
+            "license": "MIT",
+            "home_page": "https://github.com/benjaminp/six",
+            "author": "Benjamin Peterson",
+            "version": "1.11.0"
+        },
+        {
+            "name": "Werkzeug",
+            "license": "BSD-3-Clause",
+            "home_page": "https://github.com/pallets/werkzeug",
+            "author": "",
+            "version": "2.2.3"
+        },
+        {
+            "name": "zipp",
+            "license": "MIT",
+            "home_page": "https://github.com/jaraco/zipp",
+            "author": "Jason R. Coombs",
+            "version": "3.8.1"
+        },
+        {
+            "name": "pytest",
+            "license": "MIT",
+            "home_page": "https://github.com/pytest-dev/pytest",
+            "author": "Holger Krekel, Bruno Oliveira, Ronny Pfannschmidt, Floris Bruynooghe, Brianna Laugher, Florian Bruhin, Others (See AUTHORS)",
+            "version": ""
+        },
+        {
+            "name": "pytest-cov",
+            "license": "MIT",
+            "home_page": "https://github.com/pytest-dev/pytest-cov",
+            "author": "Marc Schlaich",
+            "version": ""
+        },
+        {
+            "name": "redis",
+            "license": "MIT",
+            "home_page": "https://github.com/redis/redis-py",
+            "author": "Redis Inc.",
+            "version": ""
+        },
+        {
+            "name": "Sphinx",
+            "license": "BSD-2-Clause",
+            "home_page": "https://github.com/sphinx-doc/sphinx",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "socketio",
+            "license": "",
+            "home_page": "http://zvonobot.ru",
+            "author": "EvgrDan",
+            "version": ""
+        }
+    ]
+}

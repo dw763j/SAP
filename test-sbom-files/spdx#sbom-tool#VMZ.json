@@ -1,0 +1,3251 @@
+{
+  "files": [
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-B9E787DC49B8D58BA02C0919BD6FF557AEF9B342",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5ba120059ac441387d84ac817fc4bf09cf388af3353f7c3253fdaae6541534b8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b9e787dc49b8d58ba02c0919bd6ff557aef9b342"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CONTRIBUTING.md",
+      "SPDXID": "SPDXRef-File--CONTRIBUTING.md-9F3512578BEF61D10991FEC3EFCA675C30A001DC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "137b46c2a1ba5bbb22df8f95958402e8b3b6bc38fac19029503bdd5532e8e085"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9f3512578bef61d10991fec3efca675c30a001dc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/HEAD",
+      "SPDXID": "SPDXRef-File--.git-HEAD-9F1DF7EEA4156BE8A871C292B549B3325E425AA2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9f1df7eea4156be8a871c292b549b3325e425aa2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/push-to-checkout.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "508240328c8b55f8157c93c43bf5e291e5d2fbcb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./LICENSE",
+      "SPDXID": "SPDXRef-File--LICENSE-1726596C1CC6C65D3A272ABC337B13936430CF96",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4d10fe5f3aa176b05b229a248866bad70b834c173f1252a814ff4748d8a13837"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1726596c1cc6c65d3a272abc337b13936430cf96"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-applypatch.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f208287c1a92525de9f5462e905a9d31de1e2d75"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-0E43E8298993752A22188F41829714795B0BFCC1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "00cc4edd6dd33e1061c241d627a187778d8f2075f45bb7d4727b8f100798f122"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0e43e8298993752a22188f41829714795b0bfcc1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-push.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a599b773b930ca83dbc3a5c7c13059ac4a6eaedc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730e6bd5225478bab6147b7a62a6e2ae21d40507"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/prepare-commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2584806ba147152ae005cb675aa4f01d5d068456"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ops/av_decoder.h",
+      "SPDXID": "SPDXRef-File--ops-av-decoder.h-23D3862CF730D8C14B673C05FD8784296FE4B056",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b1ee3bc5a17af547deef9743282eead53f26430849a0f6508213465e0a39b748"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "23d3862cf730d8c14b673c05fd8784296fe4b056"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/applypatch-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/heads/main",
+      "SPDXID": "SPDXRef-File--.git-refs-heads-main-97D79914C2CB117795E5B6182269B6909732DCF1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4afae0d4a70e0d9e8e990fd2c46f612ddbf8bd7aa84d7bbb8c7276398f0dc5e4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "97d79914c2cb117795e5b6182269b6909732dcf1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/lib/models/model_builder.py",
+      "SPDXID": "SPDXRef-File--c2-lib-models-model-builder.py-D8A7079A9982CF4BF13ED1A1EBB680D033D9BD0B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bf5d3dc28c47d5529745f74e47763ebc8061a605894bd6109ed693fbc04bc9ad"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d8a7079a9982cf4bf13ed1a1ebb680d033d9bd0b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/HEAD",
+      "SPDXID": "SPDXRef-File--.git-logs-HEAD-0E43E8298993752A22188F41829714795B0BFCC1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "00cc4edd6dd33e1061c241d627a187778d8f2075f45bb7d4727b8f100798f122"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0e43e8298993752a22188f41829714795b0bfcc1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ops/av_input_op.cc",
+      "SPDXID": "SPDXRef-File--ops-av-input-op.cc-B98E16559F82F35CBC92A5B1E3A1E7414CA58822",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d400342950392343e34e12109ebcab0f1893a6cace7bab1fdb7c02c528f810f9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b98e16559f82f35cbc92a5b1e3a1e7414ca58822"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/lib/models/builder/__init__.py",
+      "SPDXID": "SPDXRef-File--c2-lib-models-builder---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/lib/models/c3d_model.py",
+      "SPDXID": "SPDXRef-File--c2-lib-models-c3d-model.py-6060E7CF1A386CBF4ECADE137C534989B0D49071",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "de4677c95b9f253a60c78d3a0ddae8a1512ffd39e5bf267873a7c8961e1ee8f2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6060e7cf1a386cbf4ecade137c534989b0d49071"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ops/av_input_op_gpu.cc",
+      "SPDXID": "SPDXRef-File--ops-av-input-op-gpu.cc-C2E9EE2B4F98E18A7B08E39F87AE9AD259877BC3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "903a3f9c55f9dc67b529b364556e7c2832087aef6b84e20c634cc9cf3e200eca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c2e9ee2b4f98e18a7b08e39f87ae9ad259877bc3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/lib/utils/reader_utils.py",
+      "SPDXID": "SPDXRef-File--c2-lib-utils-reader-utils.py-F3D97891D88B8726B875630AC55F9F9A635C78CC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "922f9efa67b7166b7d35f1eec821b35ce4473f80362118ae2712de0b863cfa2c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f3d97891d88b8726b875630ac55f9f9a635c78cc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/scripts/fuse_prediction.sh",
+      "SPDXID": "SPDXRef-File--c2-scripts-fuse-prediction.sh-2D560E96A6FC1D29E7C4E41BBEAA33DCEC6574EF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7fd4b27685fffd9c20f66967365dc070d4554a8c28499eb2ee95cc051f6b8ab0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2d560e96a6fc1d29e7c4e41bbeaa33dcec6574ef"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/lib/models/r3d_model.py",
+      "SPDXID": "SPDXRef-File--c2-lib-models-r3d-model.py-D35FE1F75C6B125926DD6790D2A25ACC3DE5118B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ccf36fd6c37773b42467026444b049b66daa9b1723aad3f31b80484d112e5ffb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d35fe1f75c6b125926dd6790d2a25acc3de5118b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/scripts/create_kinetics_lmdb_feature_extraction.sh",
+      "SPDXID": "SPDXRef-File--c2-scripts-create-kinetics-lmdb-feature-extraction.sh-FE2D695D94E4457E7D49D62626C74F4078B0D385",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "df88ac6a02aee3b748575ce0398b60e8e1b03ef5b102aebb31d902365a97752c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fe2d695d94e4457e7d49d62626c74f4078b0d385"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/scripts/extract_feature_kinetics.sh",
+      "SPDXID": "SPDXRef-File--c2-scripts-extract-feature-kinetics.sh-2875FCCEC155D32AA0DB86D7328D60858738FD3E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fe3eefda5f35dc5378e4f951907160505f624cd0fa28084d5d87525154a82281"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2875fccec155d32aa0db86d7328d60858738fd3e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/index",
+      "SPDXID": "SPDXRef-File--.git-index-A69F186BF67F450CCD8CDFF5F5C5BF3C7ACD4335",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b31df764fe6a30e84f5f056a05c27c7fced49ff647521162961505e2e2e5e778"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a69f186bf67f450ccd8cdff5f5c5bf3c7acd4335"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/scripts/test_irCSN_152_kinetics.sh",
+      "SPDXID": "SPDXRef-File--c2-scripts-test-irCSN-152-kinetics.sh-31B7FEFBEE5764FB6A28E2263F22D10B6CDB3472",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bfd187cfb44dd5afa9e921a446aae7d909e0bd3f37973fd3e39dcd85410a763f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "31b7fefbee5764fb6a28e2263f22d10b6cdb3472"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/tools/minidb_to_pickle.py",
+      "SPDXID": "SPDXRef-File--c2-tools-minidb-to-pickle.py-632EA2164D0F7D1A7661D896C7777796CE180410",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "755c50871088fa1b166b0a272833d639750b953beb39afab5c77d4442a42a764"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "632ea2164d0f7d1a7661d896c7777796ce180410"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/commit-msg.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee1ed5aad98a435f2020b6de35c173b75d9affac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/lib/models/builder/audio_model.py",
+      "SPDXID": "SPDXRef-File--c2-lib-models-builder-audio-model.py-732C3F666B82A49A083D778473EB23F06EB29BB2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c15930bd9f980c65bbb010aff7cba56588681d7a16313376233d1d4af0beb282"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "732c3f666b82a49a083d778473eb23f06eb29bb2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/tutorials/hmdb51_finetune.md",
+      "SPDXID": "SPDXRef-File--c2-tutorials-hmdb51-finetune.md-7F389B312679F5DA20DC35DFCBE3F6B2DA4531EC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6bc8ef5a744498240e033151de573488c7c7eb35fb13127885eea02b008695de"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7f389b312679f5da20dc35dfcbe3f6b2da4531ec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-f77d704132320557250c76312ef843738a298fef.pack",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-f77d704132320557250c76312ef843738a298fef.pack-38EBD910B587FBEA5AE3F2C5EF4F476E80A546F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0a5db89e3c9d73fa590203e952f671c913b19934e8f0253c231adc391a90959c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "38ebd910b587fbea5ae3f2c5ef4f476e80a546f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/tools/dense_prediction_fusion.py",
+      "SPDXID": "SPDXRef-File--c2-tools-dense-prediction-fusion.py-36F23B10392AF2F0036D8935267771A75D07E505",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9d4e145068ff4cf85b2f0f01e0b2a66d0c0ea72daf1b30c465d29a2f3ac62962"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "36f23b10392af2f0036d8935267771a75d07e505"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ops/LogMels.h",
+      "SPDXID": "SPDXRef-File--ops-LogMels.h-2B338A207DE8817572FB683330408F8057B67DD0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b1719a75d9594022c42be8716787b08aa2ba320451bc81b2e2484c33cd9e7751"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2b338a207de8817572fb683330408f8057b67dd0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ops/av_input_op.h",
+      "SPDXID": "SPDXRef-File--ops-av-input-op.h-B797EE34CC563CA3D564C35701A2AFDD3B8D1260",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "86e3063642707969257c832f6941ae7dbb2ba025579bf1ba8e2ec119bd1e992b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b797ee34cc563ca3d564c35701a2afdd3b8d1260"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/lib/models/loss/__init__.py",
+      "SPDXID": "SPDXRef-File--c2-lib-models-loss---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/lib/utils/model_loader.py",
+      "SPDXID": "SPDXRef-File--c2-lib-utils-model-loader.py-425F8A8B50B56F94AB9920150C2B29F3DFC20447",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b6ec58248f9a979ca57b420681cc0e8c44f0b249be3215285ac9e3497c1f7917"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "425f8a8b50b56f94ab9920150c2b29f3dfc20447"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/scripts/finetune_hmdb51.sh",
+      "SPDXID": "SPDXRef-File--c2-scripts-finetune-hmdb51.sh-84086BCDC0955B4AD5A4784C6484CDF076AF79AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9846a98bcca0a680a45adb133e19d419d11c44986efd566b6555ce0e89a7e4c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "84086bcdc0955b4ad5a4784c6484cdf076af79ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/scripts/extract_feature_kinetics_of.sh",
+      "SPDXID": "SPDXRef-File--c2-scripts-extract-feature-kinetics-of.sh-3FF8EA49C492234F5F1F85420EE1771945C51AC5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0ad37846658ac98e3bc102a6f7042b0a4343b3808e914c6b926ec4322b0435a5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3ff8ea49c492234f5f1f85420ee1771945c51ac5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/tools/test_net.py",
+      "SPDXID": "SPDXRef-File--c2-tools-test-net.py-0E9C18876DE036B0493119B4BDE12B2AA783B6E2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "438813cb5834ddcf7641f01e361bc22bb1b39e32d1af5ec9e3a50ef06cb7e1a8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0e9c18876de036b0493119b4bde12b2aa783b6e2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/tutorials/models.md",
+      "SPDXID": "SPDXRef-File--c2-tutorials-models.md-29195F48DE5C6034AEDD9021C46C55747C2AEA51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a8f42e0f539882dbc7d33ea892784618a51cd0fc3215367a13f33fe52c60849f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "29195f48de5c6034aedd9021c46c55747c2aea51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/tests/test_models.py",
+      "SPDXID": "SPDXRef-File--pt-tests-test-models.py-20791350CBA9670EE04C6BE04CF7F2C31518DACF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "48b6bf35ccce379fe97993207d0f5f0ad5be5a47fd57c9beb768211df04523f6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "20791350cba9670ee04c6be04cf7f2c31518dacf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/vmz/func/opts.py",
+      "SPDXID": "SPDXRef-File--pt-vmz-func-opts.py-09871B2D66ABB7C28342F79A958201368CFA1194",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0c7169266c557c89d060eb38be2c4d962248ef3249c28ba2d753d50e9d33338"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "09871b2d66abb7c28342f79a958201368cfa1194"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/vmz/models/utils.py",
+      "SPDXID": "SPDXRef-File--pt-vmz-models-utils.py-5B9E09B920FC753463896D09B9C9F2EEFE4D0C7A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bc33cb6eff4af128625f74a1e2f0a33ccdfb519c0251f80d1c1eb2a31e9d72dd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5b9e09b920fc753463896d09b9c9f2eefe4d0c7a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./utilities/model_conversion/convert_models.py",
+      "SPDXID": "SPDXRef-File--utilities-model-conversion-convert-models.py-58FEF6DD0A0962638FFAEF76D93995D8DEA7DAD4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fcec75f7b5c5e662192c160246b3d7bdb96ab08912a173377a438dfa13747a7c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "58fef6dd0a0962638ffaef76d93995d8dea7dad4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./CODE_OF_CONDUCT.md",
+      "SPDXID": "SPDXRef-File--CODE-OF-CONDUCT.md-F454984C030F52CC1F65BD4760319766C37210B5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3626c213b348120ca606f227f53ec67fb54db66429a68488fcb83b17b0031e65"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f454984c030f52cc1f65bd4760319766c37210b5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-receive.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "705a17d259e7896f0082fe2e9f2c0c3b127be5ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-rebase.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "288efdc0027db4cfd8b7c47c4aeddba09b6ded12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/logs/refs/heads/main",
+      "SPDXID": "SPDXRef-File--.git-logs-refs-heads-main-0E43E8298993752A22188F41829714795B0BFCC1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "00cc4edd6dd33e1061c241d627a187778d8f2075f45bb7d4727b8f100798f122"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0e43e8298993752a22188f41829714795b0bfcc1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ops/av_io.cc",
+      "SPDXID": "SPDXRef-File--ops-av-io.cc-9B8A94B3D20713152D2553CD3F890D3D792A09DC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eb8116c49366c0482ae0251aa5710055957d28ce45e888ed653ce3e6703d8ef8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9b8a94b3d20713152d2553cd3f890d3d792a09dc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/lib/models/audio_visual_model.py",
+      "SPDXID": "SPDXRef-File--c2-lib-models-audio-visual-model.py-D4C53826F4177B3C79C18CEFDDD1B722F3C9CF80",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e51d27fb7945e916da711b6531f3f535fbf1d5820539de18029571416242ea3b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d4c53826f4177b3c79c18cefddd1b722f3c9cf80"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/lib/utils/metric.py",
+      "SPDXID": "SPDXRef-File--c2-lib-utils-metric.py-C5A84E8175B6250B81835076F0C4C7EE8C8EC81E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "115c2de7006ac56686b9a01f6b6277fc0e246165ce269d1b0132c3bfb20ece49"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c5a84e8175b6250b81835076f0c4c7ee8c8ec81e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/scripts/train_r2plus1d_kinetics.sh",
+      "SPDXID": "SPDXRef-File--c2-scripts-train-r2plus1d-kinetics.sh-47D0727206A881DD305924E955ABC5554755FE34",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1943ccf7867675e4df8546775367577c9bb9e8b182189443f0d71a2623e8bb2a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "47d0727206a881dd305924e955abc5554755fe34"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/scripts/extract_feature_hmdb51.sh",
+      "SPDXID": "SPDXRef-File--c2-scripts-extract-feature-hmdb51.sh-1021B7A2178D2FD886EA62E70F647F2C6558F2AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1445c367046413ab24888e8b4af5fad701e9c0d5787824455db33e82929fdce1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1021b7a2178d2fd886ea62e70f647f2c6558f2ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/tools/extract_features.py",
+      "SPDXID": "SPDXRef-File--c2-tools-extract-features.py-0F1B6113076EA4798EF0A91F350A5AAB7E61249E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "00b7b88abc39105982725d4d10ca6fad4baa3cafeca0e2d686e62f0354c54a84"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0f1b6113076ea4798ef0a91f350a5aab7e61249e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/tutorials/README.md",
+      "SPDXID": "SPDXRef-File--c2-tutorials-README.md-1679EFE548BA36F776A2CABD268204A8DAB14BAD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d903260e7d7d11f6d2655c061ffd4e728e4f6412d8acecdfeae7114e1cc944d6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1679efe548ba36f776a2cabd268204a8dab14bad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/hubconf.py",
+      "SPDXID": "SPDXRef-File--pt-hubconf.py-46CCE38733275B03E7E18729D6EB35374113B398",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3b1eb7833004166f36c10db94c28cea1a7a42046c96697cdbffcf3d8e098577c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "46cce38733275b03e7e18729d6eb35374113b398"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/vmz/__init__.py",
+      "SPDXID": "SPDXRef-File--pt-vmz---init--.py-B503FC9CA3E2A853D44315EB204F1DCA7530A21D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fbe83ae51e5c5e8f69c18d89522d8d12e63f94b8879fac6cb838ffb2947c2214"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b503fc9ca3e2a853d44315eb204f1dca7530a21d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/vmz/common/log.py",
+      "SPDXID": "SPDXRef-File--pt-vmz-common-log.py-9F6DDA3519F56E2188891665AA43F30B0B5EDA54",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "09ad5da2b8d5c292cce7efffb14f4253087c79c3d19e840c29658719e7fe1609"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9f6dda3519f56e2188891665aa43f30b0b5eda54"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/vmz/datasets/kinetics.py",
+      "SPDXID": "SPDXRef-File--pt-vmz-datasets-kinetics.py-5541129E25FD1870E32EB21728021E7EFB080FE0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ad83285e8ff299722e5b72939792472997a53ac480fe6c940c427b6be1c70e8d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5541129e25fd1870e32eb21728021e7efb080fe0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/tutorials/faq.md",
+      "SPDXID": "SPDXRef-File--c2-tutorials-faq.md-14D900735B5F53A2A09B6327ABCE8A83614F02AE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7fe0b77b4bfcb98b8317a969aa45fc29b9189a90067eaa66f22d955a7f1e8f3b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "14d900735b5f53a2a09b6327abce8a83614f02ae"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/tools/test_net.py",
+      "SPDXID": "SPDXRef-File--pt-tools-test-net.py-0E15E9DBF8F4F85CA2F4E8E66F949DBC3A2902F1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6205860648465fbc369795626066c2b99d6d7ee1f236be90df7719d61a896fb2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0e15e9dbf8f4f85ca2f4e8e66f949dbc3a2902f1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/vmz/common/utils.py",
+      "SPDXID": "SPDXRef-File--pt-vmz-common-utils.py-8B0556D01E20FE97132FBAC2809E435A4C8F9816",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0eb36c82766ba260839f621486dc308bf1c2c5c5354c246b36fe40671327a3c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8b0556d01e20fe97132fbac2809e435a4c8f9816"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/vmz/models/__init__.py",
+      "SPDXID": "SPDXRef-File--pt-vmz-models---init--.py-3D433A9FED929F9DE131D816BD90BD360573B23C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8b134e5b7f0522a6a7c01d03e0ad75c0b07a939a8c686b4386b4970e5239e1db"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3d433a9fed929f9de131d816bd90bd360573b23c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/tutorials/Installation_guide.md",
+      "SPDXID": "SPDXRef-File--c2-tutorials-Installation-guide.md-E1E8FE27BA11161765199ED26152FAAEB434C0FA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "51ac89b61a65aa9e35ac413278d5dc59080a46513912b07d9330edcb19dd4bee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e1e8fe27ba11161765199ed26152faaeb434c0fa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/README.md",
+      "SPDXID": "SPDXRef-File--pt-README.md-F09780F4E2DC5B127FE8373138E4FEE44EBA6987",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "502c6f64860800b130f62c4336ce87933ed9f2d3aae0ea21635819fc08fa89fb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f09780f4e2dc5b127fe8373138e4fee44eba6987"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/vmz/func/test.py",
+      "SPDXID": "SPDXRef-File--pt-vmz-func-test.py-35E4FFDC8EE2D7D57D96E0AC67723BBD1D4E21F3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "48442227dcdf56b130847606ced0c0015b79b5102f103f731cc851ef81b00014"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "35e4ffdc8ee2d7d57d96e0ac67723bbd1d4e21f3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/vmz/common/__init__.py",
+      "SPDXID": "SPDXRef-File--pt-vmz-common---init--.py-3535B7F18D9539FF94E901FEB75CD20DEDDCC429",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9723b1fdeab09f7084cb606efddfaf6736dfb24c50bb0352028f1006892ca968"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3535b7f18d9539ff94e901feb75cd20deddcc429"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/vmz/datasets/ucf101.py",
+      "SPDXID": "SPDXRef-File--pt-vmz-datasets-ucf101.py-6BFD51A5C7E6D5DA137C73396929176F7D9E33A6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9021457270aefbd57043a58abd5346e6665ece29b3ccb6b70cefbdaff27c6e79"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6bfd51a5c7e6d5da137c73396929176f7d9e33a6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/scripts/extract_feature_kinetics_ircsn.sh",
+      "SPDXID": "SPDXRef-File--c2-scripts-extract-feature-kinetics-ircsn.sh-595CAA3115ED2CC3C87F9CCC27A18360196724B9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0a1c5ce3198a4e4d5473b33ea205cd1a11ea50f27aed658290a35d137beb6d2a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "595caa3115ed2cc3c87f9ccc27a18360196724b9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/scripts/create_hmdb51_lmdb.sh",
+      "SPDXID": "SPDXRef-File--c2-scripts-create-hmdb51-lmdb.sh-C9EC73C96A447BD809DF5C6C0678221BC22DD2BF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1ad76023c694a23d10b8bd72c532614cfa3aeee2dec03ca8963abe846ebb2aa5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c9ec73c96a447bd809df5c6c0678221bc22dd2bf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/tools/dense_prediction_aggregation.py",
+      "SPDXID": "SPDXRef-File--c2-tools-dense-prediction-aggregation.py-3E5FE2CC4B5FBF44706204F2BEBAA10DD4E2FC32",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3c4e2e5510b5432d096e84ecd9d88fe2b642803da4b31c86b1d9493d8e33cfd8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3e5fe2cc4b5fbf44706204f2bebaa10dd4e2fc32"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/tutorials/kinetics_train.md",
+      "SPDXID": "SPDXRef-File--c2-tutorials-kinetics-train.md-8E37689CCDD034CC30BE143EED7ECA63E71CDBED",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "217374ebf001ffd3948ec25b84275fddf45113051bfb77ff7dc20a7454188a12"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8e37689ccdd034cc30be143eed7eca63e71cdbed"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/tutorials/feature_extraction.md",
+      "SPDXID": "SPDXRef-File--c2-tutorials-feature-extraction.md-AB7674254732E15FB490DF39CCA103B24DE47542",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1dd67e01d1c068accd4641e2a89933a8572dc99e844def2634bc314b2c5347a2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ab7674254732e15fb490df39cca103b24de47542"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/tools/train_net.py",
+      "SPDXID": "SPDXRef-File--pt-tools-train-net.py-41CC8460324B214DC2EE49A4A374D3DA4364B9A4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "84f3906d3845407a667b9962060aaee3b88035c1bbaf580a06a0d5b36fdddcb1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "41cc8460324b214dc2ee49a4a374d3da4364b9a4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/vmz/common/transforms.py",
+      "SPDXID": "SPDXRef-File--pt-vmz-common-transforms.py-8D083FFA90CCC6068AACB28C3E1654C0EAD697FE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "331c435a317e3634f1e55532348e267d3d17b35e9035ccb9afa1f686ae9ee565"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8d083ffa90ccc6068aacb28c3e1654c0ead697fe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/vmz/models/r2plus1d.py",
+      "SPDXID": "SPDXRef-File--pt-vmz-models-r2plus1d.py-9CB7F6812C077A0ED1A756F8883684EC35433A79",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "53d4da9bacf6c0f9078c7ad24a66d2b59da68eda61469778ae70bb611d382c4b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9cb7f6812c077a0ed1a756f8883684ec35433a79"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./utilities/model_conversion/conversion_models.py",
+      "SPDXID": "SPDXRef-File--utilities-model-conversion-conversion-models.py-AE0A220F5A359172E3BF733B3714A17A1FAF796D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ec93d487d73d49e033c1c20416ff3535f4ea4785b71e965f8643905c718437e0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ae0a220f5a359172e3bf733b3714a17a1faf796d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-DEE18B9694EA5DE8C1C38E3599961E5AA3E8E6C1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "67ae6f6aa330d4085613b10b43c1f325af43830afaac36fbacc4411ddccf9cd5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dee18b9694ea5de8c1c38e3599961e5aa3e8e6c1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/packed-refs",
+      "SPDXID": "SPDXRef-File--.git-packed-refs-6BD0F404D300F5EAC00E60A7717B36898CA783DA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "406253a28202907409e9fc1243aa044604c0b54effb5fd07414df59dd6d89795"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6bd0f404d300f5eac00e60a7717b36898ca783da"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/post-update.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b614c2f63da7dca9f1db2e7ade61ef30448fc96c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/objects/pack/pack-f77d704132320557250c76312ef843738a298fef.idx",
+      "SPDXID": "SPDXRef-File--.git-objects-pack-pack-f77d704132320557250c76312ef843738a298fef.idx-1FB2BF3716106472383053C7701BE4936A747B99",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d570dfb7ce2b8bb7456f8a91d10b953f32e36590b2c510474b1e77eb7e149b3e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1fb2bf3716106472383053c7701be4936a747b99"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ops/av_decoder.cc",
+      "SPDXID": "SPDXRef-File--ops-av-decoder.cc-7752F499EFAAFED36B05B16864A7993E589796C7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c61e9ac949f243cddb2e5e37dd90a710eb0974a0be985db493e6ac1471bd3ff5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7752f499efaafed36b05b16864a7993e589796c7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/README.md",
+      "SPDXID": "SPDXRef-File--c2-README.md-349CA3FE869255EA94BBA4F9E8435FFBA848891E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "911e16d711d1c0b882277891919c9ce8f18dde0ca6dbed4aefd90c0791f4ec3e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "349ca3fe869255ea94bba4f9e8435ffba848891e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/lib/models/builder/video_model.py",
+      "SPDXID": "SPDXRef-File--c2-lib-models-builder-video-model.py-87B4A921CAB5B99033146357B5F10D97CE92371F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7e3aaa1adfcde72c58547594424cd209bd4e7d59414cb34f7a509855b3c2d287"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "87b4a921cab5b99033146357b5f10d97ce92371f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/scripts/dense_prediction.sh",
+      "SPDXID": "SPDXRef-File--c2-scripts-dense-prediction.sh-29CDD2190DDC6E130CB957B9D0D7C663590CCC0D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5d5c34d0ff04c1208a7eb04589ce599fd8421795751d6957cc6e05a7d2c031b1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "29cdd2190ddc6e130cb957b9d0d7c663590ccc0d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/scripts/create_kinetics_lmdb.sh",
+      "SPDXID": "SPDXRef-File--c2-scripts-create-kinetics-lmdb.sh-9DC47BA02738BF19F5759998934430D5007378AB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "22411454fa070a4281362c05495a51fb7c39ee533fedb6b648f1dadd55e117b7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9dc47ba02738bf19f5759998934430d5007378ab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/data/create_video_db.py",
+      "SPDXID": "SPDXRef-File--c2-data-create-video-db.py-745667F018ADB1C59FC3EA390EFE2607679AC22C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "56d7e264afc9b07fd777413dc2d27cc3e853af992a4bcbabeda24748e65676d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "745667f018adb1c59fc3ea390efe2607679ac22c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/tutorials/dense_prediction.md",
+      "SPDXID": "SPDXRef-File--c2-tutorials-dense-prediction.md-C81D9F81DB975E837FAF53A04E3A6CAC3F76B7A2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d2af3003381a683e9b359faebce8c724abab95a685e7eeb45364792b94d63032"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c81d9f81db975e837faf53a04e3a6cac3f76b7a2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/tutorials/gradient_blending.md",
+      "SPDXID": "SPDXRef-File--c2-tutorials-gradient-blending.md-A1794F05FFCD2561CE4B3A05BADFB5815E4BE954",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "34e1f5e24bf07018802f28ca0ebc14a2da06523ad0bbf362cea48f1fbff1ad48"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a1794f05ffcd2561ce4b3a05badfb5815e4be954"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/tools/extract_features.py",
+      "SPDXID": "SPDXRef-File--pt-tools-extract-features.py-3F5E667C6A02E6C53F425606A48124AA3DAC1D8A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c8b10a02729659a310c99266d6ddc054af99d169bbc5e73941ca0eec66555039"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3f5e667c6a02e6c53f425606a48124aa3dac1d8a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/vmz/func/__init__.py",
+      "SPDXID": "SPDXRef-File--pt-vmz-func---init--.py-DDC04F758206701C3906C2762A541D38620FFA37",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c00ab9818d858a7731511f94a54132e0443dae1b17f3cef694cae88df14f339e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ddc04f758206701c3906c2762a541d38620ffa37"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/vmz/models/csn.py",
+      "SPDXID": "SPDXRef-File--pt-vmz-models-csn.py-049E0E2DD2C501E13E013797ED58F82920558DF3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "069372fa52b2a00e535450f13c437b74054d745ba6e4a27f1af164aa14612280"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "049e0e2dd2c501e13e013797ed58f82920558df3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./utilities/model_conversion/convert_all_models.txt",
+      "SPDXID": "SPDXRef-File--utilities-model-conversion-convert-all-models.txt-C4DDC6EF7A82B7353156E3BFBCED5ACA94159748",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "27011ef5ee1817be7d39897f8f9b73fadf7035778a93c716678b76bb573da5d4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c4ddc6ef7a82b7353156e3bfbced5aca94159748"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/description",
+      "SPDXID": "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9635f1b7e12c045212819dd934d809ef07efa2f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/fsmonitor-watchman.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ec0ec9ac11111433d17ea79e0ae8cec650dcfa4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-merge-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04c64e58bc25c149482ed45dbd79e40effb89eb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/refs/remotes/origin/HEAD",
+      "SPDXID": "SPDXRef-File--.git-refs-remotes-origin-HEAD-5AE7C22895C35AF5F56BA1891A4DD62B4DC1F955",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2bb6a24aa0fc6c484100f5d51a29bbad841cd2c755f5d93faa204e5dbb4eb2b4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5ae7c22895c35af5f56ba1891a4dd62b4dc1f955"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ops/LogMels.cc",
+      "SPDXID": "SPDXRef-File--ops-LogMels.cc-68DB2AFCBA7216EE2217BE56678F0E352040C1D1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "31730636fa1c3721c5ef93259e630840cad3ab90b8dbcb4c3acb9ee27ab74e05"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "68db2afcba7216ee2217be56678f0e352040c1d1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/lib/models/__init__.py",
+      "SPDXID": "SPDXRef-File--c2-lib-models---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/lib/utils/model_helper.py",
+      "SPDXID": "SPDXRef-File--c2-lib-utils-model-helper.py-982CA9F2F04971DB2A6C77EBC21353108D1044C7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4d7849047b2a43a23afba2978f94f52050d9a5c1c3fc90763b89e92bd3bd05f1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "982ca9f2f04971db2a6c77ebc21353108d1044c7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/scripts/finetune_ucf101.sh",
+      "SPDXID": "SPDXRef-File--c2-scripts-finetune-ucf101.sh-A1FA1090A2E2AA5DCBD441E89D69C32DC5F71E21",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "669a868f0d782d63abb988e58a0188604bd56279b18a7495c16d3102c0433450"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a1fa1090a2e2aa5dcbd441e89d69c32dc5f71e21"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/scripts/create_hmdb51_lmdb_feature_extraction.sh",
+      "SPDXID": "SPDXRef-File--c2-scripts-create-hmdb51-lmdb-feature-extraction.sh-DCB748D9EAB2BB4B05B891E439A000D54D136F36",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cc9468d6574cbfd553abbb82e3a2663fb9a22850ae40294f75e6f6083396ae80"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dcb748d9eab2bb4b05b891e439a000d54d136f36"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/tools/train_net.py",
+      "SPDXID": "SPDXRef-File--c2-tools-train-net.py-639EBD8FF8E045797E79B4F7DFC187FDD4058209",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ec3259a1986ae7e7f9af9ef2be9d2679d823be64547b3c30c27ba6cf4b2df537"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "639ebd8ff8e045797e79b4f7dfc187fdd4058209"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/tutorials/model_zoo.md",
+      "SPDXID": "SPDXRef-File--c2-tutorials-model-zoo.md-96F93A320893DB4003BF99DD89BDFB8E1522E205",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "96c4f922a1d7d805466b0c1b2d6c051b31f330124110d482d3211c82a14cb5a5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "96f93a320893db4003bf99dd89bdfb8e1522e205"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/INSTALL.md",
+      "SPDXID": "SPDXRef-File--pt-INSTALL.md-65EBB39B832C3A3CDB092656D5DD23D77A113D82",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "577047084697fe6c9efb46ce04dd9a642c254ae9133ac8916377eb9c7fd724c6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "65ebb39b832c3a3cdb092656d5dd23d77a113d82"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/vmz/func/feats.py",
+      "SPDXID": "SPDXRef-File--pt-vmz-func-feats.py-349235980DE5BC0471F5AE8708627A13F44A61CD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a9490662e3f8855e501fc60a64dd57357b1f02bf7cd42096b5b05a53ffd2f9e5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "349235980de5bc0471f5ae8708627a13f44a61cd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/vmz/common/sampler.py",
+      "SPDXID": "SPDXRef-File--pt-vmz-common-sampler.py-270251734BE2479069D0047E8D0CE88782406CC3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e94bd80d7cfb76c60f4770bbad6982112ab74f53a2dbe3f607bc5ba6061043fd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "270251734be2479069d0047e8d0ce88782406cc3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/vmz/datasets/data.py",
+      "SPDXID": "SPDXRef-File--pt-vmz-datasets-data.py-9F53A2E46813014967834F43C428FAD567982C31",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3ba28549d8f3fb85e01ba0b0ce6c56703b7ff0eaf65a516ed9c776366c496f6e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9f53a2e46813014967834f43c428fad567982c31"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/config",
+      "SPDXID": "SPDXRef-File--.git-config-FDED7D9C9CFBDFCDD0BD8F211F5E93E26F79C4C0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "57ba1dd0647b15812c4555b10399105038e2b5f2514deed59348cfbc6a491dde"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fded7d9c9cfbdfcdd0bd8f211f5e93e26f79c4c0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/hooks/pre-commit.sample",
+      "SPDXID": "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a79d057388ee2c2fe6561d7697f1f5efcff96f23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.git/info/exclude",
+      "SPDXID": "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c879df015d97615050afa7b9641e3352a1e701ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ops/av_video_decoder_commons.h",
+      "SPDXID": "SPDXRef-File--ops-av-video-decoder-commons.h-DB6AF52AE474C3D2D3DCED3ED69ADEC198596E41",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c956a8c4861fdc273c4b8d758d51cad8a4e5b57fbbf170ba5e41dafd31ea2b85"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "db6af52ae474c3d2d3dced3ed69adec198596e41"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ops/av_io.h",
+      "SPDXID": "SPDXRef-File--ops-av-io.h-F503797E8571F4EE6CA9C56251FD3251E14DF781",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85b1697f55ce92df8df632cbef2e6f98a416b78bd1811efb3aec468d7e864fa8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f503797e8571f4ee6ca9c56251fd3251e14df781"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/lib/models/loss/loss_creator.py",
+      "SPDXID": "SPDXRef-File--c2-lib-models-loss-loss-creator.py-E85CDC29288AD9985458CB37BAA9B29F8E14218E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9d47f8c5eaec2e5ca3b253b44eb872f571c826e06fbf3e07e38e9f8575e4c284"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e85cdc29288ad9985458cb37baa9b29f8e14218e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/lib/utils/__init__.py",
+      "SPDXID": "SPDXRef-File--c2-lib-utils---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/scripts/create_ucf101_lmdb.sh",
+      "SPDXID": "SPDXRef-File--c2-scripts-create-ucf101-lmdb.sh-AE83A43351F52B32E879D2A1D8CFF3855F772368",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "71221a55665d6628f07dc210ef53ec1d68913f3f7b2b9deb02505fad86a13069"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ae83a43351f52b32e879d2a1d8cff3855f772368"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/scripts/test_r2plus1d_kinetics.sh",
+      "SPDXID": "SPDXRef-File--c2-scripts-test-r2plus1d-kinetics.sh-105A5BE7D174B4ED3C23A74038285F4AA53C762C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a3a53e03424a937f9b36a1ccf7120e90938a2e41e209d688092cc1eb12470900"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "105a5be7d174b4ed3c23a74038285f4aa53c762c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/tools/test_net_large.py",
+      "SPDXID": "SPDXRef-File--c2-tools-test-net-large.py-5B7657D74D1C7F888EE891B8EB396681E66F4C33",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4f19b171a8daf1eaff223e43dc8b6ee43f74a60685593f5fb0a2f07ad3d2f18c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5b7657d74d1c7f888ee891b8eb396681e66f4c33"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./c2/tutorials/test.md",
+      "SPDXID": "SPDXRef-File--c2-tutorials-test.md-991DACC6D77E1987B6AFB368524C12EF0B32EE1E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9f35ec173266bea69610c6c75d703bb2a67c8dd635df0fe40684dbc5cdc5ca9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "991dacc6d77e1987b6afb368524c12ef0b32ee1e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/setup.py",
+      "SPDXID": "SPDXRef-File--pt-setup.py-064CD7F3CC0952B9AC07BC1CF60E126BBBFD6563",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e1dbdfeb90e10cd3a0c3faf340c5b482c6bec3187583a934755c37ef40a5d540"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "064cd7f3cc0952b9ac07bc1cf60e126bbbfd6563"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/vmz/func/train.py",
+      "SPDXID": "SPDXRef-File--pt-vmz-func-train.py-FA878F0EED58844AB4D100091AF2A7410A2BDBE8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5083e466c4de4122390dd481f0a2e26e485d4dd88c7a132360dceddf8dccfb79"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fa878f0eed58844ab4d100091af2a7410a2bdbe8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/vmz/common/scheduler.py",
+      "SPDXID": "SPDXRef-File--pt-vmz-common-scheduler.py-95E84080ADFB88E68B39D77AC4A3A3B853581398",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "59776228d2839af8a61a29a4df7613e325278caaae985253656c664d29893c1a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "95e84080adfb88e68b39d77ac4a3a3b853581398"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./pt/vmz/datasets/__init__.py",
+      "SPDXID": "SPDXRef-File--pt-vmz-datasets---init--.py-F503649C21283473B0FA1D1FE950D5192A5B1C84",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "91e1853b1052e7da5eedb5bed0556984292758b90d53153405143d473481ac6d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f503649c21283473b0fa1d1fe950d5192a5b1c84"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "idna",
+      "SPDXID": "SPDXRef-Package-033F75E6FDAB3C09BE9D9A18BE22DF77FED3BD3CE76630C918D533A26C469C16",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/idna@3.6"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "mpmath",
+      "SPDXID": "SPDXRef-Package-BAC3FA6862BDB59249C3A55169826DBA6B890BF3D80F0BF9C073AAD0BDE29FA5",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.3.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/mpmath@1.3.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "cloudpickle",
+      "SPDXID": "SPDXRef-Package-9D9D392D683E8FF12D3E956E53BEBC4E9690BB439946109C1D2A0CFA516C4927",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/cloudpickle@3.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "charset-normalizer",
+      "SPDXID": "SPDXRef-Package-794CE3DC0083BD7F1AA1B2BD3006565EBFBB1D91C46A04B14DBB71E15A594F3B",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.3.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/charset-normalizer@3.3.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "nvidia-nvjitlink-cu12",
+      "SPDXID": "SPDXRef-Package-64F7F90CA07529D7D66859CDFFA4A9F85DF183BA45DC74F80DBC741975A93586",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "12.3.101",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/nvidia-nvjitlink-cu12@12.3.101"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "nvidia-cufft-cu12",
+      "SPDXID": "SPDXRef-Package-0C618381E4FD01A4C67551BECA92F598069B6A5AB0B282976953E1C13C188182",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "11.0.2.54",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/nvidia-cufft-cu12@11.0.2.54"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "nvidia-cudnn-cu12",
+      "SPDXID": "SPDXRef-Package-390EF3DF89EFDE7F8452D7D7FC923BE34474DE6D48DAB48461DC05B210609A1E",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "8.9.2.26",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/nvidia-cudnn-cu12@8.9.2.26"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "nvidia-curand-cu12",
+      "SPDXID": "SPDXRef-Package-33ED3A9E44E6561A612BD10E734A61C493DE30F300D38692D11071E1F6F1CF9B",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "10.3.2.106",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/nvidia-curand-cu12@10.3.2.106"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "requests",
+      "SPDXID": "SPDXRef-Package-F8B916BFCFBA3ED1BBF92CEC7D195120C8228ECFE1FAD7392520AC626703214E",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.31.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/requests@2.31.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "nvidia-cuda-nvrtc-cu12",
+      "SPDXID": "SPDXRef-Package-621F72742629C62B883E6C66CC1507D3A601D43DBD692CCCE1C51A15BC7662DA",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "12.1.105",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/nvidia-cuda-nvrtc-cu12@12.1.105"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "typing-extensions",
+      "SPDXID": "SPDXRef-Package-745E85456E889478921BC16961658C1FC524613DB5CBADF2C9DD495E0BEB3F0E",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "4.9.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/typing-extensions@4.9.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "nvidia-cusparse-cu12",
+      "SPDXID": "SPDXRef-Package-C4718BB6DE4E29063BC0F97CB9C7D19E2D9D5BFFA68D1733C44E4100EB9C2FD2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "12.1.0.106",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/nvidia-cusparse-cu12@12.1.0.106"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "urllib3",
+      "SPDXID": "SPDXRef-Package-5DAFDCFAFAB7ACC3FB76FE0613CEDBA98585E8620734AE7B644CAFF5BF961A2C",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.1.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/urllib3@2.1.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "pillow",
+      "SPDXID": "SPDXRef-Package-5855B2D97427905963799DAA83EFD81E11B5DC556EF20AD287B64FB6C50A814A",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "10.2.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pillow@10.2.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "typing_extensions",
+      "SPDXID": "SPDXRef-Package-132978FF79FBB546EF3B7A4CA75DC855E79B0225CAF57A5A5652BC0D8BDC77D1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "4.9.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/typing-extensions@4.9.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "nvidia-cublas-cu12",
+      "SPDXID": "SPDXRef-Package-76A95537077FE263DCD25CA9DA1A0571A35C043A722F0A0B91EC7AEA71559210",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "12.1.3.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/nvidia-cublas-cu12@12.1.3.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "nvidia-cuda-runtime-cu12",
+      "SPDXID": "SPDXRef-Package-7F56502D0574C1D1543701B3689E0A36DB0347E6ADA615F4F0E8A77BFEDF861D",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "12.1.105",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/nvidia-cuda-runtime-cu12@12.1.105"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "sympy",
+      "SPDXID": "SPDXRef-Package-FDA66AE535999AA31732643ACECB61031DE54EEB771027A084B7B1B6101697E5",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.12",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/sympy@1.12"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "jinja2",
+      "SPDXID": "SPDXRef-Package-76228538FF6794C91F817175683A15EE4E978BFB7DF1EF061CDBAD936A6FFB3E",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.1.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/jinja2@3.1.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "submitit",
+      "SPDXID": "SPDXRef-Package-953128DF8346CFA7BA5C531417E3CE761903E3BDE7A54905A5363A719FC618F2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.5.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/submitit@1.5.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "nvidia-cuda-cupti-cu12",
+      "SPDXID": "SPDXRef-Package-7B46D4E6110C769D0774E11600B1E53357DAEB58E2E5ACF5BF2BB0086805B5D8",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "12.1.105",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/nvidia-cuda-cupti-cu12@12.1.105"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "networkx",
+      "SPDXID": "SPDXRef-Package-376D4A64BE27A4C4F19BD116D58DAE2B6AB880C4C89BE810443AFAA57FD49CCF",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.2.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/networkx@3.2.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "filelock",
+      "SPDXID": "SPDXRef-Package-C274524A1AC6C3E322D0A51FFB362056FFF4EF23FCDDF71E683DC282CB4D8AAD",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "3.13.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/filelock@3.13.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "nvidia-nccl-cu12",
+      "SPDXID": "SPDXRef-Package-C33224AD06C08F2D6EE7716E4B3E1358DCA30AF52A697313D9FC70DDEB453592",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.18.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/nvidia-nccl-cu12@2.18.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "fsspec",
+      "SPDXID": "SPDXRef-Package-39C84644E7E1A928A874F3FC92A2276991493CD8952C5EA3240D1E48DBDDD9E5",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2023.12.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/fsspec@2023.12.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "nvidia-cusolver-cu12",
+      "SPDXID": "SPDXRef-Package-686AB45261278C5BB0C0966BFDACBA3C2380FB8F2FA1F911D34067480E3B8FAD",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "11.4.5.107",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/nvidia-cusolver-cu12@11.4.5.107"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "numpy",
+      "SPDXID": "SPDXRef-Package-3F1715F0BAFA3AD5587C7017B0EEAA854747ED6996F737E1C24462AB8B87ECE4",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.26.3",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/numpy@1.26.3"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "torchvision",
+      "SPDXID": "SPDXRef-Package-B4CC0827195F515F59B37982BE630119257BC8ED7DAEF2FD4FB9C011FC6EDE67",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.16.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/torchvision@0.16.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "certifi",
+      "SPDXID": "SPDXRef-Package-6E074F77DF0919BA0E91050FCFB98ECA2F0EA1CDDA14B79163B9831FE575A6B8",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MPL-2.0",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2023.11.17",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/certifi@2023.11.17"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "nvidia-nvtx-cu12",
+      "SPDXID": "SPDXRef-Package-9D28CE8C99FEC3EE58202FA59449CC392A1B436D0706491CF95E4EB5CC4410FC",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "12.1.105",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/nvidia-nvtx-cu12@12.1.105"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "torch",
+      "SPDXID": "SPDXRef-Package-8C3EA7D367080A52EEE858E5E503B96418CF143DE2FC25FD1C689B15D32137B8",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.1.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/torch@2.1.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "triton",
+      "SPDXID": "SPDXRef-Package-AAF5AE83D48B43BD1FD32B345E45EA556AE9CCBBBD1D936160AAC1A190CD83A1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.1.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/triton@2.1.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "VMZ",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "122dec52ca94a815a2d72310c3a34861bfc102ac"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "VMZ-15.4.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:swid/VMZ/spdx.org/VMZ@VMZ-15.4.6?tag_id=a9560276-350b-4fce-9059-4aa7c23b8d18"
+        }
+      ],
+      "supplier": "Organization: VMZ",
+      "hasFiles": [
+        "SPDXRef-File--utilities-model-conversion-conversion-models.py-AE0A220F5A359172E3BF733B3714A17A1FAF796D",
+        "SPDXRef-File--pt-vmz-models-r2plus1d.py-9CB7F6812C077A0ED1A756F8883684EC35433A79",
+        "SPDXRef-File--pt-vmz-common-transforms.py-8D083FFA90CCC6068AACB28C3E1654C0EAD697FE",
+        "SPDXRef-File--pt-tools-train-net.py-41CC8460324B214DC2EE49A4A374D3DA4364B9A4",
+        "SPDXRef-File--c2-tutorials-feature-extraction.md-AB7674254732E15FB490DF39CCA103B24DE47542",
+        "SPDXRef-File--c2-tutorials-kinetics-train.md-8E37689CCDD034CC30BE143EED7ECA63E71CDBED",
+        "SPDXRef-File--c2-tools-dense-prediction-aggregation.py-3E5FE2CC4B5FBF44706204F2BEBAA10DD4E2FC32",
+        "SPDXRef-File--c2-scripts-create-hmdb51-lmdb.sh-C9EC73C96A447BD809DF5C6C0678221BC22DD2BF",
+        "SPDXRef-File--c2-scripts-extract-feature-kinetics-ircsn.sh-595CAA3115ED2CC3C87F9CCC27A18360196724B9",
+        "SPDXRef-File--c2-lib-models-builder-audio-model.py-732C3F666B82A49A083D778473EB23F06EB29BB2",
+        "SPDXRef-File--c2-lib-models-r3d-model.py-D35FE1F75C6B125926DD6790D2A25ACC3DE5118B",
+        "SPDXRef-File--ops-av-input-op-gpu.cc-C2E9EE2B4F98E18A7B08E39F87AE9AD259877BC3",
+        "SPDXRef-File--.git-logs-HEAD-0E43E8298993752A22188F41829714795B0BFCC1",
+        "SPDXRef-File--.git-hooks-applypatch-msg.sample-4DE88EB95A5E93FD27E78B5FB3B5231A8D8917DD",
+        "SPDXRef-File--.git-hooks-prepare-commit-msg.sample-2584806BA147152AE005CB675AA4F01D5D068456",
+        "SPDXRef-File--LICENSE-1726596C1CC6C65D3A272ABC337B13936430CF96",
+        "SPDXRef-File--pt-vmz-datasets-data.py-9F53A2E46813014967834F43C428FAD567982C31",
+        "SPDXRef-File--pt-vmz-common-sampler.py-270251734BE2479069D0047E8D0CE88782406CC3",
+        "SPDXRef-File--pt-vmz-func-feats.py-349235980DE5BC0471F5AE8708627A13F44A61CD",
+        "SPDXRef-File--pt-INSTALL.md-65EBB39B832C3A3CDB092656D5DD23D77A113D82",
+        "SPDXRef-File--c2-tutorials-model-zoo.md-96F93A320893DB4003BF99DD89BDFB8E1522E205",
+        "SPDXRef-File--c2-tools-train-net.py-639EBD8FF8E045797E79B4F7DFC187FDD4058209",
+        "SPDXRef-File--c2-scripts-create-hmdb51-lmdb-feature-extraction.sh-DCB748D9EAB2BB4B05B891E439A000D54D136F36",
+        "SPDXRef-File--c2-scripts-finetune-ucf101.sh-A1FA1090A2E2AA5DCBD441E89D69C32DC5F71E21",
+        "SPDXRef-File--c2-lib-utils-model-helper.py-982CA9F2F04971DB2A6C77EBC21353108D1044C7",
+        "SPDXRef-File--c2-lib-models---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--ops-LogMels.cc-68DB2AFCBA7216EE2217BE56678F0E352040C1D1",
+        "SPDXRef-File--.git-refs-remotes-origin-HEAD-5AE7C22895C35AF5F56BA1891A4DD62B4DC1F955",
+        "SPDXRef-File--.git-hooks-pre-merge-commit.sample-04C64E58BC25C149482ED45DBD79E40EFFB89EB7",
+        "SPDXRef-File--.git-hooks-fsmonitor-watchman.sample-0EC0EC9AC11111433D17EA79E0AE8CEC650DCFA4",
+        "SPDXRef-File--.git-description-9635F1B7E12C045212819DD934D809EF07EFA2F4",
+        "SPDXRef-File--pt-vmz-datasets-ucf101.py-6BFD51A5C7E6D5DA137C73396929176F7D9E33A6",
+        "SPDXRef-File--pt-vmz-common---init--.py-3535B7F18D9539FF94E901FEB75CD20DEDDCC429",
+        "SPDXRef-File--pt-vmz-func-test.py-35E4FFDC8EE2D7D57D96E0AC67723BBD1D4E21F3",
+        "SPDXRef-File--pt-README.md-F09780F4E2DC5B127FE8373138E4FEE44EBA6987",
+        "SPDXRef-File--c2-tutorials-Installation-guide.md-E1E8FE27BA11161765199ED26152FAAEB434C0FA",
+        "SPDXRef-File--c2-tools-dense-prediction-fusion.py-36F23B10392AF2F0036D8935267771A75D07E505",
+        "SPDXRef-File--c2-scripts-test-irCSN-152-kinetics.sh-31B7FEFBEE5764FB6A28E2263F22D10B6CDB3472",
+        "SPDXRef-File--c2-scripts-create-kinetics-lmdb-feature-extraction.sh-FE2D695D94E4457E7D49D62626C74F4078B0D385",
+        "SPDXRef-File--c2-lib-utils-reader-utils.py-F3D97891D88B8726B875630AC55F9F9A635C78CC",
+        "SPDXRef-File--c2-lib-models-c3d-model.py-6060E7CF1A386CBF4ECADE137C534989B0D49071",
+        "SPDXRef-File--ops-av-input-op.cc-B98E16559F82F35CBC92A5B1E3A1E7414CA58822",
+        "SPDXRef-File--.git-refs-heads-main-97D79914C2CB117795E5B6182269B6909732DCF1",
+        "SPDXRef-File--.git-hooks-update.sample-730E6BD5225478BAB6147B7A62A6E2AE21D40507",
+        "SPDXRef-File--.git-hooks-pre-push.sample-A599B773B930CA83DBC3A5C7C13059AC4A6EAEDC",
+        "SPDXRef-File--.git-HEAD-9F1DF7EEA4156BE8A871C292B549B3325E425AA2",
+        "SPDXRef-File--pt-vmz-datasets-kinetics.py-5541129E25FD1870E32EB21728021E7EFB080FE0",
+        "SPDXRef-File--pt-vmz-common-log.py-9F6DDA3519F56E2188891665AA43F30B0B5EDA54",
+        "SPDXRef-File--pt-vmz---init--.py-B503FC9CA3E2A853D44315EB204F1DCA7530A21D",
+        "SPDXRef-File--pt-hubconf.py-46CCE38733275B03E7E18729D6EB35374113B398",
+        "SPDXRef-File--c2-tutorials-README.md-1679EFE548BA36F776A2CABD268204A8DAB14BAD",
+        "SPDXRef-File--c2-tools-extract-features.py-0F1B6113076EA4798EF0A91F350A5AAB7E61249E",
+        "SPDXRef-File--c2-scripts-extract-feature-hmdb51.sh-1021B7A2178D2FD886EA62E70F647F2C6558F2AC",
+        "SPDXRef-File--c2-scripts-train-r2plus1d-kinetics.sh-47D0727206A881DD305924E955ABC5554755FE34",
+        "SPDXRef-File--c2-lib-utils-metric.py-C5A84E8175B6250B81835076F0C4C7EE8C8EC81E",
+        "SPDXRef-File--c2-lib-models-audio-visual-model.py-D4C53826F4177B3C79C18CEFDDD1B722F3C9CF80",
+        "SPDXRef-File--ops-av-io.cc-9B8A94B3D20713152D2553CD3F890D3D792A09DC",
+        "SPDXRef-File--.git-logs-refs-heads-main-0E43E8298993752A22188F41829714795B0BFCC1",
+        "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
+        "SPDXRef-File--.git-hooks-pre-receive.sample-705A17D259E7896F0082FE2E9F2C0C3B127BE5AC",
+        "SPDXRef-File--CODE-OF-CONDUCT.md-F454984C030F52CC1F65BD4760319766C37210B5",
+        "SPDXRef-File--pt-vmz-datasets---init--.py-F503649C21283473B0FA1D1FE950D5192A5B1C84",
+        "SPDXRef-File--pt-vmz-common-scheduler.py-95E84080ADFB88E68B39D77AC4A3A3B853581398",
+        "SPDXRef-File--pt-vmz-func-train.py-FA878F0EED58844AB4D100091AF2A7410A2BDBE8",
+        "SPDXRef-File--pt-setup.py-064CD7F3CC0952B9AC07BC1CF60E126BBBFD6563",
+        "SPDXRef-File--c2-tutorials-test.md-991DACC6D77E1987B6AFB368524C12EF0B32EE1E",
+        "SPDXRef-File--c2-tools-test-net-large.py-5B7657D74D1C7F888EE891B8EB396681E66F4C33",
+        "SPDXRef-File--c2-scripts-test-r2plus1d-kinetics.sh-105A5BE7D174B4ED3C23A74038285F4AA53C762C",
+        "SPDXRef-File--c2-scripts-create-ucf101-lmdb.sh-AE83A43351F52B32E879D2A1D8CFF3855F772368",
+        "SPDXRef-File--c2-lib-utils---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--c2-lib-models-loss-loss-creator.py-E85CDC29288AD9985458CB37BAA9B29F8E14218E",
+        "SPDXRef-File--ops-av-io.h-F503797E8571F4EE6CA9C56251FD3251E14DF781",
+        "SPDXRef-File--ops-av-video-decoder-commons.h-DB6AF52AE474C3D2D3DCED3ED69ADEC198596E41",
+        "SPDXRef-File--.git-info-exclude-C879DF015D97615050AFA7B9641E3352A1E701AC",
+        "SPDXRef-File--.git-hooks-pre-commit.sample-A79D057388EE2C2FE6561D7697F1F5EFCFF96F23",
+        "SPDXRef-File--.git-config-FDED7D9C9CFBDFCDD0BD8F211F5E93E26F79C4C0",
+        "SPDXRef-File--pt-vmz-models---init--.py-3D433A9FED929F9DE131D816BD90BD360573B23C",
+        "SPDXRef-File--pt-vmz-common-utils.py-8B0556D01E20FE97132FBAC2809E435A4C8F9816",
+        "SPDXRef-File--pt-tools-test-net.py-0E15E9DBF8F4F85CA2F4E8E66F949DBC3A2902F1",
+        "SPDXRef-File--c2-tutorials-faq.md-14D900735B5F53A2A09B6327ABCE8A83614F02AE",
+        "SPDXRef-File--c2-tutorials-hmdb51-finetune.md-7F389B312679F5DA20DC35DFCBE3F6B2DA4531EC",
+        "SPDXRef-File--c2-tools-minidb-to-pickle.py-632EA2164D0F7D1A7661D896C7777796CE180410",
+        "SPDXRef-File--c2-scripts-extract-feature-kinetics.sh-2875FCCEC155D32AA0DB86D7328D60858738FD3E",
+        "SPDXRef-File--c2-scripts-fuse-prediction.sh-2D560E96A6FC1D29E7C4E41BBEAA33DCEC6574EF",
+        "SPDXRef-File--c2-lib-models-builder---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--c2-lib-models-model-builder.py-D8A7079A9982CF4BF13ED1A1EBB680D033D9BD0B",
+        "SPDXRef-File--ops-av-decoder.h-23D3862CF730D8C14B673C05FD8784296FE4B056",
+        "SPDXRef-File--.git-logs-refs-remotes-origin-HEAD-0E43E8298993752A22188F41829714795B0BFCC1",
+        "SPDXRef-File--.git-hooks-pre-applypatch.sample-F208287C1A92525DE9F5462E905A9D31DE1E2D75",
+        "SPDXRef-File--.git-hooks-push-to-checkout.sample-508240328C8B55F8157C93C43BF5E291E5D2FBCB",
+        "SPDXRef-File--CONTRIBUTING.md-9F3512578BEF61D10991FEC3EFCA675C30A001DC",
+        "SPDXRef-File--utilities-model-conversion-convert-models.py-58FEF6DD0A0962638FFAEF76D93995D8DEA7DAD4",
+        "SPDXRef-File--pt-vmz-models-utils.py-5B9E09B920FC753463896D09B9C9F2EEFE4D0C7A",
+        "SPDXRef-File--pt-vmz-func-opts.py-09871B2D66ABB7C28342F79A958201368CFA1194",
+        "SPDXRef-File--pt-tests-test-models.py-20791350CBA9670EE04C6BE04CF7F2C31518DACF",
+        "SPDXRef-File--c2-tutorials-models.md-29195F48DE5C6034AEDD9021C46C55747C2AEA51",
+        "SPDXRef-File--c2-tools-test-net.py-0E9C18876DE036B0493119B4BDE12B2AA783B6E2",
+        "SPDXRef-File--c2-scripts-extract-feature-kinetics-of.sh-3FF8EA49C492234F5F1F85420EE1771945C51AC5",
+        "SPDXRef-File--c2-scripts-finetune-hmdb51.sh-84086BCDC0955B4AD5A4784C6484CDF076AF79AC",
+        "SPDXRef-File--c2-lib-utils-model-loader.py-425F8A8B50B56F94AB9920150C2B29F3DFC20447",
+        "SPDXRef-File--c2-lib-models-loss---init--.py-DA39A3EE5E6B4B0D3255BFEF95601890AFD80709",
+        "SPDXRef-File--ops-av-input-op.h-B797EE34CC563CA3D564C35701A2AFDD3B8D1260",
+        "SPDXRef-File--ops-LogMels.h-2B338A207DE8817572FB683330408F8057B67DD0",
+        "SPDXRef-File--.git-objects-pack-pack-f77d704132320557250c76312ef843738a298fef.pack-38EBD910B587FBEA5AE3F2C5EF4F476E80A546F4",
+        "SPDXRef-File--.git-hooks-commit-msg.sample-EE1ED5AAD98A435F2020B6DE35C173B75D9AFFAC",
+        "SPDXRef-File--.git-index-A69F186BF67F450CCD8CDFF5F5C5BF3C7ACD4335",
+        "SPDXRef-File--.gitignore-B9E787DC49B8D58BA02C0919BD6FF557AEF9B342",
+        "SPDXRef-File--utilities-model-conversion-convert-all-models.txt-C4DDC6EF7A82B7353156E3BFBCED5ACA94159748",
+        "SPDXRef-File--pt-vmz-models-csn.py-049E0E2DD2C501E13E013797ED58F82920558DF3",
+        "SPDXRef-File--pt-vmz-func---init--.py-DDC04F758206701C3906C2762A541D38620FFA37",
+        "SPDXRef-File--pt-tools-extract-features.py-3F5E667C6A02E6C53F425606A48124AA3DAC1D8A",
+        "SPDXRef-File--c2-tutorials-gradient-blending.md-A1794F05FFCD2561CE4B3A05BADFB5815E4BE954",
+        "SPDXRef-File--c2-tutorials-dense-prediction.md-C81D9F81DB975E837FAF53A04E3A6CAC3F76B7A2",
+        "SPDXRef-File--c2-data-create-video-db.py-745667F018ADB1C59FC3EA390EFE2607679AC22C",
+        "SPDXRef-File--c2-scripts-create-kinetics-lmdb.sh-9DC47BA02738BF19F5759998934430D5007378AB",
+        "SPDXRef-File--c2-scripts-dense-prediction.sh-29CDD2190DDC6E130CB957B9D0D7C663590CCC0D",
+        "SPDXRef-File--c2-lib-models-builder-video-model.py-87B4A921CAB5B99033146357B5F10D97CE92371F",
+        "SPDXRef-File--c2-README.md-349CA3FE869255EA94BBA4F9E8435FFBA848891E",
+        "SPDXRef-File--ops-av-decoder.cc-7752F499EFAAFED36B05B16864A7993E589796C7",
+        "SPDXRef-File--.git-objects-pack-pack-f77d704132320557250c76312ef843738a298fef.idx-1FB2BF3716106472383053C7701BE4936A747B99",
+        "SPDXRef-File--.git-hooks-post-update.sample-B614C2F63DA7DCA9F1DB2E7ADE61EF30448FC96C",
+        "SPDXRef-File--.git-packed-refs-6BD0F404D300F5EAC00E60A7717B36898CA783DA",
+        "SPDXRef-File--README.md-DEE18B9694EA5DE8C1C38E3599961E5AA3E8E6C1"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-376D4A64BE27A4C4F19BD116D58DAE2B6AB880C4C89BE810443AFAA57FD49CCF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-76A95537077FE263DCD25CA9DA1A0571A35C043A722F0A0B91EC7AEA71559210",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-745E85456E889478921BC16961658C1FC524613DB5CBADF2C9DD495E0BEB3F0E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0C618381E4FD01A4C67551BECA92F598069B6A5AB0B282976953E1C13C188182",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9D28CE8C99FEC3EE58202FA59449CC392A1B436D0706491CF95E4EB5CC4410FC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6E074F77DF0919BA0E91050FCFB98ECA2F0EA1CDDA14B79163B9831FE575A6B8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7B46D4E6110C769D0774E11600B1E53357DAEB58E2E5ACF5BF2BB0086805B5D8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-390EF3DF89EFDE7F8452D7D7FC923BE34474DE6D48DAB48461DC05B210609A1E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C33224AD06C08F2D6EE7716E4B3E1358DCA30AF52A697313D9FC70DDEB453592",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7F56502D0574C1D1543701B3689E0A36DB0347E6ADA615F4F0E8A77BFEDF861D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F8B916BFCFBA3ED1BBF92CEC7D195120C8228ECFE1FAD7392520AC626703214E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-64F7F90CA07529D7D66859CDFFA4A9F85DF183BA45DC74F80DBC741975A93586",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-686AB45261278C5BB0C0966BFDACBA3C2380FB8F2FA1F911D34067480E3B8FAD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-953128DF8346CFA7BA5C531417E3CE761903E3BDE7A54905A5363A719FC618F2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5DAFDCFAFAB7ACC3FB76FE0613CEDBA98585E8620734AE7B644CAFF5BF961A2C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-794CE3DC0083BD7F1AA1B2BD3006565EBFBB1D91C46A04B14DBB71E15A594F3B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-AAF5AE83D48B43BD1FD32B345E45EA556AE9CCBBBD1D936160AAC1A190CD83A1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C274524A1AC6C3E322D0A51FFB362056FFF4EF23FCDDF71E683DC282CB4D8AAD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5855B2D97427905963799DAA83EFD81E11B5DC556EF20AD287B64FB6C50A814A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-33ED3A9E44E6561A612BD10E734A61C493DE30F300D38692D11071E1F6F1CF9B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B4CC0827195F515F59B37982BE630119257BC8ED7DAEF2FD4FB9C011FC6EDE67",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-76228538FF6794C91F817175683A15EE4E978BFB7DF1EF061CDBAD936A6FFB3E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C4718BB6DE4E29063BC0F97CB9C7D19E2D9D5BFFA68D1733C44E4100EB9C2FD2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9D9D392D683E8FF12D3E956E53BEBC4E9690BB439946109C1D2A0CFA516C4927",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-39C84644E7E1A928A874F3FC92A2276991493CD8952C5EA3240D1E48DBDDD9E5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FDA66AE535999AA31732643ACECB61031DE54EEB771027A084B7B1B6101697E5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-621F72742629C62B883E6C66CC1507D3A601D43DBD692CCCE1C51A15BC7662DA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BAC3FA6862BDB59249C3A55169826DBA6B890BF3D80F0BF9C073AAD0BDE29FA5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8C3EA7D367080A52EEE858E5E503B96418CF143DE2FC25FD1C689B15D32137B8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3F1715F0BAFA3AD5587C7017B0EEAA854747ED6996F737E1C24462AB8B87ECE4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-132978FF79FBB546EF3B7A4CA75DC855E79B0225CAF57A5A5652BC0D8BDC77D1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-033F75E6FDAB3C09BE9D9A18BE22DF77FED3BD3CE76630C918D533A26C469C16",
+      "spdxElementId": "SPDXRef-RootPackage"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "VMZ VMZ-15.4.6",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-2.2.1-cc039bf1-26d1-427e-97c5-28cd3625e3d9/VMZ/VMZ-15.4.6/oy5Z-LvQhUCHICwt_4feow",
+  "creationInfo": {
+    "created": "2024-01-06T22:04:19Z",
+    "creators": [
+      "Organization: VMZ",
+      "Tool: Microsoft.SBOMTool-2.2.1"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

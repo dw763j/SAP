@@ -1,0 +1,84 @@
+{
+    "bom": {
+        "@serialNumber": "urn:uuid:019a0874-4566-4a21-957f-a0bfdcbc3054",
+        "@version": "1",
+        "@xmlns": "http://cyclonedx.org/schema/bom/1.5",
+        "metadata": {
+            "timestamp": "2024-10-24T09:41:56Z",
+            "tools": {
+                "components": {
+                    "component": {
+                        "@type": "application",
+                        "name": "OSS Review Toolkit",
+                        "version": "36.0.0-018.sha.e5c6e0c"
+                    }
+                }
+            },
+            "licenses": {
+                "expression": "CC0-1.0"
+            }
+        },
+        "components": {
+            "component": {
+                "@type": "library",
+                "@bom-ref": "PyPI::pyyaml:6.0.2",
+                "name": "pyyaml",
+                "version": "6.0.2",
+                "description": "YAML parser and emitter for Python",
+                "scope": "required",
+                "hashes": {
+                    "hash": {
+                        "@alg": "SHA-256",
+                        "#text": "3ad2a3decf9aaba3d29c8f537ac4b243e36bef957511b4766cb0057d32b0be85"
+                    }
+                },
+                "licenses": {
+                    "license": [
+                        {
+                            "id": "MIT",
+                            "text": {
+                                "@content-type": "plain/text",
+                                "#text": "Permission is hereby granted, free of charge, to any person obtaining\na copy of this software and associated documentation files (the\n\"Software\"), to deal in the Software without restriction, including\nwithout limitation the rights to use, copy, modify, merge, publish,\ndistribute, sublicense, and/or sell copies of the Software, and to\npermit persons to whom the Software is furnished to do so, subject to\nthe following conditions:\n\nThe above copyright notice and this permission notice shall be\nincluded in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\nIN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY\nCLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,\nTORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE\nSOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+                            },
+                            "ort:origin": {
+                                "@xmlns:ort": "http://www.w3.org/1999/xhtml",
+                                "#text": "declared license"
+                            }
+                        },
+                        {
+                            "id": "MIT",
+                            "text": {
+                                "@content-type": "plain/text",
+                                "#text": "Permission is hereby granted, free of charge, to any person obtaining\na copy of this software and associated documentation files (the\n\"Software\"), to deal in the Software without restriction, including\nwithout limitation the rights to use, copy, modify, merge, publish,\ndistribute, sublicense, and/or sell copies of the Software, and to\npermit persons to whom the Software is furnished to do so, subject to\nthe following conditions:\n\nThe above copyright notice and this permission notice shall be\nincluded in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\nIN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY\nCLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,\nTORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE\nSOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+                            },
+                            "ort:origin": {
+                                "@xmlns:ort": "http://www.w3.org/1999/xhtml",
+                                "#text": "detected license"
+                            }
+                        }
+                    ]
+                },
+                "copyright": "Copyright (c) 2017-2021 Ingy, Copyright (c) 2006-2016 Kirill Simonov, Copyright (c) 2006-2016 Kirill Simonov <xi@resolvent.net>",
+                "purl": "pkg:pypi/pyyaml@6.0.2",
+                "modified": "false",
+                "externalReferences": {
+                    "reference": {
+                        "@type": "website",
+                        "url": "https://pyyaml.org/"
+                    }
+                },
+                "ort:dependencyType": {
+                    "@xmlns:ort": "http://www.w3.org/1999/xhtml",
+                    "#text": "direct"
+                }
+            }
+        },
+        "externalReferences": {
+            "reference": {
+                "@type": "vcs",
+                "url": "https://github.com/D-X-Y/Awesome-AutoDL.git",
+                "comment": "URL to the Git repository of the projects"
+            }
+        }
+    }
+}

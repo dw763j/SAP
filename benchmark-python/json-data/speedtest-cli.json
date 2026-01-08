@@ -1,0 +1,17 @@
+{
+    "name": "speedtest-cli",
+    "home_page": "https://github.com/sivel/speedtest-cli",
+    "author": "Person:",
+    "version": "3.7",
+    "license": "Apache-2.0",
+    "copyright": "",
+    "packages": [
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ""
+        }
+    ]
+}

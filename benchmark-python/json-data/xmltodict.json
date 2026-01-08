@@ -1,0 +1,24 @@
+{
+    "name": "xmltodict",
+    "home_page": "https://github.com/martinblech/xmltodict",
+    "author": "Person:Martin Blech and individual contributors",
+    "version": "0.13.0",
+    "license": "MIT",
+    "copyright": "Copyright (C) 2012 Martin Blech and individual contributors",
+    "packages": [
+        {
+            "name": "nose2",
+            "license": "BSD-2-Clause",
+            "home_page": "",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "Distutils",
+            "license": "",
+            "home_page": "http://www.python.org/sigs/distutils-sig/",
+            "author": "Greg Ward",
+            "version": ""
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "dockerizing-django",
+    "home_page": "https://github.com/realpython/dockerizing-django",
+    "author": "Person:",
+    "version": "",
+    "license": "",
+    "copyright": "",
+    "packages": [
+        {
+            "name": "Django",
+            "license": "BSD-3-Clause",
+            "home_page": "https://www.djangoproject.com/",
+            "author": "Django Software Foundation",
+            "version": ""
+        },
+        {
+            "name": "redis",
+            "license": "MIT",
+            "home_page": "https://github.com/redis/redis-py",
+            "author": "Redis Inc.",
+            "version": ""
+        }
+    ]
+}

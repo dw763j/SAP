@@ -1,0 +1,140 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "comment": "Exact versions could not be resolved for some packages. For more information: https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/about-the-dependency-graph#dependencies-included.",
+        "created": "2024-01-06T13:30:22Z",
+        "creators": [
+            "Tool: GitHub.com-Dependency-Graph"
+        ]
+    },
+    "dataLicense": "CC0-1.0",
+    "documentDescribes": [
+        "SPDXRef-com.github.kevinastone-django-api-rest-and-angular"
+    ],
+    "documentNamespace": "https://github.com/kevinastone/django-api-rest-and-angular/dependency_graph/sbom-ffe28c6cf31ffcbc",
+    "name": "com.github.kevinastone/django-api-rest-and-angular",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-com.github.kevinastone-django-api-rest-and-angular",
+            "downloadLocation": "git+https://github.com/kevinastone/django-api-rest-and-angular",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceLocator": "pkg:github/kevinastone/django-api-rest-and-angular",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "name": "com.github.kevinastone/django-api-rest-and-angular",
+            "supplier": "NOASSERTION",
+            "versionInfo": ""
+        },
+        {
+            "SPDXID": "SPDXRef-npm-coffee-script",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "npm:coffee-script",
+            "supplier": "NOASSERTION",
+            "versionInfo": ""
+        },
+        {
+            "SPDXID": "SPDXRef-npm-grunt",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "npm:grunt",
+            "supplier": "NOASSERTION",
+            "versionInfo": ""
+        },
+        {
+            "SPDXID": "SPDXRef-npm-grunt-contrib-coffee",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "npm:grunt-contrib-coffee",
+            "supplier": "NOASSERTION",
+            "versionInfo": ""
+        },
+        {
+            "SPDXID": "SPDXRef-pip-django",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "pip:django",
+            "supplier": "NOASSERTION",
+            "versionInfo": ">= 2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-pip-django-extensions",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "pip:django-extensions",
+            "supplier": "NOASSERTION",
+            "versionInfo": ""
+        },
+        {
+            "SPDXID": "SPDXRef-pip-djangorestframework",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "pip:djangorestframework",
+            "supplier": "NOASSERTION",
+            "versionInfo": ">= 3.9"
+        },
+        {
+            "SPDXID": "SPDXRef-pip-pillow",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "pip:pillow",
+            "supplier": "NOASSERTION",
+            "versionInfo": ""
+        },
+        {
+            "SPDXID": "SPDXRef-pip-werkzeug",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "pip:werkzeug",
+            "supplier": "NOASSERTION",
+            "versionInfo": ""
+        }
+    ],
+    "relationships": [
+        {
+            "relatedSpdxElement": "SPDXRef-npm-coffee-script",
+            "relationshipType": "DEPENDS_ON",
+            "spdxElementId": "SPDXRef-com.github.kevinastone-django-api-rest-and-angular"
+        },
+        {
+            "relatedSpdxElement": "SPDXRef-npm-grunt",
+            "relationshipType": "DEPENDS_ON",
+            "spdxElementId": "SPDXRef-com.github.kevinastone-django-api-rest-and-angular"
+        },
+        {
+            "relatedSpdxElement": "SPDXRef-npm-grunt-contrib-coffee",
+            "relationshipType": "DEPENDS_ON",
+            "spdxElementId": "SPDXRef-com.github.kevinastone-django-api-rest-and-angular"
+        },
+        {
+            "relatedSpdxElement": "SPDXRef-pip-django",
+            "relationshipType": "DEPENDS_ON",
+            "spdxElementId": "SPDXRef-com.github.kevinastone-django-api-rest-and-angular"
+        },
+        {
+            "relatedSpdxElement": "SPDXRef-pip-django-extensions",
+            "relationshipType": "DEPENDS_ON",
+            "spdxElementId": "SPDXRef-com.github.kevinastone-django-api-rest-and-angular"
+        },
+        {
+            "relatedSpdxElement": "SPDXRef-pip-djangorestframework",
+            "relationshipType": "DEPENDS_ON",
+            "spdxElementId": "SPDXRef-com.github.kevinastone-django-api-rest-and-angular"
+        },
+        {
+            "relatedSpdxElement": "SPDXRef-pip-pillow",
+            "relationshipType": "DEPENDS_ON",
+            "spdxElementId": "SPDXRef-com.github.kevinastone-django-api-rest-and-angular"
+        },
+        {
+            "relatedSpdxElement": "SPDXRef-pip-werkzeug",
+            "relationshipType": "DEPENDS_ON",
+            "spdxElementId": "SPDXRef-com.github.kevinastone-django-api-rest-and-angular"
+        }
+    ],
+    "spdxVersion": "SPDX-2.3"
+}

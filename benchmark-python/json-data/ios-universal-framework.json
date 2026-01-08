@@ -1,0 +1,11 @@
+{
+    "name": "iOS-Universal-Framework",
+    "home_page": "https://github.com/kstenerud/iOS-Universal-Framework",
+    "author": "Person:Karl Stenerud",
+    "version": "",
+    "license": "",
+    "copyright": "Copyright (c) 2011 Karl Stenerud",
+    "packages": [
+        {}
+    ]
+}

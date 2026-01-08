@@ -1,0 +1,7 @@
+tools,matched_pkgs,doc_name,originator_score_r,supplier_score_r,copyright_score_r,version_score_r,PVC_score_r,cpe_score_r,purl_score_r,dL_score_r,licenseC_score_r,licenseD_score_r,originator_score,supplier_score,copyright_score,version_score,PVC_score,cpe_score,purl_score,dL_score,licenseC_score,licenseD_score,checksum_score
+syft+gh-sbom,0.2847,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4549,0.0,0.0,0.454,0.0,0.0,0.0,0.0
+syft+ort,0.0116,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0619,0.0,0.0,0.0619,0.0,0.0,0.0,0.0
+syft+sbom-tool,0.097,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.002,0.0,0.2182,0.0,0.0,0.2251,0.0,0.0,0.0,0.2082
+gh-sbom+ort,0.0417,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0379,0.0,0.0,0.0388,0.0,0.0,0.0,0.0
+gh-sbom+sbom-tool,0.1669,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1611,0.0,0.0,0.1643,0.0,0.1376,0.0,0.0
+ort+sbom-tool,0.5478,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1322,0.0,0.0,0.1611,0.0,0.0,0.0,0.0009

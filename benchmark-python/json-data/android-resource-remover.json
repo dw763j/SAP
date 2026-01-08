@@ -1,0 +1,45 @@
+{
+    "name": "android-resource-remover",
+    "home_page": "https://github.com/KeepSafe/android-resource-remover",
+    "author": "Person:",
+    "version": "0.1.7",
+    "license": "Apache-2.0",
+    "copyright": "",
+    "packages": [
+        {
+            "name": "lxml",
+            "license": "BSD-3-Clause",
+            "home_page": "https://lxml.de/",
+            "author": "lxml dev team",
+            "version": "3.3.3"
+        },
+        {
+            "name": "nose",
+            "license": "LGPL-2.0-only",
+            "home_page": "http://readthedocs.org/docs/nose/",
+            "author": "Jason Pellerin",
+            "version": "1.3.7"
+        },
+        {
+            "name": "flake8",
+            "license": "MIT",
+            "home_page": "https://github.com/pycqa/flake8",
+            "author": "Tarek Ziade",
+            "version": "2.5.4"
+        },
+        {
+            "name": "mock",
+            "license": "BSD-4-Clause",
+            "home_page": "http://mock.readthedocs.org/en/latest/",
+            "author": "Testing Cabal",
+            "version": "2.0.0"
+        },
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ""
+        }
+    ]
+}

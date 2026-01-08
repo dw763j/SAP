@@ -1,0 +1,24 @@
+{
+    "name": "MicrocodeDecryptor",
+    "home_page": "https://github.com/chip-red-pill/MicrocodeDecryptor",
+    "author": "Person:",
+    "version": "",
+    "license": "",
+    "copyright": "",
+    "packages": [
+        {
+            "name": "hashlib",
+            "license": "",
+            "home_page": "http://code.krypto.org/python/hashlib/",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "crypto",
+            "license": "MIT",
+            "home_page": "https://github.com/chrissimpkins/crypto",
+            "author": "Christopher Simpkins",
+            "version": ""
+        }
+    ]
+}

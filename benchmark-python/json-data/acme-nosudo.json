@@ -1,0 +1,11 @@
+{
+    "name": "acme-nosudo",
+    "home_page": "https://github.com/diafygi/acme-nosudo",
+    "author": "Organization:Free Software Foundation, Inc. <http://fsf.org/>",
+    "version": "",
+    "license": "AGPL-3.0-only",
+    "copyright": "Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>",
+    "packages": [
+        {}
+    ]
+}

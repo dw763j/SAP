@@ -1,0 +1,493 @@
+{
+    "name": "iqhelp",
+    "home_page": "https://github.com/iqhelp/iqhelp",
+    "author": "Organization:Free Software Foundation, Inc. <https://fsf.org/>",
+    "version": "",
+    "license": "GPL-3.0-only",
+    "copyright": " Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>",
+    "packages": [
+        {
+            "name": "aiofiles",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/Tinche/aiofiles",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "aiohttp",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/aio-libs/aiohttp",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "APScheduler",
+            "license": "MIT",
+            "home_page": "https://github.com/agronholm/apscheduler",
+            "author": "Alex Grönholm",
+            "version": ""
+        },
+        {
+            "name": "CairoSVG",
+            "license": "LGPL-3.0-or-later",
+            "home_page": "https://courtbouillon.org/cairosvg",
+            "author": "Guillaume Ayoub",
+            "version": ""
+        },
+        {
+            "name": "cloudscraper",
+            "license": "",
+            "home_page": "https://github.com/venomous/cloudscraper",
+            "author": "VeNoMouS",
+            "version": ""
+        },
+        {
+            "name": "colour",
+            "license": "BSD-3-Clause",
+            "home_page": "http://github.com/vaab/colour",
+            "author": "Valentin LAB",
+            "version": ""
+        },
+        {
+            "name": "covid",
+            "license": "MIT",
+            "home_page": "https://nf1s.github.io/covid/",
+            "author": "Ahmed Nafies",
+            "version": ""
+        },
+        {
+            "name": "cowpy",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/jeffbuttars/cowpy",
+            "author": "Jeff Buttars",
+            "version": ""
+        },
+        {
+            "name": "pyminizip",
+            "license": "",
+            "home_page": "https://github.com/smihica/pyminizip",
+            "author": "Shin Aoyama",
+            "version": ""
+        },
+        {
+            "name": "emoji",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/carpedm20/emoji/",
+            "author": "Taehoon Kim, Kevin Wurster",
+            "version": ""
+        },
+        {
+            "name": "fonttools",
+            "license": "MIT",
+            "home_page": "http://github.com/fonttools/fonttools",
+            "author": "Just van Rossum",
+            "version": ""
+        },
+        {
+            "name": "geopy",
+            "license": "MIT",
+            "home_page": "https://github.com/geopy/geopy",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "GitPython",
+            "license": "BSD-3-Clause",
+            "home_page": "https://github.com/gitpython-developers/GitPython",
+            "author": "Sebastian Thiel, Michael Trier",
+            "version": ""
+        },
+        {
+            "name": "glitch-this",
+            "license": "MIT",
+            "home_page": "https://github.com/TotallyNotChase/Glitch-and-Gif",
+            "author": "TotallyNotChase",
+            "version": ""
+        },
+        {
+            "name": "google-api-python-client",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/googleapis/google-api-python-client/",
+            "author": "Google LLC",
+            "version": ""
+        },
+        {
+            "name": "google-auth-httplib2",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python-httplib2",
+            "author": "Google Cloud Platform",
+            "version": ""
+        },
+        {
+            "name": "google-auth-oauthlib",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib",
+            "author": "Google Cloud Platform",
+            "version": ""
+        },
+        {
+            "name": "gTTS",
+            "license": "MIT",
+            "home_page": "https://github.com/pndurette/gTTS",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "hachoir",
+            "license": "GPL-2.0-only",
+            "home_page": "http://hachoir.readthedocs.io/",
+            "author": "Hachoir team (see AUTHORS file)",
+            "version": ""
+        },
+        {
+            "name": "heroku3",
+            "license": "MIT",
+            "home_page": "https://github.com/martyzz1/heroku3.py",
+            "author": "Martin Moss",
+            "version": ""
+        },
+        {
+            "name": "html-telegraph-poster",
+            "license": "MIT",
+            "home_page": "https://github.com/mercuree/html-telegraph-poster",
+            "author": "Garry G",
+            "version": ""
+        },
+        {
+            "name": "humanize",
+            "license": "MIT",
+            "home_page": "https://github.com/python-humanize/humanize",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "IMDbPY",
+            "license": "",
+            "home_page": "https://cinemagoer.github.io/",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "jikanpy",
+            "license": "MIT",
+            "home_page": "https://github.com/abhinavk99/jikanpy",
+            "author": "Abhinav Kasamsetty",
+            "version": ""
+        },
+        {
+            "name": "JustWatch",
+            "license": "MIT",
+            "home_page": "https://github.com/dawoudt/JustWatchAPI",
+            "author": "Dawoud Tabboush",
+            "version": ""
+        },
+        {
+            "name": "lottie",
+            "license": "AGPL-3.0-or-later",
+            "home_page": "https://gitlab.com/mattbas/python-lottie/",
+            "author": "Mattia Basaglia",
+            "version": ""
+        },
+        {
+            "name": "lyricsgenius",
+            "license": "MIT",
+            "home_page": "https://github.com/johnwmillr/lyricsgenius",
+            "author": "John W. Miller",
+            "version": ""
+        },
+        {
+            "name": "Markdown",
+            "license": "BSD-3-Clause",
+            "home_page": "",
+            "author": "Manfred Stienstra, Yuri Takhteyev",
+            "version": ""
+        },
+        {
+            "name": "markdown-it-py",
+            "license": "MIT",
+            "home_page": "https://github.com/executablebooks/markdown-it-py",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "motor",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/mongodb/motor",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "moviepy",
+            "license": "MIT",
+            "home_page": "https://zulko.github.io/moviepy/",
+            "author": "Zulko 2017",
+            "version": ""
+        },
+        {
+            "name": "nekos.py",
+            "license": "GPL-3.0-only",
+            "home_page": "https://github.com/Nekos-life/nekos.py",
+            "author": "AlexFlipnote",
+            "version": ""
+        },
+        {
+            "name": "opencv-python-headless",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/opencv/opencv-python",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "pillow",
+            "license": "HPND",
+            "home_page": "https://github.com/python-pillow/Pillow",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "prettytable",
+            "license": "BSD-3-Clause",
+            "home_page": "https://github.com/jazzband/prettytable",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "psutil",
+            "license": "BSD-3-Clause",
+            "home_page": "https://github.com/giampaolo/psutil",
+            "author": "Giampaolo Rodola",
+            "version": ""
+        },
+        {
+            "name": "psycopg2",
+            "license": "LGPL-2.0-only",
+            "home_page": "https://psycopg.org/",
+            "author": "Federico Di Gregorio",
+            "version": ""
+        },
+        {
+            "name": "pyfiglet",
+            "license": "MIT",
+            "home_page": "https://github.com/pwaller/pyfiglet",
+            "author": "Peter Waller (Thanks to Christopher Jones and Stefano Rivera)",
+            "version": ""
+        },
+        {
+            "name": "PyGithub",
+            "license": ["LGPL-3.0-only","GPL-3.0-only"],
+            "home_page": "https://github.com/PyGithub/PyGithub",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "Pygments",
+            "license": "BSD-2-Clause",
+            "home_page": "https://github.com/pygments/pygments",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "pylast",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/pylast/pylast",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "pymediainfo",
+            "license": "MIT",
+            "home_page": "https://github.com/sbraz/pymediainfo",
+            "author": "Louis Sautier",
+            "version": ""
+        },
+        {
+            "name": "PyMuPDF",
+            "license": "AGPL-3.0-only",
+            "home_page": "https://github.com/pymupdf/PyMuPDF",
+            "author": "Artifex",
+            "version": ""
+        },
+        {
+            "name": "pySmartDL",
+            "license": "",
+            "home_page": "http://pypi.python.org/pypi/pySmartDL/",
+            "author": "Itay Brandes",
+            "version": ""
+        },
+        {
+            "name": "python-barcode",
+            "license": "MIT",
+            "home_page": "https://github.com/WhyNotHugo/python-barcode",
+            "author": "Hugo Osvaldo Barrera et al",
+            "version": ""
+        },
+        {
+            "name": "python-dotenv",
+            "license": "BSD-3-Clause",
+            "home_page": "https://github.com/theskumar/python-dotenv",
+            "author": "Saurabh Kumar",
+            "version": ""
+        },
+        {
+            "name": "pytz",
+            "license": "MIT",
+            "home_page": "http://pythonhosted.org/pytz",
+            "author": "Stuart Bishop",
+            "version": ""
+        },
+        {
+            "name": "qrcode",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/lincolnloop/python-qrcode",
+            "author": "Lincoln Loop",
+            "version": ""
+        },
+        {
+            "name": "randomstuff.py",
+            "license": "MIT",
+            "home_page": "https://github.com/nerdguyahmad/randomstuff.py",
+            "author": "nerdguyahmad",
+            "version": ""
+        },
+        {
+            "name": "regex",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/mrabarnett/mrab-regex",
+            "author": "Matthew Barnett",
+            "version": ""
+        },
+        {
+            "name": "requests",
+            "license": "Apache-2.0",
+            "home_page": "https://requests.readthedocs.io",
+            "author": "Kenneth Reitz",
+            "version": ""
+        },
+        {
+            "name": "search-engine-parser",
+            "license": "MIT",
+            "home_page": "https://github.com/bisoncorps/search-engine-parser",
+            "author": "Domnan Diretnan, Mmadu Manasseh",
+            "version": ""
+        },
+        {
+            "name": "selenium",
+            "license": "Apache-2.0",
+            "home_page": "https://www.selenium.dev",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ""
+        },
+        {
+            "name": "ShazamAPI",
+            "license": "MIT",
+            "home_page": "https://github.com/Numenorean/ShazamAPI",
+            "author": "Numenorean",
+            "version": ""
+        },
+        {
+            "name": "spamwatch",
+            "license": "LGPL-3.0-only",
+            "home_page": "https://github.com/SpamWatch/spamwatch-py",
+            "author": "Simon Schürrle",
+            "version": ""
+        },
+        {
+            "name": "speedtest-cli",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/sivel/speedtest-cli",
+            "author": "Matt Martz",
+            "version": ""
+        },
+        {
+            "name": "sqlalchemy-json",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/edelooff/sqlalchemy-json",
+            "author": "Elmer de Looff",
+            "version": ""
+        },
+        {
+            "name": "SQLAlchemy",
+            "license": "MIT",
+            "home_page": "https://www.sqlalchemy.org",
+            "author": "Mike Bayer",
+            "version": ""
+        },
+        {
+            "name": "telegraph",
+            "license": "MIT",
+            "home_page": "https://github.com/python273/telegraph",
+            "author": "python273",
+            "version": ""
+        },
+        {
+            "name": "Telethon",
+            "license": "MIT",
+            "home_page": "https://github.com/LonamiWebs/Telethon",
+            "author": "Lonami Exo",
+            "version": ""
+        },
+        {
+            "name": "TgCrypto",
+            "license": "LGPL-3.0-or-later",
+            "home_page": "https://github.com/pyrogram",
+            "author": "Dan",
+            "version": ""
+        },
+        {
+            "name": "ujson",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/ultrajson/ultrajson",
+            "author": "Jonas Tarnstrom",
+            "version": ""
+        },
+        {
+            "name": "urlextract",
+            "license": "MIT",
+            "home_page": "https://github.com/lipoja/URLExtract",
+            "author": "Jan Lipovský",
+            "version": ""
+        },
+        {
+            "name": "validators",
+            "license": "MIT",
+            "home_page": "https://github.com/python-validators/validators",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "vcsi",
+            "license": "MIT",
+            "home_page": "https://github.com/amietn/vcsi",
+            "author": "Nils Amiet",
+            "version": ""
+        },
+        {
+            "name": "Wand",
+            "license": "MIT",
+            "home_page": "http://wand-py.org/",
+            "author": "Hong Minhee",
+            "version": ""
+        },
+        {
+            "name": "wget",
+            "license": "",
+            "home_page": "http://bitbucket.org/techtonik/python-wget/",
+            "author": "anatoly techtonik <techtonik@gmail.com>",
+            "version": ""
+        },
+        {
+            "name": "yt-dlp",
+            "license": "",
+            "home_page": "",
+            "author": "",
+            "version": ""
+        }
+    ]
+}

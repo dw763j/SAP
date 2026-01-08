@@ -1,0 +1,17 @@
+{
+    "name": "google-images-download",
+    "home_page": "https://github.com/hardikvasa/google-images-download",
+    "author": "Person:hardikvasa",
+    "version": "",
+    "license": "MIT",
+    "copyright": "2019, Hardik Vasa",
+    "packages": [
+        {
+            "name": "selenium",
+            "license": "Apache-2.0",
+            "home_page": "https: //www.selenium.dev",
+            "author": "",
+            "version": ""
+        }
+    ]
+}

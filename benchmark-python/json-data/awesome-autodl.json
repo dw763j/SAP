@@ -1,0 +1,17 @@
+{
+    "name": "Awesome-AutoDL",
+    "home_page": "https://github.com/D-X-Y/Awesome-AutoDL",
+    "author": "Person:Xuanyi Dong [GitHub: D-X-Y]",
+    "version": "",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 Xuanyi Dong [GitHub: D-X-Y]",
+    "packages": [
+        {
+            "name": "pytest",
+            "license": "MIT",
+            "home_page": "https://github.com/pytest-dev/pytest",
+            "author": "Holger Krekel, Bruno Oliveira, Ronny Pfannschmidt, Floris Bruynooghe, Brianna Laugher, Florian Bruhin, Others (See AUTHORS)",
+            "version": ""
+        }
+    ]
+}

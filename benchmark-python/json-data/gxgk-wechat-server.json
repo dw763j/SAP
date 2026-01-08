@@ -1,0 +1,157 @@
+{
+    "name": "gxgk-wechat-server",
+    "home_page": "https://github.com/paicha/gxgk-wechat-server",
+    "author": "Person:赖嘉伟",
+    "version": "",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2015 赖嘉伟",
+    "packages": [
+        {
+            "name": "Flask",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/pallets/flask",
+            "author": "",
+            "version": "0.10.0"
+        },
+        {
+            "name": "Flask-SQLAlchemy",
+            "license": "BSD-3-Clause",
+            "home_page": "https://github.com/pallets-eco/flask-sqlalchemy",
+            "author": "",
+            "version": "2.0"
+        },
+        {
+            "name": "Jinja2",
+            "license": "BSD-3-Clause",
+            "home_page": "https://palletsprojects.com/p/jinja/",
+            "author": "",
+            "version": "2.7.3"
+        },
+        {
+            "name": "MarkupSafe",
+            "license": "BSD-3-Clause",
+            "home_page": "https://palletsprojects.com/p/markupsafe/",
+            "author": "",
+            "version": "0.23"
+        },
+        {
+            "name": "MySQL-python",
+            "license": "GPL-1.0",
+            "home_page": "https://github.com/farcepest/MySQLdb1",
+            "author": "Andy Dustman",
+            "version": "1.2.5"
+        },
+        {
+            "name": "SQLAlchemy",
+            "license": "MIT",
+            "home_page": "https://www.sqlalchemy.org",
+            "author": "Mike Bayer",
+            "version": "1.0.8"
+        },
+        {
+            "name": "Werkzeug",
+            "license": "BSD-3-Clause",
+            "home_page": "https://github.com/pallets/werkzeug",
+            "author": "",
+            "version": "0.10.4"
+        },
+        {
+            "name": "amqp",
+            "license": "BSD-4-Clause",
+            "home_page": "http://github.com/celery/py-amqp",
+            "author": "Barry Pederson",
+            "version": "1.4.7"
+        },
+        {
+            "name": "anyjson",
+            "license": "BSD-4-Clause",
+            "home_page": "http://bitbucket.org/runeh/anyjson/",
+            "author": "Rune Halvorsen",
+            "version": "0.3.3"
+        },
+        {
+            "name": "beautifulsoup4",
+            "license": "MIT",
+            "home_page": "https://github.com/collegue1337/BeautifulSoup4",
+            "author": "",
+            "version": "4.4.1"
+        },
+        {
+            "name": "billiard",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/celery/billiard",
+            "author": "R Oudkerk / Python Software Foundation",
+            "version": "3.3.0.20"
+        },
+        {
+            "name": "celery",
+            "license": "BSD-3-Clause",
+            "home_page": "https://docs.celeryq.dev/",
+            "author": "Ask Solem",
+            "version": "3.1.18"
+        },
+        {
+            "name": "itsdangerous",
+            "license": "BSD-3-Clause",
+            "home_page": "https://palletsprojects.com/p/itsdangerous/",
+            "author": "Armin Ronacher",
+            "version": "0.24"
+        },
+        {
+            "name": "kombu",
+            "license": "BSD-3-Clause",
+            "home_page": "https://kombu.readthedocs.io",
+            "author": "Ask Solem",
+            "version": "3.0.35"
+        },
+        {
+            "name": "pycrypto",
+            "license": "",
+            "home_page": "http://www.pycrypto.org/",
+            "author": "Dwayne C. Litzenberger",
+            "version": "2.6.1"
+        },
+        {
+            "name": "pytz",
+            "license": "MIT",
+            "home_page": "http://pythonhosted.org/pytz",
+            "author": "Stuart Bishop",
+            "version": "2015.6"
+        },
+        {
+            "name": "redis",
+            "license": "MIT",
+            "home_page": "https://github.com/redis/redis-py",
+            "author": "Redis Inc.",
+            "version": "2.10.3"
+        },
+        {
+            "name": "requests",
+            "license": "Apache-2.0",
+            "home_page": "https://requests.readthedocs.io",
+            "author": "Kenneth Reitz",
+            "version": "2.20.0"
+        },
+        {
+            "name": "wechat-sdk",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/wechat-python-sdk/wechat-python-sdk",
+            "author": "doraemonext",
+            "version": "0.5.9"
+        },
+        {
+            "name": "wsgiref",
+            "license": ["PSF-2.0", "ZPL-1.1"],
+            "home_page": "http://cheeseshop.python.org/pypi/wsgiref",
+            "author": "Phillip J. Eby",
+            "version": "0.1.2"
+        },
+        {
+            "name": "crypto",
+            "license": "MIT",
+            "home_page": "https://github.com/chrissimpkins/crypto",
+            "author": "Christopher Simpkins",
+            "version": ""
+        }
+    ]
+}

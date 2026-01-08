@@ -1,0 +1,8 @@
+levenshtein
+loguru
+xmltodict
+semver
+packageurl-python
+tqdm
+requests
+pyyaml

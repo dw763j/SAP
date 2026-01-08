@@ -1,0 +1,31 @@
+{
+    "name": "awesome-sentence-embedding",
+    "home_page": "https://github.com/Separius/awesome-sentence-embedding",
+    "author": "Organization:Free Software Foundation, Inc.",
+    "version": "",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>",
+    "packages": [
+        {
+            "name": "mdl",
+            "license": "Apache-2.0",
+            "home_page": "https://github.com/fafhrd91/mdl/",
+            "author": "Nikolay Kim",
+            "version": ""
+        },
+        {
+            "name": "tqdm",
+            "license": ["MPL-2.0","MIT"],
+            "home_page": "https://github.com/tqdm/tqdm",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "natsort",
+            "license": "MIT",
+            "home_page": "https://github.com/SethMMorton/natsort",
+            "author": "Seth M. Morton",
+            "version": ""
+        }
+    ]
+}

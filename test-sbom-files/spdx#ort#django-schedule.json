@@ -1,0 +1,2394 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "spdxVersion": "SPDX-2.2",
+    "creationInfo": {
+        "created": "2024-10-25T18:25:14Z",
+        "creators": [
+            "Tool: ort-36.0.0-018.sha.e5c6e0c"
+        ],
+        "licenseListVersion": "3.25.0"
+    },
+    "name": "Unnamed document",
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": "This component is normally licensed under a proprietary license agreement with \na supplier that has terms and conditions that restrict the use of the code, \nbut may not require payment to the supplier.",
+            "licenseId": "LicenseRef-scancode-proprietary-license"
+        }
+    ],
+    "documentNamespace": "spdx://6870e8ae-3f45-47c4-8b44-915c4331f52e",
+    "documentDescribes": [
+        "SPDXRef-Project-PIP-django-schedule-0.5b"
+    ],
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Project-PIP-django-schedule-0.5b",
+            "copyrightText": "(c) b.values\nCopyright (c) 2006 Brandon Aaron (http://brandonaaron.net)\nCopyright (c) 2006 Sam Collett (http://www.texotela.co.uk)\nCopyright (c) 2007 James Tauber\nCopyright (c) 2008 Tony Hauber\nCopyright (c) 2009 AUTHORS.txt (http://jqueryui.com/about)\nCopyright (c) 2009 John Resig\nCopyright 2009 The Dojo Foundation",
+            "downloadLocation": "NONE",
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/thauber/django-schedule/tree/master",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "BSD-3-Clause AND NOASSERTION",
+            "name": "django-schedule",
+            "summary": "NONE",
+            "versionInfo": "0.5b"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-python-dateutil-2.9.0.post0",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a8b2bc7bffae282281c8140a97d3aa9c14da0b136dfe83f850eea9a5f7470427"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2003-2011 Gustavo Niemeyer <gustavo@niemeyer.net>\nCopyright (c) 2012-2014 Tomi Pievilainen <tomi.pievilainen@iki.fi>\nCopyright (c) 2014-2016 Yaron de Leeuw <me@jarondl.net>\nCopyright (c) 2015 Paul Ganssle <paul@ganssle.io>\nCopyright (c) 2015 dateutil contributors\nCopyright 2017 Paul Ganssle <paul@ganssle.io>\nCopyright 2017 dateutil contributors\ncopyright 2019 dateutil",
+            "downloadLocation": "https://files.pythonhosted.org/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/python-dateutil@2.9.0.post0"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/dateutil/dateutil",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "Apache-2.0 AND NOASSERTION",
+            "name": "python-dateutil",
+            "summary": "Extensions to the standard Python datetime module",
+            "versionInfo": "2.9.0.post0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-python-dateutil-2.9.0.post0-vcs",
+            "copyrightText": "Copyright (c) 2003-2011 Gustavo Niemeyer <gustavo@niemeyer.net>\nCopyright (c) 2012-2014 Tomi Pievilainen <tomi.pievilainen@iki.fi>\nCopyright (c) 2014-2016 Yaron de Leeuw <me@jarondl.net>\nCopyright (c) 2015 Paul Ganssle <paul@ganssle.io>\nCopyright (c) 2015 dateutil contributors\nCopyright 2017 Paul Ganssle <paul@ganssle.io>\nCopyright 2017 dateutil contributors\ncopyright 2019 dateutil",
+            "downloadLocation": "git+https://github.com/dateutil/dateutil.git@1ae807774053c071acc9e7d3d27778fba0a7773e",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/python-dateutil@2.9.0.post0"
+                }
+            ],
+            "filesAnalyzed": true,
+            "hasFiles": [
+                "SPDXRef-File-1",
+                "SPDXRef-File-2",
+                "SPDXRef-File-3",
+                "SPDXRef-File-4",
+                "SPDXRef-File-5",
+                "SPDXRef-File-6",
+                "SPDXRef-File-7"
+            ],
+            "homepage": "https://github.com/dateutil/dateutil",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "Apache-2.0 AND NOASSERTION",
+            "licenseInfoFromFiles": [
+                "Apache-2.0",
+                "BSD-2-Clause",
+                "BSD-3-Clause",
+                "NOASSERTION",
+                "Python-2.0"
+            ],
+            "name": "python-dateutil",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "1e59bbf8b6e5f7a4d9b6f5b3dd85c8c33efe9ee0"
+            },
+            "summary": "Extensions to the standard Python datetime module",
+            "versionInfo": "2.9.0.post0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-python-dateutil-2.9.0.post0-source-artifact",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "37dd54208da7e1cd875388217d5e00ebd4179249f90fb72437e91a35459a0ad3"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2003-2011 Gustavo Niemeyer <gustavo@niemeyer.net>\nCopyright (c) 2012-2014 Tomi Pievilainen <tomi.pievilainen@iki.fi>\nCopyright (c) 2014-2016 Yaron de Leeuw <me@jarondl.net>\nCopyright (c) 2015 Paul Ganssle <paul@ganssle.io>\nCopyright (c) 2015 dateutil contributors\nCopyright 2017 Paul Ganssle <paul@ganssle.io>\nCopyright 2017 dateutil contributors\ncopyright 2019 dateutil",
+            "downloadLocation": "https://files.pythonhosted.org/packages/66/c0/0c8b6ad9f17a802ee498c46e004a0eb49bc148f2fd230864601a86dcf6db/python-dateutil-2.9.0.post0.tar.gz",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/python-dateutil@2.9.0.post0"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/dateutil/dateutil",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "Apache-2.0 AND NOASSERTION",
+            "name": "python-dateutil",
+            "summary": "Extensions to the standard Python datetime module",
+            "versionInfo": "2.9.0.post0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-pytz-2024.2",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "31c7c1817eb7fae7ca4b8c7ee50c72f93aa2dd863de768e1ef4245d426aa0725"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2003-2019 Stuart Bishop <stuart@stuartbishop.net>",
+            "downloadLocation": "https://files.pythonhosted.org/packages/11/c3/005fcca25ce078d2cc29fd559379817424e94885510568bc1bc53d7d5846/pytz-2024.2-py2.py3-none-any.whl",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/pytz@2024.2"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://pythonhosted.org/pytz",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "pytz",
+            "summary": "World timezone definitions, modern and historical",
+            "versionInfo": "2024.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-pytz-2024.2-source-artifact",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2aa355083c50a0f93fa581709deac0c9ad65cca8a9e9beac660adcbd493c798a"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2003-2019 Stuart Bishop <stuart@stuartbishop.net>",
+            "downloadLocation": "https://files.pythonhosted.org/packages/3a/31/3c70bf7603cc2dca0f19bdc53b4537a797747a58875b552c8c413d963a3f/pytz-2024.2.tar.gz",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/pytz@2024.2"
+                }
+            ],
+            "filesAnalyzed": true,
+            "hasFiles": [
+                "SPDXRef-File-8",
+                "SPDXRef-File-9",
+                "SPDXRef-File-10",
+                "SPDXRef-File-11",
+                "SPDXRef-File-12",
+                "SPDXRef-File-13",
+                "SPDXRef-File-14",
+                "SPDXRef-File-15",
+                "SPDXRef-File-16",
+                "SPDXRef-File-17",
+                "SPDXRef-File-18",
+                "SPDXRef-File-19"
+            ],
+            "homepage": "http://pythonhosted.org/pytz",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "MIT",
+            "licenseInfoFromFiles": [
+                "LicenseRef-scancode-public-domain",
+                "MIT",
+                "NOASSERTION",
+                "ZPL-2.1"
+            ],
+            "name": "pytz",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "42d71416c9b633f82dcc8a6aaed6af5ad91ec2df"
+            },
+            "summary": "World timezone definitions, modern and historical",
+            "versionInfo": "2024.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-setuptools-75.2.0",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a7fcb66f68b4d9e8e66b42f9876150a3371558f98fa32222ffaa5bced76406f8"
+                }
+            ],
+            "copyrightText": "Copyright (c) 1991-1995 Stichting Mathematisch Centrum Amsterdam, The Netherlands\nCopyright (c) 1995-2001 Corporation for National Research Initiatives\nCopyright (c) 2001-2023 Python Software Foundation\nCopyright (c) 2002 Lars Gustaebel <lars@gustaebel.de>\nCopyright (c) 2007 Free Software Foundation, Inc. <https://fsf.org/>\nCopyright (c) 2010 Paul Dyson\nCopyright (c) 2012 Daniel Holth <dholth@fastmail.fm> and contributors\nCopyright (c) 2012 Erik Rose\nCopyright (c) 2018 Michal Horejsek\nCopyright (c) 2018 jaraco.path.build(basic, prefix root)\nCopyright (c) 2021 Taneli Hukkinen\nCopyright (c) Alex Gronholm\nCopyright (c) Anderson Bravalheri\nCopyright (c) Donald Stufft and individual contributors\nCopyright 2014-2015 Nathan West\nCopyright 2014-2016 Nathan West\nCopyright 2021 Taneli Hukkinen",
+            "downloadLocation": "https://files.pythonhosted.org/packages/31/2d/90165d51ecd38f9a02c6832198c13a4e48652485e2ccf863ebb942c531b6/setuptools-75.2.0-py3-none-any.whl",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/setuptools@75.2.0"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "setuptools",
+            "summary": "Easily download, build, install, upgrade, and uninstall Python packages",
+            "versionInfo": "75.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-setuptools-75.2.0-vcs",
+            "copyrightText": "Copyright (c) 1991-1995 Stichting Mathematisch Centrum Amsterdam, The Netherlands\nCopyright (c) 1995-2001 Corporation for National Research Initiatives\nCopyright (c) 2001-2023 Python Software Foundation\nCopyright (c) 2002 Lars Gustaebel <lars@gustaebel.de>\nCopyright (c) 2007 Free Software Foundation, Inc. <https://fsf.org/>\nCopyright (c) 2010 Paul Dyson\nCopyright (c) 2012 Daniel Holth <dholth@fastmail.fm> and contributors\nCopyright (c) 2012 Erik Rose\nCopyright (c) 2018 Michal Horejsek\nCopyright (c) 2018 jaraco.path.build(basic, prefix root)\nCopyright (c) 2021 Taneli Hukkinen\nCopyright (c) Alex Gronholm\nCopyright (c) Anderson Bravalheri\nCopyright (c) Donald Stufft and individual contributors\nCopyright 2014-2015 Nathan West\nCopyright 2014-2016 Nathan West\nCopyright 2021 Taneli Hukkinen",
+            "downloadLocation": "git+https://github.com/pypa/setuptools.git@61a5a03fbf8acc59e6e12144011aa06b85162bda",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/setuptools@75.2.0"
+                }
+            ],
+            "filesAnalyzed": true,
+            "hasFiles": [
+                "SPDXRef-File-20",
+                "SPDXRef-File-21",
+                "SPDXRef-File-22",
+                "SPDXRef-File-23",
+                "SPDXRef-File-24",
+                "SPDXRef-File-25",
+                "SPDXRef-File-26",
+                "SPDXRef-File-27",
+                "SPDXRef-File-28",
+                "SPDXRef-File-29",
+                "SPDXRef-File-30",
+                "SPDXRef-File-31",
+                "SPDXRef-File-32",
+                "SPDXRef-File-33",
+                "SPDXRef-File-34",
+                "SPDXRef-File-35",
+                "SPDXRef-File-36",
+                "SPDXRef-File-37",
+                "SPDXRef-File-38",
+                "SPDXRef-File-39",
+                "SPDXRef-File-40",
+                "SPDXRef-File-41",
+                "SPDXRef-File-42",
+                "SPDXRef-File-43",
+                "SPDXRef-File-44",
+                "SPDXRef-File-45",
+                "SPDXRef-File-46",
+                "SPDXRef-File-47",
+                "SPDXRef-File-48",
+                "SPDXRef-File-49",
+                "SPDXRef-File-50",
+                "SPDXRef-File-51",
+                "SPDXRef-File-52",
+                "SPDXRef-File-53",
+                "SPDXRef-File-54",
+                "SPDXRef-File-55",
+                "SPDXRef-File-56",
+                "SPDXRef-File-57",
+                "SPDXRef-File-58",
+                "SPDXRef-File-59",
+                "SPDXRef-File-60",
+                "SPDXRef-File-61",
+                "SPDXRef-File-62",
+                "SPDXRef-File-63",
+                "SPDXRef-File-64",
+                "SPDXRef-File-65",
+                "SPDXRef-File-66",
+                "SPDXRef-File-67",
+                "SPDXRef-File-68",
+                "SPDXRef-File-69",
+                "SPDXRef-File-70",
+                "SPDXRef-File-71",
+                "SPDXRef-File-72",
+                "SPDXRef-File-73",
+                "SPDXRef-File-74",
+                "SPDXRef-File-75",
+                "SPDXRef-File-76",
+                "SPDXRef-File-77",
+                "SPDXRef-File-78",
+                "SPDXRef-File-79",
+                "SPDXRef-File-80",
+                "SPDXRef-File-81",
+                "SPDXRef-File-82",
+                "SPDXRef-File-83",
+                "SPDXRef-File-84",
+                "SPDXRef-File-85",
+                "SPDXRef-File-86",
+                "SPDXRef-File-87",
+                "SPDXRef-File-88",
+                "SPDXRef-File-89",
+                "SPDXRef-File-90",
+                "SPDXRef-File-91",
+                "SPDXRef-File-92",
+                "SPDXRef-File-93",
+                "SPDXRef-File-94",
+                "SPDXRef-File-95",
+                "SPDXRef-File-96",
+                "SPDXRef-File-97",
+                "SPDXRef-File-98",
+                "SPDXRef-File-99",
+                "SPDXRef-File-100",
+                "SPDXRef-File-101",
+                "SPDXRef-File-102",
+                "SPDXRef-File-103"
+            ],
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "MIT",
+            "licenseInfoFromFiles": [
+                "0BSD",
+                "Apache-2.0",
+                "BSD-2-Clause",
+                "BSD-3-Clause",
+                "CC-BY-NC-ND-3.0",
+                "GPL-3.0-only",
+                "LGPL-2.1-or-later",
+                "LGPL-3.0-only",
+                "LGPL-3.0-or-later",
+                "LicenseRef-scancode-proprietary-license",
+                "MIT",
+                "MPL-2.0",
+                "NOASSERTION",
+                "Python-2.0"
+            ],
+            "name": "setuptools",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "871950342a26aa85cf1fdd04160f0fc8c39a76da"
+            },
+            "summary": "Easily download, build, install, upgrade, and uninstall Python packages",
+            "versionInfo": "75.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-setuptools-75.2.0-source-artifact",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "753bb6ebf1f465a1912e19ed1d41f403a79173a9acf66a42e7e6aec45c3c16ec"
+                }
+            ],
+            "copyrightText": "Copyright (c) 1991-1995 Stichting Mathematisch Centrum Amsterdam, The Netherlands\nCopyright (c) 1995-2001 Corporation for National Research Initiatives\nCopyright (c) 2001-2023 Python Software Foundation\nCopyright (c) 2002 Lars Gustaebel <lars@gustaebel.de>\nCopyright (c) 2007 Free Software Foundation, Inc. <https://fsf.org/>\nCopyright (c) 2010 Paul Dyson\nCopyright (c) 2012 Daniel Holth <dholth@fastmail.fm> and contributors\nCopyright (c) 2012 Erik Rose\nCopyright (c) 2018 Michal Horejsek\nCopyright (c) 2018 jaraco.path.build(basic, prefix root)\nCopyright (c) 2021 Taneli Hukkinen\nCopyright (c) Alex Gronholm\nCopyright (c) Anderson Bravalheri\nCopyright (c) Donald Stufft and individual contributors\nCopyright 2014-2015 Nathan West\nCopyright 2014-2016 Nathan West\nCopyright 2021 Taneli Hukkinen",
+            "downloadLocation": "https://files.pythonhosted.org/packages/07/37/b31be7e4b9f13b59cde9dcaeff112d401d49e0dc5b37ed4a9fc8fb12f409/setuptools-75.2.0.tar.gz",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/setuptools@75.2.0"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "setuptools",
+            "summary": "Easily download, build, install, upgrade, and uninstall Python packages",
+            "versionInfo": "75.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-six-1.16.0",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2010-2020 Benjamin Peterson",
+            "downloadLocation": "https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/six@1.16.0"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/benjaminp/six",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "six",
+            "summary": "Python 2 and 3 compatibility utilities",
+            "versionInfo": "1.16.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-six-1.16.0-vcs",
+            "copyrightText": "Copyright (c) 2010-2020 Benjamin Peterson",
+            "downloadLocation": "git+https://github.com/benjaminp/six.git@65486e4383f9f411da95937451205d3c7b61b9e1",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/six@1.16.0"
+                }
+            ],
+            "filesAnalyzed": true,
+            "hasFiles": [
+                "SPDXRef-File-104",
+                "SPDXRef-File-105",
+                "SPDXRef-File-106",
+                "SPDXRef-File-107",
+                "SPDXRef-File-108",
+                "SPDXRef-File-109"
+            ],
+            "homepage": "https://github.com/benjaminp/six",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "MIT",
+            "licenseInfoFromFiles": [
+                "MIT",
+                "NOASSERTION"
+            ],
+            "name": "six",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "9b911c27837bb8b70d8386ceb136ef8a40646387"
+            },
+            "summary": "Python 2 and 3 compatibility utilities",
+            "versionInfo": "1.16.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-six-1.16.0-source-artifact",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2010-2020 Benjamin Peterson",
+            "downloadLocation": "https://files.pythonhosted.org/packages/71/39/171f1c67cd00715f190ba0b100d606d440a28c93c7714febeca8b79af85e/six-1.16.0.tar.gz",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/six@1.16.0"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/benjaminp/six",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "six",
+            "summary": "Python 2 and 3 compatibility utilities",
+            "versionInfo": "1.16.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-vobject-0.9.8",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e6d8369b84462ddacef467fa667f25ba1e5f732d28f43f36fbd0079b2f8cb3b3"
+                }
+            ],
+            "copyrightText": "NONE",
+            "downloadLocation": "https://files.pythonhosted.org/packages/e7/45/753c8b2c61b1bd14b19cac128f686d2d046557769bb850e3a4598fae9bdd/vobject-0.9.8-py2.py3-none-any.whl",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/vobject@0.9.8"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "vobject",
+            "summary": "A full-featured Python package for parsing and creating iCalendar and vCard files",
+            "versionInfo": "0.9.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-PyPI-vobject-0.9.8-source-artifact",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "db00a7f4db49397155dd8a6871e8a2a0175a6eba5a654c30e910f82b29514b58"
+                }
+            ],
+            "copyrightText": "NONE",
+            "downloadLocation": "https://files.pythonhosted.org/packages/47/06/c477d9a8b75471243f2b4eeef39cb639a1cf978990c11e9e56359ab01c82/vobject-0.9.8.tar.gz",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/vobject@0.9.8"
+                }
+            ],
+            "filesAnalyzed": true,
+            "hasFiles": [
+                "SPDXRef-File-110",
+                "SPDXRef-File-111",
+                "SPDXRef-File-112",
+                "SPDXRef-File-113",
+                "SPDXRef-File-114",
+                "SPDXRef-File-115",
+                "SPDXRef-File-116"
+            ],
+            "homepage": "NONE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "licenseInfoFromFiles": [
+                "Apache-2.0",
+                "NOASSERTION"
+            ],
+            "name": "vobject",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "662518fad8abf46c8b1828893e3b0ddfab06b207"
+            },
+            "summary": "A full-featured Python package for parsing and creating iCalendar and vCard files",
+            "versionInfo": "0.9.8"
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-File-1",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "514183c9ffaa7bccb807c07fa4b9772064e81151"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "AUTHORS.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "NOASSERTION",
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-2",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c5a17e5f491b23738456e67cc9a74cfcb8b0727d"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "CONTRIBUTING.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "Apache-2.0",
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-3",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f3b34c666d9f93071f6dbeeea6f8daefc2258e90"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2003-2011 - Gustavo Niemeyer <gustavo@niemeyer.net>\nCopyright (c) 2012-2014 - Tomi Pievilainen <tomi.pievilainen@iki.fi>\nCopyright (c) 2014-2016 - Yaron de Leeuw <me@jarondl.net>\nCopyright (c) 2015- - Paul Ganssle <paul@ganssle.io>\nCopyright (c) 2015- - dateutil contributors\nCopyright 2017- Paul Ganssle <paul@ganssle.io>\nCopyright 2017- dateutil contributors",
+            "fileName": "LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-4",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "93cdb0d8d79805caa4410fa5e346c6c37ad5a160"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "NEWS",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "NOASSERTION",
+                "Apache-2.0",
+                "BSD-2-Clause",
+                "Python-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-5",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "938c6e291d3501cdd0d50136395be16c6428ee6a"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "README.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "BSD-3-Clause",
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-6",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dcfbe9b5169429eb5e6e8287afb4849f5e7196de"
+                }
+            ],
+            "copyrightText": "copyright 2019, dateutil",
+            "fileName": "docs/conf.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NONE"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-7",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b5f6e2549956693fc9e8c7f09aa5ee32243f91c8"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setup.cfg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "BSD-3-Clause",
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-8",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a2641684130f5e32505fdc2a92ad836f0a13200a"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2003-2019 Stuart Bishop <stuart@stuartbishop.net>",
+            "fileName": "pytz-2024.2/LICENSE.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-9",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b270d4a0d8e9d9961b2ba96e947cb734ed68c778"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "pytz-2024.2/PKG-INFO",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT",
+                "NOASSERTION",
+                "ZPL-2.1"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-10",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b20bf7d8bf2ec1dd3742d827f6db5ce45a492b16"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "pytz-2024.2/README.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT",
+                "ZPL-2.1"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-11",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b270d4a0d8e9d9961b2ba96e947cb734ed68c778"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "pytz-2024.2/pytz.egg-info/PKG-INFO",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION",
+                "ZPL-2.1",
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-12",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8f7821bdaf1b0eaee43f7807f84323b14f096846"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "pytz-2024.2/pytz/zoneinfo/iso3166.tab",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-scancode-public-domain"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-13",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "334988f8e5c6135b8d896941f1c46d4c4f1d5991"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "pytz-2024.2/pytz/zoneinfo/leapseconds",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-scancode-public-domain"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-14",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9344ed6788be17356ebe227e1e143eeac7938752"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "pytz-2024.2/pytz/zoneinfo/tzdata.zi",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-scancode-public-domain"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-15",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "010c69ea33365af5e680c38031b4a2cb3a0150ce"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "pytz-2024.2/pytz/zoneinfo/zone.tab",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-scancode-public-domain"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-16",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1eff1a8043ad0dd1eaa78b516281851b992fe046"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "pytz-2024.2/pytz/zoneinfo/zone1970.tab",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-scancode-public-domain"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-17",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3504e9c50b41e846d80f8d149e86a0cbaa5111c1"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "pytz-2024.2/pytz/zoneinfo/zonenow.tab",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-scancode-public-domain"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-18",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1186ce58d9c50a2a702101555a309ea393507ed7"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "pytz-2024.2/setup.cfg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT",
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-19",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b7c54444c98989ef36fa0a8e0df79cfc2a163e5e"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "pytz-2024.2/setup.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-20",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0445ed0f69910eeaee036f09a39a13c6e1f37e12"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-21",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5661d74b104d8646393cf37b1b1c38ac981f8956"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "NEWS.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-22",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4090c3c71b209ef9baf368793ed3d43997ff9ed0"
+                }
+            ],
+            "copyrightText": "Copyright (c) Anderson Bravalheri",
+            "fileName": "docs/artwork.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT",
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-23",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5ea7bf11f03741bce056c29bb0542343b9bda766"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "docs/deprecated/distutils/setupscript.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Python-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-24",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "717e1bee8172c9437e05c23304c8dfc7b303ac98"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "docs/references/keywords.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION",
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-25",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5374b6d9b78dd623c9983b2e1f24c0df9f739f4c"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "docs/userguide/declarative_config.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "MIT",
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-26",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "04d74b9d3ebfbbfadaeadf3e9a4d7f150fb59308"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "docs/userguide/pyproject_config.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-27",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "add4fe6793d0339edfff56793d55b0aa2e83cbd3"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "docs/userguide/quickstart.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT AND BSD-3-Clause",
+                "GPL-3.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-28",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e582282ddf7da4bbfd50c86e1bb87fec6bebfdad"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "pyproject.toml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-29",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2bc8926fdbb07db2af0a8e3ff7a3be545c8bdf6b"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2007 Free Software Foundation, Inc. <https://fsf.org/>",
+            "fileName": "setuptools/_vendor/autocommand-2.2.2.dist-info/LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LGPL-3.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-30",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4310db58f98c12b23286e5fa37f0e27abefb6a4a"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/autocommand-2.2.2.dist-info/METADATA",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LGPL-3.0-only",
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-31",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "344892855332594d3b5352eb75332364b075aa2d"
+                }
+            ],
+            "copyrightText": "Copyright 2014-2016 Nathan West",
+            "fileName": "setuptools/_vendor/autocommand/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-32",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "594fa5aa4fb0bcc2c3635127a2763f1b6d556c23"
+                }
+            ],
+            "copyrightText": "Copyright 2014-2015 Nathan West",
+            "fileName": "setuptools/_vendor/autocommand/autoasync.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-33",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ef0027a7ef11fe16dc87122333a1ea904776d2de"
+                }
+            ],
+            "copyrightText": "Copyright 2014-2015 Nathan West",
+            "fileName": "setuptools/_vendor/autocommand/autocommand.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LGPL-3.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-34",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "753c1e1006fcfbc4d6f9a062e597fb01f700c19a"
+                }
+            ],
+            "copyrightText": "Copyright 2014-2015 Nathan West",
+            "fileName": "setuptools/_vendor/autocommand/automain.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-35",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4138bd027a934dece22e6f16d1485c2be9ba7b62"
+                }
+            ],
+            "copyrightText": "Copyright 2014-2015 Nathan West",
+            "fileName": "setuptools/_vendor/autocommand/autoparse.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-36",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4429b4bc839cefeca67a9671beb88a0974af7a2a"
+                }
+            ],
+            "copyrightText": "Copyright 2014-2016 Nathan West",
+            "fileName": "setuptools/_vendor/autocommand/errors.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-37",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0445ed0f69910eeaee036f09a39a13c6e1f37e12"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/backports.tarfile-1.2.0.dist-info/LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-38",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3dd8d93cf7695d1c9d7574751ab5b0dee5dd7f9a"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/backports.tarfile-1.2.0.dist-info/METADATA",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT",
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-39",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "41bf201d004966bfef38ff822732d9aa8c7f7b31"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2002 Lars Gustaebel <lars@gustaebel.de>",
+            "fileName": "setuptools/_vendor/backports/tarfile/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-40",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2b8b815229aa8a61e483fb4ba0588b8b6c491890"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/importlib_metadata-8.0.0.dist-info/LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-41",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e8c830d8b0942300c7c87b3b8fd15ea1396e07bd"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/importlib_metadata-8.0.0.dist-info/METADATA",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION",
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-42",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2b8b815229aa8a61e483fb4ba0588b8b6c491890"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/importlib_resources-6.4.0.dist-info/LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-43",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7c9b0b50d0e667825dab09902ad8376a5f2945b6"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/importlib_resources-6.4.0.dist-info/METADATA",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-44",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0445ed0f69910eeaee036f09a39a13c6e1f37e12"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/inflect-7.3.1.dist-info/LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-45",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c37042adc0d1270485f4b8b5b9e085a274dc035b"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/inflect-7.3.1.dist-info/METADATA",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT",
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-46",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5801d14964c392466422b0bfee3ddaf356511c29"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2010 Paul Dyson",
+            "fileName": "setuptools/_vendor/inflect/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NONE"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-47",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0445ed0f69910eeaee036f09a39a13c6e1f37e12"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/jaraco.collections-5.1.0.dist-info/LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-48",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ac0db25aefd2679b4c3265e713d00f6155a94465"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/jaraco.collections-5.1.0.dist-info/METADATA",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION",
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-49",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0445ed0f69910eeaee036f09a39a13c6e1f37e12"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/jaraco.context-5.3.0.dist-info/LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-50",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ac9c92013b2f0fc65d741b32a9fe4b956dd6eb7d"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/jaraco.context-5.3.0.dist-info/METADATA",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT",
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-51",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0445ed0f69910eeaee036f09a39a13c6e1f37e12"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/jaraco.functools-4.0.1.dist-info/LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-52",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b7a18f079de22d10c4c318e54bd8c48177f91333"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/jaraco.functools-4.0.1.dist-info/METADATA",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION",
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-53",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0445ed0f69910eeaee036f09a39a13c6e1f37e12"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/jaraco.text-3.12.1.dist-info/LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-54",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a7763789fa56cebbaa849368faac7d386f170399"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/jaraco.text-3.12.1.dist-info/METADATA",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT",
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-55",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0d43a836dac65c0ea426ad49c881a1086600bf85"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2012 Erik Rose",
+            "fileName": "setuptools/_vendor/more_itertools-10.3.0.dist-info/LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-56",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ffccec7fd799cc4ab07530954fef3be2472e2c23"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/more_itertools-10.3.0.dist-info/METADATA",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-57",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ed1fcaba1dbbf55113abb419a484f3df63e7ecfc"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/packaging-24.1.dist-info/LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "BSD-2-Clause",
+                "BSD-3-Clause OR Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-58",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "598f87f072f66e2269dd6919292b2934dbb20492"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/packaging-24.1.dist-info/LICENSE.APACHE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-59",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fdc0e4eabc45522b079deff7d03d70528d775dc0"
+                }
+            ],
+            "copyrightText": "Copyright (c) Donald Stufft and individual contributors",
+            "fileName": "setuptools/_vendor/packaging-24.1.dist-info/LICENSE.BSD",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-60",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f99865b8d3b90ad64a0060f7f2f4c6e4faeb0a39"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/packaging-24.1.dist-info/METADATA",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-61",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e7ee66942f7321fb77888d492d57c2eeea1a5171"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/packaging-24.1.dist-info/RECORD",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-62",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "baeccb3b4680b841ab1237ee33d8a642696d189c"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/packaging/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause OR Apache-2.0",
+                "BSD-3-Clause OR Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-63",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fe0c3747cf14e696276cb6806c6775503de002b8"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/packaging/_structures.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause OR Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-64",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "829a5f3e14e580f5dbf839085abd327208c60b33"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/packaging/markers.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause OR Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-65",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1c36b3e629a0f04f56cfcd9854e23639f2c6a639"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/packaging/requirements.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause OR Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-66",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e4983841c9f55760b089e4e9007d0fa79d9832a4"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/packaging/specifiers.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause OR Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-67",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c29c6b915c9be32a0f893ef4343e6b351728950f"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/packaging/tags.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause OR Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-68",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0533992add587aa77eef203b9dcb644f527b2db4"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/packaging/utils.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause OR Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-69",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ce8e5ab50626649b7e74daf88387c9b96514fcdd"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/packaging/version.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause OR Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-70",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1ac8a3679afcfeec0ba00851f5f8095dd1b060cd"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/platformdirs-4.2.2.dist-info/METADATA",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT",
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-71",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f511a8a63af8c6e36004b593478436bbc560ee0c"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/platformdirs-4.2.2.dist-info/licenses/LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-72",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9da6ca26337a886fb3e8d30efd4aeda623dc9ade"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2021 Taneli Hukkinen",
+            "fileName": "setuptools/_vendor/tomli-2.0.1.dist-info/LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-73",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d3ea3bda227794ae35fe7ffc5bd6e5fa2a5ef250"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/tomli-2.0.1.dist-info/METADATA",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-74",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "74c49fb12ed49ef70739f0f9ababcd0cd7346fb9"
+                }
+            ],
+            "copyrightText": "Copyright 2021 Taneli Hukkinen",
+            "fileName": "setuptools/_vendor/tomli/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Python-2.0",
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-75",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c21682d8065b4c6319654107c4d1691000551a96"
+                }
+            ],
+            "copyrightText": "Copyright 2021 Taneli Hukkinen",
+            "fileName": "setuptools/_vendor/tomli/_parser.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Python-2.0",
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-76",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "41d8d0205ae11da5308581e62df6da123be415ed"
+                }
+            ],
+            "copyrightText": "Copyright 2021 Taneli Hukkinen",
+            "fileName": "setuptools/_vendor/tomli/_re.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT",
+                "Python-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-77",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6dc6337d888edea5138a094e517be6c0e4bd09f4"
+                }
+            ],
+            "copyrightText": "Copyright 2021 Taneli Hukkinen",
+            "fileName": "setuptools/_vendor/tomli/_types.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Python-2.0",
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-78",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a51ccdcb7a9d8c2116d1dfc16f11b3c8a5830f67"
+                }
+            ],
+            "copyrightText": "Copyright (c) Alex Gronholm",
+            "fileName": "setuptools/_vendor/typeguard-4.3.0.dist-info/LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-79",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9a94672ccfea06156a5f8a321cd0626cfd233ae8"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/typeguard-4.3.0.dist-info/METADATA",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT",
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-80",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c6e195f9aa30cc9b675d1612ca4fb7f74111bd35"
+                }
+            ],
+            "copyrightText": "Copyright (c) 1991 - 1995, Stichting Mathematisch Centrum Amsterdam, The Netherlands\nCopyright (c) 1995-2001 Corporation for National Research Initiatives\nCopyright (c) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023 Python Software Foundation",
+            "fileName": "setuptools/_vendor/typing_extensions-4.12.2.dist-info/LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Python-2.0",
+                "BSD-3-Clause",
+                "0BSD",
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-81",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b6ada54b9516d20b69a5dd5cded868da22c5e252"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/typing_extensions-4.12.2.dist-info/METADATA",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Python-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-82",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5b39c45a91a556e5f1599604f1799e4027fa0e60"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2012 Daniel Holth <dholth@fastmail.fm> and contributors",
+            "fileName": "setuptools/_vendor/wheel-0.43.0.dist-info/LICENSE.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-83",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7ceb6dbe498b69abf4087637c6f500742ff7e2b4"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/wheel-0.43.0.dist-info/METADATA",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-84",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fe0c3747cf14e696276cb6806c6775503de002b8"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/wheel/vendored/packaging/_structures.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause OR Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-85",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bcbf9f914c03309d2e07d05b0e4d277d13b11411"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/wheel/vendored/packaging/markers.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause OR Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-86",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fdea96ee084c035525face93abe03e82d55a8f8e"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/wheel/vendored/packaging/requirements.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause OR Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-87",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dcbbddd7b97bcbeefa4e78ad4654cd4c7c2c1c1a"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/wheel/vendored/packaging/specifiers.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause OR Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-88",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d0e8626cb65a650cf790493be9981f427eec05c7"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/wheel/vendored/packaging/tags.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause OR Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-89",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "832a86edb71c6c5e128f0a4172fd063de7858e71"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/wheel/vendored/packaging/utils.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause OR Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-90",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9e48a008c94d48159224be4714f5f49414873153"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/wheel/vendored/packaging/version.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause OR Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-91",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0445ed0f69910eeaee036f09a39a13c6e1f37e12"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/zipp-3.19.2.dist-info/LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-92",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c53b0e6a2e3d94093e2fe4978926a7439b47d43c"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/_vendor/zipp-3.19.2.dist-info/METADATA",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION",
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-93",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "478045c080add2a3b53c7fecb231aa1af25975e4"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/config/NOTICE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MPL-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-94",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "58363f2738ab15d13d3cbe49a46d056e8f8186cf"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/config/_apply_pyprojecttoml.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION",
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-95",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3be8c90e01c5b03ec8a6816f1aa47e11894ec399"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2018, Michal Horejsek",
+            "fileName": "setuptools/config/_validate_pyproject/NOTICE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "MPL-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-96",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b9bc371e08a177f8f1620f2cd9b1c7d3666eed80"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/tests/config/test_apply_pyprojecttoml.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Apache-2.0 AND CC-BY-NC-ND-3.0 AND NOASSERTION AND LicenseRef-scancode-proprietary-license",
+                "NOASSERTION",
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-97",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d15f4137ad2fda29f4e9db148db7bc4d15461496"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/tests/config/test_setupcfg.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-98",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6fd26f294da77ef40181f54971f43240a9ac190c"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/tests/test_bdist_wheel.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION",
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-99",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3de8dc5d5b25b33fb4407dd5bae02124818c2962"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/tests/test_build_meta.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT",
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-100",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "910b704933f4d1c2b545d8ac43796ca6a748a20c"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2018 jaraco.path.build(basic, prefix root)",
+            "fileName": "setuptools/tests/test_config_discovery.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NONE"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-101",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "83cd62a99c075418dd0d7af7f032262187cd69c2"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/tests/test_core_metadata.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-102",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "04a649655ed3c9f5e94959f0e8647ac324efb50e"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/tests/test_editable_install.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT",
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-103",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e9a1efe086cb93f3d5eff9864e706d472672bfdc"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setuptools/tests/test_egg_info.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION",
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-104",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ac6ba16d8833b691bbbda7c8eb0c06891c78f98f"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2010-2020 Benjamin Peterson",
+            "fileName": "LICENSE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-105",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5c1c9e72d83181d5eea26e2ad4285c269d3b9278"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "README.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-106",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5c759abf4499e8df644c0f10e567979e83e3ac5b"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "setup.cfg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION",
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-107",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5068daf66c03b79c307a75034564c769a22d573f"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2010-2020 Benjamin Peterson",
+            "fileName": "setup.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-108",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d2b72496fefbd26201ecc94881e42bb0ac6e3374"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2010-2020 Benjamin Peterson",
+            "fileName": "six.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-109",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "25b4bc65939d2c0969409fecfc7cb817e960fd22"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2010-2020 Benjamin Peterson",
+            "fileName": "test_six.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-110",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2b8b815229aa8a61e483fb4ba0588b8b6c491890"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "vobject-0.9.8/LICENSE-2.0.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-111",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3e1cd371476beed7ad571dc354c1f4ce0ce43bd4"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "vobject-0.9.8/MANIFEST.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-112",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "436bc34bd281ffc568b019b0c690b226ed3e2d38"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "vobject-0.9.8/PKG-INFO",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-113",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fb98a083c9e71697771356ee715e2a6a5ebed294"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "vobject-0.9.8/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-114",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "54aaa3809051ce335dd9cac29131940eafb74a9c"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "vobject-0.9.8/setup.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-115",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "436bc34bd281ffc568b019b0c690b226ed3e2d38"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "vobject-0.9.8/vobject.egg-info/PKG-INFO",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-File-116",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dfcec64de61b564efd51092690d497cc1fb3e91f"
+                }
+            ],
+            "copyrightText": "NONE",
+            "fileName": "vobject-0.9.8/vobject.egg-info/SOURCES.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-python-dateutil-2.9.0.post0",
+            "relationshipType": "GENERATED_FROM",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-python-dateutil-2.9.0.post0-source-artifact"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-python-dateutil-2.9.0.post0",
+            "relationshipType": "GENERATED_FROM",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-python-dateutil-2.9.0.post0-vcs"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-python-dateutil-2.9.0.post0",
+            "relationshipType": "DEPENDS_ON",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-six-1.16.0"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-pytz-2024.2",
+            "relationshipType": "GENERATED_FROM",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-pytz-2024.2-source-artifact"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-setuptools-75.2.0",
+            "relationshipType": "GENERATED_FROM",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-setuptools-75.2.0-source-artifact"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-setuptools-75.2.0",
+            "relationshipType": "GENERATED_FROM",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-setuptools-75.2.0-vcs"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-six-1.16.0",
+            "relationshipType": "GENERATED_FROM",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-six-1.16.0-source-artifact"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-six-1.16.0",
+            "relationshipType": "GENERATED_FROM",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-six-1.16.0-vcs"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-vobject-0.9.8",
+            "relationshipType": "DEPENDS_ON",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-python-dateutil-2.9.0.post0"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-vobject-0.9.8",
+            "relationshipType": "DEPENDS_ON",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-pytz-2024.2"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-vobject-0.9.8",
+            "relationshipType": "DEPENDS_ON",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-six-1.16.0"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-PyPI-vobject-0.9.8",
+            "relationshipType": "GENERATED_FROM",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-vobject-0.9.8-source-artifact"
+        },
+        {
+            "spdxElementId": "SPDXRef-Project-PIP-django-schedule-0.5b",
+            "relationshipType": "DEPENDS_ON",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-setuptools-75.2.0"
+        },
+        {
+            "spdxElementId": "SPDXRef-Project-PIP-django-schedule-0.5b",
+            "relationshipType": "DEPENDS_ON",
+            "relatedSpdxElement": "SPDXRef-Package-PyPI-vobject-0.9.8"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "logster",
+    "home_page": "https://github.com/etsy/logster",
+    "author": "Organization:Etsy, Inc.",
+    "version": "1.0.1",
+    "license": "",
+    "copyright": "Copyright 2013, Etsy, Inc.",
+    "packages": [
+        {
+            "name": "nose",
+            "license": "LGPL-2.0-only",
+            "home_page": "http://readthedocs.org/docs/nose/",
+            "author": "Jason Pellerin",
+            "version": ""
+        },
+        {
+            "name": "pygtail",
+            "license": "GPL-2.0-only",
+            "home_page": "http://github.com/bgreenlee/pygtail",
+            "author": "Brad Greenlee",
+            "version": ""
+        }
+    ]
+}

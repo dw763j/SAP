@@ -1,0 +1,24 @@
+{
+    "name": "gitosis",
+    "home_page": "https://github.com/res0nat0r/gitosis",
+    "author": "Organization:Free Software Foundation, Inc",
+    "version": "",
+    "license": "GPL-2.0",
+    "copyright": "Copyright (C) 1989, 1991 Free Software Foundation, Inc.",
+    "packages": [
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ""
+        },
+        {
+            "name": "nose",
+            "license": "LGPL-2.0",
+            "home_page": "http://readthedocs.org/docs/nose/",
+            "author": "Jason Pellerin",
+            "version": ""
+        }
+    ]
+}

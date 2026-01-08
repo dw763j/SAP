@@ -1,0 +1,80 @@
+{
+    "name": "firefly",
+    "home_page": "https://github.com/9miao/Firefly",
+    "author": "Person:9 miao moblie game",
+    "version": "",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2013 9 miao moblie game",
+    "packages": [
+        {
+            "name": "setuptools",
+            "license": "MIT",
+            "home_page": "https://github.com/pypa/setuptools",
+            "author": "Python Packaging Authority",
+            "version": ""
+        },
+        {
+            "name": "gtwisted",
+            "license": "MIT",
+            "home_page": "http://www.9miao.com/",
+            "author": "lanjinmin",
+            "version": ""
+        },
+        {
+            "name": "connection",
+            "license": "",
+            "home_page": "https://github.com/andrewp-as-is/connection.py",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "Flask",
+            "license": "BSD-4-Clause",
+            "home_page": "https://github.com/pallets/flask",
+            "author": "",
+            "version": ""
+        },
+        {
+            "name": "affinity",
+            "license": "",
+            "home_page": "http://cheeseshop.python.org/pypi/affinity",
+            "author": "Sidnei da Silva",
+            "version": ""
+        },
+        {
+            "name": "Zope",
+            "license": "ZPL-2.1",
+            "home_page": "https://zope.readthedocs.io/en/latest/",
+            "author": "Zope Foundation and Contributors",
+            "version": ""
+        },
+        {
+            "name": "thread",
+            "license": "BSD-3-Clause",
+            "home_page": "",
+            "author": "Alex",
+            "version": ""
+        },
+        {
+            "name": "memcache",
+            "license": "",
+            "home_page": "",
+            "author": "An Long",
+            "version": ""
+        },
+        {
+            "name": "dbpool",
+            "license": "MIT",
+            "home_page": "https://github.com/hungrybirder/dbpool-python",
+            "author": "liyong",
+            "version": ""
+        },
+        {
+            "name": "DBUtils",
+            "license": "MIT",
+            "home_page": "https://github.com/WebwareForPython/DBUtils",
+            "author": "",
+            "version": ""
+        }
+    ]
+}

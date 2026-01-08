@@ -7,6 +7,15 @@ from pathlib import Path
 import concurrent.futures
 from loguru import logger
 
+# NOTE: This scipt is used to clone the repositories from GitHub to the local machine. Which is needed for the generation process of new SBOMs.
+# Repositories cloned by this script are not compatible with the SAP codebase due to the different file structure.
+# But it can be easily adapted to the SAP codebase by modifying the input directory in each script from the generation process of new SBOMs.
+
+# If you want to reproduce the evaluation results of the paper, you can download the generated SBOMs from Zenodo(https://zenodo.org/records/14998624) and unzip them into the test-sbom-files directory.
+# Then you can run the following command to reproduce the evaluation results:
+# python test-run.py  # you need to modify the corresponding input directory and input metadata file path as in the "metadata-files" directory.
+# The results will be saved in the test-sbom-results directory.
+
 
 class RepoCloner:
     def __init__(self, output_dir="./repos", max_workers=5, timeout=300, proxy=None):

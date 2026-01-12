@@ -2,7 +2,7 @@
 
 🌟 News: Our paper has been accepted by the ACM Transactions on Software Engineering and Methodology (TOSEM)!
 
- [Paper](https://arxiv.org/abs/2601.xxxxx) | [Dataset](https://zenodo.org/records/14998624) | [Code](https://github.com/dw763j/SAP)
+ [ArXiv](https://arxiv.org/abs/2601.05622) | [Dataset](https://zenodo.org/records/14998624) | [Code](https://github.com/dw763j/SAP)
 
 This is the open source repository for our paper "A Large Scale Empirical Analysis on the Adherence Gap between Standards and Tools in SBOM".
 
@@ -90,14 +90,14 @@ The results in paper are as follows:
 
 #### Python
 
-| tool      | name    | supplier | purl   | license  | version | copyrightText | dependency relationship |
-| --------- | ------- | -------- | ------ | -------- | ------- | ------------- | ----------------------- |
-| syft      | 100.00% | 1.62%    | 42.64% | 0.95%    | 42.78%  | 0.00%         | 100.00%                 |
-| gh-sbom   | 100.00% | 0.00%    | 67.87% | 23.15%   | 100.00% | 0.00%         | 100.00%                 |
-| ort       | 100.00% | 0.00%    | 21.42% | 22.91%   | 67.49%  | 82.13%        | 24.40%                  |
-| sbom-tool | 100.00% | 62.06%   | 99.96% | 30.05%   | 99.96%  | 0.00%         | 100.00%                 |
-| scancode* | 50.86%  | 39.24%   | 50.86% | 50.86% | 31.40%  | 0.38%         | 100.00%                 |
-| cdxgen*   | 74.60%  | 23.18%   | 74.60% | 27.54%   | 74.60%  | 0.00%         | 100.00%                 |
+| tool      | name    | supplier | purl   | license | version | copyrightText | dependency relationship |
+| --------- | ------- | -------- | ------ | ------- | ------- | ------------- | ----------------------- |
+| syft      | 100.00% | 1.62%    | 42.64% | 0.95%   | 42.78%  | 0.00%         | 100.00%                 |
+| gh-sbom   | 100.00% | 0.00%    | 67.87% | 23.15%  | 100.00% | 0.00%         | 100.00%                 |
+| ort       | 100.00% | 0.00%    | 21.42% | 22.91%  | 67.49%  | 82.13%        | 24.40%                  |
+| sbom-tool | 100.00% | 62.06%   | 99.96% | 30.05%  | 99.96%  | 0.00%         | 100.00%                 |
+| scancode* | 50.86%  | 39.24%   | 50.86% | 50.86%  | 31.40%  | 0.38%         | 100.00%                 |
+| cdxgen*   | 74.60%  | 23.18%   | 74.60% | 27.54%  | 74.60%  | 0.00%         | 100.00%                 |
 
 ### Consistency
 
